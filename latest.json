@@ -1,0 +1,304 @@
+{
+  "trade_date": "2026-09-10",
+  "threshold_percent": 4.0,
+  "scanned": 743,
+  "moves": [
+    {
+      "symbol": "SHAKTIPUMP",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 7.57,
+      "close": 503.2,
+      "prev_close": 467.8,
+      "delivery_percent": 7.9
+    },
+    {
+      "symbol": "SWANCORP",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 7.38,
+      "close": 298.15,
+      "prev_close": 277.65,
+      "delivery_percent": 5.3
+    },
+    {
+      "symbol": "ACUTAAS",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 6.47,
+      "close": 3451.4,
+      "prev_close": 3241.8,
+      "delivery_percent": 34.28
+    },
+    {
+      "symbol": "WELCORP",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 6.46,
+      "close": 2776.9,
+      "prev_close": 2608.5,
+      "delivery_percent": 21.69
+    },
+    {
+      "symbol": "MAHSEAMLES",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 6.32,
+      "close": 718.95,
+      "prev_close": 676.2,
+      "delivery_percent": 33.14
+    },
+    {
+      "symbol": "NEOGEN",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.93,
+      "close": 2388.9,
+      "prev_close": 2255.2,
+      "delivery_percent": 37.59
+    },
+    {
+      "symbol": "VARROC",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.36,
+      "close": 884.4,
+      "prev_close": 839.4,
+      "delivery_percent": 27.28
+    },
+    {
+      "symbol": "ELLEN",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.2,
+      "close": 373.5,
+      "prev_close": 355.05,
+      "delivery_percent": 32.5
+    },
+    {
+      "symbol": "KEC",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.15,
+      "close": 413.45,
+      "prev_close": 393.2,
+      "delivery_percent": 26.53
+    },
+    {
+      "symbol": "SAMHI",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.1,
+      "close": 160.2,
+      "prev_close": 152.43,
+      "delivery_percent": 13.72
+    },
+    {
+      "symbol": "INOXINDIA",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.05,
+      "close": 2295.8,
+      "prev_close": 2185.5,
+      "delivery_percent": 25.47
+    },
+    {
+      "symbol": "EMIL",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.02,
+      "close": 191.82,
+      "prev_close": 182.65,
+      "delivery_percent": 33.86
+    },
+    {
+      "symbol": "ATHERENERG",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.96,
+      "close": 1658.3,
+      "prev_close": 1580.0,
+      "delivery_percent": 17.24
+    },
+    {
+      "symbol": "OLAELEC",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.93,
+      "close": 39.15,
+      "prev_close": 37.31,
+      "delivery_percent": 14.54
+    },
+    {
+      "symbol": "FINCABLES",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.8,
+      "close": 1418.4,
+      "prev_close": 1353.4,
+      "delivery_percent": 30.39
+    },
+    {
+      "symbol": "FORCEMOT",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.72,
+      "close": 18175.0,
+      "prev_close": 17355.0,
+      "delivery_percent": 31.31
+    },
+    {
+      "symbol": "HERITGFOOD",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.72,
+      "close": 398.05,
+      "prev_close": 380.1,
+      "delivery_percent": 35.98
+    },
+    {
+      "symbol": "PVRINOX",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.46,
+      "close": 1221.3,
+      "prev_close": 1169.2,
+      "delivery_percent": 36.91
+    },
+    {
+      "symbol": "PGIL",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.41,
+      "close": 2378.4,
+      "prev_close": 2277.9,
+      "delivery_percent": 36.33
+    },
+    {
+      "symbol": "IRB",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.4,
+      "close": 19.91,
+      "prev_close": 19.07,
+      "delivery_percent": 15.05
+    },
+    {
+      "symbol": "TSFINV",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.32,
+      "close": 441.15,
+      "prev_close": 422.9,
+      "delivery_percent": 44.26
+    },
+    {
+      "symbol": "THELEELA",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.27,
+      "close": 554.15,
+      "prev_close": 531.45,
+      "delivery_percent": 37.24
+    },
+    {
+      "symbol": "TATAINVEST",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.26,
+      "close": 645.15,
+      "prev_close": 618.8,
+      "delivery_percent": 5.38
+    },
+    {
+      "symbol": "EMMVEE",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.18,
+      "close": 342.65,
+      "prev_close": 328.9,
+      "delivery_percent": 36.76
+    },
+    {
+      "symbol": "URBANCO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.1,
+      "close": 164.56,
+      "prev_close": 171.59,
+      "delivery_percent": 35.06
+    },
+    {
+      "symbol": "IFCI",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.28,
+      "close": 85.15,
+      "prev_close": 88.96,
+      "delivery_percent": 15.25
+    },
+    {
+      "symbol": "LXCHEM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.44,
+      "close": 170.63,
+      "prev_close": 178.56,
+      "delivery_percent": 43.28
+    },
+    {
+      "symbol": "SMLMAH",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.44,
+      "close": 6278.0,
+      "prev_close": 6570.0,
+      "delivery_percent": 47.42
+    },
+    {
+      "symbol": "TEJASNET",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.53,
+      "close": 549.8,
+      "prev_close": 575.9,
+      "delivery_percent": 28.13
+    },
+    {
+      "symbol": "AFCONS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.85,
+      "close": 260.85,
+      "prev_close": 274.15,
+      "delivery_percent": 72.87
+    },
+    {
+      "symbol": "SUDEEPPHRM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.99,
+      "close": 1213.5,
+      "prev_close": 1277.3,
+      "delivery_percent": 47.29
+    },
+    {
+      "symbol": "SAILIFE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.03,
+      "close": 1591.1,
+      "prev_close": 1675.4,
+      "delivery_percent": 54.63
+    },
+    {
+      "symbol": "ZEEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.55,
+      "close": 80.95,
+      "prev_close": 85.71,
+      "delivery_percent": 32.35
+    }
+  ]
+}
