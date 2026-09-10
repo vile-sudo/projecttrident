@@ -1,9 +1,9 @@
-# NSE closing movers
+# Trident
 
 **https://vile-sudo.github.io/nse-screener-dashboard/**
 
-Stocks that closed at least 4% above or below the previous close, taken from
-NSE's daily security-wise bhavcopy. Rebuilt automatically every weekday morning.
+Closing moves of 4% or more on the NSE, and the delivery behind
+them, from NSE's daily security-wise bhavcopy. Rebuilt every weekday morning.
 
 Latest session: **2026-09-10**, 33 flagged of 743 scanned.
 

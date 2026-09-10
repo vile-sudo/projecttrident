@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>NSE movers &middot; 2026-09-10</title>
+<title>Trident &middot; 2026-09-10</title>
 <style>
 :root {
   color-scheme: light dark;
@@ -17,6 +17,10 @@
   --down: #c0342b;
   --down-bg: #fdecea;
   --accent: #2b5cd9;
+  --mark-a: #7ee0d3;
+  --mark-b: #3fb3a6;
+  --mark-ink: #0b3b36;
+  --highlight: #b0641c;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -30,6 +34,10 @@
     --down: #f87171;
     --down-bg: #351a19;
     --accent: #7ea2ff;
+    --mark-a: #86e6d8;
+    --mark-b: #3aa99d;
+    --mark-ink: #08302c;
+    --highlight: #e0a45c;
   }
 }
 * { box-sizing: border-box; }
@@ -41,9 +49,33 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .wrap { max-width: 960px; margin: 0 auto; padding: 20px 16px 56px; }
-header { margin-bottom: 20px; }
-h1 { font-size: 20px; margin: 0 0 4px; letter-spacing: -0.01em; }
-.sub { color: var(--muted); font-size: 13px; }
+header { margin-bottom: 18px; }
+.brand { display: flex; align-items: center; gap: 14px; }
+/* Without this the text column keeps its intrinsic width and overflows. */
+.brand > div:last-child { min-width: 0; }
+.mark {
+  flex: 0 0 auto;
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  background: linear-gradient(155deg, var(--mark-a), var(--mark-b));
+  color: var(--mark-ink);
+  display: grid; place-items: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.18);
+}
+.mark svg { width: 40px; height: 40px; display: block; }
+h1 {
+  font-size: 34px; font-weight: 800; margin: 0;
+  letter-spacing: -0.025em; line-height: 1.05;
+}
+.tagline { margin: 3px 0 0; font-size: 14px; color: var(--muted); }
+.tagline em { font-style: normal; color: var(--highlight); }
+.sub { color: var(--muted); font-size: 13px; margin-top: 12px; }
+@media (max-width: 480px) {
+  h1 { font-size: 28px; }
+  .mark { width: 44px; height: 44px; border-radius: 12px; }
+  .mark svg { width: 34px; height: 34px; }
+  .tagline { font-size: 13px; }
+}
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 18px 0 22px; }
 .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
 .card .n { font-size: 22px; font-weight: 620; font-variant-numeric: tabular-nums; }
@@ -78,9 +110,29 @@ footer code { background: var(--panel); border: 1px solid var(--border); border-
 <body>
 <div class="wrap">
 <header>
-  <h1>NSE closing movers</h1>
-  <div class="sub">Session of <strong>Thursday, 10 September 2026</strong> &middot;
-  closes at least 4% from the previous close</div>
+  <div class="brand">
+    <div class="mark"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+  <g fill="currentColor">
+    <path d="M32 2l4.2 16h-8.4z"/>
+    <path d="M17.5 4l3.4 11h-6.8z"/>
+    <path d="M46.5 4l3.4 11h-6.8z"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="4.2" stroke-linecap="round">
+    <path d="M32 26V17"/>
+    <path d="M32 26c-11.5 0-14.5-4-14.5-11.5"/>
+    <path d="M32 26c11.5 0 14.5-4 14.5-11.5"/>
+    <path d="M32 26v30"/>
+    <path d="M23.5 42h17"/>
+  </g>
+</svg></div>
+    <div>
+      <h1>Trident</h1>
+      <p class="tagline">Closing moves of 4% or more,
+      <em>and the delivery behind them</em></p>
+    </div>
+  </div>
+  <div class="sub">NSE session of <strong>Thursday, 10 September 2026</strong>,
+  measured against the previous close</div>
 </header>
 <div class="cards"><div class="card "><div class="n">33</div><div class="l">flagged</div></div><div class="card up"><div class="n">24</div><div class="l">up</div></div><div class="card down"><div class="n">9</div><div class="l">down</div></div><div class="card "><div class="n">743</div><div class="l">scanned</div></div></div>
 <h2>Gainers (24)</h2>
@@ -95,7 +147,7 @@ footer code { background: var(--panel); border: 1px solid var(--border); border-
 <tbody><tr><td class="sym">URBANCO</td><td><span class="chg down">-4.10%</span></td><td class="hide-sm"><div class="bar down"><i style="width:54.1%"></i></div></td><td class="num">164.56</td><td class="num hide-sm">171.59</td><td class="num">35.1%</td></tr><tr><td class="sym">IFCI</td><td><span class="chg down">-4.28%</span></td><td class="hide-sm"><div class="bar down"><i style="width:56.6%"></i></div></td><td class="num">85.15</td><td class="num hide-sm">88.96</td><td class="num">15.2%</td></tr><tr><td class="sym">LXCHEM</td><td><span class="chg down">-4.44%</span></td><td class="hide-sm"><div class="bar down"><i style="width:58.7%"></i></div></td><td class="num">170.63</td><td class="num hide-sm">178.56</td><td class="num">43.3%</td></tr><tr><td class="sym">SMLMAH</td><td><span class="chg down">-4.44%</span></td><td class="hide-sm"><div class="bar down"><i style="width:58.7%"></i></div></td><td class="num">6,278.00</td><td class="num hide-sm">6,570.00</td><td class="num">47.4%</td></tr><tr><td class="sym">TEJASNET</td><td><span class="chg down">-4.53%</span></td><td class="hide-sm"><div class="bar down"><i style="width:59.9%"></i></div></td><td class="num">549.80</td><td class="num hide-sm">575.90</td><td class="num">28.1%</td></tr><tr><td class="sym">AFCONS</td><td><span class="chg down">-4.85%</span></td><td class="hide-sm"><div class="bar down"><i style="width:64.1%"></i></div></td><td class="num">260.85</td><td class="num hide-sm">274.15</td><td class="num">72.9%</td></tr><tr><td class="sym">SUDEEPPHRM</td><td><span class="chg down">-4.99%</span></td><td class="hide-sm"><div class="bar down"><i style="width:66.0%"></i></div></td><td class="num">1,213.50</td><td class="num hide-sm">1,277.30</td><td class="num">47.3%</td></tr><tr><td class="sym">SAILIFE</td><td><span class="chg down">-5.03%</span></td><td class="hide-sm"><div class="bar down"><i style="width:66.5%"></i></div></td><td class="num">1,591.10</td><td class="num hide-sm">1,675.40</td><td class="num">54.6%</td></tr><tr><td class="sym">ZEEL</td><td><span class="chg down">-5.55%</span></td><td class="hide-sm"><div class="bar down"><i style="width:73.4%"></i></div></td><td class="num">80.95</td><td class="num hide-sm">85.71</td><td class="num">32.4%</td></tr></tbody>
 </table></div>
 <footer>
-  Generated 11 Sep 2026, 00:54 IST from NSE's security-wise bhavcopy.
+  Generated 11 Sep 2026, 01:02 IST from NSE's security-wise bhavcopy.
   Change is measured on <code>CLOSE_PRICE</code>, the settled closing price NSE carries
   forward as the next session's <code>PREV_CLOSE</code>, not the last traded price.
   Delivery percentage is the share of traded volume taken to demat rather than squared off intraday.
