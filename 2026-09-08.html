@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trident &middot; 2026-09-08</title>
+<style>
+:root {
+  color-scheme: light dark;
+  --bg: #f6f7f9;
+  --panel: #ffffff;
+  --border: #e3e6ea;
+  --ink: #14181d;
+  --muted: #667085;
+  --up: #0f7b45;
+  --up-bg: #e8f5ee;
+  --down: #c0342b;
+  --down-bg: #fdecea;
+  --accent: #2b5cd9;
+  --mark-a: #7ee0d3;
+  --mark-b: #3fb3a6;
+  --mark-ink: #0b3b36;
+  --highlight: #b0641c;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1216;
+    --panel: #171b21;
+    --border: #262c35;
+    --ink: #e8ebef;
+    --muted: #949eab;
+    --up: #4ade80;
+    --up-bg: #12301f;
+    --down: #f87171;
+    --down-bg: #351a19;
+    --accent: #7ea2ff;
+    --mark-a: #86e6d8;
+    --mark-b: #3aa99d;
+    --mark-ink: #08302c;
+    --highlight: #e0a45c;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+.wrap { max-width: 960px; margin: 0 auto; padding: 20px 16px 56px; }
+header { margin-bottom: 18px; }
+.brand { display: flex; align-items: center; gap: 14px; }
+/* Without this the text column keeps its intrinsic width and overflows. */
+.brand > div:last-child { min-width: 0; }
+.mark {
+  flex: 0 0 auto;
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  background: linear-gradient(155deg, var(--mark-a), var(--mark-b));
+  color: var(--mark-ink);
+  display: grid; place-items: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.18);
+}
+.mark svg { width: 40px; height: 40px; display: block; }
+h1 {
+  font-size: 34px; font-weight: 800; margin: 0;
+  letter-spacing: -0.025em; line-height: 1.05;
+}
+.tagline { margin: 3px 0 0; font-size: 14px; color: var(--muted); }
+.tagline em { font-style: normal; color: var(--highlight); }
+.daybar {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 8px 12px;
+  margin-top: 16px;
+}
+.daybar .label {
+  color: var(--muted); font-size: 11px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.09em;
+}
+.picker { position: relative; display: inline-flex; }
+.picker select {
+  appearance: none; -webkit-appearance: none;
+  font: inherit; font-weight: 700; font-size: 15px;
+  color: var(--ink); background: var(--panel);
+  border: 1.5px solid var(--mark-b); border-radius: 999px;
+  padding: 8px 38px 8px 16px;
+  cursor: pointer; max-width: 100%;
+}
+.picker select:focus-visible { outline: 2px solid var(--mark-b); outline-offset: 2px; }
+.picker svg {
+  position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+  width: 13px; height: 13px; pointer-events: none; color: var(--muted);
+}
+.updated { color: var(--muted); font-size: 13px; }
+.sub { color: var(--muted); font-size: 13px; margin-top: 12px; }
+@media (max-width: 480px) {
+  h1 { font-size: 28px; }
+  .mark { width: 44px; height: 44px; border-radius: 12px; }
+  .mark svg { width: 34px; height: 34px; }
+  .tagline { font-size: 13px; }
+}
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 18px 0 22px; }
+.card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+.card .n { font-size: 22px; font-weight: 620; font-variant-numeric: tabular-nums; }
+.card .l { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; margin-top: 2px; }
+.card.up .n { color: var(--up); }
+.card.down .n { color: var(--down); }
+h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 26px 0 10px; }
+.panel { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { padding: 10px 12px; text-align: right; white-space: nowrap; }
+th { color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid var(--border); }
+th:first-child, td:first-child { text-align: left; }
+tbody tr + tr td { border-top: 1px solid var(--border); }
+td.sym { font-weight: 600; }
+td.num { font-variant-numeric: tabular-nums; }
+.chg { display: inline-block; padding: 2px 8px; border-radius: 999px; font-variant-numeric: tabular-nums; font-weight: 600; }
+.chg.up { color: var(--up); background: var(--up-bg); }
+.chg.down { color: var(--down); background: var(--down-bg); }
+.bar { height: 4px; border-radius: 2px; background: var(--border); overflow: hidden; min-width: 44px; }
+.bar > i { display: block; height: 100%; }
+.bar.up > i { background: var(--up); }
+.bar.down > i { background: var(--down); }
+.empty { padding: 28px; text-align: center; color: var(--muted); }
+footer { margin-top: 28px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+footer code { background: var(--panel); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; }
+@media (max-width: 560px) {
+  .hide-sm { display: none; }
+  .wrap { padding: 16px 12px 40px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">
+    <div class="mark"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+  <g fill="currentColor">
+    <path d="M32 2l4.2 16h-8.4z"/>
+    <path d="M17.5 4l3.4 11h-6.8z"/>
+    <path d="M46.5 4l3.4 11h-6.8z"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="4.2" stroke-linecap="round">
+    <path d="M32 26V17"/>
+    <path d="M32 26c-11.5 0-14.5-4-14.5-11.5"/>
+    <path d="M32 26c11.5 0 14.5-4 14.5-11.5"/>
+    <path d="M32 26v30"/>
+    <path d="M23.5 42h17"/>
+  </g>
+</svg></div>
+    <div>
+      <h1>Trident</h1>
+      <p class="tagline">Closing moves of 4% or more,
+      <em>and the delivery behind them</em></p>
+    </div>
+  </div>
+  <div class="daybar">
+    <span class="label">Market day</span>
+    <span class="picker">
+      <select id="day" aria-label="Choose a market day"><option value="2026-09-10.html">Thursday, 10 September 2026</option><option value="2026-09-09.html">Wednesday, 9 September 2026</option><option value="2026-09-08.html" selected>Tuesday, 8 September 2026</option></select>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+           stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+    </span>
+    <span class="updated">Updated 11 Sep, 01:15 IST</span>
+  </div>
+</header>
+<div class="cards"><div class="card "><div class="n">33</div><div class="l">flagged</div></div><div class="card up"><div class="n">27</div><div class="l">up</div></div><div class="card down"><div class="n">6</div><div class="l">down</div></div><div class="card "><div class="n">743</div><div class="l">scanned</div></div></div>
+<h2>Gainers (27)</h2>
+<div class="panel"><table>
+<thead><tr><th>Symbol</th><th>Change</th><th class="hide-sm"></th><th>Close</th>
+<th class="hide-sm">Prev</th><th>Deliv</th></tr></thead>
+<tbody><tr><td class="sym">MIDHANI</td><td><span class="chg up">+13.60%</span></td><td class="hide-sm"><div class="bar up"><i style="width:100.0%"></i></div></td><td class="num">477.00</td><td class="num hide-sm">419.90</td><td class="num">9.9%</td></tr><tr><td class="sym">GVT&amp;D</td><td><span class="chg up">+8.77%</span></td><td class="hide-sm"><div class="bar up"><i style="width:64.5%"></i></div></td><td class="num">4,750.00</td><td class="num hide-sm">4,367.20</td><td class="num">24.3%</td></tr><tr><td class="sym">DATAPATTNS</td><td><span class="chg up">+7.44%</span></td><td class="hide-sm"><div class="bar up"><i style="width:54.7%"></i></div></td><td class="num">4,932.30</td><td class="num hide-sm">4,590.80</td><td class="num">26.2%</td></tr><tr><td class="sym">LXCHEM</td><td><span class="chg up">+7.29%</span></td><td class="hide-sm"><div class="bar up"><i style="width:53.6%"></i></div></td><td class="num">184.52</td><td class="num hide-sm">171.99</td><td class="num">35.3%</td></tr><tr><td class="sym">PVRINOX</td><td><span class="chg up">+6.47%</span></td><td class="hide-sm"><div class="bar up"><i style="width:47.6%"></i></div></td><td class="num">1,231.30</td><td class="num hide-sm">1,156.50</td><td class="num">20.5%</td></tr><tr><td class="sym">MANORAMA</td><td><span class="chg up">+6.45%</span></td><td class="hide-sm"><div class="bar up"><i style="width:47.4%"></i></div></td><td class="num">2,132.90</td><td class="num hide-sm">2,003.60</td><td class="num">31.6%</td></tr><tr><td class="sym">AVANTIFEED</td><td><span class="chg up">+6.43%</span></td><td class="hide-sm"><div class="bar up"><i style="width:47.3%"></i></div></td><td class="num">837.15</td><td class="num hide-sm">786.55</td><td class="num">24.8%</td></tr><tr><td class="sym">RUBICON</td><td><span class="chg up">+6.42%</span></td><td class="hide-sm"><div class="bar up"><i style="width:47.2%"></i></div></td><td class="num">1,860.60</td><td class="num hide-sm">1,748.40</td><td class="num">41.0%</td></tr><tr><td class="sym">FINCABLES</td><td><span class="chg up">+6.14%</span></td><td class="hide-sm"><div class="bar up"><i style="width:45.1%"></i></div></td><td class="num">1,302.30</td><td class="num hide-sm">1,227.00</td><td class="num">29.9%</td></tr><tr><td class="sym">CRIZAC</td><td><span class="chg up">+6.04%</span></td><td class="hide-sm"><div class="bar up"><i style="width:44.4%"></i></div></td><td class="num">171.94</td><td class="num hide-sm">162.15</td><td class="num">29.7%</td></tr><tr><td class="sym">RATNAMANI</td><td><span class="chg up">+5.47%</span></td><td class="hide-sm"><div class="bar up"><i style="width:40.2%"></i></div></td><td class="num">2,803.80</td><td class="num hide-sm">2,658.50</td><td class="num">38.5%</td></tr><tr><td class="sym">JAINREC</td><td><span class="chg up">+5.40%</span></td><td class="hide-sm"><div class="bar up"><i style="width:39.7%"></i></div></td><td class="num">296.55</td><td class="num hide-sm">281.35</td><td class="num">32.6%</td></tr><tr><td class="sym">SFL</td><td><span class="chg up">+5.17%</span></td><td class="hide-sm"><div class="bar up"><i style="width:38.0%"></i></div></td><td class="num">675.95</td><td class="num hide-sm">642.70</td><td class="num">14.5%</td></tr><tr><td class="sym">JUBLPHARMA</td><td><span class="chg up">+4.99%</span></td><td class="hide-sm"><div class="bar up"><i style="width:36.7%"></i></div></td><td class="num">997.75</td><td class="num hide-sm">950.30</td><td class="num">21.0%</td></tr><tr><td class="sym">NEULANDLAB</td><td><span class="chg up">+4.92%</span></td><td class="hide-sm"><div class="bar up"><i style="width:36.2%"></i></div></td><td class="num">23,995.00</td><td class="num hide-sm">22,870.00</td><td class="num">34.7%</td></tr><tr><td class="sym">PGIL</td><td><span class="chg up">+4.86%</span></td><td class="hide-sm"><div class="bar up"><i style="width:35.7%"></i></div></td><td class="num">2,366.80</td><td class="num hide-sm">2,257.20</td><td class="num">39.6%</td></tr><tr><td class="sym">TDPOWERSYS</td><td><span class="chg up">+4.72%</span></td><td class="hide-sm"><div class="bar up"><i style="width:34.7%"></i></div></td><td class="num">768.80</td><td class="num hide-sm">734.15</td><td class="num">37.4%</td></tr><tr><td class="sym">HINDCOPPER</td><td><span class="chg up">+4.67%</span></td><td class="hide-sm"><div class="bar up"><i style="width:34.3%"></i></div></td><td class="num">532.85</td><td class="num hide-sm">509.10</td><td class="num">29.7%</td></tr><tr><td class="sym">TSFINV</td><td><span class="chg up">+4.63%</span></td><td class="hide-sm"><div class="bar up"><i style="width:34.0%"></i></div></td><td class="num">422.30</td><td class="num hide-sm">403.60</td><td class="num">51.3%</td></tr><tr><td class="sym">EDELWEISS</td><td><span class="chg up">+4.58%</span></td><td class="hide-sm"><div class="bar up"><i style="width:33.7%"></i></div></td><td class="num">138.80</td><td class="num hide-sm">132.72</td><td class="num">38.9%</td></tr><tr><td class="sym">KIRLOSENG</td><td><span class="chg up">+4.51%</span></td><td class="hide-sm"><div class="bar up"><i style="width:33.2%"></i></div></td><td class="num">2,272.80</td><td class="num hide-sm">2,174.80</td><td class="num">49.1%</td></tr><tr><td class="sym">EMIL</td><td><span class="chg up">+4.36%</span></td><td class="hide-sm"><div class="bar up"><i style="width:32.1%"></i></div></td><td class="num">186.02</td><td class="num hide-sm">178.24</td><td class="num">35.8%</td></tr><tr><td class="sym">UTLSOLAR</td><td><span class="chg up">+4.29%</span></td><td class="hide-sm"><div class="bar up"><i style="width:31.5%"></i></div></td><td class="num">435.20</td><td class="num hide-sm">417.30</td><td class="num">37.0%</td></tr><tr><td class="sym">SAILIFE</td><td><span class="chg up">+4.27%</span></td><td class="hide-sm"><div class="bar up"><i style="width:31.4%"></i></div></td><td class="num">1,647.10</td><td class="num hide-sm">1,579.60</td><td class="num">43.7%</td></tr><tr><td class="sym">BANDHANBNK</td><td><span class="chg up">+4.18%</span></td><td class="hide-sm"><div class="bar up"><i style="width:30.7%"></i></div></td><td class="num">171.58</td><td class="num hide-sm">164.70</td><td class="num">39.2%</td></tr><tr><td class="sym">SKYGOLD</td><td><span class="chg up">+4.04%</span></td><td class="hide-sm"><div class="bar up"><i style="width:29.7%"></i></div></td><td class="num">820.00</td><td class="num hide-sm">788.15</td><td class="num">44.2%</td></tr><tr><td class="sym">GMMPFAUDLR</td><td><span class="chg up">+4.01%</span></td><td class="hide-sm"><div class="bar up"><i style="width:29.5%"></i></div></td><td class="num">1,285.20</td><td class="num hide-sm">1,235.70</td><td class="num">30.9%</td></tr></tbody>
+</table></div><h2>Decliners (6)</h2>
+<div class="panel"><table>
+<thead><tr><th>Symbol</th><th>Change</th><th class="hide-sm"></th><th>Close</th>
+<th class="hide-sm">Prev</th><th>Deliv</th></tr></thead>
+<tbody><tr><td class="sym">AFCONS</td><td><span class="chg down">-4.42%</span></td><td class="hide-sm"><div class="bar down"><i style="width:32.5%"></i></div></td><td class="num">280.25</td><td class="num hide-sm">293.20</td><td class="num">45.5%</td></tr><tr><td class="sym">ACI</td><td><span class="chg down">-4.84%</span></td><td class="hide-sm"><div class="bar down"><i style="width:35.6%"></i></div></td><td class="num">484.70</td><td class="num hide-sm">509.35</td><td class="num">61.5%</td></tr><tr><td class="sym">PFIZER</td><td><span class="chg down">-6.22%</span></td><td class="hide-sm"><div class="bar down"><i style="width:45.7%"></i></div></td><td class="num">4,310.70</td><td class="num hide-sm">4,596.50</td><td class="num">43.3%</td></tr><tr><td class="sym">IFCI</td><td><span class="chg down">-9.66%</span></td><td class="hide-sm"><div class="bar down"><i style="width:71.0%"></i></div></td><td class="num">92.61</td><td class="num hide-sm">102.51</td><td class="num">19.0%</td></tr><tr><td class="sym">IDBI</td><td><span class="chg down">-10.62%</span></td><td class="hide-sm"><div class="bar down"><i style="width:78.1%"></i></div></td><td class="num">81.11</td><td class="num hide-sm">90.75</td><td class="num">31.3%</td></tr><tr><td class="sym">NIACL</td><td><span class="chg down">-11.24%</span></td><td class="hide-sm"><div class="bar down"><i style="width:82.6%"></i></div></td><td class="num">205.22</td><td class="num hide-sm">231.20</td><td class="num">10.8%</td></tr></tbody>
+</table></div>
+<footer>
+  Session of Tuesday, 8 September 2026, measured against the previous close.
+  Generated 11 Sep, 01:15 IST from NSE's security-wise bhavcopy.
+  Change is measured on <code>CLOSE_PRICE</code>, the settled closing price NSE carries
+  forward as the next session's <code>PREV_CLOSE</code>, not the last traded price.
+  Delivery percentage is the share of traded volume taken to demat rather than squared off intraday.
+</footer>
+</div>
+<script>
+  // Each session is its own page, so switching days is a plain navigation.
+  document.getElementById("day").addEventListener("change", function (event) {
+    window.location.href = event.target.value;
+  });
+</script>
+</body>
+</html>

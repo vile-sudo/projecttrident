@@ -1,7 +1,12 @@
 {
   "trade_date": "2026-09-10",
   "threshold_percent": 4.0,
-  "scanned": 743,
+  "generated_at": "2026-09-11T01:17:58+05:30",
+  "stats": {
+    "scanned": 743,
+    "flagged": 33,
+    "missing": 0
+  },
   "moves": [
     {
       "symbol": "SHAKTIPUMP",
