@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-09-10",
   "threshold_percent": 4.0,
-  "generated_at": "2026-09-11T10:30:21+05:30",
+  "generated_at": "2026-09-11T10:53:42+05:30",
   "stats": {
     "scanned": 743,
     "flagged": 32,
@@ -41,16 +41,16 @@
           {
             "tier": "news",
             "kind": "order win",
-            "detail": "Shakti Pumps share price rallies 12% on \u20b9236-crore MSEDCL order win",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjJFbTBIbU1Pa3FBTkJWUVVJZ19SdTVxanZldDlTbTREbkJhVGtkZGl5WGZTcnRzWjJxSlJpQmFBa2tWcm1BRzNYX3lwYmpEMEZ3dFJwRVVVWTJIN0x3aXhVclNhQ2VaV0VHMkNpcVJTaHR3eUhsU3hRcF9nd1VFQUpObHR0ZlBjdDNab0Z5cnVacFBFNTg1RVdEMTFqYkktVmRiZEMtVkFoWDY5NXFYTHd4X2kxbk8yNlpvTjR0dzd4YzNoSHRtemh5V2HSAdIBQVVfeXFMT3I4RHBDaElwVTBFYjF0Z0lrV2JfMkFQWTg0RXk3M1pmM2FuZW5nYVFzaDZJR084WkFZaUFVaUstZ1FBbW1xVkU5cFBfMnRFdVlZSWJVWFNST29fMkFzWGhsV0NJenl6eGdfZ0tTUUdOcnFhRTdPdS1FYWtoWlNNSFoxcTlWemVVR1RQb200WllSWnlxUG9OTHZVYUNnXzA5djZIeFBYWm43OWFjRDlSVUNjRWpndi1sODF1R3JNSGxQN203ZWZNU0c0N3RzOWRRVnNn?oc=5",
-            "source": "Business Standard"
+            "detail": "Shakti Pumps shares jump over 12% after \u20b9236 crore supply order from Maharashtra; what investors should know",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdkhsb3VlUy12MHNCWkljY2lnR2FPT2U4NG5VSTJKYnVCUFByalBYRjFNNERrXzJUMzBNbkZBY3lkU0U5MjJTdXhsck4zMFlwdzcxWHVhVkI2LXVYU0FjMFQ0SUpCRXA1ck8zUFFUS1p3bHVfYXkxUlNMd1ZUU2lRdFVqNjByYWhtYjlUZDNLRUlYam9vc0lzc2dqbkN5Z3VDeGJzcHBFNzk0WEU4dVZ2WUNxd2dBWmo5b0c3Rm5JbTlnMXNlY3hCUjJ0UkxSZFdBUGJNOHZXNDdITDQxQXcteFBZdzUxTWc3elV6OUwxSHJOVlZqRS1n?oc=5",
+            "source": "Upstox"
           },
           {
             "tier": "news",
             "kind": "order win",
-            "detail": "Shakti Pumps shares surge 12% on Rs 236 crore Maharashtra solar pump order",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONFVCeXNmSnZhWDdHaEtKY2Q3d3FMMHF4SGxJV0lpV245OTdnQzZ4dEtpazA0cE96WlBqTzR3YTVjS1Z2YTBkV2M0MmtHc2JOMTlJYWxtNlU1SmpxTXNmTzFvNmRJLUh6M2l0dzBxLVh2aW4zbnBWTXhjcWhwbC1RSUNQYnNQUENqZFBKaW1oZ2RfTEdjNUJhamx4OS1mZjYzc05LYnpfazR5bkphQ0RZWHQ5cWNuOWxWVmR1N2czUHMxcFMydFQ0LWU1U05oX1ROaEVsMHMzTVhZUm9nNDdQUtIB5gFBVV95cUxOWnlnTkNuV0lWdUx3SGtWbGQzZm1jQ3R3RUNiYmVNcUh4b29Zc1BaaFJrTjFpaVpILTE5b3l5YkFvam5tTkcyQWVRNjZHUHU4NHVPMmFqT3EzeVlzbnljbDJHaXRVNUFRdGhQcmtFSldKTmxQdkZpdjF2bnNkZ3pUVE9WSmMtbTJsZ1hIOUpDa1BGaVpCUG5IUFF4SXl1VVdUN1RaMmtwSFdpNEtFdFNRWTFLS2FIV2pUVVBSUWczbVN3dzEzVTZvblA3UHlyLTBQOTE1bEVqS0oycmFsWV9UWEpUNGJLUQ?oc=5",
-            "source": "Economic Times"
+            "detail": "Shakti Pumps share price rallies 12% on \u20b9236-crore MSEDCL order win",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjJFbTBIbU1Pa3FBTkJWUVVJZ19SdTVxanZldDlTbTREbkJhVGtkZGl5WGZTcnRzWjJxSlJpQmFBa2tWcm1BRzNYX3lwYmpEMEZ3dFJwRVVVWTJIN0x3aXhVclNhQ2VaV0VHMkNpcVJTaHR3eUhsU3hRcF9nd1VFQUpObHR0ZlBjdDNab0Z5cnVacFBFNTg1RVdEMTFqYkktVmRiZEMtVkFoWDY5NXFYTHd4X2kxbk8yNlpvTjR0dzd4YzNoSHRtemh5V2HSAdIBQVVfeXFMT3I4RHBDaElwVTBFYjF0Z0lrV2JfMkFQWTg0RXk3M1pmM2FuZW5nYVFzaDZJR084WkFZaUFVaUstZ1FBbW1xVkU5cFBfMnRFdVlZSWJVWFNST29fMkFzWGhsV0NJenl6eGdfZ0tTUUdOcnFhRTdPdS1FYWtoWlNNSFoxcTlWemVVR1RQb200WllSWnlxUG9OTHZVYUNnXzA5djZIeFBYWm43OWFjRDlSVUNjRWpndi1sODF1R3JNSGxQN203ZWZNU0c0N3RzOWRRVnNn?oc=5",
+            "source": "Business Standard"
           }
         ]
       }
@@ -146,13 +146,6 @@
             "detail": "Neogen Chemicals sets QIP floor price at \u20b92,190, offers up to 5% discount",
             "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDRNNXdlWVdVZHlCellFTm5GdElpNGExZmZJaGRLUDY1dFVJOXNJUDd1Q0ZBMnVwaElZYVJQS1NXeHFBb3NkOGt4blBkczlvdTMtaXJidkJFckE4MUNJMmdVbVduX2l0V29zLVFUVGpsT2RqNG9JREExaTdJMFN5WEJxZzVlX19BLURYRHpFZG9wU1FmQmJUdWQ5MFpEYlgzNjl1WWsxZ2hQLXhnMU0tVkFOU1pTT2ItM2NxMng3R2hJS05RenFv0gHMAUFVX3lxTE9lYU5jY0NEa0lpekZwMVc2SVdZRkt1U2RoWGx1NnhWekc0Yjd1TkFMNlJqcUIxcWROS3JsZ3FqRHpWcEpwclRBdEE0Nm5RYXhjOGlCdTVwTUZ4c3M1Z2cwN2FVeEhDX1F6RnFMY3R0emI4VDFpQzBvVTh3LXFQX3VMV2pvRndUYmI5WUNha1J0elZBc3BsUlBSazFhSms3Nmo5N3FXM0pVRDhTckJJNE5Gd2JyUHExMXU0cWxGSlJsdUszN3k3Wi1CZzQ0Qg?oc=5",
             "source": "CNBC TV18"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Buzzing Stocks: Neogen Chemicals shares fall 4% on QIP launch; Shankesh Jewellers surges 12% after Q1...",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOeGEyTnVzQXQ3bkF0SDZHT2dzVXZzMGhNaHVlYlJPSzFpeHBOeFY2SXBycGszVEFHR2NGTTFXRkMwdjVFSVhpV3lMeTExOVdqLVFDQ0JUdW52VVpDUDg3d0JuY2pfb2pFTEhRUjR1T2R3bC13bUl4ZTJUb0VOQXF4azR4OF9PMHBIb3JtVFJxZjN4QXBSc094a3JjNXRhcjgzcTFiSUJZaUduZFZJdkkzSXpQaU9Ec2k2UE9GM0kwWWZVclVyQjhnZjVLaWwzY3FCYXBqbGNkeEdQZnFwbVg2VzZleExPbGdBamx0XzVwbW5pZ011TlFiTmNDUUxCNkxCaUpwSDI5TTE5TkNnRGfSAY4CQVVfeXFMTnhhMk51c0F0N25BdEg2R09nc1V2czBoTWh1ZWJST0sxaXhwTnhWNklwcnBrM1RBR0djRk0xV0ZDMHY1RUlYaVd5THkxMTlXai1RQ0NCVHVudlVaQ1A4N3dCbmNqX29qRUxIUVI0dU9kd2wtd21JeGUyVG9FTkFxeGs0eDhfTzBwSG9ybVRScWYzeEFwUnNPeGtyYzV0YXI4M3ExYklCWWlHbmRWSXZJM0l6UGlPRHNpNlBPRjNJMFlmVXJVckI4Z2Y1S2lsM2NxQmFwamxjZHhHUGZxcG1YNlc2ZXhMT2xnQWpsdF81cG1uaWdNdU5RYk5jQ1FMQjZMQmlKcEgyOU0xOU5DZ0Rn?oc=5",
-            "source": "Moneycontrol"
           }
         ]
       }
@@ -283,10 +276,10 @@
           },
           {
             "tier": "news",
-            "kind": "broker action",
-            "detail": "Ather Energy climbs as brokerage reiterates buy, sees strong growth ahead",
-            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVh3WDFTTzBGMlFUUURWOTFEVlVSdGZySXF2WHNzaTczZGVIUjhHM2JLUFlialdRZzhIWFV4SEtTdHpsVHhXNzNiTHM3SERBYnFTTzI4V1dwTmR6RnAySlpGaTQtYzAxWDlMaG5jZ3BYYTJmdERZRHZSWHRUTGN0LXFKejF5U0ZsTVJ4Q3NpTVRxVkNQTFh2U1VOUHpBaW93a1JiSk50cjdQZHVkQTdnTHJ2TU1aVnQyNnVYbC1WUU5mWXg1eGRXWUR6Ti1ZVndxSkwwV3g2OEhhRVZFdWhXSS1RbWc3aDRJRlHSAe8BQVVfeXFMTkFiZlZIVVhmYTlOVUcyQ1JNMjBLbjF2NTRRZTVpWm5iMzk2bHJwTTIzb1dEZ0M3U1B2Y0hNeTBpbjFKbG5RQTVhRWEyQzA2VXo0SC1ZVGw1M1J4c0FHUThEVzQxaFduUGhPOW03TGl0RC1PVzc0TTk2LW5TMEkwUVpVNDZQaDg4MTJpcC1pc1E0WC1MbUpxYXJ0N29RUnp1SWJ3Y2dBUUdndFRXc3dvWGp1MnBzSFNHSFpKd1hvUjVUYllOWXVRYTJQZWlUUGV6OGRib243bGhEc0dqNjR2RjZwNWhCYnMwZ3FHQXU4T28?oc=5",
-            "source": "Business Standard"
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: NMDC, Ola Electric, BEL, Ather Energy And Sun Pharma \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdZNWJFLU9RMnc5WExERmU4QUplMXhBRzFsRHNiODBlZkI0Q0ZsVDRhQzlWdjZmSEFHVUw1bDMwQTBtaWYyNzAwNEtZQWNTVHVZcklkNmhIWk5EX1BYWVExRkFMLTRnNDB0SWxJT09Ibm9KbFN5OG9Ed0pxejJEWXBTVFl1TlprT2t0ZmhjYzdJaUpJSmh2Q01JOFUxTEFnWGl4czA1bXFkaHNHM241VFJhRnY4R3E3TTVVV1N30gHGAUFVX3lxTFBzX013T2N2U0JIUnBmZzMwbi0xOGlWZnFhb2hRR1FGYjF3ZFJzZFItdHBhSzFtTDFlNHBBRkI3MzNicHFVY3VUSnNVMGlSVTB0VFp2Q2xvNmN2a1c5YW5MUGFkcktnY19DSk1ZTmhGRTRRQUJfSjVKY3RaNmNLblc0MWlkQ0RjV1UyYnJUU3JMcFMxdC1xX0pscS1DME45M25fblVmRUtnZnQ0OVo2SUJnVTRFcEZRaE9tcEU5RnU4bzR5WWVfQQ?oc=5",
+            "source": "NDTV Profit"
           }
         ]
       }
@@ -302,9 +295,16 @@
       "raw_pct_change": 4.93,
       "corporate_action": null,
       "why": {
-        "headline": "Operations (Mint)",
+        "headline": "Results (NDTV Profit)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: NMDC, Ola Electric, BEL, Ather Energy And Sun Pharma \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdZNWJFLU9RMnc5WExERmU4QUplMXhBRzFsRHNiODBlZkI0Q0ZsVDRhQzlWdjZmSEFHVUw1bDMwQTBtaWYyNzAwNEtZQWNTVHVZcklkNmhIWk5EX1BYWVExRkFMLTRnNDB0SWxJT09Ibm9KbFN5OG9Ed0pxejJEWXBTVFl1TlprT2t0ZmhjYzdJaUpJSmh2Q01JOFUxTEFnWGl4czA1bXFkaHNHM241VFJhRnY4R3E3TTVVV1N30gHGAUFVX3lxTFBzX013T2N2U0JIUnBmZzMwbi0xOGlWZnFhb2hRR1FGYjF3ZFJzZFItdHBhSzFtTDFlNHBBRkI3MzNicHFVY3VUSnNVMGlSVTB0VFp2Q2xvNmN2a1c5YW5MUGFkcktnY19DSk1ZTmhGRTRRQUJfSjVKY3RaNmNLblc0MWlkQ0RjV1UyYnJUU3JMcFMxdC1xX0pscS1DME45M25fblVmRUtnZnQ0OVo2SUJnVTRFcEZRaE9tcEU5RnU4bzR5WWVfQQ?oc=5",
+            "source": "NDTV Profit"
+          },
           {
             "tier": "news",
             "kind": "operations",
@@ -333,9 +333,31 @@
       "raw_pct_change": 4.8,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (NDTV Profit)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Finolex Cables Stock: 60% Rally Isn't The Whole Story; Jefferies Sees OFC Earnings Surge",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSWlGSVcxZDMxS3RyQXRpZmJjZE11S290bTV6Q0huYlJ1UUtNUXVhS1VTVXZfOHZId3VzUGI2TkNsVEFGTDV1WWNiejlreEcwbUVJa2U1Qjd1WkZ6RExzVnVLV002UHRRN2JhQUswaWpaOGk4SzVwVkdJQUlBcl9WVV9VQ1RaNXNMekpCSm9pTWktV005QWJEcEhIcFVTTXZFOWE1Wjhod3ZmQlJsR25RMk51cE5wbnFyWXVPLW9JZFBMQzR3cjZ2VnlXemI2d25JQ1HSAdoBQVVfeXFMUFItSk9nUHltWF9rUnVMQmFvV3A5N1NTS3FOX1doM0ItME05Z0I1RzBXY3pJUGVxY21hNDJyT1BON1RHUllOd01keUk3ZnhrM3FqQzYzVFcyR21UQk9udTBZa05LUHlidEJLUUxXaU5CNkYxb2ZLaHRJVnJLcWtDUmxxSERYZ2Q0QTN4VHcyVE5GZXpvSkNJRFg2cmR5Vk5uZ3dZcHhMNlo0NTdpYkQxV3ZMcnBRWGs1U05fUG55N1JtR1NTNFh4bFNyUDM2NE9ZYWlYaHE1a3lVM0E?oc=5",
+            "source": "NDTV Profit"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Finolex Cables Share Price Gains 4% After Jefferies Retains 'Buy'; Here's What Brokerage Sees",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWgxVlRfaDdFWWFKZkl4VjdfcEVFV1IxNURzLTZyYjloc1N1aE9DZWxaZmtfb1h4YzdGd2R5MGNlSHk1eDI4c1l5d3dtSXpzVEJMbWZTYTRLMWZ5MEZUYVJid2poTjBvQlRvaWRfSngtRkV6U01LMEVTVUlpaU8zV0NfbFZBOE5MSGJMT1pYY0ZaNXBlR0ZST2E4RlZmOGtzQVQ3cDZpSi1BeUhqdnRCdEdUcWhjLVJOSW9SbmUyTVN3TjRLVEw1Z281dHN6YlgtbmZRWFRJTdIB3wFBVV95cUxOcm5xNXBpV0hSUkxKVjVNbTJBTlZRaVVQcU04YnVYcmtBNGNwUnRKX2IwVHpFeTR3andORDFqdmxkdVVSb1daaTVjWEFOeFA3MkhqeVcydFRsRGI2NTBqYmRhMlFlMHJXeTBGLUdSNFE4SmFOeXVSRFI2M05FMGFHejFpdDB6ZWx5U3UyVVhWcHdhTjZDOGl3cl92R2JVMUF3UzBWT2NMWDNyTElQdmZ0dGRHWmxvWF92TFlEZFpoVnRpUHUyaDlUVEVld2tWZm5ST1VUSnlPei1BNGVLRHVR?oc=5",
+            "source": "NDTV Profit"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Stock Picks Today: Infosys, Finolex Cables, Hindustan Aeronautics, IndiGo And More On Brokerages' Radar",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX0kxVUpIWUVkQjJLbndXamU4clRCMk1obXhMVmFuOU5faWhwS2o1VFplWXVfWWJFTjF5cF9YYzhzYjFsa25BMjc5SkllVGVoekFLWHlOVVRiWDQ0QnZFQlItMkJHSWxsaHJEdXM5OHlpdzBQc05EWk1pZk1OR3I0SmtKZ29EX0ZaRHZpQ0J0aFpYeVBfUnlvVzk2SHEzZ2xfQndOTjZiODNXR0dqMmlkX1JEcV9MRXJNSWhiRlNxTWZIRmxtZ3ZKb0lyeERjRko3YzlFdzhHcFYxUdIB4gFBVV95cUxPMWtuZ04tUzhoR1drM3MzRXZxeE1kQzdkc0xxdGZ0ZG1xYzRvU0dyZlZpUkVzWGExTV9LNG9DNlBMcUxkNkVBZzV2enRHYm5vZkJoNWkyYWlzemdnUEdTUU12Y1NYdUpPaE00WkdlcTdyZHpzd2wwQVVZWDNfZFNJQUo1ODk0RXBHZ1hMc20xVVpRbmxfS1JzNmR4TVdUTTBHV2cwVS1Pa2poWEhRSm1mQlY4Y085d0NjS3dDT1JnN2JQN2hpQllnQWZzeEIxWUJEbHp2YkR0eTZoWm5SeTlwUzVR?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
       }
     },
     {
@@ -401,9 +423,9 @@
           {
             "tier": "news",
             "kind": "capital action",
-            "detail": "PVR Inox's Rs 300 crore buyback opens today: How much return can retail investors expect?",
-            "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQb1RYUUdsazlIb3FMaW50XzBJbVo4c0ExSldyaU1hamhsc1JPR3Z2QVNVYndSTE9CY0pGU2J2aWtSS0YxQ1dzRTdzZEVPRUU0SVZIZFFkVjYweldnQXYwN0R3UEpQdGFGRmd1dkZVaXhxVVJIcGEybEk3cFBqNmItajlBYUI4SWRpcGVxX2o3UlRlSEFTSUpKUXFMQnJ4em9vRjY2WW42bURxSTU4a091cW1SNF9ucUtCMmJiWjFfNVhkMElneFk4NXF1WjlRMk5ON1N1M1pSLTFabTVLV2NwTk1qOW5kX2xJRnZvQ0hUd3hpdnlnaEUta0xteG5oSTVnYnFBRWdkRUF4RDlIaHZEUUR3MkxScE5fYUdlcGp3T1lfZDF2VWJGLVNBNzdUNE1hSWNRa1VZYlRjYVJZNGRVZDJLVm9FWW9Eelg4Y0dva2NoSkdBMWZhNERXQdIB9wFBVV95cUxONkMwQ1dMTVBGX1R1UkJQMWFMTkNobVI5N1RUbnBYUlhtMTBuZHFxWEFvRmQ0TkFheXBKZEd3Y0Z2cnlJbEpET2tTdjlTMW95UTFhbkczOGsxaDhBMzF1azVHcVRYUVc5NktBNUtud3ZONl9hdEs2dzVjNFkxel9qMElhLU9GQi1UUTJlNW9aaUJ3cnQ1aFNpVWFlWExvV3NlME03am1ZelFNODRtR3c0Z2xDOE5hNE0wS01Fc3FNdUJSVFpISGlJYVhGRkRFcGZTbDhsdGt4ZERUVUVCdFdqXzZVNWVlT3p4R3Z5bHZGNmRWbU1oaE44?oc=5",
-            "source": "Economic Times"
+            "detail": "PVR INOX shares gain over 7% after firm announces updated buyback date; check key details",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkRWU05rOF9uTFdjd2dZUmI0RE44dXl1TkFrc0F4Z2p4M1dPamtEOXkxUGhYbUZsUmdENV9LUGx2eEtNZmtyNFN1YUxRd1ozSUpqRXdGRU82WFFUOF93dEpJdGZBUElFMXIzUzFma3UtRnRMX2JfQXRBLVA5S0ZNVkpkZ2lvWlFXRFdjM0NxeWtzck5xN2lmUW5MU0M0TGFKaDdHVEFxOGNSZzVTZi1ETlRoQkQ3dHZIRE10ZnEwc1p3eEhsTkFiZzUwNE91Ukh2LXUyUFU1TVIxMFM3cE40?oc=5",
+            "source": "Upstox"
           }
         ]
       }
@@ -461,10 +483,10 @@
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "IRB Infra rises as August toll revenue jumps 25% YoY",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOGZMVFdnWHJWaTZfbHdlZVNHMzBubE5mNlpXdGFlcVFpV2lhMkF2RDRuLXFqejlFLTN6UkpyRFhfVmNTQUlJLWppejByd0FwZGxpUHRtU1U5NlYzbkhabkFYazNjZXFqdUpONkMxSVZsQTBzblZ3bXc0SW9pY1ZHcU1XUXlLWVByb1NOUG9Qa05WRlhmRjJPZWNQMkpncnhLNDYzallxT2dZcDIydzQ4RDMyWm1aY3cxbWdCY3dyekdVbW5YSmRBSTJZVTUwUdIB0wFBVV95cUxNa1RfcnIxU2tvSFlJSUtlTWtyY0cxdDlPbURJSFhGV2k4c3hTUXc1WmdfLVAzT3BtaktXWW9NY2o5YzA4QUlZWXZsMlJsQk9FbHNENnZqUy1XZEtweVYtUGIxQnJ6Y0hrWXpWWWw2ME1BNEZVVjNiZFJtcElnZ1hOTThTZHBONjBsUC1pQzV6RWdwT3JpTnJoRmZnUEU3VE1uaW16WkZLcGxzZzd5RVNxNThlM1p6SS1GdTZYSnB5WmxFNzZBd1AwNExpLXhkNjhWM3hj?oc=5",
-            "source": "Business Standard"
+            "kind": "explainer",
+            "detail": "IRB Infra share price jumps 7.5% in trade today \u2014 what's driving the stock?",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSTR0RmthTjVEcFc5ZkE3WGtCbEVXRUEzOHpteW5aY2lkN1g1WllxNk1VTWpRVC1xVEYwRjVnTU9XWnk4clFoeDNVVGtqekdDaGVLeGw3ZWMydm5wQzU4RUlpdm5tdi04TkZmbkRoUWVCV0FFd0duWFhTN0NVNzNDS2E1TGN4c3JIUmdCQmhXTGFBdThVWlFfdVV1Z0tzVlgxck9uYmlyZDJQV1VOZ2VwWTBZQ0ZBeWFSOWVGaGhqblI4X2ptSlhta191N2RQcTNMVVVRMXdMUdIB3AFBVV95cUxQd1JqVXpvTTMwT1I0VGZOVWtYdHBXR2o4RnRQenJXQmVERGx0TWtaU2lwcFVPWUlmcW5xcG5ieExRaGxDMVl0U0RRVmtnUUt6QUZSV2Y3c3hRUldTbkhBWGp2Vk5FQUpKd2t0X2RKeGhNaGFRMUpnUlVVdG1kSGh1TDRNaTNiaHhUVFJnMUxXTkZvWTh0U19LY0ZmMmRDSUFkRFJoN2l4QXRhS3ZPOVJydjlZcDhreEZiakZ2ZFUtR2xlTHZLQWtUWkNWY3BySnFLWTJWTnVHUmU1dVpT?oc=5",
+            "source": "Mint"
           }
         ]
       }
@@ -568,15 +590,15 @@
       "raw_pct_change": -4.28,
       "corporate_action": null,
       "why": {
-        "headline": "Fundraise Or Deal (Economic Times)",
+        "headline": "Results (Mint)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "IFCI shares slide 7% after stellar 30% monthly surge amid NSE IPO buzz",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjZBQjIwSVNBZXEwRk5NejNxS2xweW0tOWVVR01WVTNjcHQ0YmhvQlpSOHgyM0hDUE94c0FDSmdoNE1BWG1uS0V3YWc5ZHUweV9FXzBVYktOZk96N09hMUZGcmlkaWpMZjVXRDJVTTMwYk1FMGNaTmVXNnJaOHN0UWhGSFYzamdxcDRFdHUwRWlkcDdTT0d4YVY1NnVIZFFTNDcySHRacGVCbGhLc0F1NnROWmlSQUhmMXVBMnNiZEpodUh2UWx6SE0wWDBLUE1TWmpEUVlHYmJqUdIB3wFBVV95cUxOTEhYSkJzcDI4M2hXeWtDZHQ1V193WWNUSW1UZnNCNG9aUWxySXQ4QlNua3d1cmF1X2hsdV95SXVHRUpwT1hPcS1mNEw3LU53WDA2ZjI0MFlMM3BkcjRxRXphYWlZcHZtSXdwLUV6c2t4UTJLSjZMZjBTOEZ0bmdtV0JGOG50VUxZYlFrc3dsZ04tUXdxZUYyZUt3dFlyT1U1MkRrT0V4UzkwVkVzWFhkX2pkYUZvUGRkaXJlSTBLZjhjOE9LQnpTVjVHSHgxcTUwX1ljTGY1T2lwRmdmVFJF?oc=5",
-            "source": "Economic Times"
+            "kind": "explainer",
+            "detail": "IFCI share price down today- drops 14% in 2 days- Why is the stock falling?",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGlkRFZLVjBSLTl1N0pyX21obEU0ZFFRWDJpYzVQR2hGX2xvaGR5Rlg3dlRCeTJPN3NsNGF6R0w0dHJfU0NRbFJZNEpLeVVmTHljcEZPZEpyNzJIZnF4eVZFT082QkQzVlpzb19ZRVZWT1VvUjh4VjNPX0lvM0JfbEpqN1k5YjRlMk9WWi04ZXpDUWdSN2pTa25PbE1EaFBMcmI4Y1ptZ2hTa3YxS00tTzJVZy1KZU1DNkEzSE5mVGZRMS1wZWVCVW03U2s3SGRzdV9Hel83a1HSAd4BQVVfeXFMTWFiSUlTNFVDcmF1Y2oxYW1HUEN4M2hmeVdxaHdhMVJVbW1GS3luNlRJellNTGhmX1BoUDEyUnN0QkJZSmRvRGhCNjY4cmV2c1QyREI4VGs3U1g0V3lnZGN6aU5nREdYSHJwZXEzUmxFSHdEemladXFUWm8tRUlXUVVDSkFqZkJORDRtZ0Y2Q2xrYnVXb0tmcE1QNmxwWW12NnpzSF9NN1JWVDhDTWY0Y2pVV0xqdjNtQUQ0QktWVmpDTFJEeGRxSVN1MDdwOEJjUlV0elhCM3E1cE1iNTh3?oc=5",
+            "source": "Mint"
           },
           {
             "tier": "news",
@@ -587,10 +609,10 @@
           },
           {
             "tier": "news",
-            "kind": "broker action",
-            "detail": "SBI, IFCI, NIACL: Check fresh target prices for selling beneficiaries in NSE's mega IPO",
-            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVDRhSjhrVHNlYUJIZkthdDBVYTlqSzJMX1REdGFZQlRZQUsxcVBCZjdKZGU4WXFyWnFMVkZSNTMyS2t1SF9FWkJ6TmhvWEpSNEVKWV9ZUlZGWWs4RHc0OVctLU5kaWxHVi1VMlFDQUM3M0pJUkM0NWlWbGliUkxfdk5zWUp4YlZGTEE3WGxKMllUY1ZvMTI5NzRVOHd5Y3VONWl6bmFRWFdWbEpzcjJKZ2pUcUVsampCQXVaLXl5R29jMVk5SlFYUjg3Nk9BenZjTDVXNEl3b2FxdUs4SjNtNUNoQm5tQdIB6wFBVV95cUxOTzVwXzg2bWl2TVl2cUhPSlhYOVcxZFRJRUZ6UGtyT2FFN3BuWTZzVWd2RkR3WWdYZExZV0dkZWZ0QjJxeWVURjdsNDNMbU9PR1dYQlpYSHlrWGdmX1cxVUQ1UDIyQ09CSE9xTVlySDh4SktwcEZaNm1nWk9Qd2tscW9rQ3dIV2dmT1FZUzZlcEpiVXVOVnhjZmliS1I2MmNSZUpoY2VGaUN6b1B1N2FVR3Qxa0Rvb25kUnE4OGo2b3NGVDZJQW9nMkpYQjViQ2EzZEE2ZVdvdDI1RUJKNUNBVWN6OTJ4Qmk4VWZB?oc=5",
-            "source": "Business Today"
+            "kind": "fundraise or deal",
+            "detail": "IFCI shares fall 4% on reports of lower price band for NSE IPO",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2h2YndlUUVHZTNiMXF5ZXBHQlY5NGV5QWdCWVl0WUNEYm5SSnlGOTRXNFNMeHlYdjFDSTVaSjBmUUtZSzFEQTF5aDY0ZURVMDBrNXcxNzhtN2VOYUxLbE9DR0tnTFJ5WDZMdU53VWttNzJyLXhIX0VNZVZOUFJpSlNKV0VWUHZfREJHT1N6LUJYTFVBWnJCeGhKXy03R3VqMjZNZmJOQTZVQk9PeF9PQmliNHFxYnZOVXVXaktnZkJwWG5BdjBOQ0ZUbnk5SnhP0gHWAUFVX3lxTFBmMmVDamRpS3plSTlHLVFYUEpMN1huZFhIVUtHeGRfbW1hdEExV044aV9Jalcxd29EQ3dCdm9uSV9VQnJlM0VkRkE4NF9Pek9kall2aU11V182N2hidHd5dFlVTU9ISXhwbVh5ejl2MXFsVi0ySmI3S2JsbGVKcEUyeVZMbEh3Y1Q2ckEwSDN4U2FfVWN0b25hbFFwSVQ4YTd1anE4cGpZVmsxWFZIX1ZKUUtJZXI3T0RxalRwTnI3WXhuNkMweEhyQ096YXU5aHR0bVJvYWc?oc=5",
+            "source": "Economic Times"
           }
         ]
       }
