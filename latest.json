@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-09-10",
   "threshold_percent": 4.0,
-  "generated_at": "2026-09-11T11:29:04+05:30",
+  "generated_at": "2026-09-11T11:41:50+05:30",
   "stats": {
     "scanned": 743,
     "flagged": 32,
@@ -48,9 +48,9 @@
           {
             "tier": "news",
             "kind": "order win",
-            "detail": "Shakti Pumps shares surge 12% on Rs 236 crore Maharashtra solar pump order",
-            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONFVCeXNmSnZhWDdHaEtKY2Q3d3FMMHF4SGxJV0lpV245OTdnQzZ4dEtpazA0cE96WlBqTzR3YTVjS1Z2YTBkV2M0MmtHc2JOMTlJYWxtNlU1SmpxTXNmTzFvNmRJLUh6M2l0dzBxLVh2aW4zbnBWTXhjcWhwbC1RSUNQYnNQUENqZFBKaW1oZ2RfTEdjNUJhamx4OS1mZjYzc05LYnpfazR5bkphQ0RZWHQ5cWNuOWxWVmR1N2czUHMxcFMydFQ0LWU1U05oX1ROaEVsMHMzTVhZUm9nNDdQUtIB5gFBVV95cUxOWnlnTkNuV0lWdUx3SGtWbGQzZm1jQ3R3RUNiYmVNcUh4b29Zc1BaaFJrTjFpaVpILTE5b3l5YkFvam5tTkcyQWVRNjZHUHU4NHVPMmFqT3EzeVlzbnljbDJHaXRVNUFRdGhQcmtFSldKTmxQdkZpdjF2bnNkZ3pUVE9WSmMtbTJsZ1hIOUpDa1BGaVpCUG5IUFF4SXl1VVdUN1RaMmtwSFdpNEtFdFNRWTFLS2FIV2pUVVBSUWczbVN3dzEzVTZvblA3UHlyLTBQOTE1bEVqS0oycmFsWV9UWEpUNGJLUQ?oc=5",
-            "source": "Economic Times"
+            "detail": "Shakti Pumps wins \u20b9236 crore Maharashtra order for 10,000 solar pumps",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0tQcDg0TGNaTThhdUNPQXk4STRfanBOSzViUk9JUklqY0tibGN3bHdGcmFFTFlTd2JxZjduYlA5VHFRRjVMU2d1T1gzVVhWZXdCM1A5dm1JXzh3aVZTaE1VRENsb1o4MDVpOEVfbDhJWGQyWlF4UkhreTRlZFctX1phQ09Tb3pQYVl3Qm15dHlBQXpIZElrR29yczJLZ21adVh2TXRkeVVYcDBSTW8zb3U5dVZ4WWJFY1dLNXh4azRndWVr0gHKAUFVX3lxTE1la3pBTFdhM3hwYi11RVJwTUpSS2E5bEppVnU2YWlKR0taMGlyak14Um9PbktVN0xDZDlSOHkycHRDTHNCU0JKWFBUdi1JZkZKRWV5WHExOU1NaFE0UXpRLW5BTXhnb3BYLWhBTjhubmNzS25jTExSRGNBLUFNdmlSNWlMWlNvSXlOcWdId3g1UVdIUWRZZU9aSGl6UXBZY3JUd0tmRGsyTlBkQnQwRi1LeF9QYVVEaE9HRUYxM211VHlsbTJfR0FDcWc?oc=5",
+            "source": "CNBC TV18"
           }
         ]
       }
@@ -167,16 +167,16 @@
           {
             "tier": "news",
             "kind": "fundraise or deal",
-            "detail": "Neogen Chemicals launches QIP issue to raise funds amounting to Rs 600 crore",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTTZpQ3l3RFY3SW4wc0JEUHE2Tmtyd0RvODJKM3ZmN0FFYU9ocXdibHR1dWp6VzlLbkpnRjUxNThkR0hBM0NOZGh0N0tPdjNjLXgtV1hidmhzY0Q0T2pKR1J1eHRLcHRuRXNBd0ZWay1nOC15NGlhNTdZSFRnOGJXWFYzRGZpdzNtRHVqeWxFLTZBS3NFZDA3eHJJQ0pNMkJqTU9tMHBja0U4bUlMQzY1WXVkUTFGTWlfN1RDS05PeEtkMzViOFhCaURKWl9jYi1YWFNDYmdPUGlXZHY0Tk5VR1Z6LXNKMVV5Y2dnRjJjSdIB9AFBVV95cUxNZmVCTzdKRXhKd2JxdUpQbWNWa2E3emVMV0hvMXZkY1JpOVlRSkxTelh4MW5PVWVibGpNMVpHY0lORy0zWHNDWTM2UWVHVUliUnNvN0pGWS04b1p3eUx1SmN6eUJnOHJxeEZmTS1mLWYxOU4wNUFCOXEwa1gxaU9mR1ByMzFsc0pkV1BxM1RoWmM2djRkbzZOM2FrQ3lpc1ZRRHltMlRXd2E0ZXlsNUZUcjhsWFV4SkN5Mk5IOFoxdUpEbFE2dXlrRXdteGFrNVRZT3U1VDFoNEVoTHNHelZXNTlTQ2hiN3hrZUEzaklBeTIwS003?oc=5",
-            "source": "Business Standard"
+            "detail": "Neogen Chemicals sets QIP floor price at \u20b92,190, offers up to 5% discount",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDRNNXdlWVdVZHlCellFTm5GdElpNGExZmZJaGRLUDY1dFVJOXNJUDd1Q0ZBMnVwaElZYVJQS1NXeHFBb3NkOGt4blBkczlvdTMtaXJidkJFckE4MUNJMmdVbVduX2l0V29zLVFUVGpsT2RqNG9JREExaTdJMFN5WEJxZzVlX19BLURYRHpFZG9wU1FmQmJUdWQ5MFpEYlgzNjl1WWsxZ2hQLXhnMU0tVkFOU1pTT2ItM2NxMng3R2hJS05RenFv0gHMAUFVX3lxTE9lYU5jY0NEa0lpekZwMVc2SVdZRkt1U2RoWGx1NnhWekc0Yjd1TkFMNlJqcUIxcWROS3JsZ3FqRHpWcEpwclRBdEE0Nm5RYXhjOGlCdTVwTUZ4c3M1Z2cwN2FVeEhDX1F6RnFMY3R0emI4VDFpQzBvVTh3LXFQX3VMV2pvRndUYmI5WUNha1J0elZBc3BsUlBSazFhSms3Nmo5N3FXM0pVRDhTckJJNE5Gd2JyUHExMXU0cWxGSlJsdUszN3k3Wi1CZzQ0Qg?oc=5",
+            "source": "CNBC TV18"
           },
           {
             "tier": "news",
             "kind": "fundraise or deal",
-            "detail": "Neogen Chemicals sets QIP floor price at \u20b92,190, offers up to 5% discount",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNDRNNXdlWVdVZHlCellFTm5GdElpNGExZmZJaGRLUDY1dFVJOXNJUDd1Q0ZBMnVwaElZYVJQS1NXeHFBb3NkOGt4blBkczlvdTMtaXJidkJFckE4MUNJMmdVbVduX2l0V29zLVFUVGpsT2RqNG9JREExaTdJMFN5WEJxZzVlX19BLURYRHpFZG9wU1FmQmJUdWQ5MFpEYlgzNjl1WWsxZ2hQLXhnMU0tVkFOU1pTT2ItM2NxMng3R2hJS05RenFv0gHMAUFVX3lxTE9lYU5jY0NEa0lpekZwMVc2SVdZRkt1U2RoWGx1NnhWekc0Yjd1TkFMNlJqcUIxcWROS3JsZ3FqRHpWcEpwclRBdEE0Nm5RYXhjOGlCdTVwTUZ4c3M1Z2cwN2FVeEhDX1F6RnFMY3R0emI4VDFpQzBvVTh3LXFQX3VMV2pvRndUYmI5WUNha1J0elZBc3BsUlBSazFhSms3Nmo5N3FXM0pVRDhTckJJNE5Gd2JyUHExMXU0cWxGSlJsdUszN3k3Wi1CZzQ0Qg?oc=5",
-            "source": "CNBC TV18"
+            "detail": "Neogen Chemicals launches QIP issue to raise funds amounting to Rs 600 crore",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTTZpQ3l3RFY3SW4wc0JEUHE2Tmtyd0RvODJKM3ZmN0FFYU9ocXdibHR1dWp6VzlLbkpnRjUxNThkR0hBM0NOZGh0N0tPdjNjLXgtV1hidmhzY0Q0T2pKR1J1eHRLcHRuRXNBd0ZWay1nOC15NGlhNTdZSFRnOGJXWFYzRGZpdzNtRHVqeWxFLTZBS3NFZDA3eHJJQ0pNMkJqTU9tMHBja0U4bUlMQzY1WXVkUTFGTWlfN1RDS05PeEtkMzViOFhCaURKWl9jYi1YWFNDYmdPUGlXZHY0Tk5VR1Z6LXNKMVV5Y2dnRjJjSdIB9AFBVV95cUxNZmVCTzdKRXhKd2JxdUpQbWNWa2E3emVMV0hvMXZkY1JpOVlRSkxTelh4MW5PVWVibGpNMVpHY0lORy0zWHNDWTM2UWVHVUliUnNvN0pGWS04b1p3eUx1SmN6eUJnOHJxeEZmTS1mLWYxOU4wNUFCOXEwa1gxaU9mR1ByMzFsc0pkV1BxM1RoWmM2djRkbzZOM2FrQ3lpc1ZRRHltMlRXd2E0ZXlsNUZUcjhsWFV4SkN5Mk5IOFoxdUpEbFE2dXlrRXdteGFrNVRZT3U1VDFoNEVoTHNHelZXNTlTQ2hiN3hrZUEzaklBeTIwS003?oc=5",
+            "source": "Business Standard"
           }
         ]
       }
@@ -192,9 +192,17 @@
       "raw_pct_change": 5.36,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Broker Action (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Varroc Engineering receives Crisil ESG 62 Strong rating",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNFJkNTBGYWpDU2o3WklST0Y2QXg3N1ZMWWlwTklGM0I3a0pVSzZER2Z2Z3RUUkdkbWprNFdfbGliNGhlYm0weWtjMDF5QnNRZjJZX1hKZHV3UzNoNGJOYml6ekFUYWZZc1FYTzZpNHM0ZVdIOUY1enVwUmRCVGVBbFpSejV2c2FySzd1RTVsZXV2YWRidjE2N2tQS3R0cVI2bDlnaUNURXlhNTlpVTJGTE5B?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
@@ -256,9 +264,17 @@
       "raw_pct_change": 5.05,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Fundraise Or Deal (Moneycontrol)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Inox Clean Energy likely to file draft papers for Rs 10,000-crore IPO by month-end",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYzB6THFfZGNRUzAwYjV1TXdIUFctRVJobVdibGNBVWFqdHU2amRCbUxSN0dlZzBId0IwbXRfUURLbDk5ZFo1ZW9zd0UzTHEzcF80dG1OYVE3YlJPTndJcTlnM2pEaDFxUFp1Z2JhbG9IU1pPZDVXd1o0UFdKZF9FY1pBWjhib2ltWTNyRVhTa2xaOHVnLWNrQ0hpc00wTEh6ZlU3eXBvOTdSNFdWVTV3Z2dGSEx2YnJndkV3N3JzQjZ6QjhGZGJzN2ZzM0MxNENKTXfSAdcBQVVfeXFMUDItRnkwWGJuVEFOOFI0cElDVVE4SlJRZV9PYlctQ0M2MVp4MW9acFRNWUp3SE1rdEpwZFRGc1N0a1hFQ09IYWJkM2I1M3Z0Mi1UcjRYVTBybS1JNG1jVEs0Qm9VaWk3YVI5LVRvOXdma1NXZ0VtNDRJVHBLZEYweGh0b2RhZEJpMGticHBKb1ppekJXRzFfa04tRng2cUpiSHFaMVJXbC0yZjF5X0t0djd1ZEVEVDB3WVBjdHBUODAxQUk0bzFDQU1DZDJ4VDdQOHdXbFR2NXM?oc=5",
+            "source": "Moneycontrol"
+          }
+        ]
       }
     },
     {
@@ -309,7 +325,7 @@
           {
             "tier": "news",
             "kind": "broker action",
-            "detail": "Ather Energy climbs as brokerage reiterates buy, sees strong growth ahead - business-standard.com",
+            "detail": "Ather Energy climbs as brokerage reiterates buy, sees strong growth ahead",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVh3WDFTTzBGMlFUUURWOTFEVlVSdGZySXF2WHNzaTczZGVIUjhHM2JLUFlialdRZzhIWFV4SEtTdHpsVHhXNzNiTHM3SERBYnFTTzI4V1dwTmR6RnAySlpGaTQtYzAxWDlMaG5jZ3BYYTJmdERZRHZSWHRUTGN0LXFKejF5U0ZsTVJ4Q3NpTVRxVkNQTFh2U1VOUHpBaW93a1JiSk50cjdQZHVkQTdnTHJ2TU1aVnQyNnVYbC1WUU5mWXg1eGRXWUR6Ti1ZVndxSkwwV3g2OEhhRVZFdWhXSS1RbWc3aDRJRlHSAe8BQVVfeXFMTkFiZlZIVVhmYTlOVUcyQ1JNMjBLbjF2NTRRZTVpWm5iMzk2bHJwTTIzb1dEZ0M3U1B2Y0hNeTBpbjFKbG5RQTVhRWEyQzA2VXo0SC1ZVGw1M1J4c0FHUThEVzQxaFduUGhPOW03TGl0RC1PVzc0TTk2LW5TMEkwUVpVNDZQaDg4MTJpcC1pc1E0WC1MbUpxYXJ0N29RUnp1SWJ3Y2dBUUdndFRXc3dvWGp1MnBzSFNHSFpKd1hvUjVUYllOWXVRYTJQZWlUUGV6OGRib243bGhEc0dqNjR2RjZwNWhCYnMwZ3FHQXU4T28?oc=5",
             "source": "Business Standard"
           },
@@ -334,15 +350,15 @@
       "raw_pct_change": 4.93,
       "corporate_action": null,
       "why": {
-        "headline": "Operations (Mint)",
+        "headline": "Fundraise Or Deal (Hindu BusinessLine)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
-            "kind": "operations",
-            "detail": "Ola Electric spent \u20b9229 crore as three-wheeler launch slips",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFd1R3Rnc05OcTRWU3p2Z01QOFVsbmpvRFUtSmxvc2xUWHlPWENGeVZQaFh2elBXT0FJRHNkSF8zZFZ0T0FieEZadEhrVnoyNXdtVXdPVzFRYmUwelF5YkdKTUk2VnF1dFA1bU51c2JhV01XRjVKU1dwblpBRlFvU25fNkk0WXBVVE1OWnRsZ1pLSTY1ZldkT2dyV2FTU2VH0gGmAUFVX3lxTFBBTDhqQVhKeUZIVHhZaWlGNm92UWJBQWdXb3BvV0tBSG8xSFlTeWJHUEswcElvSEsteEsybE1nbGhpR0xCMDNpcXRuOXBYM2RNeFlQNnZaV0VGb3gzTTNGUVFRQ1RyeWZiTFFocDdDYkhRalRaLVdQRzdmUEZ1MU1kTUZCdnc1bnNuYnFaVE96dVZxRDdQeG5oVEJ1WVhNbHJlLURiN2c?oc=5",
-            "source": "Mint"
+            "kind": "fundraise or deal",
+            "detail": "Ola Electric Mobility board approves fundraise of up to Rs \u20b91,500 crore",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaHhMWlVQLUMzWGFTMTFydHFib0hueFh4LWhpMV9Rcy1yVXVVelo3ZjBqb0lfNXlnOFVrNnQtY0c2SUNHeVJTMmdfUERENTZzMHhNS3dvX3VsRV9uR1VVUTgzQ00zX21UN3Y0d19sT1ktcDlqT2Qya2NCdTVwWmRzU0NvTEhnSV9mRVUxTlFzY0dYZnZrNEVhcm5BYTc1SVkwWUxhb1FvdDRMU0VoSTFoU3JLM1RybGgzdXN1VjRkYU9Pa2o3MXBSZzluYlZIaEMwTGhpemlSN18?oc=5",
+            "source": "Hindu BusinessLine"
           },
           {
             "tier": "news",
@@ -353,10 +369,10 @@
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "Buy, Sell Or Hold: NMDC, Ola Electric, BEL, Ather Energy And Sun Pharma \u2014 Ask Profit",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdZNWJFLU9RMnc5WExERmU4QUplMXhBRzFsRHNiODBlZkI0Q0ZsVDRhQzlWdjZmSEFHVUw1bDMwQTBtaWYyNzAwNEtZQWNTVHVZcklkNmhIWk5EX1BYWVExRkFMLTRnNDB0SWxJT09Ibm9KbFN5OG9Ed0pxejJEWXBTVFl1TlprT2t0ZmhjYzdJaUpJSmh2Q01JOFUxTEFnWGl4czA1bXFkaHNHM241VFJhRnY4R3E3TTVVV1N30gHGAUFVX3lxTFBzX013T2N2U0JIUnBmZzMwbi0xOGlWZnFhb2hRR1FGYjF3ZFJzZFItdHBhSzFtTDFlNHBBRkI3MzNicHFVY3VUSnNVMGlSVTB0VFp2Q2xvNmN2a1c5YW5MUGFkcktnY19DSk1ZTmhGRTRRQUJfSjVKY3RaNmNLblc0MWlkQ0RjV1UyYnJUU3JMcFMxdC1xX0pscS1DME45M25fblVmRUtnZnQ0OVo2SUJnVTRFcEZRaE9tcEU5RnU4bzR5WWVfQQ?oc=5",
-            "source": "NDTV Profit"
+            "kind": "operations",
+            "detail": "Ola Electric spent \u20b9229 crore as three-wheeler launch slips",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFd1R3Rnc05OcTRWU3p2Z01QOFVsbmpvRFUtSmxvc2xUWHlPWENGeVZQaFh2elBXT0FJRHNkSF8zZFZ0T0FieEZadEhrVnoyNXdtVXdPVzFRYmUwelF5YkdKTUk2VnF1dFA1bU51c2JhV01XRjVKU1dwblpBRlFvU25fNkk0WXBVVE1OWnRsZ1pLSTY1ZldkT2dyV2FTU2VH0gGmAUFVX3lxTFBBTDhqQVhKeUZIVHhZaWlGNm92UWJBQWdXb3BvV0tBSG8xSFlTeWJHUEswcElvSEsteEsybE1nbGhpR0xCMDNpcXRuOXBYM2RNeFlQNnZaV0VGb3gzTTNGUVFRQ1RyeWZiTFFocDdDYkhRalRaLVdQRzdmUEZ1MU1kTUZCdnc1bnNuYnFaVE96dVZxRDdQeG5oVEJ1WVhNbHJlLURiN2c?oc=5",
+            "source": "Mint"
           }
         ]
       }
@@ -442,29 +458,29 @@
       "raw_pct_change": 4.46,
       "corporate_action": null,
       "why": {
-        "headline": "Capital Action (Mint)",
+        "headline": "Capital Action (Hindu BusinessLine)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
             "kind": "capital action",
-            "detail": "PVR Inox buyback worth \u20b9300 crore opens today: How much can shareholders earn? Check participation details and more",
-            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQYWRWcktlNzMxMUk0OEpOVWkySzFSYkJQekctTlp6MEZ2Q2YzTFZFZjAyQUp5Wm5PM3JXUHJSUDBWTHp3aldpSXotM09aRnRxT1hGU1E1bjJUaE5Td3FvR1pIdW40S0IyQXN3RjVLTDZxZ3FHSDRMM0dPZFBtdG1nR1UxUC1hNlU3Y1E1SUJ5Z053dFBOYWhISmVtQW15bUhpRzhhcFM3My16NE1NZXJ5akt5SXAyZ3NLc3lUOWlpM0ZBSUxhOFJOQ2ljRmlLUS1BbXAwS3RDM1ZVbzBsQ19QYVU1MFpzOUlUZUdST2JtbjdpeXoyRXFmd1pGUDNCbXgwRllLN3BZbUUtc1dmNHNXRjdxRdIBmAJBVV95cUxNbkM4MzRiY09XREZrTi0td1BTNy1vM3phU04xUktnN0U3OHNTYkVmcWRWOHZtZWpCQlUxVmRIRWpGZ1FSRWxGblpvTGdXTlNKQjJlUHdLUElpSUFqdHFyLW1NU2lQMXN5eEtYZXVncFVpTjIwdUxZTWJWZHVxTXBJZ284WWxlZm5iQUhfd3pzX3FyUlNKWS1jVmRwQVNaQkE0MVdaRUhqLUd2TFpRZEFaczlUSUZOYUUwX05pTEZidUFKaVlmUFdTelhrWE1RaDh4UWV3M0R6ckctQklEQlVRVnlxOUtXVU9RRGpQd1FYS1NELUZrSFA2Z1ZiRE9mcC1mbmRwUURPaERMNGNvM1pVV3FLbmNGVjNa?oc=5",
-            "source": "Mint"
+            "detail": "PVR Inox shares slide 7% as buyback record date",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMEN3c1FaaVFCRjhzVnNUMVhlVUkxUnV1QUF0Q2pBRzdVODNVcTJ0ZGhnOThtWnhxTmxZVGh6ZW5jMXk4OUk5WmhGZGFFM0IzdUJSZ2dnUzhaTEJLd3hraDVZd0NpT1lsdFZpZTB6RUVaQmpUZ3o4bm9HUHNtcDB0b0pnMHZzMjlFUHBFOVdGU1oyU2lqVXR6dVVSV1RIckdvbXdJVDB0SG9WWnVnMHlRRUtoVUlvanZ5YXI1T29qZTUzNFd6cjJGUWg5SzQ0blN1TVBtckp30gHcAUFVX3lxTE1Zb0R4cW5PNXgyUWxxbE1seXk2ZXVKQkNYZzdiVnlWWkJyZmk4NlpfQnlXYnVFaTRDcWprNDFONlFub2FZY1d4T0NzVTJSaWVZS2NteFIycDlucGt4aWVfVDItZVg2c0I1MHkyVU4zeVhMSkRkVTZzbm5Ud2wxSHRYOVNLbWxLaFN6cUJ6WXZ2X2ctdXlOSnVNRWxUQm4tcUE5SUR3ZDh0NkhCWFg1aXZSeFlpRndiNEg2V010N1hDX1o2QklkOEt3aWh0OGFDc19MbmFnOEx0YTNKT3o?oc=5",
+            "source": "Hindu BusinessLine"
           },
           {
             "tier": "news",
-            "kind": "operations",
-            "detail": "PVR INOX launches first SMART Cinema in Bihar, adds 4 screens in Muzaffarpur",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWF5MUczd01TcmZZX2pSb1dtWmxTUkIwSVMtQ2l1Q1lOSTBfaHJPcnVUcHBUQ29sU1V3ZGFvc0NDN1d4QTZvQ09WSGpIdVM2OE5DOEVUZmJJQm5ISW1xbUp1SF9QRHZWLWt5c3pWUmRYYVhzX2JsTGVTY3JhdG1EREdjV0hWOEJLRWhyVE13RHA3azJ1T0xLdnk0WEJwMjNGdEZBdFlJdnJqc1lubndQQlFyT3F2cmlrcHE2a2VoU0RzMXE2QU9GczBnWEJ0UzJkenZ4S3JMNNIB3AFBVV95cUxONFF1TGRuWkJFUzd2M3FjdkI3VjA1eldSLWpKb3lNNm1SbWwxN3VtR0xQVXNGcHdWSWc3QkVwc1NVTERYb1dnYXdqXzM3ZzFwcTRTT0F0Q3d0R1pGOG5xUWVONFI1S29uVW1QQkk2UUVudU01aFNGRnhETUdmdzQ2ekE3YUJRak1nY0Qzd1pTUWVBTlFMUFFaUngzOVlDTnZXTHBjUmgwNlNydzVwNVM3eGJnYmlFVnVVZTVmblZ0V1RZeE10dHdhYTlCYUJxZDhsWE9uTkRBZnJnWFhW?oc=5",
+            "kind": "explainer",
+            "detail": "PVR Inox plunges 8%; sees sharpest intra-day fall in six months; here's why",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjlIOTdsaVpYdjc3VmNKMkNmNjFQbHB0bTZkRWUxd2ppUHJsRDFsSVlVeHZvdmExam8tY1F5Sk9xSDZIZDZlVnpoWDcwYVhleTY5cHlxUWxNZ05BZGhFZTBUeGRjNlNQY21zOFJCd05lR2xaNy1iNjZleUcwU1oxc0hsb0dyYlV3aHpWaG9zOHhVd2ZESVItVDd0UDhTcG12VExHTEN4dEdCVGRlNWVPb0N4SlY3b0RvVVNFRFp3NmdaN0RXYjM1UWNOZjZHanF0bmFzUnpR0gHbAUFVX3lxTE5FMGZ4ZE5LY3VGcmlwczFIZVItaTZYODF5RzZkZ1dSREFmUHZHdWZWdU1NcFRXY1VFVG12c0JoX0RTZHMxdnBBb2VoT0dlcDVSdUFoc2pyQ1pBTVltTFJQRXpLRmJNbWNLd05OcGR2VVpDdkQ2TWR2aW10Q3Iya2JLNGNMMDVCNmg3VmdUaFNZYnhabmlTMjNEVzlZbm1yUkRLMUZVdnhmU2ZyZ19rdUhzQUV2cDZCS28xcHNFTjFCRi1lRmRQSVhIdXRVZ014V2FXTzVFR25fQTFDZw?oc=5",
+            "source": "Business Standard"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "PVR Inox shares fall 8% amid internal probe into alleged Rs 200-crore kickbacks; company clarifies",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY21rblVCTGlZWS1CYWtlbXUwYVFCamNyUGFMX0RXZWtFQkh0Z216VlRlVFpqN0xrRE80WmVrWTRfWWNHcFBZTVFfQTN5M0VLRU44d1NIQklYRVN1Z2c0N3l1ZEt5TjJlRUNqUG41cFk2VldoSDVOdjVFUHRTMUNiU1VhY3J3TWRFaWYtRGhyX2psUHc3U0NHOHctcVpWV3E5UjFVeTdzc1pabFY0THNlaDRBeEZZY0k4WWhkSTVsbnFnODdNOVZfek9qM3V4OHNSUGFxRVpCaTJaUzjSAeABQVVfeXFMTzUtUWtTQmN3TEx5V3JlVjVSY2l1VlJYVHl4MWRnVWNzV1JUdUVGek90d1JkUTJ1MnNtdk5PaTNiV0p3cGJuZlpYNkgxXzFVWFR6UWV5V2c4eDB1N2FMbGV1SWxyNnRpbDJOUlpzWXVJUU8wNjViTGp6WVZIOTF0Ynh1N05QSGs0RlhKTFFCM0RQc0Y2MDNwX3lMci1CS3NRMEZuNnZ4b1JjNU1LNkRyZ2oxOC1rU0Z3Ykx5ZUdocWxjOTVKYldRbEYtNzVRRElyLUcwLXc5WmVFRnBheWZ2Vkw?oc=5",
             "source": "Moneycontrol"
-          },
-          {
-            "tier": "news",
-            "kind": "capital action",
-            "detail": "PVR Inox's Rs 300 crore buyback opens today: How much return can retail investors expect?",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3NzNGVSRUw4SUdzcG84QWdnZ1hCUGVrZnByMFQ1YTZKNlk4M1B2YW9tMy15dmVMemJDT0xaREt6MlFqeTlaa2JYUHI5eHFnNXlNTVM4aFdKY1NpWXMtN09jejRVOC1Dam11aWhUUjI0MlFiSzAtcVZzZ05fNGNsSU9EUVdsU3VhYVdzZTNRTjlrMHA1ekttWVg5LW9SU2UzMjlzS29yQ3oxU3o2NF9rU1R5MDd0TVZQWGYxOXdjTG4zUUNfbUctTmRCRnFYVlYtemo5YmdCR2ZuXzh3bnl4cXRsb0o4ZVU4d2V0X3JpeHFLZ9IB9wFBVV95cUxONkMwQ1dMTVBGX1R1UkJQMWFMTkNobVI5N1RUbnBYUlhtMTBuZHFxWEFvRmQ0TkFheXBKZEd3Y0Z2cnlJbEpET2tTdjlTMW95UTFhbkczOGsxaDhBMzF1azVHcVRYUVc5NktBNUtud3ZONl9hdEs2dzVjNFkxel9qMElhLU9GQi1UUTJlNW9aaUJ3cnQ1aFNpVWFlWExvV3NlME03am1ZelFNODRtR3c0Z2xDOE5hNE0wS01Fc3FNdUJSVFpISGlJYVhGRkRFcGZTbDhsdGt4ZERUVUVCdFdqXzZVNWVlT3p4R3Z5bHZGNmRWbU1oaE44?oc=5",
-            "source": "Economic Times"
           }
         ]
       }
@@ -480,9 +496,17 @@
       "raw_pct_change": 4.41,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Capital Action (NDTV Profit)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "capital action",
+            "detail": "Bonus Shares Alert: Pearl Global Sets Record Date For 1:1 Issue; Stock Up 75% In A Year",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm9WeTJteGRsdWIwOFBCNmVETTlBODJZczg4cURMbVNvd0xmU1ZWVEpFaUttZVlXbFhfV2x5aERpLUplUmhkelo4YlhqNFhZZXVjZkhGdXdGQWxfaFZmcmRWNDVGOG9WRi1MeHRoVURJa280bDk1VmFGWVoxSVR4YzRaZU1vTF95RXJmcTFiU3ZmX1FFUV9tRnNRTWNLNGRRTFBqV2RTVUNHOG1ZN1RfM2o0dWJUNEdzSHY2Z2FOd3NxRlRmT0xV?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
       }
     },
     {
@@ -613,9 +637,17 @@
       "raw_pct_change": -4.1,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (NDTV Profit)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: Vodafone Idea, Infosys, Havells India, PNB Housing Finance And Urban Company \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcVdIUTJjZTVRZGVnQmZuc3hQX1hoVV9fZmNhN01TRHk4MUpDMk5RTzRDZ2c5NV9oR0h3bFBVNE5lYU9jcUdJOWZSbG9VUVkta1hyMkF3VHZZdjlpQ21LaTBQazNEUU5MeUhXLURVTFMwNjFPdk50bl94N2hoV05aa2RLOXJlS1NGMHpZSlM5c2JyYXhGcVU5REdySGc5V1lWYk1yZUlGeWNHYVo5S2VOLURORHgyQUEtbEZMR1dVbWhuY1J3SHRaVWRxaFlmRjRxT2tCeFR3ODNLTXYzMnfSAeYBQVVfeXFMUGdtaE5LMkNfQUhIa3VGQ1RZT1p4NEdYZjNxdEp0bmRmdkFoemZjY05CUG8yb3VOdUtVankzN2VGbDhMQm80bmE4NGEtRkViU2FPM3U3X0pRSnB6SnE0Wm83T2hUajc4VzB5R0ZXYVVOaEl5TDV5NnlyUU5wOEY4ZV9HbFJ4eWxKMlB1SF9IcDJFcjhadUF1aWM1bW43QmxaR1BWbEFYcDE2VHB4N3dEZm5DQmdCbi1GWENZa09saGdsVVVmYmRZSUJIek5CTGZvLWtSNlV3RHBvdjlyTjNqeGNzcUpvV1E?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
       }
     },
     {
@@ -629,29 +661,29 @@
       "raw_pct_change": -4.28,
       "corporate_action": null,
       "why": {
-        "headline": "Fundraise Or Deal (Mint)",
+        "headline": "Fundraise Or Deal (Economic Times)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "IFCI shares slide 7% after stellar 30% monthly surge amid NSE IPO buzz",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbjZBQjIwSVNBZXEwRk5NejNxS2xweW0tOWVVR01WVTNjcHQ0YmhvQlpSOHgyM0hDUE94c0FDSmdoNE1BWG1uS0V3YWc5ZHUweV9FXzBVYktOZk96N09hMUZGcmlkaWpMZjVXRDJVTTMwYk1FMGNaTmVXNnJaOHN0UWhGSFYzamdxcDRFdHUwRWlkcDdTT0d4YVY1NnVIZFFTNDcySHRacGVCbGhLc0F1NnROWmlSQUhmMXVBMnNiZEpodUh2UWx6SE0wWDBLUE1TWmpEUVlHYmJqUdIB3wFBVV95cUxOTEhYSkJzcDI4M2hXeWtDZHQ1V193WWNUSW1UZnNCNG9aUWxySXQ4QlNua3d1cmF1X2hsdV95SXVHRUpwT1hPcS1mNEw3LU53WDA2ZjI0MFlMM3BkcjRxRXphYWlZcHZtSXdwLUV6c2t4UTJLSjZMZjBTOEZ0bmdtV0JGOG50VUxZYlFrc3dsZ04tUXdxZUYyZUt3dFlyT1U1MkRrT0V4UzkwVkVzWFhkX2pkYUZvUGRkaXJlSTBLZjhjOE9LQnpTVjVHSHgxcTUwX1ljTGY1T2lwRmdmVFJF?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "NIACL, IFCI shares fall up to 12% amid profit booking as NSE IPO GMP declines",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWNWd19SSXQyN3g2OTd5Tkt2STFYM1RWbXR5SXl6ZWxSSjVwVG01dWR3QXRkOFIweUlmRlJScXpWQUwxWWVfa1NXaEhqRWtud01ydHJVUUtlMkVKeGRUMUVMNDBzUm0tZ1VhbU5mdUtwMjE3ei14Y1Y3dWMwZjVfRXBJcXdBXzdaRjJLUndTc3RnWmMwclhvNmJKeHd3Mk9vRGgxVV9HMzJOZVljdkljX3R0b2lKM1NQYUVRaUtVdkFZM2txdXZQWTA0VGtpQUg5eHdZQWtzc9IB3AFBVV95cUxQTHhVTzB4VlZtaHJfcGN5TlZYSDFsWlkzTFpoX1RkQkR1b3F5VGx2MFBUQzlpellZWFdHWXpRYkQtNzd5ZmtiRkJUeUtkQnZYUnJWY0hqTHpHbkZwR0xOUUNUdzY4MmJ5Z21RWEE3NmFGcjBSQWhIUDVLMkViZ1ZDdF9jbkhqUklwc3BzbldFYnEwZFJNZ3hmNWlZZ3dvT1Z6Ym5ERnBZTndkekZLMW1iWGpBeU5xcmFPZXRSTzk1Nzc3bnpEQXZuNU1yWjZuRUlmbUwwdlp6eVR0YnJD?oc=5",
+            "source": "Moneycontrol"
+          },
           {
             "tier": "news",
             "kind": "explainer",
             "detail": "IFCI share price down today- drops 14% in 2 days- Why is the stock falling?",
             "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaGlkRFZLVjBSLTl1N0pyX21obEU0ZFFRWDJpYzVQR2hGX2xvaGR5Rlg3dlRCeTJPN3NsNGF6R0w0dHJfU0NRbFJZNEpLeVVmTHljcEZPZEpyNzJIZnF4eVZFT082QkQzVlpzb19ZRVZWT1VvUjh4VjNPX0lvM0JfbEpqN1k5YjRlMk9WWi04ZXpDUWdSN2pTa25PbE1EaFBMcmI4Y1ptZ2hTa3YxS00tTzJVZy1KZU1DNkEzSE5mVGZRMS1wZWVCVW03U2s3SGRzdV9Hel83a1HSAd4BQVVfeXFMTWFiSUlTNFVDcmF1Y2oxYW1HUEN4M2hmeVdxaHdhMVJVbW1GS3luNlRJellNTGhmX1BoUDEyUnN0QkJZSmRvRGhCNjY4cmV2c1QyREI4VGs3U1g0V3lnZGN6aU5nREdYSHJwZXEzUmxFSHdEemladXFUWm8tRUlXUVVDSkFqZkJORDRtZ0Y2Q2xrYnVXb0tmcE1QNmxwWW12NnpzSF9NN1JWVDhDTWY0Y2pVV0xqdjNtQUQ0QktWVmpDTFJEeGRxSVN1MDdwOEJjUlV0elhCM3E1cE1iNTh3?oc=5",
             "source": "Mint"
-          },
-          {
-            "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "IFCI shares fall 4% on reports of lower price band for NSE IPO",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2h2YndlUUVHZTNiMXF5ZXBHQlY5NGV5QWdCWVl0WUNEYm5SSnlGOTRXNFNMeHlYdjFDSTVaSjBmUUtZSzFEQTF5aDY0ZURVMDBrNXcxNzhtN2VOYUxLbE9DR0tnTFJ5WDZMdU53VWttNzJyLXhIX0VNZVZOUFJpSlNKV0VWUHZfREJHT1N6LUJYTFVBWnJCeGhKXy03R3VqMjZNZmJOQTZVQk9PeF9PQmliNHFxYnZOVXVXaktnZkJwWG5BdjBOQ0ZUbnk5SnhP0gHWAUFVX3lxTFBmMmVDamRpS3plSTlHLVFYUEpMN1huZFhIVUtHeGRfbW1hdEExV044aV9Jalcxd29EQ3dCdm9uSV9VQnJlM0VkRkE4NF9Pek9kall2aU11V182N2hidHd5dFlVTU9ISXhwbVh5ejl2MXFsVi0ySmI3S2JsbGVKcEUyeVZMbEh3Y1Q2ckEwSDN4U2FfVWN0b25hbFFwSVQ4YTd1anE4cGpZVmsxWFZIX1ZKUUtJZXI3T0RxalRwTnI3WXhuNkMweEhyQ096YXU5aHR0bVJvYWc?oc=5",
-            "source": "Economic Times"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "NIACL, IFCI stocks slide up to 14% amid profit booking, NSE IPO GMP dip - business-standard.com",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMXl3ZHBJWktWLU1nc01FbDNYMHI4TGZPanpieU1waHgyaDFna3pmT3hYQkV4ZFdBSC0wQ3VJbGVwaWo0TTJKOGR0Yml2bWYwdHpCejM1akEzc0gtUnZYVjFTdmxNbWpRYzdwWEowczgtNnJwbkJTWm5IX1haeE5yN2kyTXRfd05mWXZ6blhBaDIyWkFHazJXRDhuUzBVQ2JpLVhGOTg2T2h1emJEbUl2SEJ3Z3F5c3cwZGZ5V3A5YVpESWFtYm9ScnNwVGpPaXBL0gHWAUFVX3lxTFBCMk95U00zbHUtbHJHSkYxZzRLWWlCUnU1MHlaa0pva2l5ektpYU9reG1HM0pQQUpha3JFV2NjcF8wNWtNZVlvNWMyb3RBaTdOSUs2VVM2S0g5YVRvbGxzSE5qVjZmTDg5cHRHMWs0TWktSWY4MW9RVkJ1TUhELVdpaTBFakxzYzJQQXMtQWFTWWhQZjVla3hiOG5HeVFpME1KMTZCaDA5UHZIMUZISEt0SWhud2d3OC0yV29jcVJFd1puRmhkb3NkbVQ5NlVjbHNBRnltVHc?oc=5",
-            "source": "Business Standard"
           }
         ]
       }
@@ -698,9 +730,17 @@
       "raw_pct_change": -4.44,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "M&A Or Stake (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "SML Mahindra shareholders approve acquisition of M&M truck and bus division",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTWVUYURQNHRnaV8xaC1MSlhReG5sbXpjQi1yOHBnR25raDRITHpRcWNKcWJKR1NfbE94M3VwalE0S1FFdDBhOGU4bEcyMGRHN3RoNGJoREFiNWRoelBqT1JWbGpIZDVLS1F1WHNHMHE4MV96eXotLTV4TGMyRi1mX25IZTN0NVl0aEFORVVNNEJhZWpuU2g3YWM2SUNOZzAzWDE0REhSN2F1Z1BkY0JNMWxJUExLeGdxYi1qVElvcHBzSzg?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
@@ -770,17 +810,9 @@
       "raw_pct_change": -5.03,
       "corporate_action": null,
       "why": {
-        "headline": "Operations (Moneylife)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "operations",
-            "detail": "Sai Life Sciences Bets on New Capacity, Peptide Push for Second-half Growth",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0c4aVk3SXpNWkxUYWJxandtQ25uOGFLTWNxbzJZTC1tcFNBZDZfT1hfckIzc3FwejJRYjU1V0NtZFRUekcwOTY0b19vTl90OHZKdnBPSWRibHg0OUprY2g5Ul9oSUQ3VWlnZjF2V3dvci00UG9aVmVEaGVnNTdRY3pzd2MtMFR4Y3g5TkgzUmtFbEp0Njd2cHVHdGw2M1NYdnYwQUwtY3JBcmtIeHZTak4zamk1U3hq?oc=5",
-            "source": "Moneylife"
-          }
-        ]
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
       }
     }
   ]
