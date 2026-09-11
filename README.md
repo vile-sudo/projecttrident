@@ -1,6 +1,6 @@
 # Trident
 
-**https://vile-sudo.github.io/nse-screener-dashboard/**
+**https://projecttrident.onrender.com**
 
 Closing moves of 4% or more on the NSE, and the delivery behind them,
 from NSE's daily security-wise bhavcopy. Rebuilt every weekday morning.

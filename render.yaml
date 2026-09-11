@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: projecttrident
+    runtime: static
+    # The pages are generated upstream and committed here, so there is
+    # nothing to build; Render only has to serve the repository root.
+    buildCommand: ""
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false
+    headers:
+      # The pages change daily, so they must not be served from a stale cache.
+      - path: /*.html
+        name: Cache-Control
+        value: no-cache, must-revalidate
+      - path: /*.json
+        name: Cache-Control
+        value: no-cache, must-revalidate
