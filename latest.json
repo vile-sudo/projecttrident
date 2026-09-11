@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-09-10",
   "threshold_percent": 4.0,
-  "generated_at": "2026-09-11T11:12:49+05:30",
+  "generated_at": "2026-09-11T11:29:04+05:30",
   "stats": {
     "scanned": 743,
     "flagged": 32,
@@ -82,9 +82,17 @@
       "raw_pct_change": 6.47,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Broker Action (Analytics Insight)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Acutaas Chemicals Shares Jump 7% After JM Financial Gives \u2018Buy\u2019 Rating",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFVpSWVOZTA2RmN1dHNHOHJPUmxHVE9oTW9CalI3b05Za21NTVBISUNpRWItaGtIX01tUXg0MmV2WGg1cHdPbWxyYkdwUTdfNmlTUk9KMHR6ZjI1WlpFVjZKV0FWWURraXRSd011djNkbEdyMU5KUFYwN25ZZGRxRC0xWk1fRE9IY1Rnb2g2NFY2UlFuckltTDF3d1lQYnd5cV9Mai1NeE9QcjRybVgtVnctTDd1QdIBtgFBVV95cUxQSFVpSWVOZTA2RmN1dHNHOHJPUmxHVE9oTW9CalI3b05Za21NTVBISUNpRWItaGtIX01tUXg0MmV2WGg1cHdPbWxyYkdwUTdfNmlTUk9KMHR6ZjI1WlpFVjZKV0FWWURraXRSd011djNkbEdyMU5KUFYwN25ZZGRxRC0xWk1fRE9IY1Rnb2g2NFY2UlFuckltTDF3d1lQYnd5cV9Mai1NeE9QcjRybVgtVnctTDd1QQ?oc=5",
+            "source": "Analytics Insight"
+          }
+        ]
       }
     },
     {
@@ -122,9 +130,17 @@
       "raw_pct_change": 6.32,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Maharashtra Seamless FY26 net profit at \u20b9718 cr",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObmNBSVdUcWZPdzkxUWIwY21fRmEtNkhGaFhDNkVZcFBRWFNoalF4ZHB0RkFyZ2p5cEdZaVFLTUVoYUpySmtHZkMyWW1TeTZJbHFpSHN6azhWV1FhSUtUQi1TZ2xnaFBnbHdteHBnalFNTXVZbm9PQ2lIblBDWnZkMzNGam9fYUV2TUU3bTJlRFBmX09MVVd4S1pKdzY4ZjVrY2w5cWZ6LXRMNlpPWGRiSTZEX1h2QzBI?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
@@ -256,9 +272,17 @@
       "raw_pct_change": 5.02,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (Sahi)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Electronics Mart Upgrades Guidance, Expecting Gross Margins Above 15%",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmhDMEdELWJ1NVJHVHZxSTFyUFFNS3VpNm1FbUsydFF5VDlZTVhDb1NXNHFpWm1Ic0YzZnJ1UlJkbzB3bHR5UEFJb2RWdjlQcUFfX1lYakJkaVE2WEdfNU5GMEN1aXlZNjFKZFZyMi0yNFlBbEdYbngtTjgyNmVNd2t0RTktRXRxb1d5LW85SFhDLUcyTy16WkUwaWNLRjVfMmhhM2Y1ZHdUZw?oc=5",
+            "source": "Sahi"
+          }
+        ]
       }
     },
     {
@@ -285,7 +309,7 @@
           {
             "tier": "news",
             "kind": "broker action",
-            "detail": "Ather Energy climbs as brokerage reiterates buy, sees strong growth ahead",
+            "detail": "Ather Energy climbs as brokerage reiterates buy, sees strong growth ahead - business-standard.com",
             "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVh3WDFTTzBGMlFUUURWOTFEVlVSdGZySXF2WHNzaTczZGVIUjhHM2JLUFlialdRZzhIWFV4SEtTdHpsVHhXNzNiTHM3SERBYnFTTzI4V1dwTmR6RnAySlpGaTQtYzAxWDlMaG5jZ3BYYTJmdERZRHZSWHRUTGN0LXFKejF5U0ZsTVJ4Q3NpTVRxVkNQTFh2U1VOUHpBaW93a1JiSk50cjdQZHVkQTdnTHJ2TU1aVnQyNnVYbC1WUU5mWXg1eGRXWUR6Ti1ZVndxSkwwV3g2OEhhRVZFdWhXSS1RbWc3aDRJRlHSAe8BQVVfeXFMTkFiZlZIVVhmYTlOVUcyQ1JNMjBLbjF2NTRRZTVpWm5iMzk2bHJwTTIzb1dEZ0M3U1B2Y0hNeTBpbjFKbG5RQTVhRWEyQzA2VXo0SC1ZVGw1M1J4c0FHUThEVzQxaFduUGhPOW03TGl0RC1PVzc0TTk2LW5TMEkwUVpVNDZQaDg4MTJpcC1pc1E0WC1MbUpxYXJ0N29RUnp1SWJ3Y2dBUUdndFRXc3dvWGp1MnBzSFNHSFpKd1hvUjVUYllOWXVRYTJQZWlUUGV6OGRib243bGhEc0dqNjR2RjZwNWhCYnMwZ3FHQXU4T28?oc=5",
             "source": "Business Standard"
           },
@@ -605,7 +629,7 @@
       "raw_pct_change": -4.28,
       "corporate_action": null,
       "why": {
-        "headline": "Results (Mint)",
+        "headline": "Fundraise Or Deal (Mint)",
         "confidence": "medium",
         "evidence": [
           {
@@ -617,17 +641,17 @@
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "NIACL, IFCI shares fall up to 12% amid profit booking as NSE IPO GMP declines",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbWNWd19SSXQyN3g2OTd5Tkt2STFYM1RWbXR5SXl6ZWxSSjVwVG01dWR3QXRkOFIweUlmRlJScXpWQUwxWWVfa1NXaEhqRWtud01ydHJVUUtlMkVKeGRUMUVMNDBzUm0tZ1VhbU5mdUtwMjE3ei14Y1Y3dWMwZjVfRXBJcXdBXzdaRjJLUndTc3RnWmMwclhvNmJKeHd3Mk9vRGgxVV9HMzJOZVljdkljX3R0b2lKM1NQYUVRaUtVdkFZM2txdXZQWTA0VGtpQUg5eHdZQWtzc9IB3AFBVV95cUxQTHhVTzB4VlZtaHJfcGN5TlZYSDFsWlkzTFpoX1RkQkR1b3F5VGx2MFBUQzlpellZWFdHWXpRYkQtNzd5ZmtiRkJUeUtkQnZYUnJWY0hqTHpHbkZwR0xOUUNUdzY4MmJ5Z21RWEE3NmFGcjBSQWhIUDVLMkViZ1ZDdF9jbkhqUklwc3BzbldFYnEwZFJNZ3hmNWlZZ3dvT1Z6Ym5ERnBZTndkekZLMW1iWGpBeU5xcmFPZXRSTzk1Nzc3bnpEQXZuNU1yWjZuRUlmbUwwdlp6eVR0YnJD?oc=5",
-            "source": "Moneycontrol"
-          },
-          {
-            "tier": "news",
             "kind": "fundraise or deal",
             "detail": "IFCI shares fall 4% on reports of lower price band for NSE IPO",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON2h2YndlUUVHZTNiMXF5ZXBHQlY5NGV5QWdCWVl0WUNEYm5SSnlGOTRXNFNMeHlYdjFDSTVaSjBmUUtZSzFEQTF5aDY0ZURVMDBrNXcxNzhtN2VOYUxLbE9DR0tnTFJ5WDZMdU53VWttNzJyLXhIX0VNZVZOUFJpSlNKV0VWUHZfREJHT1N6LUJYTFVBWnJCeGhKXy03R3VqMjZNZmJOQTZVQk9PeF9PQmliNHFxYnZOVXVXaktnZkJwWG5BdjBOQ0ZUbnk5SnhP0gHWAUFVX3lxTFBmMmVDamRpS3plSTlHLVFYUEpMN1huZFhIVUtHeGRfbW1hdEExV044aV9Jalcxd29EQ3dCdm9uSV9VQnJlM0VkRkE4NF9Pek9kall2aU11V182N2hidHd5dFlVTU9ISXhwbVh5ejl2MXFsVi0ySmI3S2JsbGVKcEUyeVZMbEh3Y1Q2ckEwSDN4U2FfVWN0b25hbFFwSVQ4YTd1anE4cGpZVmsxWFZIX1ZKUUtJZXI3T0RxalRwTnI3WXhuNkMweEhyQ096YXU5aHR0bVJvYWc?oc=5",
             "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "NIACL, IFCI stocks slide up to 14% amid profit booking, NSE IPO GMP dip - business-standard.com",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMXl3ZHBJWktWLU1nc01FbDNYMHI4TGZPanpieU1waHgyaDFna3pmT3hYQkV4ZFdBSC0wQ3VJbGVwaWo0TTJKOGR0Yml2bWYwdHpCejM1akEzc0gtUnZYVjFTdmxNbWpRYzdwWEowczgtNnJwbkJTWm5IX1haeE5yN2kyTXRfd05mWXZ6blhBaDIyWkFHazJXRDhuUzBVQ2JpLVhGOTg2T2h1emJEbUl2SEJ3Z3F5c3cwZGZ5V3A5YVpESWFtYm9ScnNwVGpPaXBL0gHWAUFVX3lxTFBCMk95U00zbHUtbHJHSkYxZzRLWWlCUnU1MHlaa0pva2l5ektpYU9reG1HM0pQQUpha3JFV2NjcF8wNWtNZVlvNWMyb3RBaTdOSUs2VVM2S0g5YVRvbGxzSE5qVjZmTDg5cHRHMWs0TWktSWY4MW9RVkJ1TUhELVdpaTBFakxzYzJQQXMtQWFTWWhQZjVla3hiOG5HeVFpME1KMTZCaDA5UHZIMUZISEt0SWhud2d3OC0yV29jcVJFd1puRmhkb3NkbVQ5NlVjbHNBRnltVHc?oc=5",
+            "source": "Business Standard"
           }
         ]
       }
@@ -643,9 +667,24 @@
       "raw_pct_change": -4.44,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Management Change (Sahi)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "management change",
+            "detail": "Laxmi Organic MD & CEO Rajan Venkatesh Resigns Effective Nov 13; Harshvardhan Goenka Named Successor",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3VtOHRiSU92YWNyOHRERWFfZ1B1SmNpaEZIdVRqZVJhbGpCMHRZWDVOWVpQRGRVdTRqSEVtTXJWZE5QbFQ4aTA3THNyamVGTWtXYlBrQm1vWEhxeGw3WGV1QTJVMllIbDBZdWFOWlZnV0ZiSElnUnpBUGhzV05ISFVmajNiSjZhU0ZEMDFNX0E1MG1hZV9uQ1Y2bzhIakh6TTRwMVVGU1pkRGVoZTYyeVRyQ2FPN0tkZGFOMXFCWkpjM3ZKbkNTaHlPd19ZRDBFelE?oc=5",
+            "source": "Sahi"
+          },
+          {
+            "tier": "news",
+            "kind": "management change",
+            "detail": "Laxmi Organic Industries appoints Harshvardhan Goenka as MD & CEO",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXlqWWMzZjlRbTJDd2hYN3BjdEpiTmlGX0FIT3haWEl4X0V5U25RcUZEQUNITGk3X2U1MkxkTjZnX1JwVzYxTVlvV0dkWnpKdVFLa3o0MHNYYlFHY2RxOVRINXVzaFo3MEhaX19UN0ktTEtjX1J3Q1lkVE1td1lvRi1JRzdtZmhmemRKOXB3QVV1bF9qUklVQ1VfV3pKZXBzVE95dmdhQ3BhRVBReFVXM1kwMTNWdw?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
@@ -691,9 +730,17 @@
       "raw_pct_change": -4.85,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Pledge Or Encumbrance (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "pledge or encumbrance",
+            "detail": "Afcons Infrastructure sees release of encumbrance on 9.2 crore shares",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXzZFMWhraW9WMDI3S2Jkb2FhdGQxN3NieGhpd2p5eHZCV1M5eExIYm5QSzlRNFFxWVp2MFo0eEVaNDdPbk9GUmdMdFg0U0MwS2h4Y1h5TFpqSklTMFdCMkdQWll2UGU5R2xxMmJienhrbnNqalVZRGxMYzcwZU91d253MHoxS0p6b0VHaXJfZE5UamtwejVKVWJPWFB3b3BTZkNURUlTbC05RDVQM0ZIQ3hQY2I0VlpRMzNnRmtJZzdETE8w?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
