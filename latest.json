@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-09-10",
   "threshold_percent": 4.0,
-  "generated_at": "2026-09-11T10:53:42+05:30",
+  "generated_at": "2026-09-11T11:12:49+05:30",
   "stats": {
     "scanned": 743,
     "flagged": 32,
@@ -41,16 +41,16 @@
           {
             "tier": "news",
             "kind": "order win",
-            "detail": "Shakti Pumps shares jump over 12% after \u20b9236 crore supply order from Maharashtra; what investors should know",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdkhsb3VlUy12MHNCWkljY2lnR2FPT2U4NG5VSTJKYnVCUFByalBYRjFNNERrXzJUMzBNbkZBY3lkU0U5MjJTdXhsck4zMFlwdzcxWHVhVkI2LXVYU0FjMFQ0SUpCRXA1ck8zUFFUS1p3bHVfYXkxUlNMd1ZUU2lRdFVqNjByYWhtYjlUZDNLRUlYam9vc0lzc2dqbkN5Z3VDeGJzcHBFNzk0WEU4dVZ2WUNxd2dBWmo5b0c3Rm5JbTlnMXNlY3hCUjJ0UkxSZFdBUGJNOHZXNDdITDQxQXcteFBZdzUxTWc3elV6OUwxSHJOVlZqRS1n?oc=5",
-            "source": "Upstox"
+            "detail": "Shakti Pumps share price rallies 12% on \u20b9236-crore MSEDCL order win",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjJFbTBIbU1Pa3FBTkJWUVVJZ19SdTVxanZldDlTbTREbkJhVGtkZGl5WGZTcnRzWjJxSlJpQmFBa2tWcm1BRzNYX3lwYmpEMEZ3dFJwRVVVWTJIN0x3aXhVclNhQ2VaV0VHMkNpcVJTaHR3eUhsU3hRcF9nd1VFQUpObHR0ZlBjdDNab0Z5cnVacFBFNTg1RVdEMTFqYkktVmRiZEMtVkFoWDY5NXFYTHd4X2kxbk8yNlpvTjR0dzd4YzNoSHRtemh5V2HSAdIBQVVfeXFMT3I4RHBDaElwVTBFYjF0Z0lrV2JfMkFQWTg0RXk3M1pmM2FuZW5nYVFzaDZJR084WkFZaUFVaUstZ1FBbW1xVkU5cFBfMnRFdVlZSWJVWFNST29fMkFzWGhsV0NJenl6eGdfZ0tTUUdOcnFhRTdPdS1FYWtoWlNNSFoxcTlWemVVR1RQb200WllSWnlxUG9OTHZVYUNnXzA5djZIeFBYWm43OWFjRDlSVUNjRWpndi1sODF1R3JNSGxQN203ZWZNU0c0N3RzOWRRVnNn?oc=5",
+            "source": "Business Standard"
           },
           {
             "tier": "news",
             "kind": "order win",
-            "detail": "Shakti Pumps share price rallies 12% on \u20b9236-crore MSEDCL order win",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjJFbTBIbU1Pa3FBTkJWUVVJZ19SdTVxanZldDlTbTREbkJhVGtkZGl5WGZTcnRzWjJxSlJpQmFBa2tWcm1BRzNYX3lwYmpEMEZ3dFJwRVVVWTJIN0x3aXhVclNhQ2VaV0VHMkNpcVJTaHR3eUhsU3hRcF9nd1VFQUpObHR0ZlBjdDNab0Z5cnVacFBFNTg1RVdEMTFqYkktVmRiZEMtVkFoWDY5NXFYTHd4X2kxbk8yNlpvTjR0dzd4YzNoSHRtemh5V2HSAdIBQVVfeXFMT3I4RHBDaElwVTBFYjF0Z0lrV2JfMkFQWTg0RXk3M1pmM2FuZW5nYVFzaDZJR084WkFZaUFVaUstZ1FBbW1xVkU5cFBfMnRFdVlZSWJVWFNST29fMkFzWGhsV0NJenl6eGdfZ0tTUUdOcnFhRTdPdS1FYWtoWlNNSFoxcTlWemVVR1RQb200WllSWnlxUG9OTHZVYUNnXzA5djZIeFBYWm43OWFjRDlSVUNjRWpndi1sODF1R3JNSGxQN203ZWZNU0c0N3RzOWRRVnNn?oc=5",
-            "source": "Business Standard"
+            "detail": "Shakti Pumps shares surge 12% on Rs 236 crore Maharashtra solar pump order",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONFVCeXNmSnZhWDdHaEtKY2Q3d3FMMHF4SGxJV0lpV245OTdnQzZ4dEtpazA0cE96WlBqTzR3YTVjS1Z2YTBkV2M0MmtHc2JOMTlJYWxtNlU1SmpxTXNmTzFvNmRJLUh6M2l0dzBxLVh2aW4zbnBWTXhjcWhwbC1RSUNQYnNQUENqZFBKaW1oZ2RfTEdjNUJhamx4OS1mZjYzc05LYnpfazR5bkphQ0RZWHQ5cWNuOWxWVmR1N2czUHMxcFMydFQ0LWU1U05oX1ROaEVsMHMzTVhZUm9nNDdQUtIB5gFBVV95cUxOWnlnTkNuV0lWdUx3SGtWbGQzZm1jQ3R3RUNiYmVNcUh4b29Zc1BaaFJrTjFpaVpILTE5b3l5YkFvam5tTkcyQWVRNjZHUHU4NHVPMmFqT3EzeVlzbnljbDJHaXRVNUFRdGhQcmtFSldKTmxQdkZpdjF2bnNkZ3pUVE9WSmMtbTJsZ1hIOUpDa1BGaVpCUG5IUFF4SXl1VVdUN1RaMmtwSFdpNEtFdFNRWTFLS2FIV2pUVVBSUWczbVN3dzEzVTZvblA3UHlyLTBQOTE1bEVqS0oycmFsWV9UWEpUNGJLUQ?oc=5",
+            "source": "Economic Times"
           }
         ]
       }
@@ -98,9 +98,17 @@
       "raw_pct_change": 6.46,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Broker Action (Businessworld)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Welspun Corp Hits Record High As Jefferies Initiates Coverage With \u2018Buy\u2019 Call",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMm9NckJYUWNiWXhPU21LQzJseTloVlVCSEV6MzBXTkxZcjlOYXdsZ3FCaXEybDd5SVBoTTRJOW5EaTB4UEstUUowNy1qWUFvMDdWWnhTYzNiMXdsYldqdHIzY3BUY085OUNvVVB1dURxSXdaaERqVmVENlNDVjctdmstdmJ0RnJwNnk0NEdCSktvTzJKeEFzMVkyUldaTnV1UURITkJEOEFwTXY2RTBjbVVaUEpJSlFuOEk4?oc=5",
+            "source": "Businessworld"
+          }
+        ]
       }
     },
     {
@@ -136,9 +144,16 @@
           {
             "tier": "news",
             "kind": "fundraise or deal",
-            "detail": "\u20b9600 cr Neogen QIP: Floor price, key dates, discount option, approvals and other details",
-            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaGFuaXBoY1cxRXFkUjhPOFN2VmJPdTJLVng1RGJvbWlGZWFtMmlhaTBPZlNpT0NBX2tQUUhCVUVzbkEzcWhnVXROUHh2SUVKU29RSENCeS15bjdtaWZnMGc5SHZjWnAwTlNFTXJ6Q3dhNEw0cVVXQ3VrajlEall5eUo4ZGc2cDFoNDBNQ2ZvMmV4Z09CWURDWTZudGs2azNRWHZxTHFwc0FkY0RuYUxXZmJVeU1tbUJRNkdFVzEtaUlvY2JrWXBhcFE3Q0NYS18wX28wSnRKX2pZSTdSaTRIdERycGxvby1mNTE5StIB8gFBVV95cUxPT1RGZ2VqRTRqX0RIVFFyY0dMeXVMT2F0VnJpdUhsaTBNandHbnEyMUw2TUY0eFFIQ0d3X3pQSXdHT3BzZ0M1VTR4am1nbWJGUW1xeFRSenpBbzFrNzRza0phZEJ4ZG1YdzRjb3JBUUI3eWN4djZXMlVXRFVfdUJDTTRoVWFtSVMxWXVMYndZWXJPc3NLMXo5cmJSSUJfdVlZNlhXdExnRVBCYUFBUWtBNl9MN0NrQVNvek4zZ25VdmVCSWtuMk5PWDNnM2VjNDBTUXA4RjVLcHFreWF4UHZnQkRIdlZBcVR1aGR5SkFOSVBkZw?oc=5",
+            "detail": "Neogen Chemicals share price falls 5% after board sets QIP floor price | Check dates and details",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVFMzS0FHVlhuRG5EdE93ejltRXhtSXZCak5GM3N5TXhWTW9rc1Y1MWNfenZ5NjlHazRSdFNnTzl3d0dRbmZ0VXNoM2Y3czJ3Qkg1VEJLUW1QWURfNVlfSzFHdXVaNTFHYzhXaTdhYzZ6MUxIUGRyeV93SjFwTndqOXFBUTZJOTFaSUpYMkptMXUyNlpSTGowNmo0WEhGZ3plQ0tVbGpXODlpaTk3a3ZtN1FLTXd3SVdEbnJJajdYeDB5ZGdTZEpGUjYxM3hlLVI3WFVOWUJVN0M1T0djZW5LLTdDekFXZ2FXdWVnTXAwQTR3WnZqODlmdTlqTdIBgAJBVV95cUxNSTNBWTJEYWU5b20waXY3MU9nRnROT0NOSzNSZHV4Sl8zN3pKRS1PektxX3N3aVRjMzZEMDB0eVlteHBlWVNXTFlwZ1FXSGhHUVl3UjVHTTByVDJNMFc4YUtiWVljTlpzV3l4Smx4RU4yNFBwdkUzaElMNFI5amJCRUxPQnVMaVIybDZldXdJQWxXU3NLbkxKZ3hTX2MwWGlDVl84WWlWX0REaUJpUGlqYklBTW1PRzRkdk5oS0V3UXRuc1hfTno0OFF6b3BvQzFPZEhsZmtib3lOX2tTeFRnbUtabGdIQncta2lhTWlEM0s0VDNwd0Z2S25KbTBJV1Jl?oc=5",
             "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Neogen Chemicals launches QIP issue to raise funds amounting to Rs 600 crore",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTTZpQ3l3RFY3SW4wc0JEUHE2Tmtyd0RvODJKM3ZmN0FFYU9ocXdibHR1dWp6VzlLbkpnRjUxNThkR0hBM0NOZGh0N0tPdjNjLXgtV1hidmhzY0Q0T2pKR1J1eHRLcHRuRXNBd0ZWay1nOC15NGlhNTdZSFRnOGJXWFYzRGZpdzNtRHVqeWxFLTZBS3NFZDA3eHJJQ0pNMkJqTU9tMHBja0U4bUlMQzY1WXVkUTFGTWlfN1RDS05PeEtkMzViOFhCaURKWl9jYi1YWFNDYmdPUGlXZHY0Tk5VR1Z6LXNKMVV5Y2dnRjJjSdIB9AFBVV95cUxNZmVCTzdKRXhKd2JxdUpQbWNWa2E3emVMV0hvMXZkY1JpOVlRSkxTelh4MW5PVWVibGpNMVpHY0lORy0zWHNDWTM2UWVHVUliUnNvN0pGWS04b1p3eUx1SmN6eUJnOHJxeEZmTS1mLWYxOU4wNUFCOXEwa1gxaU9mR1ByMzFsc0pkV1BxM1RoWmM2djRkbzZOM2FrQ3lpc1ZRRHltMlRXd2E0ZXlsNUZUcjhsWFV4SkN5Mk5IOFoxdUpEbFE2dXlrRXdteGFrNVRZT3U1VDFoNEVoTHNHelZXNTlTQ2hiN3hrZUEzaklBeTIwS003?oc=5",
+            "source": "Business Standard"
           },
           {
             "tier": "news",
@@ -270,16 +285,16 @@
           {
             "tier": "news",
             "kind": "broker action",
-            "detail": "Ather Energy shares climb 4% as Nomura raises target price; what foreign brokerage says",
-            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ0ZOa3JBYno3cFFMLU9XTmJZYUt6bzlXYUF4VFlfUnZkS1FLd2FZUzVUWkc2U05kRW5kRlpicWhmMUFHNVFfdGFKS0hVNjIxY2l0M1BVOE5CMnZ4NTFjSUloNDZHZHUzNng4YkV5eVB1Qzh3U3Y0d3h5cnlYZURrcVF4SGh2WVpmV081QndjZW56WTFIYWM4SlFlVlBUUnpzX295Y1NSaVJmRmNnbGJmRmUwOWx4OFpuREdkeGt5cTBmcVBBOTFib0tfNzhzUm01d0hfNGM0Q0dXX0xkV1czanZucmZhei1F0gHuAUFVX3lxTE9TQ1pEb1ZPV2RUbWlSVy1GTVVTU0tScWo0UnpfZndId3R0T0dHZDlTM0FFOWY1eWlkdDBmYUZuRXVLTnc4U1drV0NVc2JzeXdHa1ZYZE42bDhCM1pkYldoQUJnVFJ4NGJBM3EyUk1vM2NEaF9jMk5weHRXekl4anZGaGRWU0lhSklwT0V2Ym96LTNCWGM0aHloNEg2RXFxQ2FqdFlEQkhXT3lVMS01bWM4clhQZVlUN0tVdnIwYUc3Yk9TNGdEZXBLRFJRSDlBYnRxUmJxNVpFdnM4WGxLQ1FOM082M1Rfd1RIbHVtRkE?oc=5",
-            "source": "Business Today"
+            "detail": "Ather Energy climbs as brokerage reiterates buy, sees strong growth ahead",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVh3WDFTTzBGMlFUUURWOTFEVlVSdGZySXF2WHNzaTczZGVIUjhHM2JLUFlialdRZzhIWFV4SEtTdHpsVHhXNzNiTHM3SERBYnFTTzI4V1dwTmR6RnAySlpGaTQtYzAxWDlMaG5jZ3BYYTJmdERZRHZSWHRUTGN0LXFKejF5U0ZsTVJ4Q3NpTVRxVkNQTFh2U1VOUHpBaW93a1JiSk50cjdQZHVkQTdnTHJ2TU1aVnQyNnVYbC1WUU5mWXg1eGRXWUR6Ti1ZVndxSkwwV3g2OEhhRVZFdWhXSS1RbWc3aDRJRlHSAe8BQVVfeXFMTkFiZlZIVVhmYTlOVUcyQ1JNMjBLbjF2NTRRZTVpWm5iMzk2bHJwTTIzb1dEZ0M3U1B2Y0hNeTBpbjFKbG5RQTVhRWEyQzA2VXo0SC1ZVGw1M1J4c0FHUThEVzQxaFduUGhPOW03TGl0RC1PVzc0TTk2LW5TMEkwUVpVNDZQaDg4MTJpcC1pc1E0WC1MbUpxYXJ0N29RUnp1SWJ3Y2dBUUdndFRXc3dvWGp1MnBzSFNHSFpKd1hvUjVUYllOWXVRYTJQZWlUUGV6OGRib243bGhEc0dqNjR2RjZwNWhCYnMwZ3FHQXU4T28?oc=5",
+            "source": "Business Standard"
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "Buy, Sell Or Hold: NMDC, Ola Electric, BEL, Ather Energy And Sun Pharma \u2014 Ask Profit",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdZNWJFLU9RMnc5WExERmU4QUplMXhBRzFsRHNiODBlZkI0Q0ZsVDRhQzlWdjZmSEFHVUw1bDMwQTBtaWYyNzAwNEtZQWNTVHVZcklkNmhIWk5EX1BYWVExRkFMLTRnNDB0SWxJT09Ibm9KbFN5OG9Ed0pxejJEWXBTVFl1TlprT2t0ZmhjYzdJaUpJSmh2Q01JOFUxTEFnWGl4czA1bXFkaHNHM241VFJhRnY4R3E3TTVVV1N30gHGAUFVX3lxTFBzX013T2N2U0JIUnBmZzMwbi0xOGlWZnFhb2hRR1FGYjF3ZFJzZFItdHBhSzFtTDFlNHBBRkI3MzNicHFVY3VUSnNVMGlSVTB0VFp2Q2xvNmN2a1c5YW5MUGFkcktnY19DSk1ZTmhGRTRRQUJfSjVKY3RaNmNLblc0MWlkQ0RjV1UyYnJUU3JMcFMxdC1xX0pscS1DME45M25fblVmRUtnZnQ0OVo2SUJnVTRFcEZRaE9tcEU5RnU4bzR5WWVfQQ?oc=5",
-            "source": "NDTV Profit"
+            "kind": "broker action",
+            "detail": "Ather Energy shares rise 3% as Nomura raises target price; stock up nearly 200% in 1 year",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMDR6eHlXT3F5NFdPbGU0cEVlYmNMcnlKUlFZWXdpNzgwVkhjenU0U0Iyakd4eXhtazZ2VWNSZl9wSFU2Y0EwZzk5TWd2YUtMcE1Bd0RZYXFyWWZ3TmZ1N1NQdFhLVDFYOXF5dlBUMWVLbG40U3AwY21nZ0lzY2ZDSkZWS1ZvSDlWT3g4V0NfTkJ6Wmpya1J1UFdtTHRTaE12X25UWHBORlkwa3hoaHpjY0FrQUJxb09PdXhObjMySzZzVGZ3S2NoX0g4alh3a2hhdnZGRy13WEtMYUIxWEFLLVQxUU1uZFJFTmljRTlFMGhJZ9IB9wFBVV95cUxPQ0MtVTRVdjcyTjlrZUpySzdIVURURHlTZVpvS21yVWVQX1FoN2gyekcyb0xZWmV1Z1lBOEtTY3FSRUI3Zk1mRndJaVZUWGlPM0FWbTRfbVRmRnJFNkItVmRVZzJvS3VQTlJLWXhjc1B1NGViNEQwU3ZnUENiR3BCWE5fRURvQmdzQ181bHlUR0VWU2ZqdDhpLXU3cUNxdkR5dVlVSWV5MzJRUFJQbmUzTG51d1pkY1VMNFhwenJIQUw4UVd6YXRSanZVN0llMWxqMUFQMlVYYVZfTE9ERHNnMmxNSnlicXNPVUNqc0czR3FtaVhfdjQ0?oc=5",
+            "source": "Economic Times"
           }
         ]
       }
@@ -295,16 +310,9 @@
       "raw_pct_change": 4.93,
       "corporate_action": null,
       "why": {
-        "headline": "Results (NDTV Profit)",
+        "headline": "Operations (Mint)",
         "confidence": "medium",
         "evidence": [
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Buy, Sell Or Hold: NMDC, Ola Electric, BEL, Ather Energy And Sun Pharma \u2014 Ask Profit",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdZNWJFLU9RMnc5WExERmU4QUplMXhBRzFsRHNiODBlZkI0Q0ZsVDRhQzlWdjZmSEFHVUw1bDMwQTBtaWYyNzAwNEtZQWNTVHVZcklkNmhIWk5EX1BYWVExRkFMLTRnNDB0SWxJT09Ibm9KbFN5OG9Ed0pxejJEWXBTVFl1TlprT2t0ZmhjYzdJaUpJSmh2Q01JOFUxTEFnWGl4czA1bXFkaHNHM241VFJhRnY4R3E3TTVVV1N30gHGAUFVX3lxTFBzX013T2N2U0JIUnBmZzMwbi0xOGlWZnFhb2hRR1FGYjF3ZFJzZFItdHBhSzFtTDFlNHBBRkI3MzNicHFVY3VUSnNVMGlSVTB0VFp2Q2xvNmN2a1c5YW5MUGFkcktnY19DSk1ZTmhGRTRRQUJfSjVKY3RaNmNLblc0MWlkQ0RjV1UyYnJUU3JMcFMxdC1xX0pscS1DME45M25fblVmRUtnZnQ0OVo2SUJnVTRFcEZRaE9tcEU5RnU4bzR5WWVfQQ?oc=5",
-            "source": "NDTV Profit"
-          },
           {
             "tier": "news",
             "kind": "operations",
@@ -318,6 +326,13 @@
             "detail": "Why Ola Electric\u2019s \u20b91,500 crore fundraise fails to enthuse investors",
             "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3JWVEZvUmRDVjJYQ3RrOFIta3FDTWNiZWhmWHRteXNJenhWS2lTTzNBRmo3Z25WSGx1NENuWC1LczlxZTh5NlhmZmtWazBZc2RXaUh4N2ZaU0RjaG1vcVJkQ3o3bHBpVTVwMVByYkc1Nkh6Z0trUS0xVWRUU3RLN1RQajY1Z0RzS0tQRERlM2x0RFMtODBnMTNoLU0wX2NJY1BDRW5LYkE1d05BYm0wcC1HSmIyTzBLdUdIYU1R0gHDAUFVX3lxTFBXUWxBZ191cTV5ZWlsRHlNVEh6eWRkTzFvQUNIaTNjaVlsMUZrX2Q1LXAyVkhSd291eUMybzZ3UnloY1BSbkNXLVl1WkkwTmFUZ3MzYW9UeVp1UU1LYlMydjRMaUZxTFg0MTU2UV9rWUJIZE5tVHhUZEdIYldjRkVTSC13V1pEbWtVVXRtR25IV0F2NHo2clNJZmtiQmRESXdHR0taNlVISkl1aS1fYWJNcnZ2TU9vZ1d2dk1waDUteGNWWQ?oc=5",
             "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: NMDC, Ola Electric, BEL, Ather Energy And Sun Pharma \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTdZNWJFLU9RMnc5WExERmU4QUplMXhBRzFsRHNiODBlZkI0Q0ZsVDRhQzlWdjZmSEFHVUw1bDMwQTBtaWYyNzAwNEtZQWNTVHVZcklkNmhIWk5EX1BYWVExRkFMLTRnNDB0SWxJT09Ibm9KbFN5OG9Ed0pxejJEWXBTVFl1TlprT2t0ZmhjYzdJaUpJSmh2Q01JOFUxTEFnWGl4czA1bXFkaHNHM241VFJhRnY4R3E3TTVVV1N30gHGAUFVX3lxTFBzX013T2N2U0JIUnBmZzMwbi0xOGlWZnFhb2hRR1FGYjF3ZFJzZFItdHBhSzFtTDFlNHBBRkI3MzNicHFVY3VUSnNVMGlSVTB0VFp2Q2xvNmN2a1c5YW5MUGFkcktnY19DSk1ZTmhGRTRRQUJfSjVKY3RaNmNLblc0MWlkQ0RjV1UyYnJUU3JMcFMxdC1xX0pscS1DME45M25fblVmRUtnZnQ0OVo2SUJnVTRFcEZRaE9tcEU5RnU4bzR5WWVfQQ?oc=5",
+            "source": "NDTV Profit"
           }
         ]
       }
@@ -423,9 +438,9 @@
           {
             "tier": "news",
             "kind": "capital action",
-            "detail": "PVR INOX shares gain over 7% after firm announces updated buyback date; check key details",
-            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNkRWU05rOF9uTFdjd2dZUmI0RE44dXl1TkFrc0F4Z2p4M1dPamtEOXkxUGhYbUZsUmdENV9LUGx2eEtNZmtyNFN1YUxRd1ozSUpqRXdGRU82WFFUOF93dEpJdGZBUElFMXIzUzFma3UtRnRMX2JfQXRBLVA5S0ZNVkpkZ2lvWlFXRFdjM0NxeWtzck5xN2lmUW5MU0M0TGFKaDdHVEFxOGNSZzVTZi1ETlRoQkQ3dHZIRE10ZnEwc1p3eEhsTkFiZzUwNE91Ukh2LXUyUFU1TVIxMFM3cE40?oc=5",
-            "source": "Upstox"
+            "detail": "PVR Inox's Rs 300 crore buyback opens today: How much return can retail investors expect?",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3NzNGVSRUw4SUdzcG84QWdnZ1hCUGVrZnByMFQ1YTZKNlk4M1B2YW9tMy15dmVMemJDT0xaREt6MlFqeTlaa2JYUHI5eHFnNXlNTVM4aFdKY1NpWXMtN09jejRVOC1Dam11aWhUUjI0MlFiSzAtcVZzZ05fNGNsSU9EUVdsU3VhYVdzZTNRTjlrMHA1ekttWVg5LW9SU2UzMjlzS29yQ3oxU3o2NF9rU1R5MDd0TVZQWGYxOXdjTG4zUUNfbUctTmRCRnFYVlYtemo5YmdCR2ZuXzh3bnl4cXRsb0o4ZVU4d2V0X3JpeHFLZ9IB9wFBVV95cUxONkMwQ1dMTVBGX1R1UkJQMWFMTkNobVI5N1RUbnBYUlhtMTBuZHFxWEFvRmQ0TkFheXBKZEd3Y0Z2cnlJbEpET2tTdjlTMW95UTFhbkczOGsxaDhBMzF1azVHcVRYUVc5NktBNUtud3ZONl9hdEs2dzVjNFkxel9qMElhLU9GQi1UUTJlNW9aaUJ3cnQ1aFNpVWFlWExvV3NlME03am1ZelFNODRtR3c0Z2xDOE5hNE0wS01Fc3FNdUJSVFpISGlJYVhGRkRFcGZTbDhsdGt4ZERUVUVCdFdqXzZVNWVlT3p4R3Z5bHZGNmRWbU1oaE44?oc=5",
+            "source": "Economic Times"
           }
         ]
       }
@@ -708,9 +723,17 @@
       "raw_pct_change": -5.03,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Operations (Moneylife)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "operations",
+            "detail": "Sai Life Sciences Bets on New Capacity, Peptide Push for Second-half Growth",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0c4aVk3SXpNWkxUYWJxandtQ25uOGFLTWNxbzJZTC1tcFNBZDZfT1hfckIzc3FwejJRYjU1V0NtZFRUekcwOTY0b19vTl90OHZKdnBPSWRibHg0OUprY2g5Ul9oSUQ3VWlnZjF2V3dvci00UG9aVmVEaGVnNTdRY3pzd2MtMFR4Y3g5TkgzUmtFbEp0Njd2cHVHdGw2M1NYdnYwQUwtY3JBcmtIeHZTak4zamk1U3hq?oc=5",
+            "source": "Moneylife"
+          }
+        ]
       }
     }
   ]
