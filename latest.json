@@ -1,24 +1,1011 @@
 {
-  "trade_date": "2026-10-07",
+  "trade_date": "2026-10-08",
   "threshold_percent": 4.0,
-  "generated_at": "2026-10-08T13:27:58+05:30",
+  "generated_at": "2026-10-09T13:32:16+05:30",
   "stats": {
     "scanned": 743,
-    "flagged": 29,
+    "flagged": 139,
     "missing": 0,
-    "adjusted": 1,
+    "adjusted": 0,
     "mechanical_only": 0
   },
   "moves": [
     {
-      "symbol": "CHENNPETRO",
+      "symbol": "ALOKINDS",
       "series": "EQ",
       "direction": "UP",
-      "pct_change": 14.7,
-      "close": 1612.3,
-      "prev_close": 1405.7,
-      "delivery_percent": 9.02,
-      "raw_pct_change": 14.7,
+      "pct_change": 8.56,
+      "close": 9.0,
+      "prev_close": 8.29,
+      "delivery_percent": 17.33,
+      "raw_pct_change": 8.56,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Alok Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/ALOKIND_08102026131331_20261009-Stock_Exchange_Reg74.pdf",
+            "source": "08 Oct 13:13"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "PCJEWELLER",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.78,
+      "close": 13.9,
+      "prev_close": 13.14,
+      "delivery_percent": 20.03,
+      "raw_pct_change": 5.78,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Mint",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "PC Jeweller Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/PCJEWELLER_08102026134423_Regulation74_5_.pdf",
+            "source": "08 Oct 13:44"
+          },
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "PC Jeweller Limited has informed regarding Disclosure of material issue",
+            "url": "https://nsearchives.nseindia.com/corporate/PCJEWELLER_07102026191523_update07102026.pdf",
+            "source": "07 Oct 19:16"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "PC Jeweller vs Senco Gold vs Kalyan Jewellers - Best jewellery stock to buy after Q2 business update? Experts decode",
+            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbVFfSFhBN2hzQWJ5bGJVam1nWDRmYjZnY0J0a1ljZ0ZEOE85dDlkVjREWnNrTmRKeTAwWV9KYUN3YlhBSnRFVGhJVGNvMTI1OTEtNU9kOFRQZzBLX3pDdHlmUjhHSlp5ZFNPVERTWTBHRnZRYTJwY2N4OFgwOUw1Sm0zd0hwY0lha1pVQ3J3N1pPSEdxX2JzWTdka1dfOEJyWGFtcUxWcHVDNHNseTlaQTJtTGxfdzhzWmRGS3VpdFRwY2lnLXMyRkF4cTJEcERtTUpEaEs2Vkl1b0FrYmMxMkwtNERjeW9nOHZRVGQzcTZCYnpBdGx4ZkU2SWZYOGhvUHNMdnZqQ18wejl6cGRSM9IBlgJBVV95cUxOdWJVa0xNT1pLSDlCV1JMQ1hzUmhmamF1OWtXMmo3NmJrMXR1aVY5SzZ3YmtOWTFJRkJodGJhZlBoZkFESFVVMnhaQXBkeWNRbWdZZG1DX2hQZXB2U2dXNERYZzJTQ2N1Snotek93MFdweHNQWXlTQWxhWkdsTDJTaE8yakpTVEhfM2lrTU5KNHdVaVZ2UDJWZ0R3a1ZCWUhKYWU4SlBrdFdaeGE2MWFPQ2dFWV8zVzBrYjNTV1NncDZfbmdWM0llM3p3WDZWZHFTT1MwLXZkclRhM2lqOVp6ZHZ6MnRMWFpPQnQxX0YtWVBKV08zRTBPR0Y3dzluWU45TFFldXBjNUpYbWhVU0hPaF9taXBwUQ?oc=5",
+            "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "PC Jeweller share price jumps over 7% on Q2 update | Stock up 54% YTD \u2014 What lies ahead?",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2lqUXA5QkNXdlFaLW82NEI0M3JwOGtOMGoyOGRIMG9xNFN3Q1NYNUZMNXRiVXRYQTB4WmJXcnlkeTFib3Zlcm85NHE1Zzk2MXhqY1hscmo5LXVtcnU2TUJMMWhORFNjVWNQTnpDQmtLREh4VlNoZVpqY2tOQlkxdlJIczhVVzJNSmFfZDcxMUYwcTRWWlI1aGVCVGxEWkhUZHFlejkxVi1qSUlNUnVVclFzdmVGVWYzUnAwbXI4VlJuTzhWUGZ3SWY5M0JzdnhrZjB1SWZVT3BCNE5ZZnpRYzI1LUpQd9IB6wFBVV95cUxNNkw5amVFZHUyc1NfelBPVGtFSnAyYmVnOFNUTHBCUnZRck54eE5DaDZsUUVSU0dpUnc2YkljM1ZCVXJCT1FOVzY3MnFEcWpqMFdJSl9PelFZZk9YTWliTi1TRm5NTGotejl3ODljRDhNVXR6UjlLTzB6Q2Q4dFB6dEtPU2drYUtUenVxeHFuMDZpOVNwZ2VHQ1psSHFocnNYTS01NjNFM2sxaU9PWllGcmV3ZGNKeHdYMlZNQ2pfc2Q0U1pBT050TnpRNkZxOXBOMFJvUk5PTlh5ZnpDVWE4U2ZtNlhLbXBYaTdZ?oc=5",
+            "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Q2 business updates impact: Senco Gold shares jump up to 12%; PC Jeweller rises 7.5%",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWDZWakNkZWU1Zzh5R2dQUHFlVC1KX2VmYmZZeHdEOG1nWTlPN1lKR0pRZ3ZDV1RPeFEwMUhjdTNVd05Ua0VyNXE2RmcyWE9ZbldLUUd3OC1URXNydy1EeEd5NEU3YjY1WDNXSE5ILTJrZ2dmTXdWaFZJTktnTWk3QXZVZlZIUDVrUUJjSDdPQjdSUkpmWG9QZWd4Xy1ZVnhUa1doVUVTMklJWWtFWjlRLURRLTVXUHBvZWE5NElzdmNUQnJUeW5FYm40NHZqTFJTMngtcFl1RHNmTGh1LUHSAeMBQVVfeXFMT2FUSUdQdHZUelgyTlZyN2RJUDBEdEE1RGdzcmZ2d3FRUHd4RmNTZERvMExkalJyd0ZmYlRCNENEaUE4T1lBT3BVUk5sSU0xYzFsMWF5WnBaem5sWmt4ajlkQlhJZ2xtdUZSby1QWC0tazR4SVZDZXgwd21HcXF4TzA3NVoxay1OMllyRmtxS3A3MHNQa0tBdmMzSWFCMDVGRjhrWVhsYnJrWV83Xzd3cFA0RGlWN05Lc1k1dGFfY0JNX1UtazdQN3VtcUNYekVob05lWWpNOWRwNkVXVHpjMTkxMzA?oc=5",
+            "source": "Moneycontrol"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SENCO",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.15,
+      "close": 337.1,
+      "prev_close": 320.6,
+      "delivery_percent": 7.34,
+      "raw_pct_change": 5.15,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results, reported by Mint",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Senco Gold Limited has informed the Exchange about the Business Update for Q2 & H1 FY27",
+            "url": "https://nsearchives.nseindia.com/corporate/Sencogold_07102026175129_SE_Intimation_Business_Update_07102026.pdf",
+            "source": "07 Oct 17:52"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "PC Jeweller vs Senco Gold vs Kalyan Jewellers - Best jewellery stock to buy after Q2 business update? Experts decode",
+            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNbVFfSFhBN2hzQWJ5bGJVam1nWDRmYjZnY0J0a1ljZ0ZEOE85dDlkVjREWnNrTmRKeTAwWV9KYUN3YlhBSnRFVGhJVGNvMTI1OTEtNU9kOFRQZzBLX3pDdHlmUjhHSlp5ZFNPVERTWTBHRnZRYTJwY2N4OFgwOUw1Sm0zd0hwY0lha1pVQ3J3N1pPSEdxX2JzWTdka1dfOEJyWGFtcUxWcHVDNHNseTlaQTJtTGxfdzhzWmRGS3VpdFRwY2lnLXMyRkF4cTJEcERtTUpEaEs2Vkl1b0FrYmMxMkwtNERjeW9nOHZRVGQzcTZCYnpBdGx4ZkU2SWZYOGhvUHNMdnZqQ18wejl6cGRSM9IBlgJBVV95cUxOdWJVa0xNT1pLSDlCV1JMQ1hzUmhmamF1OWtXMmo3NmJrMXR1aVY5SzZ3YmtOWTFJRkJodGJhZlBoZkFESFVVMnhaQXBkeWNRbWdZZG1DX2hQZXB2U2dXNERYZzJTQ2N1Snotek93MFdweHNQWXlTQWxhWkdsTDJTaE8yakpTVEhfM2lrTU5KNHdVaVZ2UDJWZ0R3a1ZCWUhKYWU4SlBrdFdaeGE2MWFPQ2dFWV8zVzBrYjNTV1NncDZfbmdWM0llM3p3WDZWZHFTT1MwLXZkclRhM2lqOVp6ZHZ6MnRMWFpPQnQxX0YtWVBKV08zRTBPR0Y3dzluWU45TFFldXBjNUpYbWhVU0hPaF9taXBwUQ?oc=5",
+            "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Senco Gold share price jumps 11% - Here's what stood out in its Q2 business update",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWHhaZktOa2xRcG9hQjBVLVN4eVkyODZRZ1FyZVk5VDRtQ01tcElReGNBVHZaVklxV0xLeDBaM0Fxcm0zU1VqUmxIWEp6NThvZG5fdGljNXBEcXBKU3VBdTFhSzRKYTRNWHhqTU9ybGlOcDliemtxODdvMHllTVdGeEZORW1uank1eDdjdmJKc2x6WHhab3BPcTlnVkwzRk04Y0NmeFRxOWJMdVJQdmFaVXJmMjIxV01VR1dHVnVvS0VJRmcwMmhxbU96RHB2bHp2ZEFlU3dVN20waDBOdklEdzFJOWQ4emPSAewBQVVfeXFMTkNBNE1BaWRfQTFyN3I2TW9oSklQREQ2bTU4Mmp3V2xfbm5YcngyNzROTkx6MWpMSXFxdHdOY3BTZXVPa1I5bWgwaFpScWtiZ1Q5Y25JRFlKXzdfSFpHdnJVbUtfcnNKa1o3MmZLSGJHMWlKcnRrcnI2SnVFaGZyeVoxZEZyR0xNZV9LWE9uOVpnZmlwVWk4b1ZMRDVfT1ZPQmZDSHFNbVFPeW1LQnJKbWFpenI1RjBxZHZBNTg4VGR4cW1KMUFuWjhHeEFERV84ZjdXTTJYOFNLMl8wX0xhbndLeEx3UHRIcVowX0Q?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Senco Gold shares gain 6% on strong Q2 business update; revenue rises 31% YoY",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObnpMNVdOR3pHTmo5a1laazB4SWJaX0Y5UU5VQkxoakkzRG1QWGpjU0ZhazdpcUVmUWNVeVFEdVlzYjVKdFNvMDZxRE1DLXM0RW90bzA1aUw2LXc5c3lBejJOR1p3Z1lWYVZab0VWdzU0azVkV0Q1OU5pN3dFR2NNMDZkN2g4a0pKTHF3TXVOZkZPalVmUFh0Qnd2b2I3TkpkQnByRkxCU083TzFNdTlGbFZKWDZjcHdyT3p2U0lkUXZFMHpreXE3TkdzaFhXblRIZFlMSlppcjktSGgzbnVTQXpfY0t5NS1vWWdRYnVR0gHnAUFVX3lxTE1EUFE4ZG0yQVpINFljY3R4N0JyclpCaHVLWE9qM2wtNzBQZUlJUjQxT0psNnVKYzZfYzRENDB2LUozd09VTHI3eW1wclFrZEJvbTFnSjQxVkNTSjBtdm1SMjlWWEQ3cF9GUUp5UGRFVW1PRlhEaGFZS2dqNGpqSllkall0VmJONXR0Sjc0aXBVOElfdEFkRzJvVkp6YzBCcTZzNDE0dm81MW5wa2xIUVllZnd4cFhkY183MEJrMWlYY2FXR1RraU1vYVIzZGozVVhJM1FTRWJuWHN0czJDcFd0LUxrN0s5SQ?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.19,
+      "close": 537.0,
+      "prev_close": 515.4,
+      "delivery_percent": 41.48,
+      "raw_pct_change": 4.19,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Scanx",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "LIC Housing Finance Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018 submitting the confirmation certificate for quarter ended September 30, 2026",
+            "url": "https://nsearchives.nseindia.com/corporate/LICHSGFIN_07102026174442_Certicate_Reg_74_5Q2.pdf",
+            "source": "07 Oct 17:44"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "F&O ban list 08 October 2026: Stocks in ban and MWPL watchlist, LIC Housing Finance at 98.42%",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUU9Bdm92REZLLVZ2dmI1Z1pYZFh3YzJkRVUxTnVtN0dVN0lnVFp6ZEh6Y0R1UFZDc2Q2NFNjUEJabDVQT0IyNTNEeGUycDRKSlNXOHFKMzRnZWxCSWVTTmZ5SF9WX2xpQW5sQVVPWkdGMDBheFdncmJTTjMzVjN6THNXQmt6ckY2akw2NDNtTDBCU01DdHFybVJnWTlTNzB5eUc2Q2lnS1VmLTNuVVFpbzR2WVBCSXJSRW1iNFdQbHdPV29XcnhN?oc=5",
+            "source": "Scanx"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "F&O ban list 09 October 2026: Stocks in ban and MWPL watchlist, LIC Housing Finance at 100.30%",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1Zyc2N2R3huenE0X2p2N3BadVBSbUp1RDNnMnpBVlRKUGZBNjcybHhkczlLVUE2Z2ZWMGZhR3hOLTEzelZFVkV3OGhmc3lNU21hRV8ta0l1bmsyQnlkRzhtaTB6SkpVOFVyUU11UXFaV0ZNQ2Eyd05taVMzdzBwMDRYTnBCMTFqMU9aeHJSdEtaZDBRUzBFUkxUbzdfeTNKZXBjdGpnLXpzV0JkdlBrUDlhWFcwVndnMmNWNmliVmpZM25rb0ZR?oc=5",
+            "source": "Scanx"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "F&O ban list 05 October 2026: Stocks in ban and MWPL watchlist, LIC Housing Finance at 85.98%",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRF9ySzVDSy1qazA3b0ZCRGFKZHVVbXJFSV9jTTRxOGpMQ2Joa1RyRDVkb0RYZGpPSHpHNlowQWdZam8xYmFHaTYtS2gxajJwdHFBSFFnQ0hrMlBqN0FMUVlLaXdoS21mVkVOSjBrY09NckZ0LXEyVFJ4NERqeWp5MG1Sb01PVGtLbktSdm5hdE9ObWdSaGlWeGJ0RFVQUnNWcjdLSVJLd3NuREllaWRGMmhCU0szYkJWNHN4NkJEc1J2V2pFdVlz?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SMLMAH",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.01,
+      "close": 5850.5,
+      "prev_close": 6095.0,
+      "delivery_percent": 45.71,
+      "raw_pct_change": -4.01,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "SML Mahindra Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/SMLISUZU_07102026153803_058-Certificate_74_5_Sep2026Signed.pdf",
+            "source": "07 Oct 15:38"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "LENSKART",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.01,
+      "close": 653.95,
+      "prev_close": 681.3,
+      "delivery_percent": 58.99,
+      "raw_pct_change": -4.01,
+      "corporate_action": null,
+      "why": {
+        "headline": "Fundraise Or Deal (Goodreturns)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Peyush Bansal-Led Lenskart Shares Rise on Massive Rs 5,300 Crore Block Deal Triggered by IPO Lock-In Expiry",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdkNlS0JsRzRma2tmbWdTR05ZbU92UDdtbnlNVXNUc1VlQXdhWkhNd25OVW8xR2t3SGo0ODVBUVhiYWRoTnpqQnVmSE9mcTFSa2tKMVVoYkd6V0VDRG52WVE5RVIwQWMtdlNWcW5xSjF6VHRhZEFQaWFUX2hDUkUtRzlOblUxb1VDWFM3LUh0aENkbGh3ZjB0R3o2a3RfV0EtVEhoeDk3eXpic2Z4LVV4T2xPcDRxdlEyYjQyeU1YWXBWX0dDNl9hTmtlNzJvbU5iTFdPaXRkVmhySzBxalE?oc=5",
+            "source": "Goodreturns"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "PHOENIXLTD",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.03,
+      "close": 1771.2,
+      "prev_close": 1845.5,
+      "delivery_percent": 62.3,
+      "raw_pct_change": -4.03,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "The Phoenix Mills Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/PHOENIXLTD_08102026131334_PML_Reg74_5__sd.pdf",
+            "source": "08 Oct 13:13"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ITC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.03,
+      "close": 255.0,
+      "prev_close": 265.7,
+      "delivery_percent": 41.24,
+      "raw_pct_change": -4.03,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "RTNPOWER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.03,
+      "close": 6.43,
+      "prev_close": 6.7,
+      "delivery_percent": 52.34,
+      "raw_pct_change": -4.03,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GPIL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.05,
+      "close": 205.63,
+      "prev_close": 214.31,
+      "delivery_percent": 57.16,
+      "raw_pct_change": -4.05,
+      "corporate_action": null,
+      "why": {
+        "headline": "Allotment Of Securities disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Godawari Power And Ispat limited has informed the Exchange regarding allotment of 2,72,000 Equity Shares of Re 1/- each, consequent upon conversion of warrants on 08.10.2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/GPIL_08102026152112_GPILNSEBSEWARRANTCONVERSION08102026.pdf",
+            "source": "08 Oct 15:21"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "INTELLECT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.06,
+      "close": 567.35,
+      "prev_close": 591.35,
+      "delivery_percent": 42.98,
+      "raw_pct_change": -4.06,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SUDARSCHEM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.06,
+      "close": 1176.8,
+      "prev_close": 1226.6,
+      "delivery_percent": 50.18,
+      "raw_pct_change": -4.06,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake, reported by Scanx",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Sudarshan Chemical Industries Limited has informed the Exchange about Action(s) taken or orders passed",
+            "url": "https://nsearchives.nseindia.com/corporate/SUDARSCHEM_07102026212739_SEIntimationsearchcomplete07102026.pdf",
+            "source": "07 Oct 21:27"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Sudarshan Colorants sees 15.89% stake shift within promoter group",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSGVNOUJvMW04WUZoODZRUnZ3eDRQQ21uT2NhNVoxS1lBTGxxZl9oc1E0c2ExYkVHdzdld3NmMHB3YXBqM280RmNsZy11V1RzNnBzeVp0aUd4TVc2MzJZYWFwdks4Mi0xT05IbkprOVQ1Q3V5MnYtY1JaT3NyMG9vUm5LaTRJV29MQlR6V2hNODNzLUdrVHI0RjFINXRXVHVFRzhBZFM2SHA2NE5xZ09mSm9zZWdIWlNZdUFINmZB?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SIEMENS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.06,
+      "close": 3639.0,
+      "prev_close": 3793.0,
+      "delivery_percent": 42.26,
+      "raw_pct_change": -4.06,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (NDTV Profit)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: Siemens, Titan, Kalyan Jewellers, NALCO And HAL\u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUThMdWQtZUlDeU13aktJaG1VbGFiblNTd1ZHSVpud2xEVHJCc0pVLVVuYi1xUllZZkFGaWs0RnBXN2dZdnphYUVEN2J5a2pBdW9ldTY0Y3VkZEJrNGNUWmJ2Y1hfRmdJbUM2cXB4NURJbUJJX1BtZDFnNlo4WXJfM1BWNFN6MjNOb2NJWjVmQnZyc1o0WVdxSzNkcnpjY1RHZmdXb0RoX0hQMFFQcUVUYkloc0lzd0nSAb8BQVVfeXFMTkYxSWM1bHEybGZMT1R0cFlrYXMwMHAtdWJBRDJNVkJaazVzR0ZHa0NLdnRoN044R3EtOHFzQmF0UVZCUko3dUUxd3QwMGRqQ3VNX085ZlZScmw5bVpwbVB5Uy1MWnlRR0xjMzkwalVESjdhUFZJc3VGUzM0N2FBb096anlEeHpqbHhSdUxBX1R2OW1kaGRtZkJId3NWbWZPV0N1dS0tdTdXNzZKM01XaUdyV1hRelJBOENIT2Z6YUk?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "UJJIVANSFB",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.07,
+      "close": 62.3,
+      "prev_close": 64.94,
+      "delivery_percent": 47.72,
+      "raw_pct_change": -4.07,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "COROMANDEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.11,
+      "close": 1673.7,
+      "prev_close": 1745.5,
+      "delivery_percent": 58.36,
+      "raw_pct_change": -4.11,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ASTRAMICRO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.13,
+      "close": 1630.8,
+      "prev_close": 1701.1,
+      "delivery_percent": 53.46,
+      "raw_pct_change": -4.13,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Business Today)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "HAL, BEL, BDL, Zen, Astra Microwave: Q2 results preview, target prices; top defence pick",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzMzRWQzcGlEOXNHVjNWUzBWakg4SjMyb3EwUXVOeEJ0dFdjZVYtMzFJdXR0RDdqMEhqaTAtamlEWm9hY1lLSGU3M0FwaDQ3YUVGejJTZFNpNzVwWFpfdlhkX3NWZXBXSGMzZmpPTjNrVW1waGZSaWNtUEtRdWswWEo1NXVSS291QW1UMFVDRVVjUXlEUnRmbjZQOEJONVVJbldTWGtzU0ZBN29KQWh0WElkNE8za0U0ZmZxUWpqelB3ZXVrenhIR3pkUVR3TmVQM0dCMF9WVE1jZ2VqeUdmVm5LRdIB6AFBVV95cUxNeGFvSWFmZnZ5YTk5UmttdDBYeENYblVMa2RaYXlENnNfOER5b2Q1ZUxsQ2NJMmI3U2UwYk9NcU9NdzBId2p3b0RYOWR0LXBYNGtMVmpKU0JVV2VDbnhucVFaTTQxbk9GNXJBRjdKR09CZGIwVHI3bUVoX250T19LVGU1Q05fOWxqZHdSbVE0b01GaS1NM3p1SFlITnZONE1GZnB2a3RnelloN2pfbkdKUG5fNGpIalM0WGFiOEk2THZ3emVoYl81NDNiR29BTjBRUm9uOW5oaW56UGJBYkZ2cUtYOWNabGhF?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "JINDALSAW",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.15,
+      "close": 270.2,
+      "prev_close": 281.9,
+      "delivery_percent": 49.81,
+      "raw_pct_change": -4.15,
+      "corporate_action": null,
+      "why": {
+        "headline": "Rating Change disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "rating change",
+            "detail": "Jindal Saw Limited has informed the Exchange about Credit Rating",
+            "url": "https://nsearchives.nseindia.com/corporate/JINDALSAW_08102026144149_Credit_rating07102026.pdf",
+            "source": "08 Oct 14:41"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "CRIZAC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.16,
+      "close": 159.97,
+      "prev_close": 166.91,
+      "delivery_percent": 43.97,
+      "raw_pct_change": -4.16,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Crizac Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/CRIZAC0301_07102026175119_Certificate_under_SEBI_DP_Regulations_2018.pdf",
+            "source": "07 Oct 17:51"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ZENTEC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.18,
+      "close": 1514.2,
+      "prev_close": 1580.2,
+      "delivery_percent": 40.36,
+      "raw_pct_change": -4.18,
+      "corporate_action": null,
+      "why": {
+        "headline": "Esop/Esos/Esps disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Zen Technologies Limited has informed the Exchange regarding Exercise of 2000 Options.",
+            "url": "https://nsearchives.nseindia.com/corporate/ZENTEC_07102026234544_SEIntimationEsop_2000_Shares_Signed.pdf",
+            "source": "07 Oct 23:47"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "STYL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.18,
+      "close": 354.25,
+      "prev_close": 369.7,
+      "delivery_percent": 75.19,
+      "raw_pct_change": -4.18,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GRSE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.19,
+      "close": 2014.0,
+      "prev_close": 2102.0,
+      "delivery_percent": 49.76,
+      "raw_pct_change": -4.19,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "OBEROIRLTY",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.19,
+      "close": 1663.3,
+      "prev_close": 1736.0,
+      "delivery_percent": 57.99,
+      "raw_pct_change": -4.19,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ELLEN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.2,
+      "close": 350.4,
+      "prev_close": 365.75,
+      "delivery_percent": 46.58,
+      "raw_pct_change": -4.2,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "BLUEJET",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.21,
+      "close": 518.55,
+      "prev_close": 541.35,
+      "delivery_percent": 51.27,
+      "raw_pct_change": -4.21,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Scanx",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Blue Jet Healthcare Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/BLUEJET_08102026112029_SE_Upload_Reg_74_5__BJHL.pdf",
+            "source": "08 Oct 11:20"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Blue Jet Healthcare approves fund raising via equity",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTlSREE1Ym1FN3JsVnpEUnI5ZWxhWVgzMFplTXBwZmlJcmZfUGJJZ09LOUZHVVdidUZJYkU3X25jdlBQODhvS09yT19kWmgwNFI5WERsaEpVUTNrNEdLaU5Fa3BLekRyblB3WFRraTVpRkFrUExhR2JYUDRKc2N3YVpDNUVzbU9BQ25GRWFtLS11dE4xRTY4SzBGLWwwZXFXVmtZYmJfbzRCTlhrUVE?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "BHEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.21,
+      "close": 429.6,
+      "prev_close": 448.5,
+      "delivery_percent": 42.29,
+      "raw_pct_change": -4.21,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Bharat Heavy Electricals Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/BHEL_08102026121937_certificate.pdf",
+            "source": "08 Oct 12:20"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "POLICYBZR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.23,
+      "close": 996.0,
+      "prev_close": 1040.0,
+      "delivery_percent": 40.64,
+      "raw_pct_change": -4.23,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Moneycontrol)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "PB Fintech shares snap seven-day losing streak, rise nearly 6%: Here's why",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYW5hR3RpM19UUkw2YzhSMHBFSXRwaVZOVDBIemlVYjlvRHF6SzBXa3ZnQzFHR3RibjI5S2xsbnlITHJ4TU1qQ09aMmVwRS0yRlhOT2tCYm1xendZd0NzOEZ5aUdIenQxa0ZsRVZCMnNBd3NJdm1xemFsd1RueGgxd1RXNm5ONUstS2xNME1kYWVNRG9WOEplQ1pseGxCTWdsY09hUjZKUVdEbnZtZEF1Y01sLTJ6WXVNQ2xSRk14S3hseGYwaVNOYy1ra3Z4ZEFyX1HSAdcBQVVfeXFMUGJlWXZtZ1FFZFdQb0R1Q29wS2tGZmdSOHRBX3c3OTRHeWFObDA4dzJsU0pvRW9wSW52T2N5YUVyazJvVS1PXzZlLXpKQ0k1bkpaSkhpNVc2MURibzkwRnZvTWMyMDZRQ1Rqb3I3ZjM3ZVEwTWd0RmFmYnR3Z2luRl9CamJ0T1lieF9qRkI4WWhOeG9SallZZFZwTmw0ZVRJdEQ0SzJTRVhtVzAyaER6QVRhamMzUkRvbHdUaHNTLVF6MVZXQ095WG5jb0dGT2x0bVF2dkswMFE?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "PB Fintech shares: Nomura slashes target price to Rs 1,100, retains \u2018Neutral\u2019 on insurance commission...",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObXpnRUJkYmJKU3B6eEVVNUlHQkE1S1BRdVp2TlBSY0JkaHR3aV9qazdtWGxFZ1hhRWxXR0hmMjBRVDdaencyTThWcEdQOWU0aVdmc25KZkhaLUg3ek1VZm5WSmxPNVZLWWtCSlFuUmdxeDB3XzQtWkx1VktaMThPdFh2bDlRc0JsV0t5TWxHVkNtUDl6eC0zNkhZNldiVEduZjItaXB5Vmg1NFM5WDVCTXozMWFoVGRCazFheUxrc0xlSHpVWHJ2RWxwV0x2T3puYUJBUHhLbnA2bDVqWWlqaUpjNkh2N1pJV1FTak9YLV9wVjE4cHQwZnVYczRoQdIBgwJBVV95cUxNLWtpU0NiQzVVT0hXWGVOTkJ4SjVhS2ktX2RpOXF6blEtc2RvYUVDdjdfb2NEaXZFODZaMW9wNWk5Tm14WF94Tlc2MTNNV3dJN3NJTGRUeHpnMnhCenlabWRmNERtVXMwMktzemJiQTh6YXVJVkVjR0NkdENsSVZKa2R5c3BlNkFSazRScWY1UUZWbGdoajMzTnllQzVUMUdCTnpMaHB3czdfN3lVMm1LeWpoT1hYTVlRRGdZRmQwcW54SzhRaVJBOU5HM2pQU2U0T0JpekhjX2RIVDBLNjl0bkwyTkFFV3NabmJTbHNwbnNzN1lpOURVWkgxakEyWjE5V3g4?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Paytm, PB Fintech, Kissht seen posting healthy Q2; regulation key differentiator",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHJGZUJISER4S0JWTld2cldHd2dFR0t0eUhmNV9tUHVCcHI5SkQ0emwwMHd5c0FiSXd5ZjF0ZGo1OHlZbktPNENsb3pWbHoyaDlzR3NTaVNEMU1PV2RUMmRpSDZmbjZtNkFjMUo5T0tHRVR1NXFkM05RVU5odUU5dHI0MFM0THNlZE9LSkNaOHdlN2xLSEM1NDl3YlZtWmZMVVNmMzFaQm9LaEQ0R3ZQdFJNNDZTVHBMM0RKT1c0SGNRM0x3Z2tlZVhLa0JMSkh4SXBaLdIB2gFBVV95cUxPN1dpN0NXVEFNNEdWZkZqMDZNU1JPQl9razB0QllJRmdWLTVPUWtyOWhnWE00S0cwZ0lJNFNNVDNzNjhSMnpjQVBQOG9BaWt4b3g5SUJoMFZlQ3NmZWF1YmVuZVlkSm1UTVhlTjIyTTR1XzB2cUoyYktIcU1NQUdKS2lUbUYwOGJTMzVkeXFsdWRhc1JiWXRMaGRBd1QzTjlCTFppZ2xYT0RqaEtZWjBucHdOdVZ4b0YzQ2F0SjVDeFlJZDJqSzJCX2Itb0Z2SllCYWthYVVQY3V2QQ?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "CAPILLARY",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.24,
+      "close": 553.8,
+      "prev_close": 578.3,
+      "delivery_percent": 53.06,
+      "raw_pct_change": -4.24,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "PFOCUS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.24,
+      "close": 271.95,
+      "prev_close": 284.0,
+      "delivery_percent": 10.88,
+      "raw_pct_change": -4.24,
+      "corporate_action": null,
+      "why": {
+        "headline": "Exchange Query, reported by CNBC TV18",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "exchange query",
+            "detail": "The Exchange has sought clarification from Prime Focus Limited with respect to recent news item captioned Prime Focus shares tank 8% after Income Tax raids at Mumbai offices: Exclusive. The response from the Company is attached.",
+            "url": "https://nsearchives.nseindia.com/corporate/PFOCUS_07102026152825_PFLReplytoNSE07102026signed.pdf",
+            "source": "07 Oct 15:33"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "Prime Focus shares tank 8% after Income Tax raids at Mumbai offices: Exclusive",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVHVtX3E1bFprT3RMc0c1Rm0yVkkxbkZzMmc4c2EyaHd4NG1YQUxEYmdwanpzbkIway11b0x1QVBKMG11WC1MUmY5MnBGd1hpS3YtSW1SVzZ0UE5vLThURkJ1bV8yZHFqdldnYXR6VEptWXJpN0ZXTnBsS0dnQ2t2bUhUWUF4emo2bjhJNW5ITlFTX0RMNXVWN2t4SXdKT3B3VmE2dG5keTMwT1RXeVQxSUhCY2toTmVzbVJrVFQ0YjRRRzR4ZUNXYUVzdFlxNktoal9tSXlnci1pVm93ZHFVSDhn0gHnAUFVX3lxTFBfeUNjUXVRNndqNDByVVFDWG5zRTl5RlFPajhzNlNMZERYTlFnTk5LRE9VeDhnc3V5ZTB0aGtPRDA2Tzh4TUtEN1FIVnEyRzlqVkRZR3YtOW5PNGFUdURpd0J0cExrYU1BSFhqU1V2VElrU3lreWxQdFVuNXE2cWhEVFRyZ0l3b0c4SWJSS194aVFVOGZiYTZINUZNTWEtOXlqYjRueDUyMjA3cW1LNWJzLWFpN1dWcUFqU0JSeDJIa05EcEs4bk9TRThyQVEzdmlpTmt0dmRreVlrRUYxNTFqaWgxMGJWVQ?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "Income Tax Department reportedly raids offices of Ramayana producer Namit Malhotra\u2019s Prime Focus in...",
+            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNlNZTHEtTFdoZVhBWUZZSllzeXVCNlhoYUpoU0ZIVTVPa2ExRjJfb1VnaG9lSTlKbXo2Rks2eFZ6eTFxcE5uOV9TZlo0VkVheHkyaWdfdlJ2ZnpNaWRNbUlMZjdDUEZTdlBSLWdrMXZjdkEyNUtvTURMWDRveHYwdGpsU1UxQmstZV91V2N6UFY0eDVnYnZwZ05VVWdNU3BYbE1LdUNtczRHZ0xuLVp5SnFmLWg4cUdfT3hnLWtWYXFrZzNLb0hobUF4VjVPeXFCWE9YakJtWHNTY2ZZb3VYNkgzS1hOeDNRRC1LdnlBbWExVG1aclMzM3MzUC10RmVFbVB5Y1ViNExlcTlBckdGV1hnSldudUZ1OENXZdIBnAJBVV95cUxPNlNZTHEtTFdoZVhBWUZZSllzeXVCNlhoYUpoU0ZIVTVPa2ExRjJfb1VnaG9lSTlKbXo2Rks2eFZ6eTFxcE5uOV9TZlo0VkVheHkyaWdfdlJ2ZnpNaWRNbUlMZjdDUEZTdlBSLWdrMXZjdkEyNUtvTURMWDRveHYwdGpsU1UxQmstZV91V2N6UFY0eDVnYnZwZ05VVWdNU3BYbE1LdUNtczRHZ0xuLVp5SnFmLWg4cUdfT3hnLWtWYXFrZzNLb0hobUF4VjVPeXFCWE9YakJtWHNTY2ZZb3VYNkgzS1hOeDNRRC1LdnlBbWExVG1aclMzM3MzUC10RmVFbVB5Y1ViNExlcTlBckdGV1hnSldudUZ1OENXZQ?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "Ramayana producer Namit Malhotra\u2019s Prime Focus offices raided by I-T department in Mumbai",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR3VyVXJoYlQ5OWo0TThoZnZNOVhaeHp5dXNmaGRaRHVxMXdITG5qYlN1YlNuQTU2dWV5WTcyTTNHdTh2TWlCZFVvOTBGNnVSeThELVdLZVF5NTRqVTJ6LS1XUnRWbXRZNFBMU1dlRUxfdUhWSGFYMC1FdldwRUUzMDhIODRteXc1NS1TbDNjeDNSUGgtajkwd09Id3cxYTNUajRyZWtTY0ZmTnBDVlMtMWNuWFVNVl91eFRhRHoxd3U2TTRIY09XaHhkNnpaVDZ5amlpYWFuTHNOOHFLdmN5YjVKUThocWVnRkHSAe8BQVVfeXFMUG5YZ3c3bENKTC1TckVwVkprRmhBdUFmYzVjdkNGclhic1VjdVdDZTJod3lTNU5kT0dvNTJVUmNxSWlyTTUtdzhIWkRCT01KcU9CR3pXRm5XOXh3TlAwUHU5OW80NVAxTmpRcWZZc1p0N3ZWcURxMjdObjY2Q19kME1ibHZrRHQwMnozczRka25lMFd5RlhJQVBtTnJKaXhxeVNJd3dmQ3FEM0poQnU0ZVFvbUhFMEhndlFVMi1yRVZmdmotbHRlenJqZHZ5M2F1RkNaaW5IWmRWMU1xUEljSnBoaFBMSTRsSnN4a0Fkd0E?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SWANCORP",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.27,
+      "close": 260.25,
+      "prev_close": 271.85,
+      "delivery_percent": 39.15,
+      "raw_pct_change": -4.27,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "SWAN CORP LIMITED has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018.",
+            "url": "https://nsearchives.nseindia.com/corporate/SWANENERGY_07102026163650_SCL_Letter.pdf",
+            "source": "07 Oct 16:37"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "LUMAXTECH",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.27,
+      "close": 1770.2,
+      "prev_close": 1849.2,
+      "delivery_percent": 38.15,
+      "raw_pct_change": -4.27,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SHILPAMED",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.28,
+      "close": 1025.3,
+      "prev_close": 1071.2,
+      "delivery_percent": 53.14,
+      "raw_pct_change": -4.28,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "MSTCLTD",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.34,
+      "close": 668.4,
+      "prev_close": 698.75,
+      "delivery_percent": 51.5,
+      "raw_pct_change": -4.34,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SAREGAMA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.35,
+      "close": 481.85,
+      "prev_close": 503.75,
+      "delivery_percent": 48.7,
+      "raw_pct_change": -4.35,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "JUBLPHARMA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.35,
+      "close": 932.2,
+      "prev_close": 974.6,
+      "delivery_percent": 72.62,
+      "raw_pct_change": -4.35,
+      "corporate_action": null,
+      "why": {
+        "headline": "Operations (Sahi)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "operations",
+            "detail": "Jubilant Pharmova Announces CAD 94.5 Million Investment To Double Ruby-Fill Production Capacity",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSWZnZ0Y3M0NUcEdaWE5uOEhCamJaYnZ2Z3k5NVRHeDlaUTB4aE5DcEZOUWNsdWtkTDJZYUY2czNsQU1QSWZiTDkwa215X25qTWtkWk00V0VZMTJfWFlFT0RRTVZ5cFhSSWJvTVl4LV9TNzRPMXN6NHJYWG00QndQVzhpUlBnMnV1Qm4xVVBKam1JaTBfTERYU2JkU0U0cTZRNW1iVDR2US1rN2l2bUgxT1Y3R3lxRHd4SjV2ZzFR?oc=5",
+            "source": "Sahi"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AKUMS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.36,
+      "close": 786.7,
+      "prev_close": 822.55,
+      "delivery_percent": 45.14,
+      "raw_pct_change": -4.36,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "KPRMILL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.36,
+      "close": 1053.3,
+      "prev_close": 1101.3,
+      "delivery_percent": 70.57,
+      "raw_pct_change": -4.36,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "LXCHEM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.37,
+      "close": 182.03,
+      "prev_close": 190.35,
+      "delivery_percent": 40.68,
+      "raw_pct_change": -4.37,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Mint)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Top stocks to buy for short term: Jigar Patel suggests Omnitech Eng, IT BEES, Laxmi Organic - Target price, stop loss",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQb1RuSHJYbVZOS1djX2pleVpTbzRvQmpXVnR1RkxMVERwRDNjRnVhQmpXMW9RQm5DR0tySmJlaXZrV2Zpa283TElvVHdWNDdORnhwQjY4dS05TVRzYjBVMEdIZHNXVVk3Wkt5X01zdnpsemhfcm83T3hFMUdEZlRjLXZpYjNUMFlJV0tCSklqOHBTZVBJV0pMVTVuMUdWUllwc0JGTERiZklObFRsXzUzeWpyd2ctUTZfM2hRelpUc0RtMzRPZHRSNUJQMHV5T3hnVFU2ZlYzTFY0eTdRMG5GNU1tYkpSZkRNM1BLWkJSckZ5dVFHTjI3cWJDN09CVFhPSzEwYnZCV0ZWUjNzWmfSAZMCQVVfeXFMT1gwWXp4VmRsWi1hUmJvWlBpMWRyT2kzZEhBekFialJTdTY1VDlkTlVpaEYza1NGX2lJa19UOFVVRnozTDJyTHlWdFN2M2V3TXVvMGdqazZZMjFFemFQdEtSaDRJcXNvQjVZamtsMURXY1BnYk5BejZBQUdfc2JlaDB0UWdPaWkzUVdwZ2NWRWtxRzNWSl82SF9DblZ6R212ME9LbHZoUWtrN09BdXpzendrSkNKcTZqTE02TnVlTkd0bWpyX3ktNm9KZm9hQ3laU0QtVGxwcW9WeVg0RGNTdzlkNlFEYWstUklrV0RrdG9jUTFaZWxzam1jRVY4TVBhLTRXY0dLY2VTdjF0eTBNVlBZYzQ?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "PARKHOSPS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.38,
+      "close": 260.85,
+      "prev_close": 272.8,
+      "delivery_percent": 60.62,
+      "raw_pct_change": -4.38,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "COCHINSHIP",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.39,
+      "close": 1200.0,
+      "prev_close": 1255.1,
+      "delivery_percent": 45.32,
+      "raw_pct_change": -4.39,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win (The Hindu)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdjNyMDcxMkVpUDhZOUFxOWpYRjk5amtWcWVvZHBDNU9aSDVSM0hoN1ZoUWw2UDAtUElXOW16dUNGOUdseUVSNmdrME8wcDJyN3JtbDFIWjlTUEtxOGpEbUlwZlZfN1dnc2xRS3lSbUJlOEJjSUl3anBZbHhxTGZYZDl3MndENnMzWllkeFRKQkZMMF95VU1uRHFQbEtWMGVfX0hlNnIwM3VQU3NVbnltR3FFczhuem9zQ1B0X0NRQU5DM0lPSU1VR3Q2R1NsRVhfQnR3LVE0VWljRVpwOE1LeERpSzFQWFHSAe4BQVVfeXFMTUJpMURhd3JjUmt1VmFWYTloeTQyejZJbmJyNGpSZnJwa21nVFhydUhjWGtKaGowcE9zTVJvelg5MEJKZjVLMWRyeklZZnMxUEFpUzZRQnJ4V0pmQTJtY0N3Y0w5d0RrbW1WNk1Bbk5nQ3ZFQjFNVFlLSTJ6LW5iaVlyMUlIME1mYzh2bUpQQUpCTU4tVEh3MklQSWQ5VnhTOWJhd19QRWJCODFkRHZDYkVrdWFtaVMzRl9pWm5VdVFlMk9PU0xhdzg4QTZTSDktaUM5T0ljTXc0dTBuYXFnU2VWRFhWT0ZVX3NGSy1jZw?oc=5",
+            "source": "The Hindu"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "BEL, Mazagon, HAL, Cochin Shipyard, Solar: check Q2 previews, price targets for defence stocks",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSW5jblFBeUpUc21Yb19nYmctMVVmcmhURFpHZkhaRFh3R2tIZWl1MXk3X2h0RndLeHNQb1RHckZhbTRyY2E1V25lM3dDczlFV05MT0U1OG9KbFFjdUF3cGZLOFlhaXZJUzZwNjl1aTlubXRmOUxaRHdOX2hLeG9vX0ZDY3VMd2pfUkZDcFdhY0ZZVVNyQkNQYXJwcXJSV293QzJocFhhTXpEWHVLTy1ONHgtc3dWSERzYTdwRGJqUmtyYjdFQXVYZ05sMFMxMGRtV3ZvZW9rcWU5cEFyMGwzQk9FNGlKeVNvNEJFU9IB8gFBVV95cUxOZ0c5UFJORzlOdXpMdk9MaWM0RGltcjdhOXZob21IRHRBMHI3cjZRN0E4V3JxUXFWd1g0Q3YxUmpQZGN6TU1VNHpOTmxJekN3Qmw0UjJjSkxMWFNYRTROY1VoLXJTX2VWam9IaHp5Mzh4ZWU5MzRRNkVINVp6dnVURmVoeWR0QTNLYXJ5Q3NDTHVCNlpuVWFLeWJSajlPakppdlpJalZFdE5SZVd0c3pUNkJWWlhsb2M5UzJKdjFmNXc3M3d6UW45YUU2dzd3eHhGM2xTTHF3YzN1cEE3TXQxWnpDOWdDeFd2QVk4MlI2Y3hMdw?oc=5",
+            "source": "Business Today"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: Reliance Industries, Tata Motors PV, Swiggy, HDFC Bank, Cochin Shipyard And Kalyan Jewellers \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMGZRYllJaUlyZHhIZ3p2OWwxTTRCbXBDbDQ5dDV2M3lWRkdVUTFyZ0lNYWlqTzNyRGVaOGxXZDZLeVJwY3d5M2JBYkZncjJnVV90YVQ5ZDJXSjV4MVFKZWhxTmNZeEJSRTRLWkIwQ1J0YkFVbHdnb3VPRUZCaE5WSFRwZ3NkeE1ockhFY0h0c3duYjZjSnZkOWNYdGRlTGlSbVVEZUNZQjZXdkVlcUZDaUlhRXF1X1RnblpkZXVkYWNVQXFHWHpvcW9ZejRnNVloRXpwbE1ZZ1VqZnJ3aTBaTXI1Y2NOT2JERm9xY1EtRGEtZw?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "GMRP&UI",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.4,
+      "close": 97.11,
+      "prev_close": 101.58,
+      "delivery_percent": 39.15,
+      "raw_pct_change": -4.4,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SKIPPER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.41,
+      "close": 517.5,
+      "prev_close": 541.35,
+      "delivery_percent": 51.02,
+      "raw_pct_change": -4.41,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win, reported by New Indian Express",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Skipper Limited has informed the Exchange regarding 'General Updates'.",
+            "url": "https://nsearchives.nseindia.com/corporate/skipper_07102026184613_priorintimation.pdf",
+            "source": "07 Oct 18:46"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Skipper Iyer sets stage on fire, powers India to easy win",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmgwZjRGNFpkTXRVaVdrSkhmY0ZVMXNHRmVpbEhma2NmWk15YjRrdTJtaUdfcmtlT1U3WTFYVXJUNnhSTjhOcWpLaHppSFBYZ0xLUndYaUh3bnJJN2QweFdNNzgtTUVlMTVwWnJMYS1YMklyQk4tdjQ3NktmVzR6RnFMUF9aUHMwTXQ5REhFanlRbS1CamRRLWN0M3lQOVpXRE9kYVJETkFTcC04bmR3dS01VHlEQdIBwwFBVV95cUxPcmdKdnpMV0tiWlo1UG1od3h2NXY4c0dsMm0zdVdMbkh0UlRONVVOdlhIRE9jb2ZFVjBJSUhEOENXSzN5eGEtdmJVSmxWcU5uN0lXYXp6aloyblVkV2ZXR1hvblBrd1RzaDJkTWFzWHVwNXdndkc1TC1iejBYTkdpb1Mxb3FpbzJVRk01aEpZV1p5YzZzYkRqV29teFVyY1FOVllVYmtDU2QxZXk3dnB3NE5uVnR5VFVOS1NrTXdIS1R3MjQ?oc=5",
+            "source": "New Indian Express"
+          },
+          {
+            "tier": "news",
+            "kind": "management change",
+            "detail": "Change of guard: Harmanpreet steps down as India skipper, Smriti set to take charge",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORGdvaW9paElWZC1DSkh2cEpaRWZVV1dKUXgzZkxqS2w0a3FTSjZGNktaQjBpY3o1MmRCRUtjMVphTkF3OU43N0Fqd3Z5aTd6V3RJRWNJZ1NOV2Ezby1DbHQtaTQzUE1VUWdkZ1FnSDk4aXJjbDlLQXlETl9OMUpXbWxobVU5dzZBd3QzZW44dE1QZDZkNTlMY1pVaGhUUlRKN1l5dEZ2NXVSdTBmNkRkU0xrVTdmamR0TXpOeHVZQTBIV0UxUjFpakttXzk5ZlA2VDhWYndsMNIB5AFBVV95cUxQTm9MZTBtNE5LNzNaUV9KNHFXZkJQeVZBR09yZ0dkSkdPd01OWXF4VVBnUVFESWRKYTBmZGVUWng3b01OZkNVNnBPVlFCVXJsU0IzNHBZNkVFNm03bHlDWENvcVIzd1d3WWdKTlBOaFpLek1reTBSUEI4WUMxdUVRMTNMUXFycVdKTGxzTTQ1SUY2aFdxSkVyX1VqYzBnNG54SldQN3BmSXRzUmlwaEF0X3JQel9EQm1ublBjaWVZa3RPSnRXazlOYm54czVzLTN3bjV4Qm1pRmVRWk90X0JmLUs2YlA?oc=5",
+            "source": "New Indian Express"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "RVNL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.43,
+      "close": 187.2,
+      "prev_close": 195.87,
+      "delivery_percent": 36.4,
+      "raw_pct_change": -4.43,
       "corporate_action": null,
       "why": {
         "headline": "Management Change (Scanx)",
@@ -27,33 +1014,847 @@
           {
             "tier": "news",
             "kind": "management change",
-            "detail": "Chennai Petroleum appoints Ritesh Kumar Golchha as independent director",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXFQXzY5Y1plQk9JbktGVl9RRUlQYzZqaUh4am9GNDNmN3o1V2JtUFNObWFGaHpMSG14WlR6X0NVcmtmMXhvOG1JVnpZaFZkdzZZcmxRU1h1TlpZSXZUUmdUR0pZQl9MU1pXVHNGejRGU1JyZUFWZVdBRWFLRHcwcGxSeXFkdDJ4dE01U1cwOFl5eHRRWGdZWk14NlZSLUk2TmJTQnpBaVpKYi02cHBOYXoxQlNKWFEycGVmc2pZSUhvQzg?oc=5",
+            "detail": "Rail Vikas Nigam appoints Deepak Mohanty as independent director",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTZIMFNhcU5NRWtRRGRuVXBGV2dwZWJYMllIVloxQUV6NkNqSUVJTk1LSGlLX1lNdU9ORWVzZXNqYnhoRmZOell3anZqeHFveEd5dmxURHhtblRYUG1hSmJsaWZ0MzZXY054aHZCVXRQZkVOQ25kcU42Ymloa2hRSDFOV2w4VTJRaktDbVltRHdYak5JT2xCdVU1R2pjSlFuQld3RVFGQXpCX24yWnZzb0FyckRvek1DRlE?oc=5",
             "source": "Scanx"
           }
         ]
       }
     },
     {
-      "symbol": "PVRINOX",
+      "symbol": "SUNDARMFIN",
       "series": "EQ",
-      "direction": "UP",
-      "pct_change": 7.56,
-      "close": 1343.8,
-      "prev_close": 1249.4,
-      "delivery_percent": 25.91,
-      "raw_pct_change": 7.56,
+      "direction": "DOWN",
+      "pct_change": -4.43,
+      "close": 4110.6,
+      "prev_close": 4301.2,
+      "delivery_percent": 55.86,
+      "raw_pct_change": -4.43,
       "corporate_action": null,
       "why": {
-        "headline": "Broker Action (Moneycontrol)",
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Sundaram Finance Limited has informed the Exchange about the Certificate under SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended 30.09.2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/SUNDARMFIN_07102026153304_Certificate_of_Demat_Confirmation.pdf",
+            "source": "07 Oct 15:36"
+          },
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Sundaram Finance Limited has informed the Exchange regarding ''Exercise of 121 options\".'.",
+            "url": "https://nsearchives.nseindia.com/corporate/SUNDARMFIN_07102026173914_Sd.pdf",
+            "source": "07 Oct 17:39"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "PINELABS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.44,
+      "close": 169.79,
+      "prev_close": 177.67,
+      "delivery_percent": 32.87,
+      "raw_pct_change": -4.44,
+      "corporate_action": null,
+      "why": {
+        "headline": "Explainer (Business Today)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Paytm, One Mobikwik, Pine Labs, AvenuesAI shares tumble up to 10% today; here's why",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeVU2ZXJBLVBwRUNGTndNMll5TWRCb2g4Y2ZRaENHbmNKNUEwWGtaSEFaMFFLNFVYc2hkS2pZcnZFT3RrZnp6ZHpQSm1RWnBFRWIwQWlzc0M2Wjc5bWg3RXpWRVU2UThZNTdnQTdUeDBmUmlVbHJFdTVEck52S0lZUDlaNXBsN05QWXNoTGpHOTZvSnVqNnZrMmkwYXRGWXdkNUhZYkNPRzdoTFF0T1VlVDlQbTFjdDl2c21fRjdkb2pMRDlwS3ZNRl9hOXNwaTVrV18zM08ySGVKOVNaTUHSAeMBQVVfeXFMTzg5c19BeFg2NGNEWk4xMEVJM1VDeGJkQTE1a1BOeEw2MlkzMGVFX0hnVDRUQUI2NTBaRmhvX0p4Sjl0WVpUM0hldFd6UkNvdVB1bXU2Y1c2YzJsQmY3UGNrWll1Z0tneXEyYUdoT3dqcEMtS1poRXF2Yk55M2ZReGNxOFg4MDZieXF1UGkwVUM0ZVZZT1ZGWFF5UnVRaHJZeEV5TkhFc3RNWEJHazRNS1B0ZWFsLV9MZEw5WE5hek5YS0kzMTRzZV9rVVZCYzJ6LUFaOWxraC1uNm90dC1KWEJVanc?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.45,
+      "close": 2040.0,
+      "prev_close": 2135.0,
+      "delivery_percent": 43.36,
+      "raw_pct_change": -4.45,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Mint",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "APL Apollo Tubes Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_07102026160957_Regulation_74_30092026.pdf",
+            "source": "07 Oct 16:11"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "APL Apollo\u2019s Q2 volume growth rebounds. Can it still meet FY27 targets?",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1Z3U2d3X2V3ZFJ2cjg5T2kzcWtVLUF6YmJiRXd2Wlk5LU41VV91aXFhOUNPanRjY2o4ckowRDJQMVVEbnBWSHY2bkNfS0hVZC1sSWMtV1daUDZtc2NwczVFWjNRRXh2M01GNlFPa3N3azhwS2tscUdkWVBveGRqdTlXV2FZNk1xRHFvMFlqLW5FQWNYWnRUUF9ZVENqWFQ2eFlUUzVVMjRmUFd6RmhIMzhwSmZYd9IBuwFBVV95cUxOUFN5ZzRsYnlCbzY4eXhMQlV5Ti1RQlFWZ01CX3ViMTZrV2pEMEVEd0g5bXo0Ymk0RFNxdGhhamxaNW9XaVB4WkdueDM0dndkbnNrOFllNjdSNzR3ZHdSR1FUcmhWX3loMS1oU2RvQkN2VVV2VUltMmVUN0U3V2VlbVZQOUNhZURWWkpBdWswZHNBNGJHbjJkbUs5RGJPSkQzY1lWR05OaDFpV3VBUXg1WWZBM1UxNTNuMzlV?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AMBUJACEM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.46,
+      "close": 341.0,
+      "prev_close": 356.9,
+      "delivery_percent": 52.38,
+      "raw_pct_change": -4.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "Investor Meeting, reported by NDTV Profit",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "investor meeting",
+            "detail": "Ambuja Cements Limited has informed the Exchange about interaction with Investors / Analysts on November 18 & 19, 2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/AMBUJACEM_07102026170101_ACL_Investor_singapore07102026.pdf",
+            "source": "07 Oct 17:02"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Cement Q2 Results Preview: Margins Remain Challenged Despite Stable Prices; Ambuja Cement Among Nirmal Bang's Top Pick",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaEdqR3Z5ZFVoc3BCSjFiLWtmY1EzQVhfSGJ4WlFyWHpWUUE3V18zdVRLRWNTNlJTT3I2cDVCLXBYcGJUOE0yUWdlQVBkcEVsOHd3bHlsTGFxZDRfcTdwc3l0Ym1MQTVHVzljSEVNb0gyVWY4cFdjVEhFY0VMZDZ0TkFBdUx5VmROamprZnBDeUh6Nm9SSm45cG1JbDBxTkZUNE9tZzFoblhRMm1WS21lZ0h0UmNSdjZISVhGV3ViMHM3Q1hoY2lxdEpZcXo2ejVBSzhXLU01ZnFOQjFKM1kwZV9nN2U3RjVIcjZRMEQ5Y0E?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.46,
+      "close": 1175.2,
+      "prev_close": 1230.0,
+      "delivery_percent": 60.48,
+      "raw_pct_change": -4.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results, reported by Business Standard",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Early redemption of US$500,000,000, 3.95% Notes due 2027",
+            "url": "https://nsearchives.nseindia.com/corporate/jessydenny_07102026221350_Redemption_of_Notes.pdf",
+            "source": "07 Oct 22:14"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "JSW Steel Q2 crude output rises 5% to 7.27 million tonnes, Indian ops up 5%",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaElfWGFVNDNrSDdTRFp0dmR3c0lmbFJZWDBWNGRDeVNCejJjQUNJYl9QR09Ubk1VajMwbUZyX294VUF4UlRYbDhzNC0xMFZITnR6Z0lMSDJyRkVpUmwtSE51R2I1TWpmYl9Kd0FCblh6V3ZHcllVWUQzbzlLaDNleGxhSEpyc3lPYXU2VDdES2NEekhSOEYzNlc3bkdjUEZoaU0wZ2JsZkRxTVB0YW5oZEFPYzZvbGllOU8tTGQxbWJ1M2laV2U4Tlg1OU1tNklSUV90cGQ5UHl5RDlkLXB4MWFR0gHnAUFVX3lxTFAzdG1ZU1pZWk5sTzNtVnpobVgzeFNhTzA2bWlZSzJzYW1IUElDbDloRnpGQVBIN2RhdzFyeVZEa2Z6bS0zdlB5d2pDWnBfb2pkVkJSUWZDcVdYUVJXZHJXaEsxYVk0N0dsWWtDTURXeHpscnh1Q3BIMTl2ZnBDczBxRDhUMWxSQXF1SE5ncVlMYkdCU1VocWN2ZEZTanp4RVllWlNPTXRYLUZQVktRQ0hRbEFMSDJ5QjB1MGVfNjJkbTJVNktNcDN6TGl2YUdGWmUwZmNfb3BIcGppa1FSRDBDSXktZlNJVQ?oc=5",
+            "source": "Business Standard"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "JSW Steel Q2 FY7 business updates: Crude steel production rises 5%; shares in focus",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSEI2empuWEVfTTBiMDFhSmllQlRsNGVOdFJrWE5idGs0cWstcElBUFU1QTdMTWdWMU1xSDBwVF9faXE3VDdsVDJES2ExLTFOX1dRcGl4bG0ySmtCdnE2S0dTME81bTRZeF8ycXFWLVl5NGk4eVpxMVkzT3ZOYTI1aUJJdTg0XzJ1TTBralpuT1ZORmU2U3FCUFhSVkk1LXVFckhRSTlwZ3Rlb2tPTFRFczB4WjNTc0QzeEx2TTU4M2FiYjVxdkF5RFRFVGVDRE4zOXF6UVZiaw?oc=5",
+            "source": "Upstox"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "DEVYANI",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.46,
+      "close": 123.23,
+      "prev_close": 128.98,
+      "delivery_percent": 60.81,
+      "raw_pct_change": -4.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "JKPAPER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.46,
+      "close": 367.35,
+      "prev_close": 384.5,
+      "delivery_percent": 50.79,
+      "raw_pct_change": -4.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SKFINDUS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.46,
+      "close": 2622.6,
+      "prev_close": 2745.1,
+      "delivery_percent": 50.89,
+      "raw_pct_change": -4.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "CHAMBLFERT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.47,
+      "close": 378.65,
+      "prev_close": 396.35,
+      "delivery_percent": 54.48,
+      "raw_pct_change": -4.47,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "KSCL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.47,
+      "close": 679.0,
+      "prev_close": 710.75,
+      "delivery_percent": 43.4,
+      "raw_pct_change": -4.47,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SWIGGY",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.49,
+      "close": 234.95,
+      "prev_close": 246.0,
+      "delivery_percent": 33.81,
+      "raw_pct_change": -4.49,
+      "corporate_action": null,
+      "why": {
+        "headline": "Investor Meeting, reported by NDTV Profit",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "investor meeting",
+            "detail": "Swiggy Limited has informed the Exchange about schedule of conference call for analysts and investors",
+            "url": "https://nsearchives.nseindia.com/corporate/SWIGGY_07102026185956_Earningscall_Q2FY27_Signed.pdf",
+            "source": "07 Oct 19:01"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: Reliance Industries, Tata Motors PV, Swiggy, HDFC Bank, Cochin Shipyard And Kalyan Jewellers \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMGZRYllJaUlyZHhIZ3p2OWwxTTRCbXBDbDQ5dDV2M3lWRkdVUTFyZ0lNYWlqTzNyRGVaOGxXZDZLeVJwY3d5M2JBYkZncjJnVV90YVQ5ZDJXSjV4MVFKZWhxTmNZeEJSRTRLWkIwQ1J0YkFVbHdnb3VPRUZCaE5WSFRwZ3NkeE1ockhFY0h0c3duYjZjSnZkOWNYdGRlTGlSbVVEZUNZQjZXdkVlcUZDaUlhRXF1X1RnblpkZXVkYWNVQXFHWHpvcW9ZejRnNVloRXpwbE1ZZ1VqZnJ3aTBaTXI1Y2NOT2JERm9xY1EtRGEtZw?oc=5",
+            "source": "NDTV Profit"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Swiggy, Eternal, Meesho, Nykaa, Lenskart, Honasa: Jefferies shares Q2 results preview",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV2xOWDAyWmtURF9LVGNEc0c1eEJNUnRVZTV3bDFSRUg5WjJtWE55ZGZPaVBkSHk0cU96Qkt2N0xJeFQwbXJ2ZFByQ25yNkRlbXctOHNvbjZpUk9CdXZqYlFEMnNmLTNQSGVlTHl5QUZENEJ6Q0RZajZaTGZUZXFSS1JsS0xzZzY3RXotUHJuNDI5c3IyLUh2VWlqbVhySUE2anRpbzZBckQ5TUVPRXZwYVZocEFJNDNMcHdudHlkNnkzSnJyNmFPckxyYi1ndnM4ZXA5MFBZUzZieDY1aS1mc05NUXl1UdIB5gFBVV95cUxNV2xOWDAyWmtURF9LVGNEc0c1eEJNUnRVZTV3bDFSRUg5WjJtWE55ZGZPaVBkSHk0cU96Qkt2N0xJeFQwbXJ2ZFByQ25yNkRlbXctOHNvbjZpUk9CdXZqYlFEMnNmLTNQSGVlTHl5QUZENEJ6Q0RZajZaTGZUZXFSS1JsS0xzZzY3RXotUHJuNDI5c3IyLUh2VWlqbVhySUE2anRpbzZBckQ5TUVPRXZwYVZocEFJNDNMcHdudHlkNnkzSnJyNmFPckxyYi1ndnM4ZXA5MFBZUzZieDY1aS1mc05NUXl1UQ?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "CAMPUS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.5,
+      "close": 199.0,
+      "prev_close": 208.37,
+      "delivery_percent": 48.88,
+      "raw_pct_change": -4.5,
+      "corporate_action": null,
+      "why": {
+        "headline": "Esop/Esos/Esps disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Campus Activewear Limited has informed the Exchange regarding Grant of 457700 Options.",
+            "url": "https://nsearchives.nseindia.com/corporate/CAMPUSSHOES_07102026181232_NRCOUTCOME0710SIGNED.pdf",
+            "source": "07 Oct 18:13"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.54,
+      "close": 188.0,
+      "prev_close": 196.94,
+      "delivery_percent": 35.5,
+      "raw_pct_change": -4.54,
+      "corporate_action": null,
+      "why": {
+        "headline": "Investor Meeting, reported by Business Today",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "investor meeting",
+            "detail": "Adani Power Limited has informed the Exchange about Schedule of meet",
+            "url": "https://nsearchives.nseindia.com/corporate/ADANIPOWER_07102026175819_APLinteractionwithInvestors07102026.pdf",
+            "source": "07 Oct 17:58"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Suzlon, BHEL, Adani Power, Tata Power, Waaree, Inox Wind, NTPC: Q2 results preview; likely hits & misses",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2NmSGR4YWdiRGpQUW9NanNlY0xOX0o5eHUyLWRhdHU3UkRBcVM3c2VwdC0xNzE3V0lMVG5EY2RJVDRVVTNUMVVxbzhpTHZMT0dwZWhoOWVsWkpockw2OF9aLUNybnZFNVRlR2NISHRwS2tvQmwtREppTlpWeHN3MlA4VUt2cDJnU19WcmVjdzQ0QWczcm1MMl9FRUoyMmxLdlhES1R2X1kyRkduUFV2d2oxZEdOOUhCanJMQTNSa19qX1hCU0U4RjVhYldYR0FWb3NUR284cG9XSVdNb2Q2enR1SG9JMU1VQ1YzOTh1aDZEbkEx0gH6AUFVX3lxTFBYa2ZmVl9jMEdJZlduRlBGZ1dhSUxNQi02eWlsNWw2VDlRZ0kzbDhQRHFRRXhVUndiREZyMWN4ODJUdjdVWUx0YS1CcWVLRk9WSXExdHRLaUo2QjZRSnJZSHpDck1zVl9yT2w1OWFvcFJuRklneWtPRDZfQmFWZDdGV01WOFNQZTRJVmh1X0tuQ2djaF9tSFZnOEd5UWstTnpUT19NY1VsVWx2cjIyVnBVNlpBM21DVklpUlQ5MnlKREsxREZIQ2o2SGZQazlqUU9QSHFmM3lWX0Y3bWRDemtyd3BzWldfekNGTFFnd0w2clI1MmctRTdDV2c?oc=5",
+            "source": "Business Today"
+          },
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Adani Green, Adani Enterprises, Adani Power, Adani Ports, Adani Total: Why Adani stocks are falling today",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQa0c0VEQ4ZjUxaTdrbjVkQ25RRlFISlB6emJSaC1wWV9YYTI2bHduZW1sektpY2M2UDd0WjVUSk9sNHRBTm5aa3lXdzRhd3g2VHVrVE12eWREV1RJcG9iWHRmZHFzb3pmbmk4RzFkUVJTX0hiSndLaXlFalU3YnVJOUZ5c0VLYlY0UzBuZmY3cUdXUElyWXdhbkJXa0J0cldxZjhLbEJ5RVlvMXI1VHhjUng4Zjd0SG95cDB5Y2ZlYXpya2pFeUFjeGFiVWtfLUNSVG5PTTNrS3NudnktY0ZVYkwydXdnRENMYnJISlVvSFFaZmdCUmRlZUZTZTNLdnNQU3hXcXNTZkXSAY4CQVVfeXFMUHM1QmkwUU03NzFfTjh3a05iYVROajZ2Tko1VGNhR3FTZm5yWW9KTmhQcl9kQkhUcEx6dkF3SS1zdmV4NDlRZHhHWUNUUVo1Qk90Snd0RTREcjd1WXpwOXBHRmNVRS1ORWNHeVZGUkotbkhOdVVnQmxhQkdLbEZvR3dXVjctN2NiR01xRDFXZUQ2eWhzOFU0UW9Eb3RiUFVKTFNmai1tWFVFZE16R1NSZFBtV2R1clc5MkNORDVwY1NlcE1ERmgxOHlseTR4blcwWWJwOXR1UTVfOTJoUW96RkRrTDVvWlBHZW42RDFfOHZGWDcwVkszd1lSdS1kSnRTbEJlMXZzNnhjc3hib2tB?oc=5",
+            "source": "Business Today"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Ion Exchange up 7% after receiving contracts worth \u20b9161.19 crore from Adani Power",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRG9uaFJzdEJmaHpEYXNxMkZ2cVpBSTNaZjlqNDAwQ2tsZ2V6R2tSSERUdUw2NDNTM2ZfRVB2Wkhacmo0SndRUUxlNnBWTExXeUFJOUtvck8xcTBSdElUZGtPWGVEaVZYQXNrSk53X3pRa2pBRVlrbEtSU2pKNExnSFo0Y2ZxZ3NXSXpHWVhvaTlGV1FJNkRPS0dTQ3VxQ1lWUEJnSzQ4VU5Sa0h4TVRrRmJsXzZyXzRFZWxIcnlNNkJZUDRVMGFodW1FSnhpMnBXTWJHdGVnWQ?oc=5",
+            "source": "Upstox"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "NAVA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.55,
+      "close": 544.5,
+      "prev_close": 570.45,
+      "delivery_percent": 47.0,
+      "raw_pct_change": -4.55,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "REDINGTON",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.55,
+      "close": 388.0,
+      "prev_close": 406.5,
+      "delivery_percent": 43.37,
+      "raw_pct_change": -4.55,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Goodreturns)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Stocks to Buy: Expert Picks That Could Deliver Returns of Up to 27%; Pricol, Redington and More | Target Price",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaU80WDFzV0JHYWxYMHlFLW8zUGIyZGZfRzYtd0RfTFdiZ3ExQTN1Qi13dkhpY1JmQTJYclVMU2d4S1RRR3lMdUpJamdURVZPdXZnOE1KQjFhMk9zRWxlTXB0bndCblZGeEwtT0VZTG1za1BfZ09XbXlaSmxidDNVbGRDZ0tKVm9pbTRCM2dDR1JRR2ZUSFRYWmt3TUY3LUZFYmFNcGlRRUxHLVlJUzBMbVpwd3FYclgzcTc3LTY2NEhGdmJtV2M3OUhRR1VzOVMwanNOa0NR?oc=5",
+            "source": "Goodreturns"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "EDELWEISS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.55,
+      "close": 127.71,
+      "prev_close": 133.8,
+      "delivery_percent": 46.52,
+      "raw_pct_change": -4.55,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "RAYMONDLSL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.55,
+      "close": 596.4,
+      "prev_close": 624.85,
+      "delivery_percent": 57.19,
+      "raw_pct_change": -4.55,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "BANDHANBNK",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.57,
+      "close": 155.54,
+      "prev_close": 162.99,
+      "delivery_percent": 40.4,
+      "raw_pct_change": -4.57,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Mint)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Best bank stock to buy amid Q2 business updates: PNB, Canara, Union Bank, Indian Bank or Bandhan? Target Prices",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQaHJvemw3TnFBTnRibmthUWNneTVCcmRzVDd3bDU1U3JfLXhSLUxmbFYxTnhGa18xdzZ2dENUalJHeGZpdGxlZElXNU40Um5STlhCLTI0SFBjSExQMVZzeDRZaXROOGU0MU51THBOazlMV05VYjRkOFF4S2dBYjE0c2swaGt0UzI2bnZMWGZ5MkJQSzZTSFNURmZiOHdXMjBzS0pRNGlQUmVTWFp6cEZrb0JSbFhZRGpaa2wwai01OW1UeVp5NmJzZGpLSHFnakVZNGxMOElPMHR6S1Ntc2hwbmluVWFsZ0E2Z05DUVNwUmZtSkM0Y3luRlZlVjVfTGdlX1lDa20xMNIBjAJBVV95cUxOaDRyUVpnb1Q1QS1Ja2Q0N2NRZEIxa3NtanhSdjRsbW81SDN4VldPNHZtalhyTVN2azJlTXlKUTFidlMzd2NEbmhiM0FpTVRnel9NQjRvUVg3aHlkdkhaS2x5aXNoZHpmQ3BxakhQaWNRa1R2c1EwcG83Skg2bzI0WHF1em1qUXphaGh2V0xlR2I0QjJPZE5QT2tDNktpYk5FWmNDVkFpMTBLdmZMeXZkUll2WWRGQ1d2Q0F5Z2tSUnMza1dCS2JKTTBISndxWmxOYlhOUjlVMmZzNmh1QnctcVNsRWx4YTVIcVNySFBHTmZsNmdmMEt0YV9pb0cwOU0yOUZZQWdmNmU2THVP?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "WELSPUNLIV",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.57,
+      "close": 225.07,
+      "prev_close": 235.86,
+      "delivery_percent": 31.53,
+      "raw_pct_change": -4.57,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Business Today)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
             "kind": "broker action",
-            "detail": "PVR Inox shares rise 9% as CLSA retains 'Outperform' rating, sees up to 57% upside",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFB5TkMxZk1rUzRVeVhPNTJyN3FKWV9LbzIwbXZiNHZVckludF9OdFV4SE90Q28xSjh4dUtVa1pETHo1WTloMlIzUV9MYjZUbGI2MDRFQkc4VFR4LUdjWlFfV3BjUl9jOG83eG5MU0d6M3NXR2F4STBja3lrZ19NWC1HdEdPNTg0dVc3Q3RfbDhKUFQ4ODlhbGc0OE9OOVpReElXMXJ5UGVIYlhDNzBRVVY4a0I0YnU2TlZ1ZnpBaXlIZXJZWXFSbUtYc0JLSXNoWTNjUGZpWk5zZ9IB3wFBVV95cUxQZXpiOElVdDRPSVZhY2t5eFVYUjczeUJDd1dsZHY0X0otZ050WkVsQjlzZnFpVHkxUFJIaDU2ME0wdndBSEdleklWWVlSTF80SWIzMVpvckpKcWRySFFrQWdnbURXekVuVVgxem9KZVQ1S1M0ZmUyeUNNeFRVQkJTcFBvLVlLdjFTYWVmWmIzQzVNTnJrVVA5eTFaNzhmUTQ3a2JQWlVRNUdnd3VVcTVXeWJybEJTWWx4eXhsclZIX0dSZ0FRWUJTY3FxS1JCcXJqYmpEZEZfUnVUTExwSVFz?oc=5",
-            "source": "Moneycontrol"
+            "detail": "YES Bank, Nykaa, Welspun Living: Top stocks to trade \u2014 Key levels, target prices & stop loss",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYUhQUjY5X1NkSmNaelQ3R0J5VUVjQ29sdTJPYlE3RzRUdXFqY1g3ajg0N2tGbWpUdVJOeDd1aHVNQjV4cUdGSFZRMnNVTHUtMXBkaUw3WThCODB5OGNYM0xmSkYxU3oxOUt2YW9faktjZVZ1WXVxMDV1dEJ3Xy1rS0hWWnNNMWZTdWlSWGJQNV9EOEVwVVdUSE9EcXVCSEJtQUlla1NCMU9wRFZjU3dCRGdXcXFkQ1BINDZYT21qUHcxMHlxLWVLaXFweWkwcU1jd19TUTF2d082dldOdEVhNDExSW94Q3PSAewBQVVfeXFMUDBYLXI5XzJBQnpOUW9PUzNTeTBJVlFrWHh2aWFtN0RPekVVbmdwM2NNWmpwcDQzT2x1eXZIektaUkdMVnFnMENLRnZvRVRTQ3VFamR5WngxMmNldGdGR3gtWS1Mc29FYUtaVHN2alkwYkh1MXAtM08zNzZtMGdMR0g4U0dPc09hUko4UTdnNi1DbG9HWUxtR0JCZGszWXpvQWdGWVhkOTh6NXZOeXF0ZmVQOG9QbFRnRUExZmxoNE1Qb2tfQVBvd2lOMjZVUFRuT0pRN3V0S2pOY3BfdGRVd29KLTdXWkFtaFpJRWc?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "DBREALTY",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.58,
+      "close": 84.72,
+      "prev_close": 88.79,
+      "delivery_percent": 65.12,
+      "raw_pct_change": -4.58,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SPARC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.6,
+      "close": 187.74,
+      "prev_close": 196.79,
+      "delivery_percent": 43.09,
+      "raw_pct_change": -4.6,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SAPPHIRE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.61,
+      "close": 205.11,
+      "prev_close": 215.03,
+      "delivery_percent": 65.22,
+      "raw_pct_change": -4.61,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TECHNOE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.61,
+      "close": 942.7,
+      "prev_close": 988.3,
+      "delivery_percent": 51.05,
+      "raw_pct_change": -4.61,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "CAMS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.62,
+      "close": 662.5,
+      "prev_close": 694.6,
+      "delivery_percent": 48.85,
+      "raw_pct_change": -4.62,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Computer Age Management Services Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/Nandhini_08102026093208_Certificate_on_Regulation_74_5_.pdf",
+            "source": "08 Oct 09:32"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SAIL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.62,
+      "close": 166.25,
+      "prev_close": 174.31,
+      "delivery_percent": 38.85,
+      "raw_pct_change": -4.62,
+      "corporate_action": null,
+      "why": {
+        "headline": "Rating Change disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "rating change",
+            "detail": "Steel Authority of India Limited has informed the Exchange about Credit Rating- Revision/Reaffirmation by CareEdge.",
+            "url": "https://nsearchives.nseindia.com/corporate/SAIL_07102026164807_crrat.pdf",
+            "source": "07 Oct 16:50"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SHAKTIPUMP",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.64,
+      "close": 426.65,
+      "prev_close": 447.4,
+      "delivery_percent": 46.32,
+      "raw_pct_change": -4.64,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Shakti Pumps bags \u20b9112 crore order for solar water pump systems",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVRMTVRDWGJxN0ZKZndvUjFYcWgzdzVacXdlcTNrbnhXSGNMODByUl9mZHVyMnl3QlZISlRkcUlXQXZEMnlFWXVINUJBTjAzVGNUZjlROXUxbnFNd0FwbWh0NkdUODNiSVRNcGc4MkxEbkIxMUo5YzdzT00yRV9GemZReEhMTk9Dd2ZNM1F0akNhVlRjQ0NxWENoTXRfR1RpLTNtUGFOWTZoZWhMVVJpd3F1YnY2Q03SAbwBQVVfeXFMUFFvTlViSVpYYjdGbUY5MXZ2c2R1bmdqQUhzRE9pYnpPcTI1WkdwQzlpbExjcE4tSHVvRnozWUllQU5HRFFacWNvcnhyXzlHVE9PNW40Y1RsY2wwbFR0TDRHQkE1cWZfaTNJWlNwMWxZazBNeENCMTF4U0VkeFlybVp0TVNHSHFEZ1B5bVNrTWpRcmFOMVNFaG15WkV4b1lVbk5YVTFOdmRHNkxoa3BOTXd3ZkVIcDVNTlJEWXk?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Shakti Pumps Stock Surges After Company Bags Rs 112 Crore Order From MSEDCL",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlZtV0pnZDROeTNoel83S1V5d2Q5SGxxLTBzYVlMeHBCQ1lFNXpreEY5azdvQVlRYUtKdzk2YnBCbzJ1aXpvUDg0N3NCVktHcUxCTDNUeUtIVjZ3ZEVoTVVmNVZvdm4wV1cyNWQ2UnVxckZqakJNR0xxZUVRR2p1eXFobEY0UlNvUXhDcDhkaHFmNWs4b1VGVWNFaDEtWEl3X3A4Q2E0YTFfU0d3RmNSV2poSE8?oc=5",
+            "source": "NDTV Profit"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Shakti Pumps secures \u20b9112.18 crore order from Maharashtra State Electricity Distribution Company",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTnlCS2JQOTlmMk5YRDBFaXAtZXljcC1KeWg3UHhSRkNfVkZrS3hOdkFXRjZqM19oUi1Uc2VyZllScXNzMVE3QTlYcHd0VlJXaUI0Z1JlSzY2Z0JnTU51akRFNDI0Nm5VcFBaSE5vT2owZDFYTXNmWGJiM1VZcHlWNzJuZnVNeHBDTlpsNVFjM19uUFR3WjRGX2dvdWhNX3MzMDZCQVluenpReWFBU0kwdHNBbDdfem1LNFNVTkN1VHoyY1R3ZDhUTnZtMklhUWs?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "OLAELEC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.65,
+      "close": 34.63,
+      "prev_close": 36.32,
+      "delivery_percent": 23.64,
+      "raw_pct_change": -4.65,
+      "corporate_action": null,
+      "why": {
+        "headline": "Management Change, reported by Economic Times",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "management change",
+            "detail": "Ola Electric Mobility Limited has informed the Exchange that Board of Directors at its meeting held on October 07, 2026, has decided to issue equity shares on rights basis in the ratio of 2 : 25, i.e 2 Equity Shares for every 25 Equity Shares held at an Issue Price of Rs. 27 per share.",
+            "url": "https://nsearchives.nseindia.com/corporate/OLAELECTRIC_07102026185359_OutcomeRightsIssueOctober072026.pdf",
+            "source": "07 Oct 18:55"
+          },
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Ola Electric Mobility Limited has informed the Exchange that Record date for the purpose of Rights Issue is 13-Oct-2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/OLAELECTRIC_07102026185643_OutcomeRightsIssueOctober072026.pdf",
+            "source": "07 Oct 18:59"
+          },
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Ola Electric Mobility Limited has informed the Exchange regarding 'Company Statement' dated October 07, 2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/OLAELECTRIC_07102026195359_CompanyStatementOctober072026.pdf",
+            "source": "07 Oct 19:55"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Ola Electric defers board meeting on Rs 1,000 crore rights issue",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHp5QlFNV2V1M0hYY1M0c29aTE1WX2pMdjNTMmFoOHVlOWlZUUxTY3FJUkV5T1BpNTk0emx2V05OWGV1TzExV212NXZERTZFOXBMZ3dqTVgwd3lZM2h5S1NJXzZmYVBPenVKekN1QkRIeHRrRndxZkh3NXdkNTdiN0ZMbnZBV21PZ2hRZC16c3dLSHdwV0Y1bjVpZE1SS3l4Sk5vbG9LbGdEc0ZQTkRIem40d094ZGlYUzRFXzBTRFl3eVNaOHgzYzFGeXhGQdIB0wFBVV95cUxPdmVrbm5RZmpWTHhGdEdHTkp3aUVNRkxaRk1sRlJZVG9URXFCZW9tSEM5WWJQNFZMdkM0cmhEQ2g3c0tINWJabDhESzRfV0VNTkhxY2VfYy11bjFDd3hCUEllN3RQMU4tSFlJR0RkMEtUbnFRaHhoVUxrUE5tQUtOWnFmYkNVWlRDR0RJc2UwWjliTEVINmY2YUhfLWtjQW1kbzlmclJubVc2VG5iZ242UTBVaEVnU3NsRUh2b2xKOXlCdGhWYjMyemJRS2pscnU0TWZR?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Ola Electric gets in-principle approval for \u20b91,000-crore rights issue, board to decide key terms",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWDY2RXZoc3hBM0pxSzd0VmV4Wmp0dVBpQkQtTzd4M2g4dS00ZmE5Y1FDTDJCak4zUEN2akRKU3haMTFtTDR2XzJIc2FSS2xBZ1U1SzBtTXFmaHNJYUgxSU1xamR0QUdGYVQ0V1NHdlc3RmxNd1NoN2E1MWxqeUxnSXlHWXJocHJPcUVIUi1Fc1lfQTZIVjFUMUlQMHFqNWgxSGZ3QlZYc1dLamJkaG9JREJJeEdOMnlQZFFTWG9BaWV1aHZVaXRReW5iNkctUTcxWDJNclZsWElxMFFCeEw0WVh4bTFFUlNRNXI3N0hSVdIB9gFBVV95cUxPR1lEcEpSdlg1X3JYWXYyU19TN1Z2d01RakR5RjZ2Mk1ZV1pwZ0p2bTM3RG92S0hSZmFhUXhSSFFXWFpYMHhJdENHR0g5T3JtYllnTlgzek5tVTExWVJLM3hjUmh3Z180OEt2UzctWVdjZFdtN1U1Qk5FSHRBWnlfSEpJcGdIaHAzY3JNd29KdTFPUzhWTjdfbDltS0JWa2IxR2tHdXk3NnlZWTNUU3dLWnR1VmMxbU9RZEgwR3lQTnphcXN2RW5uX0I5S1l0VkhKMFFCYlFTVHlmV05WaEczOHV5YU1iMDh3Y3JRMHFDWDVLdGVOYWc?oc=5",
+            "source": "Hindu BusinessLine"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Ola Electric shares fall over 8% on \u20b91,000 crore rights issue - Check record date, entitlement and more",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRVFWeFIxMHB3MWxmWVZMOUFIVlBhT1lMR2VrTU91d2dFSkNyOGM4aXVVZnZnLVhuSDk1MjFfT2lnQkhhV3ZLdXYtYjVnekNWX0pHMXpEaW5MZ0FDclo3U0J2SXZxRURZangzU1pRb3BmVXA4YUVnbmRUd1RzMlhMUHlobUZ1RDk3dm9ObjhTUkdmT3FZR0h3UnN5eW05aUZiWTlKZk1SNGo0clpMZ01xbzM5WjFZemdBcVM0TUZTVmg5UlpuYjNRV0pOcWhROG1FMGhCWjRGNjVHRGNMSFVScFVveEZBNHhiSG9KdtIB8gFBVV95cUxPdFpnZlZhLWpnY2VoZGg3aFV5dkUta3dqVy1zYjg1ZUlMYXRBLTBjYnEydU8xaGl0QmFKNmZ4MDZWQVZJZUV0M25zOUF0am9NbVdiTzNTVDJZWjJEUVhRQk8yczJVWXdqOFlacFpNTm9iajBpU0hnUHRqYVgyVzA1Y3pQY3Y1WnpkOWZCZS13ZTlfbkVwNG5LdVFPZm1Jd01EWE5kakVCQXNLSTAtYjBpZGxhUGlMNTZEY1dORUM4dlRXbjUtc3dYQXNzMGZYMDZHZlFWT3FPM0JqYVRSb3hPdWYwZnpPMXN3Zkh2ejV1XzBJQQ?oc=5",
+            "source": "CNBC TV18"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "BLACKBUCK",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.67,
+      "close": 587.6,
+      "prev_close": 616.4,
+      "delivery_percent": 43.4,
+      "raw_pct_change": -4.67,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "BELRISE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.67,
+      "close": 234.8,
+      "prev_close": 246.31,
+      "delivery_percent": 44.48,
+      "raw_pct_change": -4.67,
+      "corporate_action": null,
+      "why": {
+        "headline": "Fundraise Or Deal (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Belrise Industries approves \u20b920,000 million fund raise via QIP",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVVhNXhCaGc2X0plT2VrcHFDTDNQaVMxVzk0dE1FR2c5MTNuTmJGNGhOVDBHeDBRRTRKN2VILVhPMFE5ZzZjbGtoR3VDenVYajZQbkphT2NGd2Z3REg3UXhjazZURXBSTXY2ZGphZ1ZzVGxlcklLSUtJaFkydHMtQnJTd0xYUDMzNVdXLUFYZmNtX2pJeXpCdk5lOXlVbGpHUE1OY3prVV9NNlQxRU9GR3JReEYwb2hLOFE?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ICIL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.69,
+      "close": 449.0,
+      "prev_close": 471.1,
+      "delivery_percent": 42.05,
+      "raw_pct_change": -4.69,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "KRN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.7,
+      "close": 1414.5,
+      "prev_close": 1484.2,
+      "delivery_percent": 51.51,
+      "raw_pct_change": -4.7,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "APOLLO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.73,
+      "close": 395.15,
+      "prev_close": 414.75,
+      "delivery_percent": 37.74,
+      "raw_pct_change": -4.73,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "BEML",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.74,
+      "close": 1911.2,
+      "prev_close": 2006.2,
+      "delivery_percent": 46.44,
+      "raw_pct_change": -4.74,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win (Financial Express)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "BEML bags Rs 75.58 crore order for military vehicle exports",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUXo1S1gtMjNnRTNHWk1WdnNCWWhXRlc5RlN4dTNPRHU0bG04Z2xmb3BtUGhYMVBmMWhBZTVRNWVsejBlOTlpbVB3a2Zla1BpT3ZBOFpqalpLcm5maTV5NlZWTkV3dUg0b2VoZmExZG9aSXVWZ3JhcEpJOXFNQ21ESFFxaHdESExVNVJwd05yLVVnVlFqVjdvSnhDWnFhYk03NzNwajRIakJNWEY1d1hMS3oxOVNTR3VfS0xYVnM5UUo0d9IBwgFBVV95cUxQUXo1S1gtMjNnRTNHWk1WdnNCWWhXRlc5RlN4dTNPRHU0bG04Z2xmb3BtUGhYMVBmMWhBZTVRNWVsejBlOTlpbVB3a2Zla1BpT3ZBOFpqalpLcm5maTV5NlZWTkV3dUg0b2VoZmExZG9aSXVWZ3JhcEpJOXFNQ21ESFFxaHdESExVNVJwd05yLVVnVlFqVjdvSnhDWnFhYk03NzNwajRIakJNWEY1d1hMS3oxOVNTR3VfS0xYVnM5UUo0dw?oc=5",
+            "source": "Financial Express"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "BEML secures order worth \u20b975.58 crore for HMV exports to Southeast Asia",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1pmQUhfcEFudmJiRnZMMHhTTzVYQVdEdmZEa2FEb1lJZ2lOZTZsNTQ1dHBZaXg2d2lBcHdGZDAzcEZoQlU1ejVISE1tSU5QbDJ1WmExeVhsa0FPb252VjVYUFRHYTJMeUV1QV9ueE1ydVRiX1RqQnFNX2psY3N6WHg3U3BCQ0NkS3drbjVmOXBfRE92cDYyTzBoTnJnSld1QXlROS1ZNXZIVjVaaWc?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SUDEEPPHRM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.74,
+      "close": 1114.9,
+      "prev_close": 1170.4,
+      "delivery_percent": 54.32,
+      "raw_pct_change": -4.74,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Sudeep Pharma Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/SUDEEPPHARMALIMITED_07102026172733_Submission_of_Certificate_under_Regulation_74_5__of_SEBI.pdf",
+            "source": "07 Oct 17:27"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "URBANCO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.74,
+      "close": 160.25,
+      "prev_close": 168.23,
+      "delivery_percent": 37.8,
+      "raw_pct_change": -4.74,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Urban Company Downgrade: Kotak explains what prompted them to project a 10% fall in the stock price",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaXZhN3FWTjlkRnpBLV9fVU9RM3d6aVZ4UWFlU085bWZKbjFNUWVlWVFneGtvdFMtMHUzR01YWTVWTWQwVEtCc0VLMTBRUDR1Qld1OWxBY184OExnVDlVVDFlVHFxTDZJdHZHZkFyWW1wQVpwRzZQRVh3N2oya0lFQnc4WkpseUlhX3I4UnRSMEpBbVhPNkRpZDZCbjFCVS1YZXlkZXpiRk5iaE02MVNpd2Y3TTIyVllkMDVwU2JzaThnbWdQYy1maXk5OC1IbnVaQ3VRUnppejVZamh3NFHSAeMBQVVfeXFMTXdjUG9tQ1dEQkJmYy04UVFZSk1ISWQ2LWNINmN1NXQtc2J3VGRJSWhXb21ZNi1ER25sMzB1dVZwd21xMUtzYlJQQU16WFE0Vk43N3huT1ctQ1pxazFBWHJDSldtR3ZmX3pMZFp2N1c2SmxGYXFpYzFFa3ExTUxGcmsyUjFab0tqdXlLZVhQWUN1UUMwMnlHVHZKSE1iYUhzUkpWS0FlemV6TWp0T3dxWUZiMW1weXJKNzFjajNUSkZ1UkZjYk9oSU43OWpvSmtuVUFwU0d2LW1kakNMdEFMdVQ1MTg?oc=5",
+            "source": "CNBC TV18"
           },
           {
             "tier": "news",
@@ -65,324 +1866,515 @@
           {
             "tier": "news",
             "kind": "broker action",
-            "detail": "Suzlon, BSE, PVR Inox: Top stocks to trade \u2014 Check key levels, target prices & stop loss",
-            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZHVfQWJ6ME5BTkdYRnpCQ1dhQ3Z5c2I3allGd0FoRHBZRnpnQmVOUVNNVDVyTVdxQWxIOFhGb2hpSHVKeFl1Rk5ZdG5wTE1Qa2VsdEpOTDZwdnZPVFlqXzY0eUpteDQ3N2Q3WUFJeUpDb2t2ZVdFMmtRY3pIWG5jV0JxanVXSlJlU1E0QjdVbndKYjdhLUxnU1BUdnJWaUdHLVFkRFJkM0hCb0x5b19xUlRxZm5hc0hYY3I0eGNuZlB0Um02NXE4UjRtRmNRMW9saWg0SEEtSWhJRVFueVlfeWo2T3oxMjjSAecBQVVfeXFMTWR1X0FiejBOQU5HWEZ6QkNXYUN2eXNiN2pZRndBaERwWUZ6Z0JlTlFTTVQ1ck1XcUFsSDhYRm9oaUh1SnhZdUZOWXRucExNUGtlbHRKTkw2cHZ2T1RZal82NHlKbXg0NzdkN1lBSXlKQ29rdmVXRTJrUWN6SFhuY1dCcWp1V0pSZVNRNEI3VW53SmI3YS1MZ1NQVHZyVmlHRy1RZERSZDNIQm9MeW9fcVJUcWZuYXNIWGNyNHhjbmZQdFJtNjVxOFI0bUZjUTFvbGloNEhBLUloSUVRbnlZX3lqNk96MTI4?oc=5",
+            "detail": "Urban Company shares fall over 2% as Kotak Securities downgrades stock to Sell with Rs 155 target",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0pEZURBc0lBQWRfTFAxQ2VNSGNWVEJaTnYwZHU2U0Z3MHR1RlBZUnNwVVNkMFcwelFJbTgtMFhud1p2OF81d1ZrZHNNdzkxMjhPRlJIWjVVVDB3T1QydHZpVnlKV1I0RlBnR1JLRlNzNmRHMlJGRDYzMHhmUDh1VTZ0WW90LThnN2YyLTB2STBiZEgxN3ZLc2VUbHozV2JRQ0p6bjRjVzNIMEdoYWQ4bDNxVWo2Vm9GeUpkVUNra1A5clZJNTJSbndQcTNSMHNOTTNGU2tNa3RQWGxMcGxFckozSQ?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SWSOLAR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.77,
+      "close": 160.09,
+      "prev_close": 168.11,
+      "delivery_percent": 44.19,
+      "raw_pct_change": -4.77,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "SterlingWilson Solar Nine Monthly Results, Nine Monthly Earnings for SterlingWilson Solar",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0NjRF8wY0VRZkFZUnlFQjdYeEVzYW9TeDhiR3pQYzlYUlo0XzEzSy05aGZ0enRyV0VJNk1SVFFmM08zLWpGUjgzTEhmM2pNVXV2bVdGdHVfQTZtRHkzV2tkMzY2X3h0UlhvYmwwd2Z2X3ZSblB0OW9jQUc5Wi1tajl6U2lhTzFDYVhvNERRcDEwMGhVLVhEbUplMHlOd1hmdDZmbzB2azVHUGY5SnpZaDhMOA?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ALKYLAMINE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.77,
+      "close": 1827.3,
+      "prev_close": 1918.9,
+      "delivery_percent": 41.96,
+      "raw_pct_change": -4.77,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "JAINREC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.78,
+      "close": 281.05,
+      "prev_close": 295.15,
+      "delivery_percent": 42.86,
+      "raw_pct_change": -4.78,
+      "corporate_action": null,
+      "why": {
+        "headline": "Management Change, reported by Scanx",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "management change",
+            "detail": "Jain Resource Recycling Limited has informed the Exchange about the outcome of Circular Resolution passed by the Board of Directors Approving 1. Reallocation of unutilised proceeds of the Initial Public Offer; 2. Postal Ballot Notice.",
+            "url": "https://nsearchives.nseindia.com/corporate/JAINMETAL_07102026180735_NSEBSEIPOPB.pdf",
+            "source": "07 Oct 18:08"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Jain Resource Recycling reallocates \u20b936.64 million IPO proceeds",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWnRvQVVuRHViakF3TDVNRDh6UHdLOUFjalpVcERRNG9Bd09MS05Sa1ZOaW9NclY3bTZHUnlqTzhLZFBhdlAyMGFwcHBLN2pyNGxVVTRnZXhJX3J2UGxFMk10XzBCSW90LUJIcXRMZm9OenpUcGpvaHptVTh2b2lJOW9YZ2VqRnNfT2NaUFppUk5ZbkxaQ1VoalNkSUpKem5TUGg2Mm1zQ05MR1dpckEyZmhVQ2xmd0VWUXd3?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "MANKIND",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.8,
+      "close": 2380.0,
+      "prev_close": 2500.0,
+      "delivery_percent": 59.24,
+      "raw_pct_change": -4.8,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Mint)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Pharma stocks to buy ahead of Q2 results: Acutaas Chemicals, Mankind Pharma, Ipca Labs - Max upside? Target price",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYWZOZEhWbDZRaG5iMnByMXM4NnRIZVF3eXR1RVp0dlZ6X1BJTGtHV0hzS29fWS1ZQU5tLVlSZVdDNzdNNjBJWERjN04wT2pwbTVGVHZlYU5Uc2Qzazl2OEkzMjR5SkNVaFNuX0k0dlI3c1JXQVZhdjNiWlRGSGgzczE4OGNwT21ydlpfLU9YdVFLN1JfSk90MXk0N0JkMERHMnA4YTJjS2w3UjhGdjBoRW9wc2JYd3F3NU9GekdVT1hFSklrZkRUUlVSR3pENUtQZG5HSmdlbWdJME8tYmxqazl4N1pJTVl2R3FFVzhQRnRyNV9ZMlYzVUE1VGFtOTBCbFBRT2ZrM3fSAY4CQVVfeXFMT3lNcVlqSDFSZVhoYXR6cmZZSFFpeDE0Ykk2ZTJiUDZ0UG9fejFaMWhpd0dLbTdiNTRCNnFiUjluSDBjR2xNOXM2SF9BUjcwdzd3cHdVNDNUUGlSSWE2eF8tYW5fQlZsZVhPQWtsaHh4cEJuS3c3czBFcEFrVU1uTzl1d2xHTUpPTDROeUZCSlZJZUhzTmRHQVBjZkVJRG0weWFhdzBNWmJuQXZjeHNjTjJ3VmwyYUdZZHM3cVNDWlJxUVYtZDQwZG91cm9HN2c5cmNjSHIzZm50WWUxT1c2LXlnT3pMSXRVNmQzRGxOR2M0enE0ZkhKdS05alhfVk15QnBYTTNGRjZYTmlYUzBn?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "JINDALSTEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.81,
+      "close": 1010.0,
+      "prev_close": 1061.0,
+      "delivery_percent": 48.46,
+      "raw_pct_change": -4.81,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Mint)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Metal stocks to buy ahead of Q2 results: Nuvama picks Coal India, Tata Steel; Jindal Steel an underperformer |Here\u2019s why",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNSWNUWGxFOU53dm5laXNOLWNodGVibFpkcXJRR25EZ2RkSlZSdERrdHhGeDkwWkl6aTlwSW9vX0NsLXZ6b3F0elQ3QnBZLWxYSmlYYTVxcFJpcks5aWFOTWljc0RYQWkwVUZ3dlV2VDUxZDIwTktoOTQ1X1ExZGdTSkhabjY1MElsaEJLN0l6SG1jaXNGci1XMlVUQTlidWUwaEYxbW5yei1iZzdHX1ZLR1dJaWpYbXRCNmVNVWxsbzJPeG1IOGlaVnpVdkRHVkpiYXM0aEIyaDBkTklkdmpGV2czM0N0Z1ZlMmFDaGdIcldYRS0yQkpEZEdsV1pVYkhwbGxidHY0Mmx5ZUJnTlhkeGowNDHSAZoCQVVfeXFMT2t5Rm5rVmJnbEF6VVJuZGwySm1UeWFnRlMxVnNBVVBMMDloSmdScnIyekpzTUM1QU9iNnZqTFBRbURWdVBtZWg2RGFvUi11U09jR0VMYmUycTlJd3ZNd012Rk0yMWRscm5kc1l2N1V3ZWhZS3BMZjladXlneVlYU2J3NGhNNjZxQTA2ZTg5TF9VTU8wR0dDb25zR1lzNGtsdXBaNmpUa29SU2xhUFRKYW52eHVkUV9lS1Z2VXQzNHlPQmRTZUVQODAyUS1oVG4wZ3N5MHJCRUpQRlNpTjViRnppaFBuc1MzLU44Yk1XcWY5Yy0tbDllanozaTRJUlhJUDRPX3UyYmRpMkFPQjRWcG1MSXY2bkZMeUdB?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "HINDPETRO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.82,
+      "close": 326.6,
+      "prev_close": 343.15,
+      "delivery_percent": 53.8,
+      "raw_pct_change": -4.82,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ANANTRAJ",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.84,
+      "close": 582.5,
+      "prev_close": 612.15,
+      "delivery_percent": 38.38,
+      "raw_pct_change": -4.84,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Sahi",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Anant Raj Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/ANANTRAJ_08102026134636_Certificate_Reg_74_5_.pdf",
+            "source": "08 Oct 13:46"
+          },
+          {
+            "tier": "news",
+            "kind": "operations",
+            "detail": "Anant Raj Subsidiary Signs MoU With Haryana Government For Global Cloud Expansion",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2pROW1sbFhkanVlOVpMbmxmd1cwc29mLWhEWVZpRFdxTDZyYXhGMlNfbzd2X3B3ZWljRmlzNGdCV0NSdjJtUVhkZG1yb2VvVmhlMjZPVWdhSy1LX0FUZmE2SWNubVJwSVFxb29kd0JrSWp0WUN6Tmljc0NfZXlPXy00a0hjWjB6blBRd0loaG5VaE96T2xWd1pLSThOaDFHMWtKRnh1SFZPVXM?oc=5",
+            "source": "Sahi"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "NUVAMA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.85,
+      "close": 1737.4,
+      "prev_close": 1825.9,
+      "delivery_percent": 52.15,
+      "raw_pct_change": -4.85,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Nuvama Wealth Management Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/NWML_08102026124514_SE_74_5__-_F.pdf",
+            "source": "08 Oct 12:46"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "LLOYDSENGG",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.87,
+      "close": 96.18,
+      "prev_close": 101.1,
+      "delivery_percent": 41.92,
+      "raw_pct_change": -4.87,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Lloyds Engineering Works Ltd stake in LADSL diluted to 85% due to private placement",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFlaSEJySFlKMVQwcm1SY3dBWnFrUTdUdEZhRjdPNjY1WG1jbm1rRkhhcThINFlXb1AzbDRsRWFZMzB0WFZ5Ul9aRHB2ZUJsNF9xamFXajlVdUowUXpYbG5ZeW9USGtIYlRaSFZ0dnBac1VZTDM2NVZoclVJSXBqdnQyMDNobXVrazBSRG9SeWM5NE91dEZkMHhYdnVBT1lDUVJyc3R5NnhsX1ROMFRN?oc=5",
+            "source": "Scanx"
+          },
+          {
+            "tier": "news",
+            "kind": "pledge or encumbrance",
+            "detail": "Thriveni pledges 1.24 crore Lloyds Engineering shares to Aditya Birla",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjJ3Nmk2a2JqLV93ZFVZU1prU0lmRE9PTGVIS1R5eDU2S3c4N2RRSm1ZZTNZbFd3bE1XOVRxWUlPZTBkNWVVejZBNER1anNrbmJMUHZoTWpvSTJ3WU1WTjBiMlBLVkZ2LUNaRTVyV3BiV19qcVdaTXpWcEY5UF9UWUk0aDdYa0N3UEtOS1JyQnZXaHpEeWlQYmc5SU5MU2ZqNmxCT2lrWm5uNmhzNmFlMkxSd0ZzcjRFUUU5N25Dd3k?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "HBLENGINE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.89,
+      "close": 725.15,
+      "prev_close": 762.45,
+      "delivery_percent": 43.43,
+      "raw_pct_change": -4.89,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ENRIN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.9,
+      "close": 3180.0,
+      "prev_close": 3344.0,
+      "delivery_percent": 53.66,
+      "raw_pct_change": -4.9,
+      "corporate_action": null,
+      "why": {
+        "headline": "Management Change (Business Upturn)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "management change",
+            "detail": "Siemens Energy India appoints Ajay Jain as Execution Unit Head for Grid Technologies - Transformers",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEJKMWhPOUtjOU1zN3dVWFpPSDZfOXlkXzE4ZXMxNGNDdWpUbzM5ZTR1VGo0cmttTlZKY2tROWFBV19QMWtDbElLTUw5TjA0TEsyZ1I3RDRvVnNkMmxYeThaWHRZLTRMcjYxemRXYzFmNHNucUNmTllzV1VSV2c4RHdyTUZCWGtFN0hKZ205RVhTTFdHQTRiUmdIVnh5dVRRY2RaLXBhOFBDeTdZWDFyVHZmbThfYTJMUi1BeEdFNThKcU9HaU9XQXBwSXdRTkk?oc=5",
+            "source": "Business Upturn"
+          },
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "Siemens Energy India faces Supreme Court of Russia's decision in \u20b9443.76 million arbitration case",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObndlQW9PQ0tENVVyMTJtVUtidGhzYW94a283dmhLa01KNWdFVzlydjVoMnd0Yml4c0JLY01Db051MzdSQkdtNHQ5N1owM0JIWXdkY2RmVjk3bFpjOV81MGRic21RMWoyU2d6dXJGdHVsdXltVko5MEZfdVlDQUpuNGdQdk0xQjlYcHppLTU5ODFobloxQ21jYU9FcUtGbUx6bW1teVFjZ282alFaQ1JPOVJwaERxVEttZkRud2lVdFRfb0ZmZzJYRkkxbmN6LVk?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "GODFRYPHLP",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.91,
+      "close": 1771.0,
+      "prev_close": 1862.4,
+      "delivery_percent": 45.79,
+      "raw_pct_change": -4.91,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Mint",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Godfrey Phillips India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/PANKAJCHAWLA_07102026170848_Regulation_74_5_-30092026.pdf",
+            "source": "07 Oct 17:09"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "ITC, Godfrey Phillips, VST: What analysts expect from cigarette stocks in Q2 after new tax regime | Best stock to buy?",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPR0xNeEhURDJWQ3lGX2FmUWljSnJfR1REV016aE1YRVE5ajh2RmM2QlBuWkJkNm5iM3AzOF9rLVhBVDhVaTdPWC1wYlV6THZET3NpbWFJVEQ0cDZ3UTNLUlRQeDRudnFLWWhPNUp4QlNVUEM1WVctdzdBd3VnaUNaNXFoZGdjLTJUSTYwQ3BXVW5FQWxnV2JxUnBfUGtaX3NQU25LcHBNSVN0bG1hbGdVRW5oYnFpb2RRcnNIRlFUVDNLR0F4UmtqWWg0OV9MV3Q2OTVCdXEybEMzbG92ODJJQ1JOcmJpQzliY3lmWmZrWWFudTh0bHFZX255UTdnOUppZnV1LUtUUGhocnRqaGVr0gGUAkFVX3lxTFBsM3g3SnpmTWNRdXludnZ4dHByWU9uUzFKczlFSG5jSVBiY0F2MWMwZG5IM1Ywdmc2Q2dMQVVWNm02elhvWTQ3dkwxMVlyRWVzZVpKZW5hanIzdEV3TkwwejdxU1pPMy12RFgzS3h4UDZEVDBoN1JKTUdxaG1ickRuX1lKbFRPdExDM180YVA4RE5mT1R3aTU0UXFaNFZSTTl1VFFvMjlDY0Qwa2dhNE45RjZpdExyWmlOX2h5anRnaE1GYmlmV2dsS0UyVEQ1T1Brd3hSUFZSazE3RzFPTk9nQUw2OVV0b1BPY0VUcjhlUUU2V1pTUkZWMEU5cVU4ZzZXaWxqWDkwTHczY3cydmpTeEtKSg?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "MRPL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.93,
+      "close": 173.85,
+      "prev_close": 182.86,
+      "delivery_percent": 27.95,
+      "raw_pct_change": -4.93,
+      "corporate_action": null,
+      "why": {
+        "headline": "Agreement disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "agreement",
+            "detail": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Incorporation of Integrated Petrochemicals Marketing & Trading Joint Venture Company in partnership with ONGC and OPaL",
+            "url": "https://nsearchives.nseindia.com/corporate/MRPL_08102026141943_CoveringLetterSD.pdf",
+            "source": "08 Oct 14:19"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "PIIND",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.98,
+      "close": 2100.0,
+      "prev_close": 2210.0,
+      "delivery_percent": 47.81,
+      "raw_pct_change": -4.98,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SUZLON",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.98,
+      "close": 36.43,
+      "prev_close": 38.34,
+      "delivery_percent": 47.24,
+      "raw_pct_change": -4.98,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Mint)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Suzlon Energy share: 25% dip in YTD! Will there be a trend reversal? Experts weigh in | Support, target price, rationale",
+            "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZnJnNDBBaGtYSk05bHhuREpzb1gzMWtTSm1XN2YzMHNpbGozVlVod3FRSUctam9Wd29McXM1N3VjaDM2WDZudVA2ZjU4ZktULWdkaTgwenFPMy13VXUyR0Z2R1B0WE1rMXBraGRJemdpbVFRM18tcWY0al9tRlVFY29sTFlkRHdTWlhrLVpDbEZGOVlNRUJjeXhGNE5TaE9XOHA0M1VwYlhPZlR3MVdDbWM5ZzNTVi1GbElYNkRxaTJaaDFFdDMyZUdHOEQ2NkN1bk5KOVUzS3RQT0xiclhFWFVJRjJMOGJ6RGJDek9VRWVaT1duQjd1NGRQTTF2bnRrMVJlT1NHT0UzejljRlhv0gGUAkFVX3lxTE1FZ1VJSlYzNUpQSzg3dGhZQmNMX1VDalJLckY5TW1RT2UwR2dlekVTREI2WEhnMWpmZUttTnAwZXMxOW5ySHV3NXl2VWc1cVhCb0JnRlBBTFhvXzh4WVB0a0tMVTEtVnRvbjdPODZVSXRZVVdFb1p4Z0Jpb21mSWYtQldITWxFSDgtWGFZQ185QkV6TUtZN2Q5bHNJNTBla2pQNE15dXJ1cTlUeXBPT0dib1lNLTZURDVsLWptLWg0b2RINmhwWnVNMG9rQUNhWTNFamxVU2tCMF9nTFMxdk5RZDBmMFZfTU5kR0VnamprbTNiVDhNUU9uSzRhSXJYRkRWTjBmdUVZT1FjOFBRME1ma21OZA?oc=5",
+            "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "operations",
+            "detail": "India's wind power capacity may cross 250 Gw by 2035: Suzlon's Girish Tanti",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdG9RcmVrUUxBWW9Nbmx3OU5IeENBR2ZTUDVXb2dmV2lyYmNVaEZ3a3ZtSjJUMVFkZy1VTEtfZ01wdWdoNFY5WWZ2RkxjdkNIR25RMGpjd2g3dVZaUGU1QkN1QkRNUW5jMFNTZE5VTHZHcTVuVXRhcGZpSkYzdWZvWC1VVHpEeTFuQTI3UUpSUzJMTWZ3YW5vTHVmTkt3TjNKMS1jbGdTNFpPN0h5VVZvZnZwQXRRSVRHcHdNWTl2Z19zMFg4QzgyQ0NTZkFWZHNKeUFTU1BWR19Qbk9UX2fSAeMBQVVfeXFMTklSVGlvSXlpSS1ndXBfMFA5eGVselFWMUNpdHZWaC13SHowdk9mSUNCblFvREE5WEp0ME1aVmxoR0NKamVkN1dFalFEZkRvckZTeExZSEVHYmVucGN3b1Fhc2Q2eGJhQW13c1gzUXFJZ1hTYmJZTDVHTTJPMWM3cVUzY1BPaGxYZUttaXFZT0pDMTU5MGZhOXBzNEtTWF9Ia1dwLWtvSHhNUXRDd0dxWEdvMVRHdV9NcTdvVGZJS3VCaERmcEx6SmtEbTgwZVQyQ0lULU1rTk1EaTlaMnZLNlROenM?oc=5",
+            "source": "Business Standard"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: Canara Bank, NTPC, Suzlon Energy, BHEL, HDFC Bank And Godrej Consumer \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQzB4WGJQelFGR3NpVXpFX2JieFBZMGpNUmZnTjY3Y01uWmZncnJfblFWSkFDQ1hZdlpJbDN3N1JmcVRvaF9vSmYyM3F0aWJLQzRnWGdFa09PTWVnbEtvRUkzX0pHYzgyU04tR0VORjlJbjg5XzJpQl9qWkNtd09xU1hCWEhBOXdlbWRQaGtUUkdjc0h4TWpDMDhneDc0MVNiMy1wQnVKY0ZuMmV4OFpSQXM1VVNzb3Rtclpuak1BaklPSmhrcnp0YkNVOEp5UVN5ZTBr0gHbAUFVX3lxTFBEOUNEUXYzc0RzMlRnRWZFc3BIOWNHcElBQWVuVEtFSml6QzA1U01PSGl2dV9CNUJPYzJVNUE3anZkUDJVY2xWSHFUTWhvNTZMTDFuZHZxV2dya1NWNG1iTHhucnRmLTNEbG9CUE0zV0pJN1czcWxlMlJXNTZpUzQ5bHpUSmlDZVdzeXpDd2lZLWRGWkV1RnhmX3AtY04ya3BuNV82S2s5LTFwajRfei04cFF3V1RETXFxWk15T2REZHpFSUM0RWNhSWZqUWNvTHJwWGV5RlBPTlBUcw?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.02,
+      "close": 1014.3,
+      "prev_close": 1067.9,
+      "delivery_percent": 34.43,
+      "raw_pct_change": -5.02,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Motilal Oswal initiates coverage on Molbio Diagnostics stock with Buy, sees 21% upside. Here's why",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMGpLcEZobDUtS3ZNd2pqZzhkQU1TZ1ltTUhZbklCVVJDVVJ4cDNKeDlYdFR5bzdYNDlpaVB0ajNRWk1kTVFoQnoyeUhyMmV0dEJHZzRQZ01lcTdILUZzYmxRNUtWVDk1cHpqUjUtMTV1NFRtWlFzSTJ3dmJTa3RNckJCNWNzMDBVakhlTTZZaGpYWjFtSFA2OGlNZjVnYUE1ZzZBMGtTWUVzQ3pPbTVvLW5nVDhLeTFNbEhSSFNNaXFLLXlFVFFZSUtWYkQ3SlVHaUxYbkJheHBmd3FFMVB0Vk5peXhKbzVHZHZHdTBaZG5ib3pWSGppc1RtQXrSAYICQVVfeXFMT2hROE5zbkNnNC1PWkRLVV9YVnpjTm9LUFNGYTRKSEpnbWhGSkxyTzdhdGVWY25nTVc5UElJNlJVU0NJRnhXZmRaM2stZ0tjVHJ0ZTJObG9ISUU0QTZOdkZIRlNxSUpYbENYQkl6RlkyRFJsaTgxQS1kVFFVS0JRbW1IU2lucjRYRFZTOTJrOHVZVThUS19aQUtkVVNxQXdsY3NVSnYyMHhteXRYTFdDUkQ5NGo0T3oxMFkwb2I1Q05BTGxJQjR6NHh0NENPc0pCSFlGMVpuN0RUeVNLVXdkZE9qTFJJTHZDV2RLSmlidlhHNzhvcUtYR1VvMFo4VmsyWnl3?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Stocks to Buy: Motilal Oswal 'bull case' sees 70% upside for new listing already doubled from IPO price",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWG5MZUdrRVZFM241b2V3aDNZZVh1bl9pci1JTFFMLXVVdXBBR25GRkl1eWZtai13RHpEMEJRbkoxMEVWcTZxQkVCcElyTjVPNGVQRTVsck1fZ01zTHlMMDZHZnQ4ckRWWTB0bTM2VUw5emlqODYzVTZnR3IydkhRZzJsQXZpUjdEWV9JUFRibUpNWXdYRHFCSTlidFBTbERhX1JLX0VZOVlxYVlpZjROMlhQVjNrZXdhQ1lfSTJqS1pPSmNYbDVEa3o0bEtLQVNERzVGTUI2N011cXhxeVFyZEx2bTYtSmttRmg1WGJiTHd0Mm81X3fSAfsBQVVfeXFMUGU2Z0VxRUtXWHJhakg1RndZTkdqTVREM0ZMb1JjWDByMUNMOTdQZmtSTzYwb1haYm4tSExhSWNaWW03SjVNS29QVE53R1VzUERRVy1YM0VhUWpEcy0xejBpd1JIMXBac2FuSjY0SkpTRTBLYkVmTnJpQy1EVDBMLTdrWW9JUHJFdXU3d2VXczY4R3FCTlJWV3lDSTQtX2NUU0tRUEt0aktZdDFhRWl5OHM3X3hLT3RlSlNEOXVaQ0U5ZWRPd2I1SVc0TzhKaGltbzBQUUVwdV9rLWhSbWlpSlZHY2xiekx1RmtRXzBOTFVQNGpYdEhldFhzY0E?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Alakh Pandey-led Physicswallah shares up 42% in 6 months; Motilal Oswal sees further upside - Reason, target price",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOVHZIU19xQmM0VEM4Rk9rVm9lWGZjU044akhGdXF3ZDZLMVM5OWVHcUktWDVkdFJwLUdtZWM0dHN3VkJEMEY3UnZSa2YyaElWcnUyMzN1VHV0Wm04TDJCTTBSMWV3TkJISEplVndFLXBnbTVrcF9BTmxPT3l3cjJLRWlDREdCbGp5bVU3SEh1Y0xhR001WWdpZnFkNEVCS1lhLUg1REZaRG9HYXdxMm1YSXdUbzJJS1FZaE51UnAxeVN0UVZHN1N4VlFxOGg4MGFNajczY1g3Z2VVSHJsSU5rYUxHS3NHXzgxbjl2TEw4djZYN2RNRjl4aWhQQkpuNmwtQmRkemNZREo4WnPSAZACQVVfeXFMTk5UM1N4QW4yNTk2NmFHdzJUc2lRcUxMS1A3X3JHZmwyNFRKOXpJcHRtY0I4UC1hczJOTnVBX0RyMjdwWVBfQ3pFUlpYNUxSazNpaGpXS2tSMjExb25zZFFrWFF4NHR5SHFWd2NtLUE0eUhPcDVwUHNpRGhTaHhMdGExeGdmb19HbTlpWTBURjZIWm5VMnd3blU2NFVxS19BellfX2dWa2gwNGZQYXBFbk9GNW5RcllRR1lFQkFudWNaanZjMG83dFBoSG5hSFVIa2tOLVVMOFo1eFRKMTNlWWNEb2pCa0RvZXRxbWhHdUxVYjhsZG42Vko1YVlzRVBPRm1OX3lhMVlheU5NX18wTFU?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AWFIS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.04,
+      "close": 238.12,
+      "prev_close": 250.75,
+      "delivery_percent": 41.59,
+      "raw_pct_change": -5.04,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.04,
+      "close": 1531.0,
+      "prev_close": 1612.3,
+      "delivery_percent": 13.37,
+      "raw_pct_change": -5.04,
+      "corporate_action": null,
+      "why": {
+        "headline": "Management Change, reported by Scanx",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "management change",
+            "detail": "Chennai Petroleum Corporation Limited has informed the Exchange regarding Appointment of Mr RITESH KUMAR GOLCHHA as Independent Director of the company w.e.f. October 07, 2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_07102026184627_Reg30.pdf",
+            "source": "07 Oct 18:46"
+          },
+          {
+            "tier": "filing",
+            "kind": "exchange query",
+            "detail": "Chennai Petroleum Corporation Limited has informed the Exchange regarding 'Reply to clarification sought on spurt in volume of CPCL Shares '.",
+            "url": "https://nsearchives.nseindia.com/corporate/CHENNPETRO_08102026145232_Reg30.pdf",
+            "source": "08 Oct 14:52"
+          },
+          {
+            "tier": "news",
+            "kind": "management change",
+            "detail": "Chennai Petroleum appoints Ritesh Kumar Golchha as independent director",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXFQXzY5Y1plQk9JbktGVl9RRUlQYzZqaUh4am9GNDNmN3o1V2JtUFNObWFGaHpMSG14WlR6X0NVcmtmMXhvOG1JVnpZaFZkdzZZcmxRU1h1TlpZSXZUUmdUR0pZQl9MU1pXVHNGejRGU1JyZUFWZVdBRWFLRHcwcGxSeXFkdDJ4dE01U1cwOFl5eHRRWGdZWk14NlZSLUk2TmJTQnpBaVpKYi02cHBOYXoxQlNKWFEycGVmc2pZSUhvQzg?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "RENUKA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.05,
+      "close": 21.63,
+      "prev_close": 22.78,
+      "delivery_percent": 30.42,
+      "raw_pct_change": -5.05,
+      "corporate_action": null,
+      "why": {
+        "headline": "Explainer (Business Today)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Balrampur Chini, EID Parry, Dalmia Bharat, Shree Renuka Sugars: Sugar stocks rise up to 9% today; here's why",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHZkUDRwUjdCdlpXZ2IxbTNZWm02d25kREdLLURIR3J1SU5NQVdQUTZLNFZQNUhpVFRYellELWhGLTFLT2dmc3ZMTkFtSEJDLWxBaXRRZFhzUDlzUmxhUFRXS1ZKZ2phMXFjdVRiaE1BY1hQMW8xQWlFYXkyZGIwQmZBclhQY196dXhXelVjV1dHTHdrbi0xNzk4czM0bnFUT3QxUjBYcll3eUludk9QaTJlelExektWSTZ6MkM1SnViaGJ2R21jTVVsTXFILTBPYlU3dFVhVUtmaDVOUHfSAeMBQVVfeXFMTnNQTzRGQVczNElhYTROUC0zdXBtVklaRy1VQVp0UFpOQ3JFa3JiVlQ4UjBsX094Q3RZa1pQbUc0TVFyaklTQThwTERMdndjc3RaeXlrei12cmpCZDd3cnpuNThweHFVLTkta0hhSGRJemxLR0lxMXo2SHAtYTZqUGdta1dvWEtIYURucEJ6MmVEdUZfMkUyY3dXaFd5RWcwNEdSMWo5RjM3MTlEOHlIdndndXp2ckI5dXFFU25Lb3UtdUZJSDdudTZUMkdEVDNOWU1na0ZyXzBCQkw5MloySUE4LUU?oc=5",
             "source": "Business Today"
           }
         ]
       }
     },
     {
-      "symbol": "PTCIL",
+      "symbol": "NETWORK18",
       "series": "EQ",
-      "direction": "UP",
-      "pct_change": 6.75,
-      "close": 24685.0,
-      "prev_close": 23125.0,
-      "delivery_percent": 28.15,
-      "raw_pct_change": 6.75,
-      "corporate_action": null,
-      "why": {
-        "headline": "Fundraise, reported by Business Standard",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
-            "kind": "fundraise",
-            "detail": "Ptc Industries Limited has informed the Exchange about qualified Institutional Placement",
-            "url": "https://nsearchives.nseindia.com/corporate/PTCINDUSTRIES_06102026223535_Issue_opening_outcome_QIP26.pdf",
-            "source": "06 Oct 22:36"
-          },
-          {
-            "tier": "news",
-            "kind": "explainer",
-            "detail": "PTC Industries rallies 5%, hits record high in weak market; here's why",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSDZVUXdZTkpoSFVlM1Fqa081S1ZmTF9xWENwQk5ENnBDdUxNUHgtSi0zU3R4UXc0ZGJycDJoeEpOcEFnc1d0OHVnSGJTOHJvYzJDNy1ldjk0anlUUVZCaHlGNzMzZjhsQVhOU2VqYzJCNTRQZGxDd1BaZFJJbUtveHZtWC1NbFkwSmJkc3VEX3ExemZja0lNVlhONzhZNXhDRHYwaWpmdjFyREZWZG8tTU5hUEYzT2ZhZGJ0b1gyQ3J4aGNScVl3SmJoN1I3NnPSAdQBQVVfeXFMT2VUT2UydEtCOUE3aFBwSmJZM1RZYl9NR3hjanhHcjRIOE9tckdVWEVZNm82aHNHUDRqVjNoXzJWdjdudWJNaXppUWNsem13WjlHU0g0UTEzSVBJd1FfZTM4T0lZcWVRTUxmSUhWU3lTX0lZaklsX0dRbGFSOU9jTWtWUy1aX19FU0Fhd05MWjFaTHpKQ2VCaWF1NG9ZT3dndFI1aFhTVzA5bG1HMWxfNEctOU55cFMyY0ptWEJ6aTQwUmRSYXBscnR2c2xMZDJvNHhxcU4?oc=5",
-            "source": "Business Standard"
-          },
-          {
-            "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "PTC Industries launches \u20b91,800 crore QIP - Key details here",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaWk0RlFNbGNRcUlWcHIxLVJDMjFPajVUWlE2Q0xiTkxZMl9rUk9KNVk4VzhKUHBaSHNVWFhjbV9Qd0VkbHBxcmxhY0lfTWd5ZVRXak10dHNONkRJZm1uMGJGakNieHhVb1R4QWVJZFlqaElHemRQZ3hLdzBPTDl6TUc0TXZGY1NTQUptTldyYmo1Z1lBTXRqcDhPV0lHeHd3TTlnaNIBqgFBVV95cUxOTHpDWktsVnNfWkk0VXNCaUVEcTBoOTJ6bFRJbTBjdHh0VVEtT1JZbElfeUNnQllZeHkxMllFd0NLc2JyOFdUMF9teUd1b29JaFl6ZGRhVF9nWHFheEE4SjVZeVJ5ZDUwRmF3MHEyN2NUampLLWVvbEpPNG9odmR1RVhDcFNqWHFQNFMtQWRMY281cGZoakN2bGx2bFp4N2pPaFF3OXlOSW1jdw?oc=5",
-            "source": "CNBC TV18"
-          },
-          {
-            "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "PTC Industries launches QIP to raise up to Rs 1,800 crore",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkpDckUxSlZvaHZVakxlUFdVYzl1SnNrT1pocHYtdkNseFdVaks2bnVKR0lJX0pPTjNZMW5qZGNHLWhiTFpYbC0zSVpsZk9sdXE2S0lFNF9qOUVuTFhOWFBKSnVOcWZwT0hGYjhwM0otS2R6UElCbTlGa2dVTVhRX2tUeVVDendHYk41Uk1TR1d4b3J1Tmh4d2VRYklUQVRzcmlXREZzaDI1MG8wbXhNSTJvcEtaVEY4WDBYSmxyRdIBxAFBVV95cUxPal82U2lJNFN3eGhxdGxhT3JqZzJ2anItRlBJQTFRd1pBTEEyR0pYbFl3RU1RMjBiVzVhVVBxYUdTbHgySTlnc2F5bHVtZTh5cFhDa0E1NmJ2elV6X2JaN0Q1TERtWHBFQ0hhb1RxeFR5QTdxeXN5QlM1R0p1TDlMcFVSRHJIdzdrRnBGbk9zbjNfVkRXcjdCZ01RNVpwRloySklTWEFSQzB4MEtnT21laVhCVC14bHd0ZnNxVmZJVjJvT2p3?oc=5",
-            "source": "Moneycontrol"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "BHARTIHEXA",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 6.57,
-      "close": 1477.9,
-      "prev_close": 1386.8,
-      "delivery_percent": 51.0,
-      "raw_pct_change": 6.57,
-      "corporate_action": null,
-      "why": {
-        "headline": "Results (Fortune India)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Telecom Q2 preview: Bharti Airtel, Jio seen adding 4.1 mn, 7.2 mn mobile subscribers in Sept quarter",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQl9mRkI1RExMbklOMUdQSHU4eDVhWjlOd194a2FJcDdSV0dZMkZGUmNNVE5DVzhOWTJ6Zm1iaGN4MGJTSnNSd0pXa3dUVGtvNENpc3BRWmZoMzZfdkR1akNwTnd1MWN1UkFzTHFOc2lkVklza1QzcU9QTE1pcWhtTkFUQVh5UnMxclJQeVUyV0ZMNnd3TG9yOEdJVUF0WjRkakFQU2h6M1Q1NXdYQzJyeGtBNnNKZ0pIaGdVZUxiZmZ0R2tiZE5aa3MzbmZMdm8tQmZWcHQweFR0ZG05ZGfSAesBQVVfeXFMTlRfTXp2bmd0OGhuaVBjenl0X3oxMndQb0dneUtRbHktc2FxOUFGOWlTN0J4WDVsSi1kRnpoWUFiRkR6YkwtaGVtc0JNZ2Rld1k1Z09ndjN6T1Y2UWlKRmNENWlzaC1sWE81UWRqU1o4ckVwcjJlWjJJY1ZlWGMtTWY1bTMtR2F5SzljRXRfMkhnR2l0THlWSENjYmIxaDJaWUxya1ZrLXdINUx4VHZWM21DVWJpWnJ4TXJ1THBUdmlfZDY4RkE1YkxfWnVEdlJGMm5aTkJieVRERkN5RVJESXVHWWtmNmZrLUpFdw?oc=5",
-            "source": "Fortune India"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "CUPID",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 6.09,
-      "close": 343.95,
-      "prev_close": 324.2,
-      "delivery_percent": 26.59,
-      "raw_pct_change": 6.09,
-      "corporate_action": null,
-      "why": {
-        "headline": "Explainer (Economic Times)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "explainer",
-            "detail": "Multibagger stock! Cupid shares jump 4%, soar 238% in 2026. What's driving the rally?",
-            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNmJpYjRyenlpM21LWHZBdE5jbzVkbDNwS3VETnhHREs0YXBNOXhwTmxYUWNMMHByQXZaVjF0b1dqRTh0SW5RTlpUY2RLcl84X1ZwU3I2cjhyVHU1Q3RRUnpQOEJvcUV1RkJmSF9zN0tQUWkyMWRackZmZXVuamVLTjZibnIxVGtvSHF3a2JLNUV4Qk9EeGlrbjc0anlNSk5LYmc3bFpLby16Z0xrTnBWbWJUb3NaWFZ6VEx3RE5RZ2J4TzRGLWZqaDFXeDZVdEs2UTZLU3lFUkthbElBb2xQTkI3cDhyOWvSAewBQVVfeXFMT3F6NjBjNUtSa0UzT0llV3RHWFFHTTY3ZzAxX25CTzQ1b0E1WHpGdzgzVVh1SFFlZkZrZ1I4LTcxZDJrTDFvYjdETjRWXzRwVFlreC1mOFV6ZmYwQTAySnJYNktMemFMZnMybXl6SmFxaFo5ZU0tbHJiZ1FZNTg4cEt4SUNaanFrcWpVSDk0SmpmWmZpeGlldmtzTUhjWUpoUnNQMlMzTUlSN0kxWUNVNmJsTFFPNW1BTW1TRVo3a2xDMkU4TElXRTY2bFdWbFpmZGE0R2R0b2VtTkVsYURxNFcyand3MnJnaHJMYlc?oc=5",
-            "source": "Economic Times"
-          },
-          {
-            "tier": "news",
-            "kind": "explainer",
-            "detail": "Cupid shares surge 30% in six sessions, hit fresh 52-week high; Here is why stock is rallying",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbUtqanBoU0VmZGRuYVNHNXdVWG43WWpSQVFMQ1NMS3dxQlNnMHA5UVpBLUZEZ05JWXhHYk4zbnpNdUlsa1p5MUo3UV85ZW5Wc0c0TWVwMS1DcGFOcGlzWG9TTDZmSjJ3MjljdFdwcDhPX3JMMVhaWjd4UmhJRVRhZTJfcDZON29zNy14bjA5bXRidE0zUUZtQlZfSWxZMXRVUEZoNkJJNllLZS04RFp1dHRFYXhEUG40eXlxSkI4ZkhvajAwWkFzWUV0TTJCUHlCeVBLejBmeEg1T3NHeTNWU29yWQ?oc=5",
-            "source": "Upstox"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "ALOKINDS",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.87,
-      "close": 8.29,
-      "prev_close": 7.83,
-      "delivery_percent": 28.85,
-      "raw_pct_change": 5.87,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "PWL",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.85,
-      "close": 139.57,
-      "prev_close": 131.86,
-      "delivery_percent": 17.15,
-      "raw_pct_change": 5.85,
-      "corporate_action": null,
-      "why": {
-        "headline": "Broker Action (CNBC TV18)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "explainer",
-            "detail": "PhysicsWallah shares get an anti-consensus 'reduce' recommendation from Kotak; here's why",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOE9zSVU3RU9uZHcwemZNcy1yYzhKcXhZTDVHN3FSWm1LTmpxLXRiMDVqTUgwMG1ybHVueDVZMEtUQl9hbWdaZGJqbjlOMlJ3NWx5OXN5Y1NEOTRYNGd6a2wzRm9ZbWxoQ0VXZjI4eHctdWZMejJoRXFMVnlvTDVZNUdrVFFMZ3dGZWgxV3hNOVpvVkRPbFVYLTdVUV8xRGF1RmJVUVpGUHVyQ3ltUFJ3dzZhc2pZcUt5c3ZjWG11VzQ3TThTV2dUYVpPbjFlVGduWXkwdFJlbzc1ZFk3MEHSAeMBQVVfeXFMTnZOLTNXT2QxSW9mMmdjdVNlSDRBQmlibWhIemxJOGNGZ0ZRRU12Z3RReEJ3ZHFFdUVUYmE1VzRjMGhNVlBfRkhSd2FvZnREeGg0c1pfQlBrVTVtYi1feFBLY3F4cmFNQlZxMEllT2U5dmhxWkxvSHB0c0Y3STdUTmR3dWRRVmMzempvRFFtZ2x3Sjh6V1F4c01yV2JFYk1Sc29TVlp0Qzd2TXhVTkJhMzhZWXBIVy1oLWNCSEpyUFBiTlFseWQzaVBKV0xYVTd4TDl3ak5SNzBJX1ltSnVTZXJSeDg?oc=5",
-            "source": "CNBC TV18"
-          },
-          {
-            "tier": "news",
-            "kind": "broker action",
-            "detail": "Physicswallah Shares May Rally Up To 43%, Says Motilal Oswal On Multiple Growth Triggers; Check Target Price",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS19VZENfXzhKQ0Q4bG4yYXA2OFJFYzFVWG02WU5WYXhSTFlaSW50M3VhWVRwRTVJNDFoSndqaHdMY01SakJtUDU3Vk40SVlReC16ZVV3TkVhYm9maDU0S055di1iUDh1R3lCMG5PZk45dUxoMC1iMHdSVlpxTnVXVGNEcDhTUG9DaS1NeWxCYXFPYXlVR2NpVjhxOEhLOTlfS29WYjRxQUFrQ1lCZG9RbHVWX254bXdJb0FkNFRiNFR1cFBQYVhNZ1J3bXBTNTdwR3ZibU5iT2w0bkE1aktoczRXelExRTZpRDExZmpn?oc=5",
-            "source": "NDTV Profit"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Motilal Oswal\u2019s Q2 bets: Adds Meesho, PhysicsWallah; reallocates 400 bps to SMIDs",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTY2VnI2eWZNcGFqejJCNXVlZko5Vk93QzVtRktJSkx4RTBlaklGb0h2WmxmMUFINDE5aUxHdXJjZF85MUUyd3hYX3lGR3lvR3dHa294YlRacUdGU3FjUml6UVlxQ2ZtbUxNcGw3SEVhWmI2bDF2YVN4dmhvdEFFckxNcWoxTTY4N0ppd3Vnb3dqTThWRnkxQkJVOThzSU15LTdTemtWaDlMSkRoQnJsOVVtRWdQVHI0aEprR0ZEOW9RQ0dN0gHLAUFVX3lxTE93WGtuLTFQTFh6MDFPd0tMeEFhdFl5UXZ5TWliR2pST0dZR1hVLWNLV0o1NVBSRnd2TWRZOTdUQVdGMnR3VkVfOWRTMDZYeUxrSEdrNDRwZW9BdHZyQ241a3BXckxkdEpIbUVCZnJ0MjI1eEJVNEtndVVCV2ZOSWpVQ3UzUGt6bzJIRWJtWFQwNGN1S0FldkZiNXU2ZUFKWW0wMmRvMTNwRUpNcXAyaW5MdkhfbW1uQ1FmRmZyc19yMVRsTFdjRUQ4U2Rn?oc=5",
-            "source": "Financial Express"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "CELLO",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.82,
-      "close": 390.65,
-      "prev_close": 369.15,
-      "delivery_percent": 13.94,
-      "raw_pct_change": 5.82,
-      "corporate_action": null,
-      "why": {
-        "headline": "Regulatory Or Legal, reported by Scanx",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
-            "kind": "regulatory or legal",
-            "detail": "Cello World Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-            "url": "https://nsearchives.nseindia.com/corporate/CELLO2023_07102026130145_Intimation_CWL_Signed.pdf",
-            "source": "07 Oct 13:02"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Significant increase in volume has been observed in Cello World Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, has written to the company. The response fr",
-            "url": "-",
-            "source": "06 Oct 18:10"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Significant increase in volume has been observed in Cello World Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Cello World Lim",
-            "url": "https://nsearchives.nseindia.com/corporate/CELLO2023_06102026190811_Clarification.pdf",
-            "source": "06 Oct 19:08"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Cello World reports record Q4FY26 revenue of \u20b9654 crore",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY3JPR0VrbnBINW8xRnBGNXFyWnk4MUtoWHZDNmx4ekZCT3J6Slg3eFZDQVlHRzF6NGNTQ1lmR1Npc3hoM3ZDNy1YdHFSblpOSU41UVo0OFRqR3pnTl9SalNMVHB4V3ZkSFM3OWdzcWg3OEsyLXo4Tk5YejJRQ3RwUUpEUXhqYUFsMnd3bWlwZE5kdHpTWndNMk1BTTM0dUpZYmhtdFQwQ3VzOG1KZnc?oc=5",
-            "source": "Scanx"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "BBOX",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.35,
-      "close": 884.85,
-      "prev_close": 839.95,
-      "delivery_percent": 28.28,
-      "raw_pct_change": 5.35,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "JAMNAAUTO",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.24,
-      "close": 151.77,
-      "prev_close": 144.21,
-      "delivery_percent": 29.51,
-      "raw_pct_change": 5.24,
-      "corporate_action": null,
-      "why": {
-        "headline": "Pledge Or Encumbrance (Scanx)",
-        "confidence": "low",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "pledge or encumbrance",
-            "detail": "Jamna Auto Industries promoter releases pledge on 30.3 lakh shares",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXRCZDVxNUhQb1o3X0xhcHEtand3VE5KRl9iZ2w0WWFmU2dVeTFkdWN0X1Y2ekhYV1Bidml2M3g1M3c2TzliUUZ6dFpxbDNSQl8zYnV3dFExSm10d3Y4N2hyZjdEbjVFWThQSDAweUZoZV9UTGk4WmVYOUlZOV9ZbzF6VF9HeGNBTWJWbW5RZkd3djdoQUc2TjFyWlhsaXZXZ25sN1dnWFlxSU5TTExQanZfa19MN0dZRlFsYw?oc=5",
-            "source": "Scanx"
-          },
-          {
-            "tier": "news",
-            "kind": "regulatory or legal",
-            "detail": "Jamna Auto Industries gets 8 weeks to reply to \u20b91.86 crore tax notice",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaUFHcTBoc1dzN0F4WDUyaHdQZGJKZklPVlR0U3YtV3hXNG10Nm9USXJjVW9aVWxCSFJtV1duNkt0aHNNMzlzNWR2WndNMWN2ZklfODNXc3lFOXRCNXBLYzdRbGZJT0FudFdwWjhVcktQNmd6M2ZfbVl1UTV6SXFLVmFtY2p1TkotNU9hNUVYeUZrRXd1ZmVoOVpCTzJNRXZXVWd0MjVyTThEMFVyZGFzUXAtZnE3ZVFoZ1hZ?oc=5",
-            "source": "Scanx"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "ELLEN",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.04,
-      "close": 365.75,
-      "prev_close": 348.2,
-      "delivery_percent": 46.42,
-      "raw_pct_change": 5.04,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "EMIL",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.02,
-      "close": 211.54,
-      "prev_close": 201.42,
-      "delivery_percent": 26.17,
-      "raw_pct_change": 5.02,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "JAIBALAJI",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.99,
-      "close": 67.37,
-      "prev_close": 64.17,
-      "delivery_percent": 80.01,
-      "raw_pct_change": 4.99,
-      "corporate_action": null,
-      "why": {
-        "headline": "Broker Action (Scanx)",
-        "confidence": "low",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "broker action",
-            "detail": "Jai Balaji Industries assigned ESG rating of 53 for FY26 by independent agency",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUmxfM2M5M1dvbHI4NGdPNjBiNWRkS2V5SVhvMXVqTkhlYlFCRldkMVR2SnZodW1OZ1VKUVN0RHYwcW5BbWZ5Wnl2aVQ1QzZkbVdieWt1TVdHUXBSeGxSd2t0Q1BvNTE2VnRBS1I2TmlrUHFWSV9FRXo5Ty1pVWVJSHRsZHVnYWFDZUppVTVuNFNlNnE2WFlpdG9WWnJxTGVpLTNqemRZT24wNU4ycEtiMlFfd1NFbF9XQVFIOUZ1dFk2ZjQ?oc=5",
-            "source": "Scanx"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "GLAND",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.81,
-      "close": 3150.6,
-      "prev_close": 3006.1,
-      "delivery_percent": 42.04,
-      "raw_pct_change": 4.81,
+      "direction": "DOWN",
+      "pct_change": -5.1,
+      "close": 24.39,
+      "prev_close": 25.7,
+      "delivery_percent": 46.62,
+      "raw_pct_change": -5.1,
       "corporate_action": null,
       "why": {
         "headline": "Results (Moneycontrol)",
@@ -391,22 +2383,211 @@
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Price Action: Gland Pharma jumps 4% after Nomura retains 'Buy'; Kanohar Electricals surges 16% after Q1...",
-            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQVJzeklTLThKbWhmX0dCZG11aU5RNHRCUjJBam1OQmJkWXgyZ0pGOUxSWTRsNl9BUEU0QUFBS184SEMxR0xMSU1TOXJuQjc4Z2dCSG82UXdKUDZvS1UzVEpZSXFjbTNFRWx3aE5MbXZMelk0bFIxak1jN2JObnN4SmN2eXlhNy1tZmxwWGt4QnFaZ2ZZUXdRXy0zWExlNkNEeEhzSk41WmVGNWxpeEtVNkVqSWwxX0JqeUx6Nk5WdlVvdXVaUUJ0NFltZm1zYS1TYXFnUW9rbnBOTGk2NU82RjZmVmRnMC1pMWZ6ZUVvVXhsSHNXd1gwYzVGY3E3aUVpUUFtdzZMWdIBjAJBVV95cUxNM1Z4REl1RFI3TW9nWFZFVENXX3FJdFRpUzFWNlc4R1kzclRob0xWbENYY0M2QUNQQlphWGVzWV9qTzNtM2ZQeGdIOTZWbzZaemwxTWdIc1N2NzFSckdCVGp3RlY4RnNqRXpWZFI2ZzN5RUxhWTgzOXFjVURGcktOa1I3eDlyOTNaVFdRblYtVG1qQjJFNW54Q2xBbmtjTmZIOVpfSV91dlhvRVBmZmpVSXNscXBQZF9MbDJmSkkzX05DT0szb1l5emhrSGdDS0RqeW5xamlVQWpMUXVjOWJyUG01WVRyYjBHTU41SVVRTkZaYjlwZUticVNldkxzSUZJRU9iX0lDZGZLQ1NN?oc=5",
+            "detail": "Sun TV Network shares snap 3-day run to fall over 2% amid profit booking; Elara sees 45% upside",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLS0xWUkxdzdnLXh0dVM5Uk0zeExxUmFVSFNRZ1U3SVAteTREX2NWT2hJaS1KNGNvU0NkOGVoMWtEM3JQdjVqUE9veWlLSzQyakx5LUtZSkdUTDNGWUsySVU2cVFDTTN4Ql9yOGljRUlDb0k5MDlOOGxPSVBkSkRNWjZEUzVyRlNMajhIRzYwWXd2X0l1WWl6b09CY0ZJRVl3NzkxYlJuWW1veGNiYmh2TW45VENva3p0NWRoNHkzcTdscjgydWY5R0hDOTIzWUYtSUhSUndDR1FhOU5yWWFKV1R0QTM0eTkzcHk3ZkVhUExLOFnSAfMBQVVfeXFMTi0tMVlJMXc3Zy14dHVTOVJNM3hMcVJhVUhTUWdVN0lQLXk0RF9jVk9oSWktSjRjb1NDZDhlaDFrRDNyUHY1alBPb3lpS0s0MmpMeS1LWUpHVEwzRllLMklVNnFRQ00zeEJfcjhpY0VJQ29JOTA5TjhsT0lQZEpETVo2RFM1ckZTTGo4SEc2MFl3dl9JdVlpem9PQmNGSUVZdzc5MWJSblltb3hjYmJodk1uOVRDb2t6dDVkaDR5M3E3bHI4MnVmOUdIQzkyM1lGLUlIUlJ3Q0dRYTlOcllhSldUdEEzNHk5M3B5N2ZFYVBMSzhZ?oc=5",
             "source": "Moneycontrol"
           }
         ]
       }
     },
     {
-      "symbol": "MRPL",
+      "symbol": "ASKAUTOLTD",
       "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.66,
-      "close": 182.86,
-      "prev_close": 174.72,
-      "delivery_percent": 23.49,
-      "raw_pct_change": 4.66,
+      "direction": "DOWN",
+      "pct_change": -5.1,
+      "close": 594.6,
+      "prev_close": 626.55,
+      "delivery_percent": 47.61,
+      "raw_pct_change": -5.1,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Mint",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Intimation of Inspection/search by the GST department at the manufacturing unit of the Company under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+            "url": "https://nsearchives.nseindia.com/corporate/8448091598_07102026175541_Stxintimation_.pdf",
+            "source": "07 Oct 17:56"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "ASK Automotive share price jumps 46% in six months | Choice Broking initiates coverage with \u2018Buy\u2019, sees 20% upside",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVXczTUhib3hHT0dwTklFUGo5VFZxbExGTGVEWjY5TTNzemRhQ191Xy1qVlI2bWRrYkg3dkloSnVBMWQ2U193LTE0Q2J6dUVGNTdsaFJ3NV9rS2RNWEd2c0tvWVpDSVVCY0x6Mms0bHVod3lReFkyNTYxQ2w3SlhNWWloVk1nb2RnRlBXd2JERk0ybkJTY1VIdFlyT1RQdllvZmszUnU5WVA2WS1YM09sN1ZyX1VuRGlVOUpROGRiN2lEQ0ZjYm1pUE02SFhVejFJS2l6cHRfa0FTWmxzS19wLXpmMER5UzAwbnJwTTYzZXdWZllIanh2LVVJLW9SSGl2S0dKU28ya0fSAY4CQVVfeXFMT1RkRHM5clRMa3RRYm15bjEyb2tXTHZxNnVmZUlIUEVjSnBYSi1pR0VfamVYLWFsQklBeU1kZmN0Z3NvMDFpQTV2QVJSY0phODVQTHROajUweXR6SENqay03bER2SzFuTkF1Ry1rVzlYaG1VdmpjVFJ0dDdac21LQmtndG9HeEMxeHVlU1FkVDE5WHpRMWNKTmx5U01RZE0taGw2V1pkT2FCaV9nQlFlNVF3VWk0cXdrZXQyZDQ5alJ6LVhzTm5Rd2FySFRURWU5aVNwZG83MTRtNk1IbHJQQndpRE9jOGxPS0tpdXAyTkJtZ0ZCSzRkdW1SczIyRFRodFhvQVdQMmZVSV84M3VB?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ADANIENSOL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.1,
+      "close": 1251.5,
+      "prev_close": 1318.8,
+      "delivery_percent": 38.5,
+      "raw_pct_change": -5.1,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake (Mint)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Adani Energy Solutions share price rally: From \u20b9990 to \u20b91,350 in just 6 months: Know why the stock has surged 43%",
+            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNVJLMDMzekRfRllNbzlKOGMwVHV2UDdkeVhiM2RQNnZQbnVFZUZUWG9JQkp5dU00aFFSQzQwMjRvOGZ1WjctQ2pFbGpDeU93OURxRTNFTDdObzBxZTUtTEVucHlzSUxwUVhYWnF2Wld6Zmg4VHJWdFhsYTRhVGlQTlAtcktfNW53UWVNNjhYNmdYZ3d4ODFPMFg3N3V6YVh6dGJ3Q0ZsXzNBZndDSTJJZzFNeEtqM0tYTVpNdFJRcWFfTjBJNXEtX0MxU2lmbWZwcGtyWFhtY2tRZlJONnpPZm5mU0loUkZoTjBLNnJTVEtYbmRwWVBPTU9qdktLV0l1OEJ5NENKUUhVb2RXZmcyNnFR0gGXAkFVX3lxTE5BUC1uTjgwcndwbnptTkZSVHpscGZvRmprdzdyWVVNMW9vNURoSW5XTW9qVGIxcmpIdFFoblFNSV9fWFFIV0djOUZlZmVjdVk1YjRWMnRWcF9IZkJoUEcwUWxST3BZakhZdVh5SndwMlVnQlc2d1JFbVFILUNubTl4cVJ6d1JnWlpqVVhzRFZyTmMwUks2SFIzaEtfMGJzbTFJWFdwSmJlbWZDRFk1dlNFaHRBeC1MTG9JdVF0Nzh2S1RxRkdBelRSeThUbXpXeEhneTlCbGwzMl9OZzJjWERNR2pnajdZazhLLU43R2Eyamg2UzVvVmtXQTB6WXZiTFg2TXc3S041V3otSl9LNDgydjVOM294OA?oc=5",
+            "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Adani Green, Adani Enterprises, Adani Power, Adani Ports, Adani Total: Why Adani stocks are falling today",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQczVCaTBRTTc3MV9OOHdrTmJhVE5qNnZOSjVUY2FHcVNmbnJZb0pOaFByX2RCSFRwTHp2QXdJLXN2ZXg0OVFkeEdZQ1RRWjVCT3RKd3RFNERyN3VZenA5cEdGY1VFLU5FY0d5VkZSSi1uSE51VWdCbGFCR0tsRm9Hd1dWNy03Y2JHTXFEMVdlRDZ5aHM4VTRRb0RvdGJQVUpMU2ZqLW1YVUVkTXpHU1JkUG1XZHVyVzkyQ05ENXBjU2VwTURGaDE4eWx5NHhuVzBZYnA5dHVRNV85MmhRb3pGRGtMNW9aUEdlbjZEMV84dkZYNzBWSzN3WVJ1LWRKdFNsQmUxdnM2eGNzeGJva0HSAY4CQVVfeXFMUHM1QmkwUU03NzFfTjh3a05iYVROajZ2Tko1VGNhR3FTZm5yWW9KTmhQcl9kQkhUcEx6dkF3SS1zdmV4NDlRZHhHWUNUUVo1Qk90Snd0RTREcjd1WXpwOXBHRmNVRS1ORWNHeVZGUkotbkhOdVVnQmxhQkdLbEZvR3dXVjctN2NiR01xRDFXZUQ2eWhzOFU0UW9Eb3RiUFVKTFNmai1tWFVFZE16R1NSZFBtV2R1clc5MkNORDVwY1NlcE1ERmgxOHlseTR4blcwWWJwOXR1UTVfOTJoUW96RkRrTDVvWlBHZW42RDFfOHZGWDcwVkszd1lSdS1kSnRTbEJlMXZzNnhjc3hib2tB?oc=5",
+            "source": "Business Today"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Adani Energy Solutions completes acquisition of Satara Power Transmission",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2FuQ1VsMTgwWFJUOHNaV2FXQl9hcVZKbmNIMGQ4aERiS1dJOHliNGUyeTI2NmRYUGpVSmlYR2VycWJHb0s0NjRtZTZTdUNFaG5lZ1AyQTdPNHNrd0dkMGwxeU4yUTNNekZkYXBFNGl2VU1WRTBLc2RMVkdMUS1EYVpBU0hGYjRrdkJkNVl5ZWk2VkZmdnZmMEY3bERkLWFCX1k3OHJOSTNzUFhnRkRF?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "QPOWER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.13,
+      "close": 1532.2,
+      "prev_close": 1615.0,
+      "delivery_percent": 51.91,
+      "raw_pct_change": -5.13,
+      "corporate_action": null,
+      "why": {
+        "headline": "Capital Action (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "capital action",
+            "detail": "Quality Power Electrical Equipments shareholders approve \u20b91 dividend",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVI0cFBrS1hFWlo3VVJZemlvbFFsQ3JhZlQ1S1R5VmM1aVlFT3J0UjRHZ05reWdhOVJOSVBSWkx0LUZoQ3ZHdHBjcHQ1YXVJVndXMzJaYW1nTnJKV0N2d2ktRE1uX09ZTkY2dVVMVW1Zc1Q4a2JwUjBwVHdlOEtMb2g1SnVUczBfZnQ3QWk0ZlZTM1RSN0VVVjV1bFlVZzNWYWRtRDlBUFBwOWtfWC1tY0pjbUhNR0p5X3BCZHFOMnd4Zw?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SCHNEIDER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.16,
+      "close": 1191.4,
+      "prev_close": 1256.2,
+      "delivery_percent": 52.37,
+      "raw_pct_change": -5.16,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Schneider Electric Infrastructure Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/SCHNEIDER_08102026112359_Certificat_Reg74_Sep_2026.pdf",
+            "source": "08 Oct 11:24"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "UTLSOLAR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.22,
+      "close": 409.2,
+      "prev_close": 431.75,
+      "delivery_percent": 50.86,
+      "raw_pct_change": -5.22,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "PAYTM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.23,
+      "close": 1641.5,
+      "prev_close": 1732.0,
+      "delivery_percent": 32.58,
+      "raw_pct_change": -5.23,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "OPTIEMUS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.23,
+      "close": 816.85,
+      "prev_close": 861.9,
+      "delivery_percent": 40.43,
+      "raw_pct_change": -5.23,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Optiemus Infracom Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/OPTIEMUS_08102026152220_OILCertificateUnderSec74_5_08102026.pdf",
+            "source": "08 Oct 15:22"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AVALON",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.26,
+      "close": 2302.0,
+      "prev_close": 2429.7,
+      "delivery_percent": 40.67,
+      "raw_pct_change": -5.26,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "HCC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.3,
+      "close": 18.75,
+      "prev_close": 19.8,
+      "delivery_percent": 48.19,
+      "raw_pct_change": -5.3,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -417,12 +2598,12 @@
     {
       "symbol": "AEGISLOG",
       "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.61,
-      "close": 1460.2,
-      "prev_close": 1395.9,
-      "delivery_percent": 29.16,
-      "raw_pct_change": 4.61,
+      "direction": "DOWN",
+      "pct_change": -5.33,
+      "close": 1382.3,
+      "prev_close": 1460.2,
+      "delivery_percent": 33.32,
+      "raw_pct_change": -5.33,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -431,94 +2612,114 @@
       }
     },
     {
-      "symbol": "KANSAINER",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.57,
-      "close": 192.4,
-      "prev_close": 184.0,
-      "delivery_percent": 66.51,
-      "raw_pct_change": 4.57,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "JYOTHYLAB",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.43,
-      "close": 191.44,
-      "prev_close": 183.32,
-      "delivery_percent": 27.78,
-      "raw_pct_change": 4.43,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "AVL",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.37,
-      "close": 621.1,
-      "prev_close": 595.1,
-      "delivery_percent": 45.56,
-      "raw_pct_change": 4.37,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "MAHABANK",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.15,
-      "close": 84.15,
-      "prev_close": 80.8,
-      "delivery_percent": 36.99,
-      "raw_pct_change": 4.15,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "BELRISE",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 4.01,
-      "close": 246.31,
-      "prev_close": 236.81,
-      "delivery_percent": 40.87,
-      "raw_pct_change": 4.01,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "GLAXO",
+      "symbol": "AMBER",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.39,
-      "close": 2634.0,
-      "prev_close": 2755.0,
-      "delivery_percent": 32.11,
-      "raw_pct_change": -4.39,
+      "pct_change": -5.34,
+      "close": 6555.0,
+      "prev_close": 6925.0,
+      "delivery_percent": 30.22,
+      "raw_pct_change": -5.34,
+      "corporate_action": null,
+      "why": {
+        "headline": "Capital Action (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "capital action",
+            "detail": "Amber subsidiary IL JIN approves 25:1 bonus issue and share split",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzZoQ3Z2RXM2MDZKX2tVdTU1R3VMUXhhQ0N3eTh0Q0EyTHdfeWZxcFJlWWZXVk1jQnpGdlJLMFhpeHhURUhFeTlkM3J1Y1dMZmFMSFBqMUZfRW1pZEkxeXN1X3dnZXpwb1o5Yk5KRGFiLUFadmFBQlNVWnVRcU9EamU0OFg0eFlHWTNEMHJaSTA0MjJGNEFFSzJXdWxGZ2tHZ3RBdWRkYjhUY0pGQUZ1TjZicmtmZnZiWGIyY0xpUQ?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ADANIENT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.36,
+      "close": 2596.0,
+      "prev_close": 2743.0,
+      "delivery_percent": 28.95,
+      "raw_pct_change": -5.36,
+      "corporate_action": null,
+      "why": {
+        "headline": "Rating Change, reported by Economic Times",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "rating change",
+            "detail": "Adani Enterprises Limited has informed the Exchange about Credit Rating",
+            "url": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_07102026181135_AELIntimationCreditRating07102026.pdf",
+            "source": "07 Oct 18:11"
+          },
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Adani Enterprises Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/nishant_joshi_adani_com_07102026181520_74_5_CoveringLetterseptember2026.pdf",
+            "source": "07 Oct 18:15"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Adani Enterprises shares fall 4% despite getting CARE Ratings upgrade to AA; stable",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTWppbTJsd2xNWE9ZQmhQaGtQVkYwUFlYZUZEM0JwWkNZUDFKX3JLVHpiUUtfNmJ1ZGtKdXJkTThDRnExRDZQMFNlRENjSk9PNUJodWlhMnlwTlBMMVNHbUdlQmVVSVNJUkZ4cFFrN1RHeFpiUHl1YlJ5ZG51TWl4ME1DelUxR2tydGFkMVh6cFNtVnp5SmJsYVJnNGVPWW5PLWJYNmZ1TllHTGVqYUNSTzhTd0ZudUIwWGFxOW5CTUFQMF9SSFhLanFxQjhZZHhxNHEyYmhYU3ZUMTNuaTlrMFM3Nl9rV1BXZzdVSmdR0gHzAUFVX3lxTE9lZ29uTk9TUE16NWNDanJvX2QydlJ1REZzVUR5N1RVc19zd3MyTXRSb3dzcWNuWmRuVGtPYU5YaGtFMGEwVlFxVURibHVQNHl1TUp0OXQzck9OaG9BRzNSMEpPTE5GUmVFSmQ4TGpVeG5kRkNOd0NiNDFWelpLejJRbEtQM0FMNXlqVDJZaWR1dGQyb2pzQUhaQ3ZERWtPLXVWX1VLR1ZMdlpyYi1qZm0yQlhkOU0yYXlMRlczNzQ5YTdFdi1uQWljMEs3emJxMnk3d3Vqb3RQUmZGQmVrZld3RnM0NUxDYlQ0RV8tV3NzOVA4WQ?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "CARE upgrades Adani Enterprises to \u2018AA\u2019, retains \u2018stable\u2019 outlook",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc3dBNFNKUHV1Y1llcE5Ka3BzZzMxeXdtVWFNeUNWdlhHd214UGJJdm1WV3VkeTNqVHZIb2swQU5Jc0ZacXh0dXJfOVNmRXVscU9IbVNFYi1NT1RYd3FFaXZ4eXJ0aXhQZ0pHTnpQWVNHWDdTS0lXTDhBZnVXcm1ERlBxRHpYQmFqWjliT2VUenVxQ2V5RVVvWGNMZEtTNTQyZ1VGRFk4cDdyOGFLZDNac2ZqY0t4XzZvbUl4YmFxYTk1STFyVjlOcmZNdGRGekJEbUVUV1ppbkM0S2fSAeIBQVVfeXFMT1dQcnRldDNBWDhISG8wakFNRUw4dFYxV2JSV0hMMktTVHktMzU2RzhqeExldEtXQV8tWGZWTFN2NGFBQzhXa2ZfX0hSRDBrRU1aUXc5aHdKMnAtSkdxOENLNVc5Nmh0RW1mVmhSazRQMFJyUm45WjRtQ3JXS0Q1ZWg5YmZ5VGt2Z3FqMmsyZUlTTXFSdllCUm9oaG1OTzh5VjBPMTJub3NyMER2RzBJNnJCUExOUW81YkhnX0xrOERyellMR1Rya3NzZDJFZ0c5RXBpT3NXM2xVOURBSEkwUVd0QQ?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Adani Enterprises: AEL gets highest-ever rating in its credit history; shares up over 22% YTD",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUTRVcy13T3JPaDZWU2lrLVdTczlNcllCQUhRUU14YnI5dnFLOWNWc2lTSGRndFdScWphZzNtdTU3WjRHUGhTLWFxQzVHdmZBU01kZzVjZS1HeWVlbFgxOFVKdkEyblljVnVVenJDU2JZZlpOVnlZbjJBS3dxY2ZLVUFkdWt4Q2o5QjZWcHB2WG5BLS1yLXNKTW9yRVhwaGhMeEpTWDBvOXViOVpZTUhtdFdYNzBrLUlTcWpNVDlUcEFRMkZXNFBHbFVaOHBnUlYtM045OTJDSmxRc3hUTk5hTms0dnVKeUpWekdqekVXdVhYUdIB9wFBVV95cUxNbjJFay1DTWRoQ1lSVG5kUS1PWFVPMWh0X1RUVkdzdnExbDhFNzBRLVVDUHJzblh6eFBQU1h6bkRoZ1RZRk55VFJNOFF5bV9ILVBjMF9lN3ZPTDNoZHVpWnhBOW8xdkkwMmpxeVpXZG1ITnMzSnVfbzE2VWdJUmZxRXNPNGFkQkJIQmxmNW92dlllMFlWdmZEMnNjOUl1ZVJxZmNXdENONUNxQ3BxdXlJVlJoV3FqZUFOMEctRDRTT2ZpMXpuM3VlMDdseVF1azhraC1PUlBtMmpYOV9mSC1vOV9MMHg0SlNURXE5MmVRVWl3UVdGc3pR?oc=5",
+            "source": "Mint"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AZAD",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.4,
+      "close": 2883.7,
+      "prev_close": 3048.2,
+      "delivery_percent": 42.02,
+      "raw_pct_change": -5.4,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Business Today)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "HAL, BEL, BDL, Data Patterns, Azad, MIDHANI shares: Top 3 defence stock picks ahead of Q2 results",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPejVjM3NzSFF2VVBZVGZfRXZqeGdfYWEwRzh4UU9ZajFycC1haURuVk83aFZ4M2dlOTlIM3VoanBzU1NYaTJpUWt6dUQzOW5vZUxaYjRacFBLWU12eFdSZTBJZWVFOXJKUXM0bW5qNkttc2x1LWxmOWtuSU5qRDc4ZDJyYUlVNE5nMzR1UUZjcmZmRDl0UDhwUVp0T2pjbGFNbThDVlpCaWVJLWRYWWgtSnRDM3hOejVXdUFDT01hNnBxMDdwY1F5ajRiVDRiRm50aWUzeEZ5MUNxTTZjVk1hZFI3bGNDZGg0Qy1RM1ZmVmM3ZUJPVEHSAfYBQVVfeXFMT3o1YzNzc0hRdlVQWVRmX0V2anhnX2FhMEc4eFFPWWoxcnAtYWlEblZPN2hWeDNnZTk5SDN1aGpwc1NTWGkyaVFrenVEMzlub2VMWmI0WnBQS1lNdnhXUmUwSWVlRTlySlFzNG1uajZLbXNsdS1sZjlrbklOakQ3OGQycmFJVTROZzM0dVFGY3JmZkQ5dFA4cFFadE9qY2xhTW04Q1ZaQmllSS1kWFloLUp0QzN4Tno1V3VBQ09NYTZwcTA3cGNReWo0YlQ0YkZudGllM3hGeTFDcU02Y1ZNYWRSN2xjQ2RoNEMtUTNWZlZjN2VCT1RB?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "MARKSANS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.42,
+      "close": 307.8,
+      "prev_close": 325.45,
+      "delivery_percent": 45.65,
+      "raw_pct_change": -5.42,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -527,14 +2728,14 @@
       }
     },
     {
-      "symbol": "PRAJIND",
+      "symbol": "NCC",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.65,
-      "close": 300.4,
-      "prev_close": 315.05,
-      "delivery_percent": 52.49,
-      "raw_pct_change": -4.65,
+      "pct_change": -5.48,
+      "close": 119.93,
+      "prev_close": 126.88,
+      "delivery_percent": 48.41,
+      "raw_pct_change": -5.48,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -543,14 +2744,30 @@
       }
     },
     {
-      "symbol": "NATIONALUM",
+      "symbol": "FINCABLES",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.73,
-      "close": 321.3,
-      "prev_close": 337.25,
-      "delivery_percent": 43.49,
-      "raw_pct_change": -4.73,
+      "pct_change": -5.48,
+      "close": 1402.2,
+      "prev_close": 1483.5,
+      "delivery_percent": 32.01,
+      "raw_pct_change": -5.48,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ELECON",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.51,
+      "close": 416.95,
+      "prev_close": 441.25,
+      "delivery_percent": 44.0,
+      "raw_pct_change": -5.51,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -562,11 +2779,11 @@
       "symbol": "V2RETAIL",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.79,
-      "close": 163.95,
-      "prev_close": 172.19,
-      "delivery_percent": 48.55,
-      "raw_pct_change": -4.79,
+      "pct_change": -5.54,
+      "close": 154.87,
+      "prev_close": 163.95,
+      "delivery_percent": 50.13,
+      "raw_pct_change": -5.54,
       "corporate_action": null,
       "why": {
         "headline": "Results (CNBC TV18)",
@@ -597,24 +2814,514 @@
       }
     },
     {
-      "symbol": "GREAVESCOT",
+      "symbol": "ACE",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.84,
-      "close": 212.0,
-      "prev_close": 222.78,
-      "delivery_percent": 45.86,
-      "raw_pct_change": -4.84,
+      "pct_change": -5.61,
+      "close": 1179.8,
+      "prev_close": 1249.9,
+      "delivery_percent": 45.42,
+      "raw_pct_change": -5.61,
       "corporate_action": null,
       "why": {
-        "headline": "Operations (Business Upturn)",
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "WOCKPHARMA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.62,
+      "close": 2029.6,
+      "prev_close": 2150.4,
+      "delivery_percent": 41.35,
+      "raw_pct_change": -5.62,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ELECTCAST",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.68,
+      "close": 74.26,
+      "prev_close": 78.73,
+      "delivery_percent": 52.78,
+      "raw_pct_change": -5.68,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "JSWINFRA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.69,
+      "close": 333.75,
+      "prev_close": 353.9,
+      "delivery_percent": 60.78,
+      "raw_pct_change": -5.69,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Moneycontrol)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
+            "kind": "results",
+            "detail": "Nomura retains 'Buy' on Adani Ports, JSW Infrastructure; sees steady Q2",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQakN4NE9hTFdnVFBfSmxIeXdYakg0cWNFVUVNNTNPd3htNWkydmYyZEhzTlJMTDJtQ1Zia2ZQOTRqMHNRUV9ma1pOcUQyMEVQazQ0WF9ncl9USUxzbHBmSVBKcUJfRVNlX0F6T0ZDc3pGVDdHRFpLSm5lamhFLXVEc1NPVWxZbTJNLVd2czRkTjJKTTVCSGE2LTUyMTVrQTBKVnF3dmN2ZmpSRWZsRW4xODg2UDFPZUd0bnJzNXBORWlJMzZjdm1odnVGY9IB0AFBVV95cUxPM2FwSFlaYnNzSTM4M3hrekxYWGdJdjFMNmZlTk5fZ09OM3h5dzJfUzZvU0pBQ0dVNWRMQjAxcGc1SXktb1hJNEk1dnRfdFdTZVF2SE9GbzZMUWMxMG50bjRpX3Q3VTNIbEc2c1RLOUI1Q0ZjSl9JLWUwSTdxQm5yUGZvcmR1TjVvMGFBQ2QwZzJMbzgtTV95TW11S0xMQUEyMGw3Q2NEYUFEbXF6M2FWMnFRUWN5RDZxVEZ6VzBxTzBNM2pXc0x4UVJyNnk5VlJT?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "JSW Infra shares get downgraded by HSBC, who prefers this port operator instead",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0ktWV9VeGNSVnREVjlTYXlNODRNZkxLc04tUGVWMmYwWHpuajYwYXhYWmw3N1UtTUZTbzdFcHNXUWVOVXZrSENpQWVGYWF5S3B4OTNIOEF2Y0hyRGNhWjFTdXlvcmdYbFItbVJxU1VlWVJ5UkItenNFeVhBSkwtN1FzNHpLUGRxek43MloySUIxTU83OHBuTDFWQ3Q4UUFlQmNQLTRsaWswMmVtVUtLRzlmMktKcnNmajAyZ09rSU5DZVBYTF9QWGtTME3SAdIBQVVfeXFMUEZRb1RtTFhRdTNWVFAzYlBaVDBub3pKcXBETHAwVEJCcDFWWjNSV0N5clFoWk94dXZDV1N1Y2Jwbm9HNmFlbmRWRm01VDRjdlF5VjI5NFJ0ZUQ3QTZnbTZzRGQxTG8yR2pkUktkam9URGpqMklQRkFGOFpKbVlmanJpQWNLdndHNmhyYXhwVk9XLTBIcGRMUzBwWDVHSktFSzdOS0lBMHUxQTZZQ21VZ05GYUVBczhVYmRhei1ac00xLTV2c1B1TlJXMU5vUlVRU2l3?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Stock Picks Today: Titan, Dabur, Urban Company, JSW Infra, PVR Inox, Shyam Metalics And More On Brokerages' Radar",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQTBpOG85U0dHOFNHOUsxQ0pETEV5R1Z5dENGaC14MUZpWkgxLVVCVUZjakFlNzV1TnVKemRjLWRDNTZUb0d0dFZUR0FEa0pOX2JnSFQ3V3kwcFFLbjN6M3V1NDVGUHRKMXVFX3VRaXp2bXIzdm9KUTZWN1EyZk8td1FJZXpiakRoYmhWb2p3b0dPd01tTndWd0lBYUI0S0FHTnBTYmd3aF94bUhudlEtcTQ0ZV8ybXZHblc1VlVPRVVfNDFrMjBMeW50UlRRTTNvdnNGemhwQnpGMlJLMkJNaGdOQ3FQLVQ5YkN2c2M4NmxXUdIB-gFBVV95cUxPeVc2Q0NyVGVFQXJMTWNVWXVvV241Y0pRdGlXUjdkQVF3bG5BeEs4T19TdDRWY0YzOWx4ajNqaXpkZVc5Tk5hUk9lT1hmVlZ3dkhnTF9hcTRpeGVuQTAtaS1JRFMwY25TMzItOXdYNWhVY0NzSWZfdUJPSEhVakN4MklHUDh1SkozSUtfUmJlSGk2UHo2amprX3dob0c4NXFFNnI0bktITDliRy00QkJCVlVsSVNvUkFRMFZOMnc3QUkzRkFnUkJOR1g5SklDLWxQa1hvcmxkbDctSWgwUnc2Wm5fTmJZTGFJODhHVWJ5eUQ4YVJZc1BzVklR?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "JYOTICNC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.7,
+      "close": 1009.9,
+      "prev_close": 1071.0,
+      "delivery_percent": 45.08,
+      "raw_pct_change": -5.7,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ANURAS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.78,
+      "close": 1097.7,
+      "prev_close": 1165.1,
+      "delivery_percent": 54.88,
+      "raw_pct_change": -5.78,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Anupam Rasayan eyes US, Europe pharma push after Bliss deal, one-third revenue from drugs",
+            "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV3gwb3BwelVLeEp0OVdMZXFLTE9fNGQtdTltOTkxcEdoS2NaN0pHVGNOeGtCRzJfYk1LUlhqVlBsbWFwZGNwNE9UQV9vaktVRENsSVZLa2FDQ3NfRmk0cWYzSUR5TWg5OVQwYXdhRVh6V292YU4yc3RJRXdkSndveHo4OExVeUg5OUhGcVNaYWNURDNZT1B2NFJHXzU5WGRoSC16UTFZQU1zeU83RlV4Y2NFWGVTbEpyZkRMSGlabmJrY3lzamItUlJuek5neENjbDBVa3haQ3dVZ0Z6LVRBeE1IcTI3ZnVaWmVUQUdtX3czMkxSOWNxNUVHU3JyVEZiS1A2T3FXdEJuSjFYdWxzYXRnenlBcmJqV1Rwd1Q1LUx4UVMxWnZOVnRWVDY1ZnRnSk1aMnJuQXnSAb4CQVVfeXFMUFRuZ2RGWUdmaGVfaWRPZS1WdlJyQTV0YlBBTXNKcV9qZW5XcDlWZzRvblJMQWtBbXJGODc0V0hZazJQeUJZd0lybkdsMjhaV3Z2S3BVLWRBSUp3NFdGaUI4cklXS3JXUGtGYm9SQlRFWGZyQ2RKcjJPY0Q2azBiSjdfMmtKWTFPTXpDaWNlRUNSWnNCR0VHdjRsNzYyTFRBclRoRDQtN0tqVnJaMDFTMzBWVDlxLXJpVENxdUxyTndpeUlaTy15X2g2OWVuazR3TWdjbXJyQzkxSEMwNFVTZFN6cFVSdVJWZFc3S3BvMGEwOHBZQmYteF81M09FaERVeE9EZWJRTGxoRlZPbUdFNWdyMDhwWE9wcENfWTFKY2J5NDF3YTdGRjJiSmtyYUJVYVlyS05aenZLSXJoNGJB?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "LLOYDSENT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.84,
+      "close": 74.37,
+      "prev_close": 78.98,
+      "delivery_percent": 54.55,
+      "raw_pct_change": -5.84,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Lloyds Engineering Works Ltd stake in LADSL diluted to 85% due to private placement",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFlaSEJySFlKMVQwcm1SY3dBWnFrUTdUdEZhRjdPNjY1WG1jbm1rRkhhcThINFlXb1AzbDRsRWFZMzB0WFZ5Ul9aRHB2ZUJsNF9xamFXajlVdUowUXpYbG5ZeW9USGtIYlRaSFZ0dnBac1VZTDM2NVZoclVJSXBqdnQyMDNobXVrazBSRG9SeWM5NE91dEZkMHhYdnVBT1lDUVJyc3R5NnhsX1ROMFRN?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "KANSAINER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.06,
+      "close": 180.75,
+      "prev_close": 192.4,
+      "delivery_percent": 49.8,
+      "raw_pct_change": -6.06,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TIINDIA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.16,
+      "close": 2241.0,
+      "prev_close": 2388.0,
+      "delivery_percent": 55.81,
+      "raw_pct_change": -6.16,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Tube Investments of India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/TIINDIA_08102026145134_Reg74QtrlyDematConfmCerttoNSEBSE.pdf",
+            "source": "08 Oct 14:51"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ENGINERSIN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.26,
+      "close": 289.0,
+      "prev_close": 308.3,
+      "delivery_percent": 25.34,
+      "raw_pct_change": -6.26,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TEXRAIL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.68,
+      "close": 107.08,
+      "prev_close": 114.74,
+      "delivery_percent": 51.9,
+      "raw_pct_change": -6.68,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Texmaco Rail & Engineering Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/TEXRAIL_07102026161409_Regulation74_5_TexrailSigned.pdf",
+            "source": "07 Oct 16:14"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "GMMPFAUDLR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.79,
+      "close": 1340.4,
+      "prev_close": 1438.0,
+      "delivery_percent": 52.6,
+      "raw_pct_change": -6.79,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "INOXWIND",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.96,
+      "close": 62.43,
+      "prev_close": 67.1,
+      "delivery_percent": 35.94,
+      "raw_pct_change": -6.96,
+      "corporate_action": null,
+      "why": {
+        "headline": "Fundraise Or Deal (Moneycontrol)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "SEBI paused Inox Clean Energy IPO over ongoing investigation into INOXGFL group entities, say sources",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNekh5Z0JrS0ZCczVqWHlCRGJod1VBWGo2QlBGdEJpcnJuNkdUSFJDQm9tNjkxa2NiSFFkeUJlckl2SFQ0LU00MDBBcXVDWEQ5ZHdvZmVfeXFRSkJRTTZwTWlVbGtMQUtlUDRJaGpxbWVNRjhKNTRTd0dlTm9MR19FMHFyRWdXQVBQQzdTTFU2a3lyT3ZsYlRvR0RicjVwOWo4YnotWG1tdnNnSHRyZURPZjM5cTZKcmdzMVNCUlJDeUFfNFhuUURsVDJRZkRKeUdkZEl1UXFpQ2ZHRW5wVDltRWZyMmJlcmfSAewBQVVfeXFMTmZKUGt3UzVMZjJFckFCSGtabUVjUnhMc1Q3N1IydzlpVmhNMWwwcm0xWGlpUjZuS05Nb1hPQy02aC1heHNEbzRYMVp4X0hmOUl4WWI1NExwdEt2MVZxdkFRc25yYXZRZWNUYzhEa0RkTVlieFRLc1dzcXpsMmdnbS1jamp3ZmZtaTlWWGpvTXVqdUI5cDMxTU16eXZ5WXFGSXNQYTljb2RKRnpidXhSWjNWbm5uM3kyZzlLX3VJV0NyVTRVTHVMSTM5bndneV80SEl2VlQtaml3WkU3UTdFM2lZME85SFFzN2U4cno?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Inox Green completes \u20b9550-crore acquisition of Wind World India\u2019s 4.5 GW O&M business",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDNZTzNoakRmblpqY2hlNlNkblpxVm81X2JoQ3RHWnFjY3BQRktRN0puT2VsaVNfRWJMdlpzcGs3TmRhZXZLWVdtcXdGR0F4QkZBelUzTTZoX0F2b2JkZDlQTENYOWxmM0dsZ3dPQlFJdHh6ZGR4cGVMMFZCS3pMWWxURGFUSFNaanhTQi03ZWM4MnJLbm1pOVJYQTZDYXB6T2lscmxCcTZHU2l0c0QxcjBSLVlPclJPcERXblVSZVBYMGZhMjV1NXBBWdIB2AFBVV95cUxNOWc2VFlLaEFrU3VuZEZDb3E1M1BEaDBfazVJUVhTc1lVeG5XblVtUFBjcF82a2h0V2p0U2JLOVRwa2VmUTVXOVM2UHFyblowUHk3d2NwZjJ6ZGlnaUM3RXdQamNoV3ZCY1g2bE9iRTRCa2NCM0F4eGY2dVgxUFFfU293M3c4dWlFMFVWS09HYlhRT291M1pnX1lGSGlLYWRuQy1lalpJUEpjaW9rWWVCTWRpaUQyY1EyNkxJN25pdzlCUEpWLWRjSWdZTGEzMHlfaDhYMjJ0QTA?oc=5",
+            "source": "Fortune India"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Suzlon, BHEL, Adani Power, Tata Power, Waaree, Inox Wind, NTPC: Q2 results preview; likely hits & misses",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOT2NmSGR4YWdiRGpQUW9NanNlY0xOX0o5eHUyLWRhdHU3UkRBcVM3c2VwdC0xNzE3V0lMVG5EY2RJVDRVVTNUMVVxbzhpTHZMT0dwZWhoOWVsWkpockw2OF9aLUNybnZFNVRlR2NISHRwS2tvQmwtREppTlpWeHN3MlA4VUt2cDJnU19WcmVjdzQ0QWczcm1MMl9FRUoyMmxLdlhES1R2X1kyRkduUFV2d2oxZEdOOUhCanJMQTNSa19qX1hCU0U4RjVhYldYR0FWb3NUR284cG9XSVdNb2Q2enR1SG9JMU1VQ1YzOTh1aDZEbkEx0gH6AUFVX3lxTFBYa2ZmVl9jMEdJZlduRlBGZ1dhSUxNQi02eWlsNWw2VDlRZ0kzbDhQRHFRRXhVUndiREZyMWN4ODJUdjdVWUx0YS1CcWVLRk9WSXExdHRLaUo2QjZRSnJZSHpDck1zVl9yT2w1OWFvcFJuRklneWtPRDZfQmFWZDdGV01WOFNQZTRJVmh1X0tuQ2djaF9tSFZnOEd5UWstTnpUT19NY1VsVWx2cjIyVnBVNlpBM21DVklpUlQ5MnlKREsxREZIQ2o2SGZQazlqUU9QSHFmM3lWX0Y3bWRDemtyd3BzWldfekNGTFFnd0w2clI1MmctRTdDV2c?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AEQUS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.99,
+      "close": 268.0,
+      "prev_close": 288.15,
+      "delivery_percent": 47.25,
+      "raw_pct_change": -6.99,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "AmanSA Investments cuts stake in Aequs to 5.35% after selling 934,000 shares",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVC1uWVNjR19QUTh4cklxWktZSXJ4MkJHTmpZNnNqMmZ6SWczTE5URkhBc1hIU3EzOHVEYUJjZW94V0M1TEJsWFJid0dsR3VkZks5bU92anNQMnotcDU0UkkxTFlXWjZyX2NQcjl2VlNqUXV4Um9QVFZSUnpjOTBOTU56OEJvWWc3WGt4YUdjMlQxVVB6ZnZDaFdqdmpuaGIyVFoxU0J5UlBzSGhGVXAwYlJValhSMUI0V3Judg?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "MAHSEAMLES",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.0,
+      "close": 644.25,
+      "prev_close": 692.75,
+      "delivery_percent": 44.34,
+      "raw_pct_change": -7.0,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake, reported by CNBC TV18",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Maharashtra Seamless Limited has informed the Exchange about Scheme of Arrangement",
+            "url": "https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07102026172556_MSLIntimationDemerger.pdf",
+            "source": "07 Oct 17:26"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Maharashtra Seamless shares fall 6% after board approves demerger of two separate entities",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPc0otVElQX21feG96ZThtR1ZlSVRUQlFUMXRhR0FTSDE0MWF2dWpGN2NNWDJoQ1U5cWpLWGZFeHVYLUZkeFZwbTkyRVVYNTNzai1qNnMwSnI0Mkx2YVZwbWhGMUExM3hQa0h4U3FjUFFaX2IxUjJlSmNkWGNSUENJSGFEdGRsTEIxS2FUS3hFcm9HLTNOTjROSU1ESmhJYWRXakV2bzZnX05zSnUxQXhzcm5SU1ZXUDJGNm5ONjA0UHdpTHI4VEpTLXpGSDc4SHRHYWlteWZZWldBVDB5UXRGU0xpVGxmRTBvRkR1cXdBbTV6SF9sejBLanQtS3A0TmlmcUZJV0ZPMNIBjAJBVV95cUxPbUVDZnNqWFIwakI3eUxkc0F6eTdHT21WNnR6MERTRlVDemhxV3FQTmZqMEZnYVpBYmd1X01LYjFOcFlCeVVqNHJISGM4MWFJRDlmMk01N2RaZUR6dUxleGxEazNvRWFvcUhzdjRTa19hbzgwdXdqdHk1V2VRbUdidlluc1JfN0lsRGJYRlNmLVhqQXlJVU1uT2lKODc0TUhibnBZMUxUQzNOWnk4MGg4VTBYakt4cEhBWS1PVEd4STRlNjFOUERJSTN0UlNpS3FwNEtiUmY3UllSZXBOM2xlUW1ZR253dV9MYTlsT0NaZUdQUERENjFCMkJMN2xWM3FlUnEtWFJFbFlwRVVI?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Maharashtra Seamless approves demerger scheme, shares fall 4%; details here",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVIzQjF2WGNjeERQUkVVTTZiOERUeDBBMDJpaFZ5cUlQeUVfM0VIdGJTc2NLMWpacUtaY296MXVZTU5MWXU2eFBSc0hNcEpXZ0tmUklYcElRWGNkUWI0VlRJc0Q3SWhxVm4takZZeG1qRXBqTFBBdGFXUHBTd1VsanRCMG1sbVdldXJ3TG00Q0FZX1p0eW1mdHJXSXBWMzI1cXZGaWc5TE5mMThWSTI4aThfWEN0NmVIMF9CZjI3LThtVVo0T2hUejdCLXhJWEpiVFpEU9IB2gFBVV95cUxQbUgtU3hKcW1ZZFZ0SHROZXRmVFl2Vnl3T0pnTVZUS19uLWdkUnliWjE4VGRteHZoZDZnSFRlX25Pc09tblN0b2NMTGc4VWhlYXAzYzJpSlpRQjZPdnRGdVZNcUg3bHNveVFucWlsMmU0eU1zZU84a3lNR09kX3hhZDh6SEVQendiUVp4R2VrNFhpNm1EbzlDRXRKRXJaUDhnN0FwdlRnNWQ4RUpGV0ZwTVByazVsRFV1U0RCeXVZcGpzeFp2MUpBYnB5OXRDaGJMdll6bnZ2bV9wUQ?oc=5",
+            "source": "Business Today"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "JUBLFOOD",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.16,
+      "close": 427.6,
+      "prev_close": 460.6,
+      "delivery_percent": 27.25,
+      "raw_pct_change": -7.16,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results, reported by Reuters",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "Jubilant FoodWorks Limited has informed the Exchange regarding 'Q2FY27 Business Update'.",
+            "url": "https://nsearchives.nseindia.com/corporate/JUBLFOOD_07102026170048_Q2FY27_Business_Update.pdf",
+            "source": "07 Oct 17:00"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "India's Jubilant FoodWorks posts higher quarterly revenue as Domino's sales pick up",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX09YSWtGaV9ZM1BJQTgyY1Y5WlhpS05yN0VKeHRUWGlMV3BjRThxdUZDRnI1ZVlpWVlXZDE2bFN5RklUVzJnbF80NndxV204OHN6X3FNSEZpTjFtczNHTEIwUE9TQVVzeEVMZGx4eEZoMFBqZC0wWlVfR1JuLUVGTHlyenlHYmYtSHpDMkE5ZHBncDl6U2VDdF9wZUd2cEN3VlMtbkdXS3JrSkFOR0RDWEtWczJZdw?oc=5",
+            "source": "Reuters"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Jubilant FoodWorks Q2 Business Update: Revenue up 12%; Domino\u2019s India LFL growth at 4%",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUFhFclp0bkNHUXp3Sy1EU1FzeUw0bjFrY3ZJakJJRXdUb2NqXy1FLUNvQ1I1aVBveUNWNWFPZ2pMZUZsZ3d5aXhzYUVFUTZIS0JqYXhtLS1EVDhReVpMWnJORkZqWWRMakRyMlRrbzRvdHlhMmx4Unl5VEZNVFV3SUtvTVQyLUNCVnJkM0FsYXRYaFJoY3B6V1NHRVJqNXVwVUVOSlloanNGMzNuOTByZlJKWU1aY3BmMEdsTkI3T3Axb0x3VkwyR0U2ajRLYUczdDJiTXN6b1NLM3NYRmfSAeMBQVVfeXFMUGZobHF2VExSejVIZ3RzUWpfc2tLdnF4dmliZ0RzMU1wYXI4aTJxbEtVR1hlVkdic0s4aVNZbkNEZU1kUEFxbGJzcUN6aVRRRGpNcEozcDFnWlFEeGF6NVdqRzhOZUUzWGRBVGpNeFNGOW1CRWFRTFFKVUYtZVR6S3dxbno5dUwxcVdob1ZKcTBubE1OeVNsbmVwZVJkOWRpTW0ydFVtRTNUUHYzOTlLT18zeE44X1lyaWt2V0kybXlMTWMzS1ZQM2RBQThBVTE5UGJXVXVfVVZXVERmcmhPM21KUms?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Jubilant FoodWorks shares fall 4% despite Q2 revenue growth of 12% YoY",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2pyRDFBVlJkUlJYS3dvdndUczlCNE02Q0hwY2l6RDVHVVlyN1BydEk4SmpIaW9sV2w4X3RMUmJsVEhCZERSY25JZTVhWFdZeUcwU2lHaFNpYnRfemVDQmljaVFNMnhMZGVkOHExU1BwTmNCSFNQaXI4WGVxQWZLS2J1U3Y3dXdzb013cmlGVHV0SjlKQWg1cWk5QWs4QXh0Tnp3VXVDTGNYVG40SXdEZVVPQXgxdVRPREhFWm40VGRkVFZoZkt5aEJIQTJNdDZfNlBBN9IB2gFBVV95cUxOekVGaXdCOHZyREpWSndBSkYybVhqcEt3Sml1ZnctT0tNQjY2WlRSVUNNTXljdmxHVW5Vd3IzMWJQUnprLXlRUjNWckUtbkU2OWFfQ2Rzc1dBaGJxSDdCTXBkN0Uxb1drUjh5Sy1fN0tMbW1PeC13RGRQRHZkOXZBaTRrSm0xMVhMQVVNYWxoRkxxNG4wTW8wc290TzZndllNMm9HZldZbk9iN01zWEE4Vl9lcG1mWDM0cVp5UEs4ME5ReTZPazBJUG43MTJoRFNBWDBrdmtJbC1fZw?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AXISCADES",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.48,
+      "close": 2077.6,
+      "prev_close": 2245.6,
+      "delivery_percent": 44.38,
+      "raw_pct_change": -7.48,
+      "corporate_action": null,
+      "why": {
+        "headline": "Pledge Or Encumbrance (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "pledge or encumbrance",
+            "detail": "AXISCADES Technologies promoter releases 27,000 shares from pledge",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGo4OWRKYzk1Tzh0TVEyc2lKY3RYN0tzb3JFTGUzSXhRVzNqTk1CS2RyZVhZem9WQzlTRWc5VnRKOTMtMm9yUWtUREsyNG0xSHJ3S3ZVOE83RDlKbzRQd2Y0N0lNc1kyQ2Q4R1NyUWJDTGphOFNZbm42YzllczFjT1lXbGxOcHB6Sm1lTjVvY1RlMGdVQWVmTEF1aW9FUTFqaWJ6bW1RYld1cHdfUlNDa0VNQnBwRm5MV0E?oc=5",
+            "source": "Scanx"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "AXISCADES initiates solvent liquidation of German auto unit add-solution",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT1NGd01INzhub19HeEN4QzZMV09tWmtUX3RLZkN5UVBiWUZ0TUVOSVV6MHJFYlhRb0NaZDl0TjUxUkZuMGpTSUlDV3ZxQlVwU0tsalNrOXBtTTRURFRFNjJta2tqR2duckM5MzgyOWhWZ2tSQi1nWE54RTZfU2hUNWt5ZkxBVllqcnpub0pKOFY5aFFta3psOXJweUVKeVhKd3dRczd0c1ktZHUwMWtLeTNhbVFPYkRTQ0h3SjlhOHN2YmxX?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "TEGA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.79,
+      "close": 1958.1,
+      "prev_close": 2123.6,
+      "delivery_percent": 38.12,
+      "raw_pct_change": -7.79,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal, reported by Business Upturn",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "regulatory or legal",
+            "detail": "Tega Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+            "url": "https://nsearchives.nseindia.com/corporate/TEGA_07102026164005_Intimation_under_Reg_74_complied_sd.pdf",
+            "source": "07 Oct 16:40"
+          },
+          {
+            "tier": "news",
             "kind": "operations",
-            "detail": "Greaves Electric Mobility launches Nexus EX+ with Intelligent Intellipack priced at INR 1,35,999",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUllOXJmNlN1UnU0Mi1NdTY0YnIyMjdYTmk0d19LN2RaekluQkcxYlhLRFk2UmtsM2p0YUd1VXN3cFdVeGZBZ1o3V3Z4aGl2cFF2dEtqTUtYNXA4NWZva2EyU1VhWVNJN0ZkWE5DOTNsX3ZxcGhudlIyTHVreWtxbU5LOGlCV1R5SGZkQW51YmZaTk5IeEZZajdyU2FrSmplNEpZcDhQS1E2UF9haUlsZGNuaWtsT1pnUlZwbGg5eGpORF9uc2hSSDYzQ1M?oc=5",
+            "detail": "Tega Industries receives approval for issuance of equity shares worth Rs. 1,994 per share",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmdFYVlkbWQzTHc4ZXgyVkJlYWs4aHhKUVpWcTBMNTc0cjB5SVVpR1dMZTNaUTA0NE9YR1pjU3ZTR1NsY20xQWRTdzV2aTdaNVVrWXptMTk2R2V5dGlyWGdQVThFeDVudGFySEpmeGJUWlZZeDZVRy1DX1JmTWNsS29GcXNveDd3MXBsMXVTV191Q19ILXNlN3hrNmttMGFuQTAzczdrZXlnRkY0TFA0WXVsUEJfbGw4VTlXME9kNV9yMTA?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AARTIPHARM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.79,
+      "close": 879.05,
+      "prev_close": 953.35,
+      "delivery_percent": 36.56,
+      "raw_pct_change": -7.79,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.88,
+      "close": 1235.7,
+      "prev_close": 1341.4,
+      "delivery_percent": 33.22,
+      "raw_pct_change": -7.88,
+      "corporate_action": null,
+      "why": {
+        "headline": "Investor Meeting, reported by Business Today",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "investor meeting",
+            "detail": "Adani Green Energy Limited has informed the Exchange about Schedule of meet",
+            "url": "https://nsearchives.nseindia.com/corporate/ADANIGREEN_07102026185331_Letter.pdf",
+            "source": "07 Oct 18:53"
+          },
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Adani Green, Adani Enterprises, Adani Power, Adani Ports, Adani Total: Why Adani stocks are falling today",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQa0c0VEQ4ZjUxaTdrbjVkQ25RRlFISlB6emJSaC1wWV9YYTI2bHduZW1sektpY2M2UDd0WjVUSk9sNHRBTm5aa3lXdzRhd3g2VHVrVE12eWREV1RJcG9iWHRmZHFzb3pmbmk4RzFkUVJTX0hiSndLaXlFalU3YnVJOUZ5c0VLYlY0UzBuZmY3cUdXUElyWXdhbkJXa0J0cldxZjhLbEJ5RVlvMXI1VHhjUng4Zjd0SG95cDB5Y2ZlYXpya2pFeUFjeGFiVWtfLUNSVG5PTTNrS3NudnktY0ZVYkwydXdnRENMYnJISlVvSFFaZmdCUmRlZUZTZTNLdnNQU3hXcXNTZkXSAY4CQVVfeXFMUHM1QmkwUU03NzFfTjh3a05iYVROajZ2Tko1VGNhR3FTZm5yWW9KTmhQcl9kQkhUcEx6dkF3SS1zdmV4NDlRZHhHWUNUUVo1Qk90Snd0RTREcjd1WXpwOXBHRmNVRS1ORWNHeVZGUkotbkhOdVVnQmxhQkdLbEZvR3dXVjctN2NiR01xRDFXZUQ2eWhzOFU0UW9Eb3RiUFVKTFNmai1tWFVFZE16R1NSZFBtV2R1clc5MkNORDVwY1NlcE1ERmgxOHlseTR4blcwWWJwOXR1UTVfOTJoUW96RkRrTDVvWlBHZW42RDFfOHZGWDcwVkszd1lSdS1kSnRTbEJlMXZzNnhjc3hib2tB?oc=5",
+            "source": "Business Today"
+          },
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Adani Enterprises, APSEZ, Adani Green: Why are Adani Group stocks falling on October 8?",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbFhhM3RNNjR2bnp3dVlrVlVWMXlJRUNNSlJiOHpJa3hwTC15WnJuWGRIc3k5cUxidEo5cUhtay04bzc1X3Vib3hCUmhjbDdEay0tN3FwNGVsZW1nYnkxYUdBcDd6cGx6aTE4Yng4WktLcW8wMWxQQlRyZ0dMLVNhU2pxdEVNdUlYaE8yT05TQWs1ZmRNNVpUczl4RXlOME9DbmV2MGlTRlExeURaT2pYd1BiQlZmeW5YbTBLNDc0TXlQZ05OeGF4S2NUMU9nT2xabUpWZGhiZEVOZw?oc=5",
+            "source": "Upstox"
+          },
+          {
+            "tier": "news",
+            "kind": "explainer",
+            "detail": "Why are Adani Group stocks crashing today? Explained",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEtqN190djUtcEl6UkttOHRxdG0taHRiNjJxbXBKOWxZZ1RsZTVvMklLSFlmZGVVR3h0d2M3T081LWp5amJmNHdpWm43NnZGSXVHc0gyV1kwRG9WUEY5ZG9hVHFnQWhENEd1bEVmVkVCbUZDSlZuNDN1b2F4end6cVV1TS1MaHBxNGJnS2Y3N29zZHgzMjVSdlF4enJwYlR1aUE?oc=5",
             "source": "Business Upturn"
           }
         ]
@@ -624,11 +3331,11 @@
       "symbol": "JSLL",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -5.45,
-      "close": 417.2,
-      "prev_close": 441.25,
-      "delivery_percent": 43.46,
-      "raw_pct_change": -5.45,
+      "pct_change": -8.62,
+      "close": 381.25,
+      "prev_close": 417.2,
+      "delivery_percent": 41.69,
+      "raw_pct_change": -8.62,
       "corporate_action": null,
       "why": {
         "headline": "Operations (Scanx)",
@@ -645,14 +3352,14 @@
       }
     },
     {
-      "symbol": "BALAMINES",
+      "symbol": "EMIL",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -5.76,
-      "close": 2155.9,
-      "prev_close": 2287.7,
-      "delivery_percent": 22.2,
-      "raw_pct_change": -5.76,
+      "pct_change": -8.62,
+      "close": 193.31,
+      "prev_close": 211.54,
+      "delivery_percent": 34.67,
+      "raw_pct_change": -8.62,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -661,33 +3368,43 @@
       }
     },
     {
+      "symbol": "SHAREINDIA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -10.31,
+      "close": 185.9,
+      "prev_close": 207.27,
+      "delivery_percent": 37.92,
+      "raw_pct_change": -10.31,
+      "corporate_action": null,
+      "why": {
+        "headline": "Fundraise Or Deal (Businessworld)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Shah Investor\u2019s Home Shares List At 2.4% Premium After 38 Times Subscribed IPO",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYVNhcHZjUEw4VXZPUUtMWnVWVVc3NzlwLUVYa2E5MGNHdVR5cFVwRmU2MnRSN2M5cl95aEFqUlhSRXg4LXNxbndQQTVnbjVLelNMcGFHMVhDTlQzeXNWazZGdnJiNkRYNGlqakF6XzJuRFRzZHh5M3BtT1p5a2xha1dLQ0hEdG05V0o5cmNTalhnR3Jub2w4M29CSHhDVUlPQjJlZzdWV1h1T1VrNUJsOUEtX2JEQjNQZlV0TlZR?oc=5",
+            "source": "Businessworld"
+          }
+        ]
+      }
+    },
+    {
       "symbol": "INOXGREEN",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -7.31,
-      "close": 135.87,
-      "prev_close": 146.59,
-      "delivery_percent": 45.38,
-      "raw_pct_change": -7.31,
+      "pct_change": -15.3,
+      "close": 115.08,
+      "prev_close": 135.87,
+      "delivery_percent": 36.95,
+      "raw_pct_change": -15.3,
       "corporate_action": null,
       "why": {
-        "headline": "Agreement, reported by Moneycontrol",
-        "confidence": "high",
+        "headline": "Fundraise Or Deal (Moneycontrol)",
+        "confidence": "medium",
         "evidence": [
-          {
-            "tier": "filing",
-            "kind": "agreement",
-            "detail": "Inox Green Energy Services Limited has informed the Exchange regarding a press release dated October 07, 2026, titled \"Inox Green Completes payment for the transfer of Wind World India s 4.5 GW Wind O&M Business as per the Business Transfer Agreement\".",
-            "url": "https://nsearchives.nseindia.com/corporate/IGESL_07102026074723_IGESL__PR_STXs_dsc.pdf",
-            "source": "07 Oct 07:52"
-          },
-          {
-            "tier": "filing",
-            "kind": "other disclosure",
-            "detail": "Inox Green Energy Services Limited has informed the Exchange about General Updates on the Resolution Plan for Wind World (India) Limited and investment in Vibhav Energy Private Limited, a wholly owned subsidiary",
-            "url": "https://nsearchives.nseindia.com/corporate/IGESL_07102026072235_IGESL_Acq_WWIL_Reg30_dsc.pdf",
-            "source": "07 Oct 07:23"
-          },
           {
             "tier": "news",
             "kind": "fundraise or deal",
