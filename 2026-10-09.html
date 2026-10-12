@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trident &middot; 2026-10-09</title>
+<style>
+:root {
+  color-scheme: light dark;
+  --bg: #f6f7f9;
+  --panel: #ffffff;
+  --border: #e3e6ea;
+  --ink: #14181d;
+  --muted: #667085;
+  --up: #0f7b45;
+  --up-bg: #e8f5ee;
+  --down: #c0342b;
+  --down-bg: #fdecea;
+  --accent: #2b5cd9;
+  --mark-a: #7ee0d3;
+  --mark-b: #3fb3a6;
+  --mark-ink: #0b3b36;
+  --highlight: #b0641c;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1216;
+    --panel: #171b21;
+    --border: #262c35;
+    --ink: #e8ebef;
+    --muted: #949eab;
+    --up: #4ade80;
+    --up-bg: #12301f;
+    --down: #f87171;
+    --down-bg: #351a19;
+    --accent: #7ea2ff;
+    --mark-a: #86e6d8;
+    --mark-b: #3aa99d;
+    --mark-ink: #08302c;
+    --highlight: #e0a45c;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+.wrap { max-width: 960px; margin: 0 auto; padding: 20px 16px 56px; }
+header { margin-bottom: 18px; }
+.brand { display: flex; align-items: center; gap: 14px; }
+/* Without this the text column keeps its intrinsic width and overflows. */
+.brand > div:last-child { min-width: 0; }
+.mark {
+  flex: 0 0 auto;
+  width: 52px; height: 52px;
+  border-radius: 14px;
+  background: linear-gradient(155deg, var(--mark-a), var(--mark-b));
+  color: var(--mark-ink);
+  display: grid; place-items: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.18);
+}
+.mark svg { width: 40px; height: 40px; display: block; }
+h1 {
+  font-size: 34px; font-weight: 800; margin: 0;
+  letter-spacing: -0.025em; line-height: 1.05;
+}
+.tagline { margin: 3px 0 0; font-size: 14px; color: var(--muted); }
+.tagline em { font-style: normal; color: var(--highlight); }
+.daybar {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 8px 12px;
+  margin-top: 16px;
+}
+.daybar .label {
+  color: var(--muted); font-size: 11px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.09em;
+}
+.picker { position: relative; display: inline-flex; }
+.picker select {
+  appearance: none; -webkit-appearance: none;
+  font: inherit; font-weight: 700; font-size: 15px;
+  color: var(--ink); background: var(--panel);
+  border: 1.5px solid var(--mark-b); border-radius: 999px;
+  padding: 8px 38px 8px 16px;
+  cursor: pointer; max-width: 100%;
+}
+.picker select:focus-visible { outline: 2px solid var(--mark-b); outline-offset: 2px; }
+.picker svg {
+  position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+  width: 13px; height: 13px; pointer-events: none; color: var(--muted);
+}
+.updated { color: var(--muted); font-size: 13px; }
+.sub { color: var(--muted); font-size: 13px; margin-top: 12px; }
+@media (max-width: 480px) {
+  h1 { font-size: 28px; }
+  .mark { width: 44px; height: 44px; border-radius: 12px; }
+  .mark svg { width: 34px; height: 34px; }
+  .tagline { font-size: 13px; }
+}
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 18px 0 22px; }
+.card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
+.card .n { font-size: 22px; font-weight: 620; font-variant-numeric: tabular-nums; }
+.card .l { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; margin-top: 2px; }
+.card.up .n { color: var(--up); }
+.card.down .n { color: var(--down); }
+h2 { font-size: 14px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin: 26px 0 10px; }
+.panel { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { padding: 10px 12px; text-align: right; white-space: nowrap; }
+th { color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid var(--border); }
+th:first-child, td:first-child { text-align: left; }
+tbody tr + tr td { border-top: 1px solid var(--border); }
+td.sym { font-weight: 600; }
+td.num { font-variant-numeric: tabular-nums; }
+.chg { display: inline-block; padding: 2px 8px; border-radius: 999px; font-variant-numeric: tabular-nums; font-weight: 600; }
+.chg.up { color: var(--up); background: var(--up-bg); }
+.chg.down { color: var(--down); background: var(--down-bg); }
+.bar { height: 4px; border-radius: 2px; background: var(--border); overflow: hidden; min-width: 44px; }
+.bar > i { display: block; height: 100%; }
+.bar.up > i { background: var(--up); }
+.bar.down > i { background: var(--down); }
+.why { margin-top: 6px; font-size: 13px; color: var(--muted); white-space: normal; }
+.tag {
+  display: inline-block; font-size: 11px; font-weight: 700; letter-spacing: .04em;
+  text-transform: uppercase; padding: 2px 7px; border-radius: 5px; margin-right: 7px;
+  vertical-align: 1px;
+}
+.tag.high { color: var(--up); background: var(--up-bg); }
+.tag.medium { color: var(--highlight); background: color-mix(in srgb, var(--highlight) 14%, transparent); }
+.tag.low { color: var(--muted); background: var(--border); }
+.tag.mechanical { color: var(--muted); background: var(--border); }
+.tag.none { color: var(--muted); background: transparent; border: 1px solid var(--border); }
+.why a { color: var(--accent); text-decoration: none; }
+.why a:hover { text-decoration: underline; }
+.why .src { opacity: .75; }
+td.reason { white-space: normal; min-width: 240px; text-align: left; }
+.raw { font-size: 12px; color: var(--muted); }
+.empty { padding: 28px; text-align: center; color: var(--muted); }
+footer { margin-top: 28px; color: var(--muted); font-size: 12px; line-height: 1.7; }
+footer code { background: var(--panel); border: 1px solid var(--border); border-radius: 4px; padding: 1px 5px; }
+@media (max-width: 560px) {
+  .hide-sm { display: none; }
+  .wrap { padding: 16px 12px 40px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">
+    <div class="mark"><svg viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+  <g fill="currentColor">
+    <path d="M32 2l4.2 16h-8.4z"/>
+    <path d="M17.5 4l3.4 11h-6.8z"/>
+    <path d="M46.5 4l3.4 11h-6.8z"/>
+  </g>
+  <g fill="none" stroke="currentColor" stroke-width="4.2" stroke-linecap="round">
+    <path d="M32 26V17"/>
+    <path d="M32 26c-11.5 0-14.5-4-14.5-11.5"/>
+    <path d="M32 26c11.5 0 14.5-4 14.5-11.5"/>
+    <path d="M32 26v30"/>
+    <path d="M23.5 42h17"/>
+  </g>
+</svg></div>
+    <div>
+      <h1>Trident</h1>
+      <p class="tagline">Closing moves of 4% or more,
+      <em>and the delivery behind them</em></p>
+    </div>
+  </div>
+  <div class="daybar">
+    <span class="label">Market day</span>
+    <span class="picker">
+      <select id="day" aria-label="Choose a market day"><option value="2026-10-09.html" selected>Friday, 9 October 2026</option><option value="2026-10-08.html">Thursday, 8 October 2026</option><option value="2026-10-07.html">Wednesday, 7 October 2026</option><option value="2026-10-06.html">Tuesday, 6 October 2026</option><option value="2026-10-05.html">Monday, 5 October 2026</option><option value="2026-10-01.html">Thursday, 1 October 2026</option><option value="2026-09-30.html">Wednesday, 30 September 2026</option><option value="2026-09-29.html">Tuesday, 29 September 2026</option><option value="2026-09-28.html">Monday, 28 September 2026</option><option value="2026-09-25.html">Friday, 25 September 2026</option><option value="2026-09-24.html">Thursday, 24 September 2026</option><option value="2026-09-23.html">Wednesday, 23 September 2026</option><option value="2026-09-22.html">Tuesday, 22 September 2026</option><option value="2026-09-21.html">Monday, 21 September 2026</option><option value="2026-09-18.html">Friday, 18 September 2026</option><option value="2026-09-17.html">Thursday, 17 September 2026</option><option value="2026-09-16.html">Wednesday, 16 September 2026</option><option value="2026-09-15.html">Tuesday, 15 September 2026</option><option value="2026-09-11.html">Friday, 11 September 2026</option><option value="2026-09-10.html">Thursday, 10 September 2026</option><option value="2026-09-09.html">Wednesday, 9 September 2026</option><option value="2026-09-08.html">Tuesday, 8 September 2026</option></select>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+           stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+    </span>
+    <span class="updated">Updated 12 Oct, 13:34 IST</span>
+  </div>
+</header>
+<div class="cards"><div class="card "><div class="n">30</div><div class="l">flagged</div></div><div class="card up"><div class="n">24</div><div class="l">up</div></div><div class="card down"><div class="n">6</div><div class="l">down</div></div><div class="card "><div class="n">743</div><div class="l">scanned</div></div></div>
+<h2>Gainers (24)</h2>
+<div class="panel"><table>
+<thead><tr><th>Symbol</th><th>Change</th><th class="hide-sm"></th><th>Close</th>
+<th class="hide-sm">Prev</th><th>Deliv</th><th>Why</th></tr></thead>
+<tbody><tr><td class="sym">INOXGREEN</td><td><span class="chg up">+12.03%</span></td><td class="hide-sm"><div class="bar up"><i style="width:100.0%"></i></div></td><td class="num">128.92</td><td class="num hide-sm">115.08</td><td class="num">6.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">CYIENT</td><td><span class="chg up">+6.83%</span></td><td class="hide-sm"><div class="bar up"><i style="width:56.8%"></i></div></td><td class="num">1,158.80</td><td class="num hide-sm">1,084.70</td><td class="num">13.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">INOXWIND</td><td><span class="chg up">+6.76%</span></td><td class="hide-sm"><div class="bar up"><i style="width:56.2%"></i></div></td><td class="num">66.65</td><td class="num hide-sm">62.43</td><td class="num">16.1%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">PCJEWELLER</td><td><span class="chg up">+6.55%</span></td><td class="hide-sm"><div class="bar up"><i style="width:54.4%"></i></div></td><td class="num">14.81</td><td class="num hide-sm">13.90</td><td class="num">23.2%</td><td class="reason"><span class="tag high">high</span>Disclosure Of Material Issue disclosed to the exchange<div class="why"><span class="src">08 Oct 23:15 &middot; </span><a href="https://nsearchives.nseindia.com/corporate/PCJEWELLER_08102026231509_update08102026.pdf" target="_blank" rel="noopener">PC Jeweller Limited has informed regarding Disclosure of material issue</a></div></td></tr><tr><td class="sym">KEC</td><td><span class="chg up">+5.79%</span></td><td class="hide-sm"><div class="bar up"><i style="width:48.1%"></i></div></td><td class="num">369.85</td><td class="num hide-sm">349.60</td><td class="num">10.2%</td><td class="reason"><span class="tag high">high</span>Order Win disclosed to the exchange<div class="why"><span class="src">08 Oct 20:57 &middot; </span><a href="https://nsearchives.nseindia.com/corporate/KEC_08102026205717_PressRelease.pdf" target="_blank" rel="noopener">KEC International wins New Orders of Rs. 1,030 crores</a></div></td></tr><tr><td class="sym">PERSISTENT</td><td><span class="chg up">+5.52%</span></td><td class="hide-sm"><div class="bar up"><i style="width:45.9%"></i></div></td><td class="num">5,770.00</td><td class="num hide-sm">5,468.00</td><td class="num">34.6%</td><td class="reason"><span class="tag high">high</span>Corrigendum disclosed to the exchange<div class="why"><span class="src">08 Oct 17:20 &middot; </span><a href="https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_08102026171702_PSLCorrigendumtotheOutcomeofInvestorsCallOct82026Sd.pdf" target="_blank" rel="noopener">Corrigendum to our earlier letter under Ref. no. NSE &amp; BSE / 2026-27 / 143 dated September 30, 2026</a></div></td></tr><tr><td class="sym">CPPLUS</td><td><span class="chg up">+5.36%</span></td><td class="hide-sm"><div class="bar up"><i style="width:44.6%"></i></div></td><td class="num">4,185.20</td><td class="num hide-sm">3,972.20</td><td class="num">53.7%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">HEXT</td><td><span class="chg up">+5.30%</span></td><td class="hide-sm"><div class="bar up"><i style="width:44.1%"></i></div></td><td class="num">538.50</td><td class="num hide-sm">511.40</td><td class="num">6.4%</td><td class="reason"><span class="tag high">high</span>Updates disclosed to the exchange<div class="why"><span class="src">08 Oct 17:16 &middot; </span><a href="https://nsearchives.nseindia.com/corporate/HEXAWARETECH_08102026171622_Press_Release.pdf" target="_blank" rel="noopener">Hexaware Technologies Limited has informed the Exchange regarding &#x27;Hexaware Becomes a Preferred Partner in the Claude Partner Network, Bringing Claude</a></div></td></tr><tr><td class="sym">GMRAIRPORT</td><td><span class="chg up">+5.17%</span></td><td class="hide-sm"><div class="bar up"><i style="width:43.0%"></i></div></td><td class="num">92.31</td><td class="num hide-sm">87.77</td><td class="num">85.5%</td><td class="reason"><span class="tag high">high</span>Management Change disclosed to the exchange<div class="why"><span class="src">08 Oct 23:15 &middot; </span><a href="https://nsearchives.nseindia.com/corporate/GMRINFRA_08102026231343_STX_Intimation_of_Resignation_of_Director_Mr_Alexis.pdf" target="_blank" rel="noopener">GMR AIRPORTS LIMITED has informed the Exchange regarding Resignation of Mr. Alexis Benjamin Riols as Executive Director &amp; Deputy CEO and Continuation </a></div></td></tr><tr><td class="sym">CUB</td><td><span class="chg up">+5.16%</span></td><td class="hide-sm"><div class="bar up"><i style="width:42.9%"></i></div></td><td class="num">231.42</td><td class="num hide-sm">220.07</td><td class="num">42.8%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">BSOFT</td><td><span class="chg up">+4.97%</span></td><td class="hide-sm"><div class="bar up"><i style="width:41.3%"></i></div></td><td class="num">285.30</td><td class="num hide-sm">271.80</td><td class="num">26.3%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">COLPAL</td><td><span class="chg up">+4.73%</span></td><td class="hide-sm"><div class="bar up"><i style="width:39.3%"></i></div></td><td class="num">1,817.80</td><td class="num hide-sm">1,735.70</td><td class="num">28.8%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">APOLLOHOSP</td><td><span class="chg up">+4.72%</span></td><td class="hide-sm"><div class="bar up"><i style="width:39.2%"></i></div></td><td class="num">8,027.50</td><td class="num hide-sm">7,666.00</td><td class="num">52.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">GLENMARK</td><td><span class="chg up">+4.60%</span></td><td class="hide-sm"><div class="bar up"><i style="width:38.2%"></i></div></td><td class="num">2,293.00</td><td class="num hide-sm">2,192.20</td><td class="num">34.8%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">TATAELXSI</td><td><span class="chg up">+4.47%</span></td><td class="hide-sm"><div class="bar up"><i style="width:37.2%"></i></div></td><td class="num">3,130.00</td><td class="num hide-sm">2,996.00</td><td class="num">24.6%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">GODIGIT</td><td><span class="chg up">+4.36%</span></td><td class="hide-sm"><div class="bar up"><i style="width:36.2%"></i></div></td><td class="num">272.85</td><td class="num hide-sm">261.45</td><td class="num">41.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">RBLBANK</td><td><span class="chg up">+4.32%</span></td><td class="hide-sm"><div class="bar up"><i style="width:35.9%"></i></div></td><td class="num">418.00</td><td class="num hide-sm">400.70</td><td class="num">37.0%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">ITC</td><td><span class="chg up">+4.31%</span></td><td class="hide-sm"><div class="bar up"><i style="width:35.8%"></i></div></td><td class="num">266.00</td><td class="num hide-sm">255.00</td><td class="num">46.7%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">VEDL</td><td><span class="chg up">+4.31%</span></td><td class="hide-sm"><div class="bar up"><i style="width:35.8%"></i></div></td><td class="num">264.00</td><td class="num hide-sm">253.10</td><td class="num">42.9%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">NCC</td><td><span class="chg up">+4.28%</span></td><td class="hide-sm"><div class="bar up"><i style="width:35.6%"></i></div></td><td class="num">125.06</td><td class="num hide-sm">119.93</td><td class="num">7.3%</td><td class="reason"><span class="tag high">high</span>Order Win disclosed to the exchange<div class="why"><span class="src">08 Oct 17:19 &middot; </span><a href="https://nsearchives.nseindia.com/corporate/NCC_08102026171912_Reg_30.pdf" target="_blank" rel="noopener">NCC Limited has informed the Exchange about Bagging/Receiving of orders/contracts</a></div></td></tr><tr><td class="sym">EICHERMOT</td><td><span class="chg up">+4.17%</span></td><td class="hide-sm"><div class="bar up"><i style="width:34.7%"></i></div></td><td class="num">7,050.00</td><td class="num hide-sm">6,767.50</td><td class="num">49.7%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">BBOX</td><td><span class="chg up">+4.15%</span></td><td class="hide-sm"><div class="bar up"><i style="width:34.5%"></i></div></td><td class="num">892.10</td><td class="num hide-sm">856.55</td><td class="num">11.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">SKYGOLD</td><td><span class="chg up">+4.13%</span></td><td class="hide-sm"><div class="bar up"><i style="width:34.3%"></i></div></td><td class="num">921.00</td><td class="num hide-sm">884.50</td><td class="num">36.1%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">ICICIGI</td><td><span class="chg up">+4.08%</span></td><td class="hide-sm"><div class="bar up"><i style="width:33.9%"></i></div></td><td class="num">1,690.20</td><td class="num hide-sm">1,624.00</td><td class="num">48.3%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr></tbody>
+</table></div><h2>Decliners (6)</h2>
+<div class="panel"><table>
+<thead><tr><th>Symbol</th><th>Change</th><th class="hide-sm"></th><th>Close</th>
+<th class="hide-sm">Prev</th><th>Deliv</th><th>Why</th></tr></thead>
+<tbody><tr><td class="sym">MAHSEAMLES</td><td><span class="chg down">-4.06%</span></td><td class="hide-sm"><div class="bar down"><i style="width:33.7%"></i></div></td><td class="num">618.10</td><td class="num hide-sm">644.25</td><td class="num">41.9%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">CANHLIFE</td><td><span class="chg down">-4.36%</span></td><td class="hide-sm"><div class="bar down"><i style="width:36.2%"></i></div></td><td class="num">139.22</td><td class="num hide-sm">145.56</td><td class="num">34.7%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">AKUMS</td><td><span class="chg down">-4.43%</span></td><td class="hide-sm"><div class="bar down"><i style="width:36.8%"></i></div></td><td class="num">751.85</td><td class="num hide-sm">786.70</td><td class="num">44.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">ANANDRATHI</td><td><span class="chg down">-4.68%</span></td><td class="hide-sm"><div class="bar down"><i style="width:38.9%"></i></div></td><td class="num">2,038.70</td><td class="num hide-sm">2,138.90</td><td class="num">41.7%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">SUDEEPPHRM</td><td><span class="chg down">-5.79%</span></td><td class="hide-sm"><div class="bar down"><i style="width:48.1%"></i></div></td><td class="num">1,050.30</td><td class="num hide-sm">1,114.90</td><td class="num">45.9%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr><tr><td class="sym">HCG</td><td><span class="chg down">-7.76%</span></td><td class="hide-sm"><div class="bar down"><i style="width:64.5%"></i></div></td><td class="num">589.20</td><td class="num hide-sm">638.75</td><td class="num">51.4%</td><td class="reason"><span class="tag none">none</span>No disclosed reason</td></tr></tbody>
+</table></div>
+<footer>
+  Session of Friday, 9 October 2026, measured against the previous close.
+  Generated 12 Oct, 13:34 IST from NSE's security-wise bhavcopy.
+  Change is measured on <code>CLOSE_PRICE</code>, the settled closing price NSE carries
+  forward as the next session's <code>PREV_CLOSE</code>, not the last traded price.
+  Delivery percentage is the share of traded volume taken to demat rather than squared off intraday.
+</footer>
+</div>
+<script>
+  // Each session is its own page, so switching days is a plain navigation.
+  document.getElementById("day").addEventListener("change", function (event) {
+    window.location.href = event.target.value;
+  });
+</script>
+</body>
+</html>
