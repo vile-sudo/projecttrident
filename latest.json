@@ -1,315 +1,992 @@
 {
-  "trade_date": "2026-10-19",
+  "trade_date": "2026-10-21",
   "threshold_percent": 4.0,
-  "generated_at": "2026-10-20T12:01:57+05:30",
+  "generated_at": "2026-10-22T12:05:47+05:30",
   "stats": {
     "scanned": 743,
-    "flagged": 53,
+    "flagged": 101,
     "missing": 0,
-    "adjusted": 0,
+    "adjusted": 2,
     "mechanical_only": 0
   },
   "moves": [
     {
-      "symbol": "PCJEWELLER",
+      "symbol": "INDIACEM",
       "series": "EQ",
       "direction": "UP",
-      "pct_change": 11.36,
-      "close": 18.13,
-      "prev_close": 16.28,
-      "delivery_percent": 18.22,
-      "raw_pct_change": 11.36,
+      "pct_change": 12.04,
+      "close": 329.8,
+      "prev_close": 294.35,
+      "delivery_percent": 3.7,
+      "raw_pct_change": 12.04,
       "corporate_action": null,
       "why": {
-        "headline": "M&A Or Stake (Moneycontrol)",
+        "headline": "Results (Business Upturn)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Sanyasi Ayurveda sells 0.53% stake in PC Jeweller",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlRNY2R2a1lTT0lrX2R1dDVuOFl3emd3YnFUdlNZeHN4bFdONUVfdHowUUlDVE9hTDF2b2luR0tSTGhNSGNVbGlnN1Yzcm5OMmkyTGtLb1FtVDh1RmdUNGIxRDRUeE5xQ1hsenN1WG1vRk4wRng3TlVqa2ZZZ0I3YmYtbjlZODZmeVVaZG9pU0Y5MTVOWDc1R0M2VHZmZzN2YlowZ0swU0dWUXhYeTNySnV5d9IBuAFBVV95cUxOQ2hxNTZVeElfSWd2aFI1dlRhbmMzN0FJcmxfWElXR3k5di0taTd6QW8zWVFXdGR3dWhIREMzc1piX3hCRkVMRW1zV0FMbE81YUhvTGNmekhNS3NIRlVSSGNDbmJkaWpMOC0wOG1iM1FEcktrUUw3VjFGb2FCNUhyU2d5TG5jZ1VrNGlQRjJ4S0JmTllOamFrcXpiUTZpc0JqS2JveXNSQ196Ny1VVUp4bHl1WWVHdDRR?oc=5",
-            "source": "Moneycontrol"
-          },
-          {
-            "tier": "news",
-            "kind": "explainer",
-            "detail": "PC Jeweller, Senco Gold, other jewellery stocks rise up to 17%: Here's why",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTdmVVJsRWJJMGNqbTZZb0xLMHIxcFRuVVRJclpLSDQ3blNRRU5vdV9Gek5KeWtJVXc1djYtV0k3VjBHTk54REhLQ29qQzYxTVY0QXdXSTFyOGI3TUZXMlNPRWdGM0tOTE0tOXdhdUZwNF9pVWRiTEJUSUJsQkhQZDRjZzhqTzY4dE5EVmVPQVE2WnpjUlQ2S242Z2JEYVI3TlEyUjZwUDhyaVJ6RFNnY19yOU8tTFp5YzdQLXZVNlVYZ3RXSXEwYl82WDRWSFY5cHfSAdcBQVVfeXFMTVMwTGdRQ001bWR3WFVwejdCVUI2WGVTRUtpTGZoVlVqblNfU3Bia1pTUXNSbkJfT0JaaWRyUzVsSDJCY3RZNm5HeVh4LWttelZqZWVtY0I5YTFnZ3VSUlktcVltQkRFb0xvNW1oUW44OEw2Z2s2SmpTWUp5VjNNNEMxWUhaaGNMekI5U2tBQmJnSHlCSU9mcm1BU3ZXMWNZWEtrRHBqc3AySUV6bzJDV3R6T2pjYXN3YXpUa0VNOE1xMktqM1E5QjRuT2ZJOWRad2plMXItVjA?oc=5",
-            "source": "Moneycontrol"
-          },
-          {
-            "tier": "news",
-            "kind": "broker action",
-            "detail": "Up 38% in a month! PC Jeweller share price rallies 13% despite weak trend on D-Street | Check target price, stop loss",
-            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcFhRSUtwSTRDTGlCaU8wdXdHVW1aS2lpYTZFNjJPUHpxWkhyaXp5OFVkTjhsVDA5endoUGgyS0YxYTdLc3YtTmFMQlZBVnp6VDVfRDNDMkotbUtNRGk0MGx6eHY2OTZXdmpOOTdObk1Demgyb0xSUV9RZVEtUGxRRzkwbzlGYTd4Mm9Cd0tLbmNyMDJoVUhESENySXQxaVFKdFlDZzY0MDlXM0N6bUZJbDJ6SkhOYUlfNjI5NlhVWGE4c0I0LVdweEtHa1hNZDVSSm1CbkNZbE5CamE1TnFSdGtxdGZpeFVIT0k5Q2hQN0N4eGQzX1QzSWtJVmRhSnl3SV9mNE9GYzNNM0xT0gGSAkFVX3lxTE1rXy1vSy1Yamx5NHBYNl9UQkQ3ZGxLS1JXa2pjR21LSDlWeEN4Mk84NmRsVlBGMXB5YkMxWmlUMHdTTnY0bDhjOUhkY3Q4aWJiSnpaLXBicUtXUDBiaG9BSDBUbHp5V0xBMS1BMXFZeDRoMXl4S2tlMlMtVUJHMEJMXzk1MnZBZ0lKejVRckMxa2hBdWhDeVFWTUFneVNLQUotME9QdDlQNEYwNW9DSU5UR1RxZmw0MTdtT3F6eGVWYnU5WXRmU3FzYXZOWDdNNnRUc29pWFdSTWI0cm14OHQ5T2tlblk5amlwUjNBeVdzRkxWaFZlUkFsTGtmLXFaYUU3S0FQTENIMi1aSUoyX01hcnc?oc=5",
-            "source": "Mint"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "IXIGO",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 8.74,
-      "close": 157.08,
-      "prev_close": 144.46,
-      "delivery_percent": 6.5,
-      "raw_pct_change": 8.74,
-      "corporate_action": null,
-      "why": {
-        "headline": "Results disclosed to the exchange",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
             "kind": "results",
-            "detail": "Le Travenues Technology Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/IXIGO_17102026122501_Outcome_Board_Meeting_17102026.pdf",
-            "source": "17 Oct 12:28"
-          },
-          {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Le Travenues Technology Limited has informed the Exchange about Earnings Release on Financial Results for quarter and half year ended September 30, 2026",
-            "url": "https://nsearchives.nseindia.com/corporate/IXIGO_17102026130906_Regulation_30_EarningsRelease_17102026.pdf",
-            "source": "17 Oct 13:09"
-          },
-          {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Le Travenues Technology Limited has informed the Exchange regarding Media Release - Financial Results for the quarter and half year ended September 30, 2026\".",
-            "url": "https://nsearchives.nseindia.com/corporate/IXIGO_17102026131559_Regulation_30_Media_Release_17102026.pdf",
-            "source": "17 Oct 13:16"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "SOUTHBANK",
-      "series": "EQ",
-      "direction": "UP",
-      "pct_change": 5.46,
-      "close": 54.26,
-      "prev_close": 51.45,
-      "delivery_percent": 36.0,
-      "raw_pct_change": 5.46,
-      "corporate_action": null,
-      "why": {
-        "headline": "Investor Meeting, reported by The Hindu",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "The South Indian Bank Limited has informed the Exchange about Link of Recording",
-            "url": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_16102026191704_SD_STT_AUDIORECORDING_16OCT2026.pdf",
-            "source": "16 Oct 19:21"
-          },
-          {
-            "tier": "filing",
-            "kind": "other disclosure",
-            "detail": "The South Indian Bank Limited has informed the Exchange about Change in Marginal Cost of Funds Based Lending Rates (MCLR) of the Bank",
-            "url": "https://nsearchives.nseindia.com/corporate/SOUTHBANK_17102026153217_SD_STT_MCLRCHANGE_17OCT2026.pdf",
-            "source": "17 Oct 15:32"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "South Indian Bank records highest-ever quarterly net profit of \u20b9426.13 crore",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVjdPUjF1X3ZsLTZUNVFDN1dONDlqMGxkNVlXNmROMllRUW56UnI5VXlJMFZhTHBjNzNuVzRNWm4xU1BnQTVYWHhBbVNEMFM0Wno0SUt2bGV3X1hWQVlQejdpNkdJWkZxQXlVbG80ZGhZZmtiQ1FlRFhPR2NyU2FNZkEzZEVPSWtnTnBMU3FIbEk4OW9lZXdwMGlrZ2l2cEc1UjZObEYzai1yWFN6S1d0MnctUnplMFZWZVFySndDQzFDc09UNjJVajQ0ZFZ6MEw5T1JpMmxCUdIB3gFBVV95cUxNcGRYOUVheXAyTzA1UjZ3Wld0TU9VWGtyVF9YZXkwelhFNDRqT3VqcDlYbnRPeWFvVEVacjJwbS1ld0R6RjRhaDEzWFBXajd4NlNvbWtib1NTQlJOTE41MzJIUW1MRVFuSjRMVUxBOG85LUp5Ujljelh1dlhGZDNveVhhYmllSkkxQV9QenFfbU85cThxYWdiZGdZVm9zYWN1S2dIeFdxams2b3VwRkZSa001Nm1raXpSRHVsZWdadmZ6amE3TlhNcGxKb2RLa2JtM0Q4NHhQNHBPbFBpY1E?oc=5",
-            "source": "The Hindu"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "South Indian Bank Q2 FY27 slides: record profit, asset quality shines",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQblkwSmN4el9xWV9VcUR4U3FSVGsyWExkWnpEb3MzY1M3VFNfT0RZT25DelVDcEppTFR2a3M5WFJDVlZ2TTJyZFFiV1hzYU5iMnd0YlFuV1l1SW9GV0x5ZmtKSmVCZENONnduQmRqSFZ5X21VcGxMV21Rd2hkcWZqSkJxcU1lZllBd0poRVloc0g3MzhJeWlGV0JvZ09LYWUtdVZ0RTUwT1JnZ180d09RRExMY1VlLW55U08waXJ3SFA4YTB1Rk84?oc=5",
-            "source": "Investing.com"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "The South Indian Bank revises Marginal Cost of Funds Based Lending Rates effective 20th October 2026",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQlVlZG00bHVTNmh2cFFGVlpiYWk0OTFsN2pfRzJaTGs4UFVqLTJBRVNTRjRxZ3RlbXYtbUk0VkczcGQ3bVU1Q0lrZVFOVkV6eVFJSS1EbVhmU1ZTeFBzcGRyMlpXODF6ZUhsT3hNdEpHd21obW1VWEl4dHIzSVNlNl9zbTRpYUtmeFFFTlU1YU11VnVabGI5R1pZcVFTdFBDT2xTUkpHQUcxaWNHallkWmVWdGhTd01tVlhyS1lOSkdRTWFxaFBwd24yR0V2d2JTcmpR?oc=5",
+            "detail": "India Cements shares fall over 4% despite solid Q2 results",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVg0OFJQLUJuNVRrQ3lMdkNUdmM4UFkxaVlKMW04YlhsTW5CcTNScWgxUkFlRWpBQUstTVdnamg4ZEVHUHZUOXN0aWZvQVRybG56RXBVYkxTZ05LUFo3djM4UW84b054SHJSQ1RhYklxcWlxQVhOeW1jcTVYSlZrM1VNTk12Ul92VGtGNlpudzBEejRETVp2aEc2V2kyTWdTVjk4bkUxTFRkQQ?oc=5",
             "source": "Business Upturn"
           }
         ]
       }
     },
     {
-      "symbol": "UNIONBANK",
+      "symbol": "LTTS",
       "series": "EQ",
       "direction": "UP",
-      "pct_change": 5.25,
-      "close": 180.7,
-      "prev_close": 171.68,
-      "delivery_percent": 29.03,
-      "raw_pct_change": 5.25,
+      "pct_change": 10.66,
+      "close": 3996.3,
+      "prev_close": 3611.3,
+      "delivery_percent": 8.01,
+      "raw_pct_change": 10.66,
       "corporate_action": null,
       "why": {
-        "headline": "Results, reported by The Hindu",
-        "confidence": "high",
+        "headline": "Results (Reuters)",
+        "confidence": "medium",
         "evidence": [
           {
-            "tier": "filing",
+            "tier": "news",
             "kind": "results",
-            "detail": "Union Bank of India has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/UNIONBANK_19102026120305_Results_Sept2026.pdf",
-            "source": "19 Oct 12:03"
+            "detail": "India\u2019s L&T Technology expects robust second half as deals ramp up; quarterly revenue rises",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUNEaVRFR2NFYXo2YjMyb2NpMjBBaDNKNTZ2X1VycTNjRTZsVW80WmZGdUJpT1diZ2JoTGdTaGxMUjIxZGhhRUtHNzFFWnJhV1JrZjZIRlc2RGd2QW5zZXBlQUU0WS1DNWoyck4zTi1rT2I1QWhEdDZRajJfU1pvS2FLdURRLUd4X2hoZjZ1d2R1QV9GNkJFMVdZanFmVnJyMmw4NXlXZHNtOVJBcEkwNkJvVUItMk9SY19hdURFSWRmWnhTdGc?oc=5",
+            "source": "Reuters"
           },
           {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Union Bank of India has informed the Exchange regarding a press release dated October 19, 2026, titled \"Press Release on the Financial Results of the Bank for the Quarter ended on September 30, 2026\".",
-            "url": "https://nsearchives.nseindia.com/corporate/UNIONBANK_19102026122544_Press_Release_Sept2026.pdf",
-            "source": "19 Oct 12:25"
-          },
-          {
-            "tier": "filing",
-            "kind": "other disclosure",
-            "detail": "Union Bank of India has informed the Exchange about General Updates",
-            "url": "https://nsearchives.nseindia.com/corporate/UNIONBANK_19102026121340_Results_Sept2026.pdf",
-            "source": "19 Oct 12:13"
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Price Action: Transrail Lighting jumps 5% on stake acquisition; L&T Technology Services surges 12%...",
+            "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTFVCTDA3RzEzSEVBZnVTbUxkRUhvRWNzVmNGcjFPaHlDS1V2dVhhaVIwMzdlVmJTWEFjTVcyU0ZYSzY2T3ZzVmVzdTZTLW5rRVBFVEdvOEVqT1pzOE41cGJEc2hkYlprdzJiV3d1Vm93Y3dPc19EWW54ckhVcU45TzliNnpzM0ZBS1ZrY0FXaDhrb1lPelV1bjBCcS0yTzRJeU9KeDNXMTJSNDdGcU8wb0IybEh3NmpyYXMxV25wdzYxeGpNd0dXUDByZFZhYjdWemJVaE5NcXBEQ19wTW1JNWpvSjVPd2JwU0VsRGRXSVhIeC1fd3cxeVFYRllYYVNaZEpDX2tGY9IBjAJBVV95cUxNajYyczg3bzRtcGlWak4wU3pVRWxTT0dJZ3lYY29kS1dSQXVqaXVzQmgyOG9aNVJUbm5ZQkJ5T0xrNEVaT0RpV2NuTmRWd1Byenl3R1pQZ1FjeXVpYjd6SlpBLWhQZTZ6Y0VxS0xUTkNZVjZjRUowR21GR0k0TDBEeEZsTVJ0bVZ0MTFLOXZQM2N3TFNNWDNwaWNMckhpZXNzS0RVZjM5bDR5VXE3bC0xSlg1b0lTMGcteWxIa3RSSHVsbmM2eE1iQ3k5enMyTkphNFlpWXBGd0ExelFOT29qcmpPZ0RpUXhVRjBQRi04MTdhanFVZWRSQ1VqOXJaY1BjcEtReEg5Tl9INnNU?oc=5",
+            "source": "Moneycontrol"
           },
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Union Bank of India Q2 net profit rises 30% to \u20b95,537 crore",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUpOcG14QTUwLVpHZ2pGV3BwSFNpclZoUnV0ZzRqRjFHVmNybWlLeGUtdUNiLVowbXlsa0R5UGtqcXNiS09uQ0FsVHRzYXJhYm4xdm1mYlFoVTllQUtkSndfUjQ4a3Q4RXc4LXRqNEJpbWxOWXB3cXFQZThBRHk0YkxYdC1PdTBtelhKUi1xcFNDak9JdzVfVDhydU5zc0FMeWIwNWZKdVRyXzBCaEhj0gG2AUFVX3lxTE5NRWVJMWxNUjZKMlFsUjFUSFRwRGNBYmtUNFVKR01abkZkMW1FR2taOGxZTjdhN1F6elR0djRHdFdGTFBOeUlNRFJJa1lxYWJ6M0dCbHV1QUVsS29FdU9OOWNvT2NTcW5yV1RKSXR4ellZNm5ueVV0Q1FBTmZQQzIxX0s4ZDFvSWx3dHVLZlFYWmM3UGtBRkJtSFpGZGdJNUdwci1WLUpXcXNkTHh3SHlsWEtNWHh3?oc=5",
-            "source": "The Hindu"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Union Bank of India logs 30% y-o-y increase in net profit at \u20b95,537 crore",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGY3OFNabWNsME9WdmM4ZUhtWXVhS0hvdkROaHEwZ09ZZXRqZE0zQ3l3Nnk3aUJtVERMMm1iRHJOblEwalBfRGhRbGNwaU5yaUUyT1RLQWVQZXFBd1k2bmJPT3BNREZnWU9GQV9xdDN2R19oeWdMOENtR0FQQ0pESDJ6aDZTbWMzRjc5WHFweERGdFluWnVRS1VSZTlDUjZfVHJwMVNLTTAzWENWY2xRRk5jMlI5cU0xQ1lJNzhKLXBWY3dyZ0MtZ3Y4VFZEVEZudFNSZmFJYnpDby01VEHSAeQBQVVfeXFMTlpmMFVqZmpjMXA4US1xeVUwNGVhak9nX0E0TmZNbXpRbmRqQ2o0aERLc0N2VkNBZ1gyVEYydFFIb3d3R1UzbXl5MUhhTnp3eGEtZUpxcncyMUhtQUItQm9RVVdhZU9KSENnWHRIUk5tZWthSVMycmZkMGZ3OVV2cVhjZTZSYkkzVHJGUWtrWWNTX3p2Ump6bjR5RVV4aVlIOWhyZjZaLWNyczVVVW5QbEtxVHpVODdOelpGU1NPTGdsT19vX2lmSy1tX0ZYZFg2UlotY3hhSTNGRkVvSmQwSDE3WGhC?oc=5",
-            "source": "Hindu BusinessLine"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Union Bank of India Q2 Results: PSU lender shares jump 5% after slippages decline, NPAs improve",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN2tUcUY5YS10blhmSk5qZGVzZDl3dHVTc1Y5RDZwdGMtZGt2dUZJVTNrRGt0RUlpMUptU3JZWTltcmVLS3o1Vm1fUFpfS1NjakVJcmF0RXRYMTljOU5JMXNleWJUbl9CcWdkdlJSZEJYZ0FqT1ZVUGdkUktCUnhQMDlJWVUxQWxIWUJrUXUwNFV6NWJrUHJsNllTeFI3RUNBU1ROZFpybHUwRDc5Q2kyTFhLaHdZamlqdmNkSmM0YWM3U25CRmlZRjhveDdSd9IB0wFBVV95cUxQSWtHc0liRDB3bi1HZW5ZSjFIQWVzSko3QzFRb0EwTEZhWElqTzJ2dGVPMy1NMnVOSmRGVWZaZE1OakJVWHNkMEMxd29BTUZSenBGNlVNSVhMSzd5RmZmU1VfZEc1OVpiQUJkaHRzNDRGaU4wNmY3YUpDSUZOcGU0S1p4cmZjTXJERUtaQUtaNDM2N2xSMVRfUGttc0JtdVBVVFhJd1JDMVloS3I1b1p2b1VpTEtVbU9oaGh4NjQtUEkteXQzMEhuSDlDYVdDNk5aLWxn?oc=5",
-            "source": "CNBC TV18"
+            "detail": "Why L&T Technology shares jumped 11% to hit the Rs 4,000 level afterQ2 results",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ3ZzaC1pYV90aGFsTmc3bmRCMDFmM1hoT3JLM2lVTU9vR0ZZeW0tQnl0TmlDaXFtYXdBLVV3Ung0MDJ5TU5tVDc4Unl3bUF4b2hpaUJGMlBTU3BkYWp2MDFWUUVWRmJEV1UyTFZrSnVSRFdmSTRPZ09kRy1jV2Y3ckNOd05Ec0dORXFpc0g4N2lBY1NsalMwekNQYUZoX1pmU1FLYVM1a0N3T2JQNjEwRlp3OVJkbUpqQXJHNkRuV1Y5ZUp0M2t5LTNXY2hxRVk1dWtSSE1JU1k3aVFwRkJsZVB6ONIB6AFBVV95cUxPYm4xWWgwTUNUaGpUbVVTSzFtWkJrOGdBU1FKTnhXUVVZcFRrbjFYMVZabHg0RVY1RHI2aEd1SDNaOC1pVDhpRi1wM1VkRnVUNUpLLUl4WjEzalZvU0ZDV0VITjVSTVZZdE8tX1FfS1dTOENFUXhlNTk4elB4VmxYV3ZBWjlLQnBhSVU0bGU0ZzMzZTRnRVVzdTRVWmZIcjNuYzVxdzBmcHVjX1B1ak5BRERTc1lqNWVZbWliU0V3V0VJY3pEZzhpbkY5OHVRZUJUUFpFNVdnWVdjZGgwbXVyaUxKS203T2dp?oc=5",
+            "source": "Economic Times"
           }
         ]
       }
     },
     {
-      "symbol": "PNB",
+      "symbol": "IPCALAB",
       "series": "EQ",
       "direction": "UP",
-      "pct_change": 4.82,
-      "close": 121.9,
-      "prev_close": 116.3,
-      "delivery_percent": 28.09,
-      "raw_pct_change": 4.82,
+      "pct_change": 5.75,
+      "close": 1918.9,
+      "prev_close": 1814.5,
+      "delivery_percent": 39.23,
+      "raw_pct_change": 5.75,
       "corporate_action": null,
       "why": {
-        "headline": "Results, reported by Business Standard",
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "HEXT",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 5.28,
+      "close": 604.6,
+      "prev_close": 574.3,
+      "delivery_percent": 13.84,
+      "raw_pct_change": 5.28,
+      "corporate_action": null,
+      "why": {
+        "headline": "Capital Action, reported by Financial Express",
         "confidence": "high",
         "evidence": [
           {
             "tier": "filing",
-            "kind": "results",
-            "detail": "Punjab National Bank has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/pnb2_16102026162335_Intimation_Outcome_Board_Meeting_16102026_DS.pdf",
-            "source": "16 Oct 16:24"
+            "kind": "capital action",
+            "detail": "Hexaware Technologies Limited has informed the Exchange about 2nd Interim Dividend",
+            "url": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_20102026210834_2nd_Intimation_-_dividend.pdf",
+            "source": "20 Oct 21:08"
           },
           {
             "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Punjab National Bank has informed the Exchange about Link of Recording",
-            "url": "https://nsearchives.nseindia.com/corporate/pnb2_16102026221919_Intimation_Audio_Video_Recording_16102026_DS.pdf",
-            "source": "16 Oct 22:25"
-          },
-          {
-            "tier": "filing",
-            "kind": "other disclosure",
-            "detail": "Punjab National Bank has informed the Exchange regarding a press release dated October 16, 2026, titled \"Press Release\".",
-            "url": "https://nsearchives.nseindia.com/corporate/pnb2_16102026163153_Intimation_Press_Release_16102026_DS_.pdf",
-            "source": "16 Oct 16:32"
+            "kind": "capital action",
+            "detail": "Hexaware Technologies Limited has informed the Exchange that Record date for the purpose of Dividend is 26-Oct-2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/HEXAWARETECH_20102026211219_2nd_Intimation_-_dividend.pdf",
+            "source": "20 Oct 21:12"
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "Punjab National Bank Q2 results: Net profit rises 13% to \u20b95,532 crore",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUTNLbmJ4dWtfd0taUDlXdkc2Q0Z4dm0yMEpyWHpUZjNoeXNzSzdGclZyS1ZTVHAzM1hyWW4zd1pjVk9CemowaFFubXVNc2Z3LTFCQUluN2F6N0pjTEdON1hzS21HLWRHRVNQa2JRMWF5cWYxd0VLTHp3NUx6eEQ4Wl8yOVp5WEdWWk4yamZLaDZ3cmhoU3BCX0Y1Nkx6blBqb24tV3ZEcEg5d1NxOTdkOGpUREZMQVhHWmJqQ09yTnVvX0w4czVkVjJRbjFrNWlZMW5j0gHYAUFVX3lxTFBZQk9Od05ORjN6R1J5Rng5dVZjS3l4Si03SHhHRk5RN24xeHR5dTNMYkx3dVRocFBaRjM3LW5pWVRtV3BPbnk2WE8yMGJRcGk3SmUxbmRJSXFjWTc4LUkxQzBnTTYtV0x5Sld0WlJITEYwc3JfWXhkcUJYenV4ZExhZ0hNOXhDS2thNnZUS0FWUVZnbExuS2NLMEdYSEdmZ3Q0b21xNldHLW5pbHoyVFVORHBXSWlsbjdRcmlYZnZzMTZ5cUx2MDBzeU5WQnBlUHFvN2RzanhpNw?oc=5",
-            "source": "Business Standard"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Punjab National Bank eyes Rs 6,000 crore quarterly profit after record September earnings",
-            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQY2FjQnpzSHlFT0lqdEs5a1ROTkREQlRzWXIxaUxXMTRQX2VxOWRrQlVmMEtfUU5yQlIxWmdxRnFrYmRfUkI0ZnkzbFdiMGthbEJYdW1ZcmVyYWZkRGlmaVdBYkVMUlpmMEtwWHFTWHQxbEVwRlhFWno3UTBHWEI3YzZwaXN1TkZwS3Q5czg4WUIyNnpTbjZLRFRNck5EMEtFal9ITG92Mjh1R2NhdmhJa3RVVnJsOW0yT1lDaUU2OHZJV29xa3lEeGQzTlMtVEwxWnVNT2Q0QTgwcmhXWU82YXNWQnJ6dUQ3d3BfTlhYd3ZyRjVwenpLZk9sZHRvN3Rfb1hnazJB0gGLAkFVX3lxTFBwNEhLWlpzTmxVdVN2UThkNklvN2tjMG9RUVVOOGFQNDlMSkFXTUhJQlJQWHAtMWJRUklLWFFQVG1xMGptQlhaMndHZi1YNWgzMkotNzE5bFNqM0p3MTlwWG1LM3F4aVlYYmV6RWVxS3VpcEp0MjdlS0FPWlhxX0VwZnl0cndmYjFmU1dZRW9tdFlRYkdveXdNMWtSc1Fvb3JzLVhWZkNiQmNCUVNyYXVPV2p3Y1JHTko3a1F1N3FWUV9wS0hjSFpjU0tNbkJ5d3ZUU0tKUVg5eUZ4eUZlV2lJakIwM3BQS1FuUHFoLTdzUTNDdE9JUzM1ZFdXb2pTMEUtNTV4SFotc3BtTQ?oc=5",
-            "source": "Economic Times"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Punjab National Bank Expects RBI Rate Hike to Boost Net Interest Margin by 7 Basis Points",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcVI4S2NNWnNobUYwY1o4ZlVSOFRnRFpxTjJhUVVfTmpCTmRtRzhrS1V0UkItYzMyR0NJMzd5RTBOMXpwUUpEcXNwa1FONUlrQ2VtMHc0LW1tbWE1LWpPMnhZQkZha0RqdGhRcUpPZGJ2VzB6STlpazFMdXNnNW1EbkNHWTJQWUZFSkZJZzNXOGtLcjA3enFERWhjdnpoNXdZWGM2LWpzODd3REt6YThPQS1welpSblg3N3ZnOWUtQko3VDhQM2RZLXJGOFZFb1JwQmk1ZFo1dDI4aXJLVDNMNk9JUnRTTENFRG5uZGM1SkNUclR6dTVka1Vrb25MQ09ZU3J5QTRDQVZlSEZqT3fSAY4CQVVfeXFMTXFSOEtjTVpzaG1GMGNaOGZVUjhUZ0RacU4yYVFVX05qQk5kbUc4a0tVdFJCLWMzMkdDSTM3eUUwTjF6cFFKRHFzcGtRTjVJa0NlbTB3NC1tbW1hNS1qTzJ4WUJGYWtEanRoUXFKT2Ridlcwekk5aWsxTHVzZzVtRG5DR1kyUFlGRUpGSWczVzhrS3IwN3pxREVoY3Z6aDV3WVhjNi1qczg3d0RLemE4T0EtcHpaUm5YNzd2ZzllLUJKN1Q4UDNkWS1yRjhWRW9ScEJpNWRaNXQyOGlyS1QzTDZPSVJ0U0xDRURubmRjNUpDVHJUenU1ZGtVa29uTENPWVNyeUE0Q0FWZUhGak93?oc=5",
-            "source": "CNBC TV18"
+            "kind": "capital action",
+            "detail": "Dividend alert: Hexaware declares second interim payout of Rs 9.50- Check record date",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWJRQ1BiZGNwS2hVMVI2UTEyYUNUSy1KNjFrdlA0aHJPcVZlWVY2cTFWV2dheW1JU1RxWTgwdjlhdG1FWDJ6aGhiTlR5YXEwMTEyckVBaFlkX3dEckNUcE0wc3pQd3pPelBkaHBwelpYd0o0bzVUYkFLZUdGb25oNjNKa3FlaWlucV83SHJfVXVRakNhSXdPNVZ1aHZzLXlmRlc0VzlheURRWGFTRDZjcUFuVEdZZVhoU09ReGtXZ0JGZ2NGeWxuNkhHUG80VnVTd1BnSWx2ZFVGMUnSAeIBQVVfeXFMTzJTek5qdWRFQmRXd3c5Ri1UYjR3OXVMcS1oTGM0UVhoN3Q2Wk5WWnJnMjQxUXFpcjlpNGJkbDdTTlo3YUxSUEl5cHJuLUhmTFpZSGgtZ196Rldwelc2dVc4MGRzYzJtcWhRRVFmR3dfUlhtaktFcjJDR09HaXhjUkc5R1NheHRvcUhCYUpxNUVYdHV3dVoySjl5aHJIRElydWxzOHRVSzkzNXl4d1FaNFBQVF9XT19Vb3pTX3Q5cTlCLXpaQWt4MF9hdnFfZE5zS3lWY0dPWkszdE1uTXBTaXlGZw?oc=5",
+            "source": "Financial Express"
           }
         ]
       }
     },
     {
-      "symbol": "KARURVYSYA",
+      "symbol": "JUSTDIAL",
       "series": "EQ",
       "direction": "UP",
-      "pct_change": 4.05,
-      "close": 370.05,
-      "prev_close": 355.65,
-      "delivery_percent": 25.4,
-      "raw_pct_change": 4.05,
+      "pct_change": 4.85,
+      "close": 767.25,
+      "prev_close": 731.75,
+      "delivery_percent": 8.52,
+      "raw_pct_change": 4.85,
       "corporate_action": null,
       "why": {
-        "headline": "Investor Meeting, reported by Economic Times",
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TRANSRAILL",
+      "series": "EQ",
+      "direction": "UP",
+      "pct_change": 4.0,
+      "close": 468.8,
+      "prev_close": 450.75,
+      "delivery_percent": 7.01,
+      "raw_pct_change": 4.0,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake, reported by Moneycontrol",
         "confidence": "high",
         "evidence": [
           {
             "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Karur Vysya Bank Limited has informed the Exchange about Transcript",
-            "url": "https://nsearchives.nseindia.com/corporate/KARURVYSYA_17102026184752_Intimation_DSC.pdf",
-            "source": "17 Oct 18:48"
+            "kind": "other disclosure",
+            "detail": "Transrail Lighting Limited has informed the Exchange regarding a press release dated October 20, 2026, titled \"Submission of Press Release for Order Wins\".",
+            "url": "https://nsearchives.nseindia.com/corporate/TRANSRAIL_21102026082603_TLLPressrelease21102026.pdf",
+            "source": "21 Oct 08:26"
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "Karur Vysya Bank raises FY27 margin outlook, but funding costs remain a risk",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOejlFb2RYZGtIc2tEeFBPT1h2RlFLeEZDMmQwcDdybEItNFlHaGRTenVLYTVIWm9uNmtPZmp4dU5JUS0wa19iT3lfVDRFUFdvZFZnRnFEMlhLQjNqVmRIRGtPWHR5d25CNUpsOXhnQ3UxRVVxZjdYUEowWGlSSEMzbjJuRTQ5SFJBT0xvR0F4UVg5ckNlbEZtU01xbUgzaXRTZDQ1UnplSm9HUjhta0FES28wb2s0YnZKZlRYVjNITzVicTVuRmdyZ2wxQVIxbFF6WmfSAdcBQVVfeXFMUGZnUXB5UC15clp5bFNoRENQZ1BSRmJyRC1UY0pLdUQyXzBoa3dCWlhVQjFscWs1UnN3R3hDaGNRNnNIY2YwTV84R05hTzU4MlRyemozcmlMbGtKemVyaDZMLVRfZHFWTlZnbmdIaEZFeS1DQ3ZlN1pZM1VaNndSbjBOSjVvNG9oMEhqV3Zfbmp6ZmlUcEVxb0tZQmJ4VHZ5YWcySTliamV1SDFKc1pVeWFLTDl3VWJnZW15QVFiSFlEV1loeG8zRmlVNXdJMVNxcnpST3VqM1U?oc=5",
-            "source": "Economic Times"
+            "kind": "M&A or stake",
+            "detail": "Transrail Lighting shares in focus on 49% equity acquisition in NOPL Pace Green Energy",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNkdIamo5bkRBbmVTdHA4ZTBGVm1BWFFwTDBoX1ZBblEwM3ZYV3BwS1dLanlpWG1XT0xWSm8yUnJzRldEWjZCTmc1dFB3S0lSVmdXZ1AyMGhsMno2M2g2UlhtOTJCeEJWYkszM0JEMWo0bnZST3o0Qm56T0tyN0dmbkNOSGRqU3NydUREejNUMm1HVmg3NnpVZ2NkTGJBU3hrT3VZWlRHVWotZGlLaGZaeFBHNkg5OG9hT0poTEN0Wkx5VEljeFUyUERCUVFRZGZiZFB5QjNncVo1RGEwbzJwb2dsMkzSAeoBQVVfeXFMTlpCbWNmQmtrYWRoRmc1a1Vrc25NVnczS2IwN2V3MXNERG1MODFSdElJZUN0QW52SDlPUC1BNkFFQ0dqbEx6cldkS21WUG43aTdHVFg4V2Nic08tN19jSWYxZjlWcEFEd1FvQm1tVmQ4RVJOOVRhSm9VN2NtSmhoS0s0UFJJU0hFejJWRDZkYXkxMnh3aFlTYVdCNjFnMTVCY2ctdzB0Nkp3Y2NGQzFkR1c2TGoyNElYTlh5eXhYM0YtWTA5NzVhZUFUS3pCR3hZOF9TdklLUHVnM3BEZENJVWNMOWZMLU85cTlB?oc=5",
+            "source": "Moneycontrol"
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "Karur Vysya Bank hits new lifetime high, up 8% in two days post Q2 results",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSlBqSU8wcmthaWc5UUlQR3NibzhFeHYzSTM1d0QtZ2Q5ajNzbE1UNmdIVzBhTXhRY1JXc0hGYmRqWXVnUDljTkIzdmR1LU1VNklEMEhDbll5UXhDVzVtLURvZkowaVJkeUxxLU9FQWZNNk5zRzdBVWdwSm5WTXVKcC1JTkVQbnh3T2t4Y19neWo5SmlGUm5jcHdyMlpTY1Nkci1xUmRRZVR2WEVJUXczTTZfNG5XM3VjZkREdlBnODNaaVR2el96Ujh2eFdKei1POWppM0RB0gHbAUFVX3lxTFBkN2szSDJETl9hQmVEbUNpM2J0OGMxMkNGTVVucVJ6ekh5dTItVmQ3WE9taGplMHB0TExmVHIyQlA0T0x0NFVpVU43YUhfVy1BeGVjN3I0ZThtdVdXT1FIOVQ4UzF3RFVQVzJ6eEV3YVJTc0NCeVNHSUY5MmxSSWNhN0owN08yRDBnOUJTaXd6M2tNM2ctSUhod3VlQWJDMm1VVlJTaDFOTHZzOVZOWTI5Q2gtdDNETXB2X28zR3dTeUY0dkt0eHZsdmZ2Q05TNHk2SFBNeGFMSU90MA?oc=5",
-            "source": "Business Standard"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Karur Vysya Bank shares jump 6% to hit a 52-week high after Q2 results - Should you buy? Rationale, target price",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdEdUeWdMZmxxRlBJUUtIM2ZUZFJuQWhmUVljNE1UNmtMMjk2VHdlRXgyNWwzakt2bmN5dDBrSFFVSkRwSUNJZGRVUlNjU3p6bS11bjFJUmRDZHVnSldjZkFtTVhMR1lhb0RCZnk2UVMwR0l3YldCZjNkUF9VZnZoeTFNemVKUnQwT2d0Z1B4czlGQU92V3JIT0dVSlBydm9HUFIyRTF6S3BhQ1dIYnVJTzZqVGN6VmdpN1dTQ3hNSnVxbEZuUENZSTRMYldtcE1WRkxKWldpTWhoSUNDdTFYWm5NcU1jWXBtaFBnQ1dRbUFKUGlQOXFwSXBUVkVvNk9wX1E3bkFVNTPSAY4CQVVfeXFMTjBzNk9FbzZOdmE3VUp4bjlKMnBtd2VzbDBZY2VTY0w4cFY5TzYtWTcyeGNmVEFhX1B3TTNrWmRGUkc1UVB5T0VyQXFYWEZDdjBldlhSbS1qeUo4c1dNTUFuUVRDT1NzdC1aM1VHc0FqOVpEemE3MVd4X0RZTTRsR0NmSUhVd3JmbWlzbUgyLWRocWEtbXlsM1MtbEJmbkxydVBXLW9TOXVQc2lYMnFNUUluejUwenRnenlwTFdzdjhoOVNVdGhpSkFmN1BwZWx3ZE1JZ282ZkZKdTdvRHB3VFM2VEFRaXRkSXpwZXdPV2NRZThWTUZHQmY4R3pCNTB3aTFJcGFzV2xrR0R1RHVR?oc=5",
+            "kind": "order win",
+            "detail": "Transrail Lighting shares skyrocket 10% | \u20b9927 cr order wins, 990 MW solar deal in focus - what investors should know",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcFhFUkpURlBxTktvb3NURFZLTzN2aW1YUzFRSTZYMHVCM1gxMVY0ZkZyUnBoOFB0MkdCV2cycy01SHpKaG5Tb0drOHNHWi1Pdm81ME9PdEV5VDB5dnpzaUg0OGNGbU9MOFJWY01yd1NvNU1ESkcwZzRJVTgtYkZEcXUzOGZUS3NTV0ZvYXlJOEJ6clVnc09TcGFQZ0pqOHZ0am5SNzVaSDZSN2MxNFExNzJCNEM4Z2NXcXpsd0lQc0U0dnQ2bHYwdjFFX3l2Z1JCR09KTVVsQ3dxanhlb25zOTY3dnR4RGhKZUJmU2hwcWhUTUp1c3lKbTZNM0h4TTRSN3ViT1RwY1Nza1pVbnfSAZMCQVVfeXFMTXdBdGV5S2tBT3dBcE5uXzJKYktqTnVOSVJYSWtxLURNUllnN3VUeU9sWlo1b1NjXzZ1VFQ4M1Z1SkZmNGJEbGpITkFuRWRXSF9KQ1U0NWNkVkJiTUpVaFk3Z3A2cVZEaThDSUlaSDYweGJjM0N5Qzh0TWZERWxfcEFRZ0VrZFNMcW9SNFRpbk9hZjhiR1hQTElxMnQtQy0yRUNXMUg2VTVkd0g0clRTR2RWeVVUSEQ1TXhmNjRUdHNLUUpwcGF2czE2ZFppZGo0Y3ZMVTRvWmNHVzBSazdCNHE2UXlfTl90QkxBeWI1TzZydHJkYzZ6eE5ab2FEaDlMVnlOSFJEN3dKR3Q5aUZZZTlTMUU?oc=5",
             "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Transrail Lighting to invest \u20b920 crore in solar power project, acquire 49% stake",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejMzVnhydjViUF9SdnNSNzBLdS01UXd6WU1KS2JWQWVnVjY5QkItOHdRWmZBX2lES200blEtSGx5clhScWRXYVJGRmtwX2ZRNWZ4UkpvMlNaZGc1RXVIano1MWNuX2JnazJCc1lDZ1lLY3MwNEZMS2ZCY2xMa2dyRFlvQmpjaEhkVjBKbjY5ODMtdGtEeEJ0NUZSRWdFelBQTHY4Z2lISlQ2UGZQcnBibmZxV3dQTHVtdm5yOFdWY1V2UdIBxwFBVV95cUxOeTZtRUJnQnZzVFdfMkVPMXFlRVh5VTNsLXE0YUJ5N1hIcUxIYW9vcmJPbTlFRXJuZi1OREtWc0dlWXNnNkNlbWZOSGkzc3ZGV2htTGozOWdrZXBJMndScDAwUmUwV0hTclpuaEpDdHpGUmRLM1JKX0s2QmxNbHZFaXVUUkZQRVUyVGN3WExRMFZXckFnUTBaRXlCMlY2Mnl2VjBsOHF2VElkeDR2MnZmV2tQb1hqZG96eXFrT0N5QWw0SDlUSk80?oc=5",
+            "source": "CNBC TV18"
           }
         ]
+      }
+    },
+    {
+      "symbol": "GRAVITA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.0,
+      "close": 1389.6,
+      "prev_close": 1447.5,
+      "delivery_percent": 51.28,
+      "raw_pct_change": -4.0,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "RATNAMANI",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.01,
+      "close": 2404.7,
+      "prev_close": 2505.1,
+      "delivery_percent": 36.06,
+      "raw_pct_change": -4.01,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "BHEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.01,
+      "close": 410.2,
+      "prev_close": 427.35,
+      "delivery_percent": 47.31,
+      "raw_pct_change": -4.01,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GOKEX",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.01,
+      "close": 684.95,
+      "prev_close": 713.6,
+      "delivery_percent": 46.24,
+      "raw_pct_change": -4.01,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "NETWORK18",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.03,
+      "close": 24.56,
+      "prev_close": 25.59,
+      "delivery_percent": 43.19,
+      "raw_pct_change": -4.03,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "V2RETAIL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.1,
+      "close": 167.64,
+      "prev_close": 174.8,
+      "delivery_percent": 39.91,
+      "raw_pct_change": -4.1,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "PRUDENT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.14,
+      "close": 2930.0,
+      "prev_close": 3056.4,
+      "delivery_percent": 79.44,
+      "raw_pct_change": -4.14,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "VIKRAMSOLR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.14,
+      "close": 135.0,
+      "prev_close": 140.83,
+      "delivery_percent": 38.35,
+      "raw_pct_change": -4.14,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "NTPCGREEN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.15,
+      "close": 84.04,
+      "prev_close": 87.68,
+      "delivery_percent": 56.23,
+      "raw_pct_change": -4.15,
+      "corporate_action": null,
+      "why": {
+        "headline": "Broker Action (Business Today)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Acme Solar, NTPC Green shares: Nomura initiates coverage, targets suggest up to 21% upside",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQLUp5bjdfVmJrQ3VjX0pWc21JdGlMbnQwOVNXV1FjVUI4dGs5aDdPQ0JvUXBDTTJtTEd2azFKdm5OUmhreXNxZFVCeENKTHBueUdVbGE0R0ozWUZnNmRQNFktRnBNRnhhbmVyZHNhNWhTWE14bFJHbjUxR0d6aFIxY3pCN3hHbEkxVkV2NnJ3MGZBVVVHOWtGb1hoM3hkQ2gxME1iVjFwYThBcWlCcFVPUUhFdUNJOG5Idl91ZXZBR2VqYjcwNnFDNHRxQTlQazBXX25kS3c2UlU0SzJjQVp0ZFFrclpxQUpDMmfSAe8BQVVfeXFMT2l0RVFNVlczNHZ3NE04MXR5c3o5YV9UTWhSenJjQVRYdW92VGh0eHJNazJ6dXozdmYtSnlock43Tl8wRnpXdnJEVFY2c3ViWjYzY1RIcUNrQ01lQVQ3X1lVdlNiLTNtbkEwcWk4VFZ5MmtfSmNfaXNGQ3g0U3o2MTVqSHBJdVdLTnVMWjR3dGpCeUJFSUNWZko4dmMyLUNwbkhOY195SU9YdUJTZzFKZ2NDUEdfXzRTOUVVMmZWZjg2UXpSYjcwRmtwQjNDZ2owTzBwYUl3bDRDUDExSms2ZTNUMFdFcERJYm02SmlwMUk?oc=5",
+            "source": "Business Today"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "NTPC Green share price October 21: third session of falls as Nomura initiates at Neutral",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVNkc2xwUUJjQnoteDZnbk02SXRYT3pCT09KdVZzbDAwdEdNaXdrSlBIQ3RmWHpLVWlzR0tBdTBmUExKaEg4dG1scXVoYXBJMUdrRVRDSkdEUG81bVBQRTlwTUJGbjlBSlh4cnloNXlFNTJoTzJfaktsUlJVM1JVcGN6bkQ5eEhocjZUR2hHekJCNm1BZUZ0NGZRdkR0NEZWN0RDaXEyczQ5X0xnN3Rrc0tCcVVxemZpZUE?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "OLAELEC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.18,
+      "close": 33.05,
+      "prev_close": 34.49,
+      "delivery_percent": 24.38,
+      "raw_pct_change": -4.18,
+      "corporate_action": null,
+      "why": {
+        "headline": "Fundraise Or Deal (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Ola Electric rights issue: Motilal Oswal entities apply for 2.39 crore shares",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS0h0aGhva3M0dU4xUlhCa3JDQVlURE5VeDZ1TS1ITFIwVHh6d0txdFVBb1JsRjhSVWRqTkRFYkJPN1BDOFVYdmpaSzBmcnZsdG9jNEs1ZTdLYWl4dWZ4bkF2Znp1a2syb0h6YlVHR3ZrNlJfYzNULUJialg2R3J3T1JHeFg5RVlSVFNSRXIwZDRoRjdFZmdzajdWNDQtYndDNVRwN1BfY25OaGMtY2ZkcHcySkhCUDJOM283YzRiaS1aeGZVaTU4aTBXMjhFSEtnd09RTGxBTGthODBPNVFN?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Ola Electric Mobility confirms rights issue applications totalling 23,855,476 entitlements",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVRDTUR2RVhHRTNWaTV0aW5zOEc4X0RoY1JTMDluamFOcGdpX3Z5M0VBVktVUkotbk5WNllJY2Y2eUNWVG1YZ1lROXJjM2NkaU9IYWtPWnNEOTkxak5WZU8wNnczREVfcGlQS01mNTlBTEQ1SDNBaWRsSEZrT3RMMXlweDR6dVVkcTZLdGVBS0FFazJhNlhSbGlHN3V0UzlOUGpZejF4U1lkMDlrNld6ajl0RlBpX1dIa2F4T01oQ3lPOF9QcGc?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ASHAPURMIN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.18,
+      "close": 436.65,
+      "prev_close": 455.7,
+      "delivery_percent": 53.42,
+      "raw_pct_change": -4.18,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TITAGARH",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.22,
+      "close": 709.55,
+      "prev_close": 740.85,
+      "delivery_percent": 39.95,
+      "raw_pct_change": -4.22,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "REFEX",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.23,
+      "close": 239.15,
+      "prev_close": 249.7,
+      "delivery_percent": 46.07,
+      "raw_pct_change": -4.23,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win, reported by Business Upturn",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "order win",
+            "detail": "Refex Industries Limited bags a slab wise rate contract for ash transportation from one of the Maharatna Companies under the Ministry of Power",
+            "url": "https://nsearchives.nseindia.com/corporate/REFEX2002_21102026150504_RIL_order_Ash_211026.pdf",
+            "source": "21 Oct 15:05"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Refex Industries secures Rs. 31,44,50,000 contract for ash transportation",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRENTVUE0TnQ1d0U0cUc1bEt0ZGZGb01hLVpnemlPQUtSMWR6X2V5NFpwb3RwZ21abmt3VWVveFJmMEhDV1BORlBYU0g3eVd2WElxZUt3eFFvMlRmMWYzSks2TThZNnhTbXlXa3EtdndSbVBVS0k1cUVIbDl2UlJidHB1RUdkNTZmN0g5UU01blc3dHVZRVRjNjBtbmRkU0taNmRMd2FqRlVfekZMTFE?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "RTNPOWER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.26,
+      "close": 6.07,
+      "prev_close": 6.34,
+      "delivery_percent": 57.12,
+      "raw_pct_change": -4.26,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GNFC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.27,
+      "close": 522.9,
+      "prev_close": 546.25,
+      "delivery_percent": 50.4,
+      "raw_pct_change": -4.27,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "JUBLINGREA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.29,
+      "close": 596.95,
+      "prev_close": 623.7,
+      "delivery_percent": 48.78,
+      "raw_pct_change": -4.29,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GODREJIND",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.29,
+      "close": 976.2,
+      "prev_close": 1020.0,
+      "delivery_percent": 42.37,
+      "raw_pct_change": -4.29,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "UJJIVANSFB",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.35,
+      "close": 60.45,
+      "prev_close": 63.2,
+      "delivery_percent": 47.01,
+      "raw_pct_change": -4.35,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Business Upturn)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Ujjivan Small Finance Bank brokerage view: HSBC Buy, target \u20b990 after Q2 FY27",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWUYzQU5ZLU9tckpGSjJpSzZaQ2dHS0JLZmdlM054MGVJUHFSN3BEcmNZYUxZSU16R0VpWXhOVmFhZjNPQlFFOGNhdnk1SzdlT2NPT1JTZnV5VFl0UG9LVm4tS2FPenE5WE1mWmFacVRyS1QwQm1ydzhQcGlsRUNHNWxGRUFLdUpfRUwwRlBCTmQ2b1JMWjlDeThaVk9tSGN0TVNRYjcwWENyUXp6T19rM19ZNVFpcER6WFpKQlZtM0QySGpTZFJjS3NYQlVmbngyMV83Wm9ManNTR3UwRGo4?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "IONEXCHANG",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.43,
+      "close": 351.6,
+      "prev_close": 367.9,
+      "delivery_percent": 52.69,
+      "raw_pct_change": -4.43,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "PFOCUS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.46,
+      "close": 275.5,
+      "prev_close": 288.35,
+      "delivery_percent": 8.78,
+      "raw_pct_change": -4.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "RBLBANK",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.51,
+      "close": 358.8,
+      "prev_close": 375.75,
+      "delivery_percent": 45.4,
+      "raw_pct_change": -4.51,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "IIFL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.54,
+      "close": 584.7,
+      "prev_close": 612.5,
+      "delivery_percent": 53.28,
+      "raw_pct_change": -4.54,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "IIFL Finance plans to raise \u20b92,500-5,000 crore by selling stake amid Fairfax exit rumors",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVlNZU3NmQ1Q3Tk9IWk9OX2IxSkh4c0Z3aFVxaEJZUkpMbFhWUmFSb25ZY0JTQkVLWThxLXRvb2JSVzZTeWxrOElPVVA4dVFmOGRHc0plamtCcmpHc3A3U3AtazYyZ0s3MTd5NXFPZkhEbGhzd2ZsOG9YeHlrdlQxajQxUUxuMDJFZi1KcnFfU1kyanpCRzFHbThoeU80ekRIQVdtTlVHZWtmdUVnTFNUa3ljQTZDVXFlYXpGVG91cmhyNG1GYmpUWTh6dEdCdnJXRXgwYXJiUE1tTjZhUmI0djhTdzlHZTRxcHhxZjNMVXZuYlhRYzJ6WmUyeVFyd9IBgwJBVV95cUxQdmtsRnhiTllzcFpzSTFxV0I5NUV2dGxZTW1hYzhIOUxBdmRlSWZDQWVzOG5pZlRZZGFhSzV0TlNESWpUcFBLdGxmNGNqbE9zWE1XNW9mdTlYN0tOY2NmUlpWcVpyN2JZSkNFQ1oxQnNUdlpNb24xSkhIUXdPVnlCb2xBQWQwRVA4MThGMTVUY184bkhXaXFNelJxblBJazR2Q0R5dF9vTmxWMjJmN0R5Y2h6NVljN1VJSk9LTkM1V0hlZTItQW5VU1Uwb0xNRXM1VHl3STZCMjFYd19GTmxMRHF1NVN3Q0tnUUlmVzJtUHljU0dZbU1KNzM0YzRtb21mVFpz?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ZYDUSWELL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.54,
+      "close": 492.0,
+      "prev_close": 515.4,
+      "delivery_percent": 42.65,
+      "raw_pct_change": -4.54,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "WEBELSOLAR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.55,
+      "close": 62.36,
+      "prev_close": 65.33,
+      "delivery_percent": 57.74,
+      "raw_pct_change": -4.55,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GABRIEL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.56,
+      "close": 1418.4,
+      "prev_close": 1486.1,
+      "delivery_percent": 29.95,
+      "raw_pct_change": -4.56,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "HINDCOPPER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.59,
+      "close": 420.85,
+      "prev_close": 441.1,
+      "delivery_percent": 43.51,
+      "raw_pct_change": -4.59,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (NDTV Profit)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Buy, Sell Or Hold: HDFC Bank, Laurus Labs, BEL, Havells India, Cummins India And Hindustan Copper \u2014 Ask Profit",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLXJQUGdGTzhvVzI2WkJsMkpLWnJkbGstYlpLXzNXYVgzVUVQYTZJSmlwMjYzVDc5eWNhYXA4RHRzZmItNnZjUHJyLV9ZdUFrNXctY1psdzUxX1Y5b25lbWlPcndLQ3NuN2xPVGc1MENzOXI4NDNhQlMzQWw4RGdWckJEQmZMOGlEVTI5V1lEek9DaEpYcTdONlhkM2RPMVdHM2dBdlpYaWJrb2xYS0lfYk01Q21DRTRzemdRdEhEbVZybUlLU0NrdzZoUFBGeXd0d1NENzExd2FHZGpwRzZWbXpGUGhNWUnSAecBQVVfeXFMTi1yUFBnRk84b1cyNlpCbDJKS1pyZGxrLWJaS18zV2FYM1VFUGE2SUppcDI2M1Q3OXljYWFwOER0c2ZiLTZ2Y1Byci1fWXVBazV3LWNabHc1MV9WOW9uZW1pT3J3S0NzbjdsT1RnNTBDczlyODQzYUJTM0FsOERnVnJCREJmTDhpRFUyOVdZRHpPQ2hKWHE3TjZYZDNkTzFXRzNnQXZaWGlia29sWEtJX2JNNUNtQ0U0c3pnUXRIRG1Wcm1JS1NDa3c2aFBQRnl3dHdTRDcxMXdhR2RqcEc2Vm16RlBoTVlJ?oc=5",
+            "source": "NDTV Profit"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "RTNINDIA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.67,
+      "close": 23.7,
+      "prev_close": 24.86,
+      "delivery_percent": 50.93,
+      "raw_pct_change": -4.67,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "GSFC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.68,
+      "close": 141.08,
+      "prev_close": 148.0,
+      "delivery_percent": 55.69,
+      "raw_pct_change": -4.68,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "VMM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.7,
+      "close": 90.0,
+      "prev_close": 94.44,
+      "delivery_percent": 37.17,
+      "raw_pct_change": -4.7,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results, reported by Moneycontrol",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "results",
+            "detail": "Vishal Mega Mart Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/VMMP2024_21102026125928_Final_Outcome_BM_Oct_21_2026.pdf",
+            "source": "21 Oct 13:03"
+          },
+          {
+            "tier": "filing",
+            "kind": "results",
+            "detail": "Vishal Mega Mart Limited has informed the Exchange regarding a press release dated October 21, 2026, titled \"Consolidated Financial Results Q2FY27 and H1FY27\".",
+            "url": "https://nsearchives.nseindia.com/corporate/VMMP2024_21102026130523_Disclosure_Press_Release_VMM_Oct_2021.pdf",
+            "source": "21 Oct 13:06"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Vishal Mega Mart reports Q2 results below estimates; shares fall 6%",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0MzdmJSSnVZMDFqYnFzRUtwb2pnbFVTdWp5M25sdl9qcnF2Q3hmcnA4ekFQakRlUG9yODRBcU5GbXc0QWVOY3JuSkd3aEFzNUlvZ2xiZnk1MldmOUQwLTJ3azA5dFFiMkVqZy1UVlZkNXZOQVJiODBsMzNNeDA4QjhvS3BlVmdoTTM0SUlNMDZoYzVFLWh6R0JIcGd5anBSR1FRT3JVWmd3dmJXcW92TXg0Uk8tZkVtZ2RJbDZJOFQ4OGxRTHZMbFhB0gHPAUFVX3lxTE1LN29MTl85bVRBLURzdVplenByLVNQNnlmSHBlR3lsSmNTbng2NlVlSzF4Nmd0dzIyeUFqWTFaQzRoUU1wbHpSbmFjMFRFWDcySzE5MG5pWE5FVVl4ZHZFNGhmTEtBZ3RvVEQ0ZDh0b1NWY2IzcktLU1pjcF93VFRvNlJKbmhEX2hhSkdJdmNKM0tKeVl1NEhjRHp1eEZXVkZNaTZaLXRtSjlwVUpyWGVReW1sT3NNYVczSjZpci1iWGFMQTZiYzE3R0M2RXVGZw?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Vishal Mega Mart Q2 Results: Stock sees sharp 7% fall after margin pressure",
+            "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZW5vVFMtYUo1SHpZUm1tOVFrbEttV1Vhd3VEeHJ0UjZTUTVNNlJIR21USTVfYjUyVm5hM29wNHhTNWhMTDZPZ2pqUjBOZlV6cXBXQ3lVNkFZbU8xTm5SanNOU0hDUnlUdGM4ZDN5OVQta1psOHJMY21QX09lSkd5OVhQc0dHeWpZVHJwZkpVaFc2cVR6UGVCajY3cDgzU1lqaDRhaDZrUGtpOWduMDlZdVExcEN5MGhtSDZqVTRwZnUwMXpmY0J6c2RHaWlJQ3VZeHNSWnc5dlVyalJrUENydnpoNW9MRGQza1HSAe8BQVVfeXFMTXZqY1BrMTM1V2k1OUgxUlF5WHdTbnVvaXp1Q0xHdWZWTGdFRElZSDh0R1Z3QWxRZUVFcGl0TDlZQ2lJWGh5bHFvUmRSNEE1dmdud2l3dGJjSGNUa0k1eFdQamd0RUdaUnFVX19jSnNSbWk4TkF1Yy1QYXBwZENsalF4aFJTWFBSbzhNZ1Q1OGxRQzZRbTlGV1VvaDRrTUFrVU9WRkVqU1IyZGtjOVBTX0pDbE91NWlsZ05QUk9tczdmQUNWRk15SWsxbDNBXzVFMEhtNzhCeFd1bmNfR2NtSEVlOW9IZ1NQbXFzWkhucjg?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Vishal Mega Mart falls 6% as festive shift weighs on margins, SSSG in Q2",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeUhrQzJ6cFlLLTdWMG1Ia3pkTF83Ql92V1k1cjlRRWd1djUyS3Y4T1JYMUhPWTFMYlp3b0JVRWhTYXlGeTJ3RUZ3c0xmekVodUZKejJyTTlsT0FZalJodEZ5Vk02RkF3NkdUVVZxMUstcl9pNURpbzlQejl5WVJ2bDZzX284M3FiM2J5dkxDRldqLWNQTU5xQVBoSG1lVVV5OUpWVzVUZG5PRGhfYnV3Z3ZMR3N5TFFOM0ZrT2NyM3B1RGMxTWtXQmtTWF9OWE1DTDZF0gHYAUFVX3lxTE9ocVVKaWNVcm9pYVU4eWlvaWFCR3FjQmlPdndrMXk4b2MzYkliSUpUakRGMUs4LVc4VXQ5Y25MUWhGT1FzNHgyS1A3MVB0bUFFcHVGU0tjbXp5Q3JZLWRqbGN0aWQzTVhhVmtmNjl0LXExWTJkUEZWVlFZczlJNk9lYmFFV1NIbmpsSjNfQk0wdWoyM3dFQ000bmo5M29SUXRaWVJ3UVRQeDRPWWRXZTY2bEMtcDFxV19MUVROMFBUMDRUNDFDYkI2VG5NZTZvT2FrdFkzc3U0bg?oc=5",
+            "source": "Business Standard"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "WABAG",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.74,
+      "close": 1784.4,
+      "prev_close": 1873.2,
+      "delivery_percent": 54.14,
+      "raw_pct_change": -4.74,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "KEI",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.76,
+      "close": 4230.4,
+      "prev_close": 4442.0,
+      "delivery_percent": 44.0,
+      "raw_pct_change": -4.76,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "KEI Industries Q2 Results: Profit up 29%; EBITDA misses estimates",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1FYX3kwaHVwUUpJcVJZR01QRHZVQUZSZjF4VldBM294VG9PaWUwblk1YW5uclBLeVZTdnBwRmVfQWpVZFdwRndXOV9aM2tIY2pQbFppdjVFN1pzS1EzVi1fQkNPSkRudDl4bTdkbXBUaVFwY25NTFFDRlZGWng1WjJxaW9xUDRTSkwtTTFlUVdJVE4wWkludVZhcFlwLTNOUXFDdkYxeXZTZUI0d09EVFFIUkJzNy1YU0RB0gHAAUFVX3lxTE8wX2p0WTVBQjNsVG42UmZXQjd2eXdra05sM1F0UjJjb2xVQXhXYnRZRlZNaU4yRGlDN294MUxEZ3ZrR29PeGtIdDlPZXpGRmJWOEtyRXBwWjFzb0JzaG5sWGRPT1AyOFpUb3NGQkVXa0kxbWFObG84Yk1Uby0zYTBwZE1PVVNzNFIxcThvVU1QckZYenZsNS1HMzhIb1ZTdHVXUGt3b296RVdNLVJhTHM4bXA0dkY4VE5pQWh1eFJVaw?oc=5",
+            "source": "CNBC TV18"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "KEI Industries shares tumble 8% despite Q2 profit rising 29%, revenue up 39%",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSTZ6ZFdjSTNRVENQMkhBdmVTQzZ2T2FDRVlkOHRVZHRqdmlxbGV2bjlaTDd5b2JuSmVPcTBhc1YyUmM3SDZJZlNuRE45NXgtVUp1NUQwWWpxbmdRYW9VRjVqX0hPbFNvZFRIVUhxbkpEUkwzYVc2cHczeWpkRmhTRm55QjN3YjhXTERlRGo2YkR2Z0pVUllnamFES3ZYb3BsWkE0U0xtSjFLbF9aejRxOHpKRFF0QXYwMllYU3BleFZxaGVHbmp6MkVWaXZOQTNsb1FSOWtUUHQtRm0wMS1B0gHkAUFVX3lxTE1fa01ldlprTmtUN0JOU1BTV1VmVzI1Z25sWENjWVpsdHlUZnVFM3pNd1ZWdkl5c0dlX2ZwLUFvQVpvUGdoSEM0RzdiSkc5cU9fNlQ5OWx0a1FSUFZrMnI5dEFaQ2w3ZmNLY3RkWnYzRF9MX3N0N000Z2U5Y2NXTW1aS24zMmRDekxJR3FmTlpOWW9wMVNta1pSSDNIelE1Y2xiVk8tVHdjV1doMXFuTzl5U1Q0aHl1N2FZX2FEZGJVcENNdHVRLWl5bThWN1BfMjNIUUZURWpiLWM2OHB4U3NOWWpjSA?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "KEI Industries expects export growth, order book hits record \u20b91,000 crore",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTU5nQjVsOUx5TFRVbXNPUUM1cVNxTmpmVWlVVTI1eDRfUUhUVzl5ZWNmeldPVUtrbHNKWkJhV2FKYV82aEdZcjBFTEZyWmpITmRjZlNkYU5JVnlkSktpZmt6RGFQaGpWUHQ4a2dWMVFJY2NYUER0b25SRHcxaENUN2xGaUM4N3FybzdJRzBhVHNIUWF1VnRUMU5JYXRiSWZwaXcycFZIaXhiaHk1LVVDSWhrZmF4VFdDbl9uZWRLWXBCRjY2OHVpZlVRWTQwSEE2Q0VCaE5wbWh5d9IB2gFBVV95cUxQTU5nQjVsOUx5TFRVbXNPUUM1cVNxTmpmVWlVVTI1eDRfUUhUVzl5ZWNmeldPVUtrbHNKWkJhV2FKYV82aEdZcjBFTEZyWmpITmRjZlNkYU5JVnlkSktpZmt6RGFQaGpWUHQ4a2dWMVFJY2NYUER0b25SRHcxaENUN2xGaUM4N3FybzdJRzBhVHNIUWF1VnRUMU5JYXRiSWZwaXcycFZIaXhiaHk1LVVDSWhrZmF4VFdDbl9uZWRLWXBCRjY2OHVpZlVRWTQwSEE2Q0VCaE5wbWh5dw?oc=5",
+            "source": "CNBC TV18"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "DEEPAKFERT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.77,
+      "close": 1195.8,
+      "prev_close": 1255.7,
+      "delivery_percent": 42.91,
+      "raw_pct_change": -4.77,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "KPIGREEN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.78,
+      "close": 299.8,
+      "prev_close": 314.85,
+      "delivery_percent": 45.29,
+      "raw_pct_change": -4.78,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "PGIL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.78,
+      "close": 1216.6,
+      "prev_close": 1277.7,
+      "delivery_percent": 49.44,
+      "raw_pct_change": -4.78,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SYRMA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.81,
+      "close": 1473.1,
+      "prev_close": 1547.6,
+      "delivery_percent": 48.08,
+      "raw_pct_change": -4.81,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "ACI",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.82,
+      "close": 456.65,
+      "prev_close": 479.75,
+      "delivery_percent": 44.69,
+      "raw_pct_change": -4.82,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "COCHINSHIP",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.84,
+      "close": 1167.1,
+      "prev_close": 1226.5,
+      "delivery_percent": 52.87,
+      "raw_pct_change": -4.84,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SWSOLAR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.85,
+      "close": 152.44,
+      "prev_close": 160.21,
+      "delivery_percent": 44.92,
+      "raw_pct_change": -4.85,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Business Upturn)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Sterling and Wilson Renewable Energy settles tax demand with Kenya Revenue Authority for INR 2.66 crore",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUFp6Y2pJNFh4czJfcW1xUWZsZzBsTnRDbVUtRGJJNHJSY1Y5eTcwdmEyZ2RYOEVpYWNkdE5NekNwVk5UZXBBRVVzSHhwQVROQ2t5NnMwZVcwbC1FXy1fdDRCY3lQVVFneDZsV0J0dVB6Z3N6RFRVZmJDZXhLZTNzWDBWTGhoUTBsWnBwRkxqQU9GMHV1YVF6TXJZQnJ6WkJLTHRwbFpqYXpyaDc2SlhjaldMWlhRZFRCcXlfMkFIVU01UG90bk1hQTA3V0x6bzV6RTY0MzlLcw?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "NEOGEN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.91,
+      "close": 2359.9,
+      "prev_close": 2481.8,
+      "delivery_percent": 51.94,
+      "raw_pct_change": -4.91,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "CCAVENUE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.91,
+      "close": 123.66,
+      "prev_close": 130.05,
+      "delivery_percent": 77.39,
+      "raw_pct_change": -4.91,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SANSERA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.94,
+      "close": 3945.1,
+      "prev_close": 4150.3,
+      "delivery_percent": 54.86,
+      "raw_pct_change": -4.94,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
       }
     },
     {
       "symbol": "AIIL",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.01,
-      "close": 548.95,
-      "prev_close": 571.9,
-      "delivery_percent": 42.67,
-      "raw_pct_change": -4.01,
+      "pct_change": -4.95,
+      "close": 521.75,
+      "prev_close": 548.95,
+      "delivery_percent": 47.64,
+      "raw_pct_change": -4.95,
       "corporate_action": null,
       "why": {
         "headline": "M&A Or Stake (Scanx)",
@@ -326,14 +1003,14 @@
       }
     },
     {
-      "symbol": "ZAGGLE",
+      "symbol": "UNITDSPR",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.02,
-      "close": 162.78,
-      "prev_close": 169.59,
-      "delivery_percent": 58.32,
-      "raw_pct_change": -4.02,
+      "pct_change": -4.96,
+      "close": 1296.3,
+      "prev_close": 1364.0,
+      "delivery_percent": 58.36,
+      "raw_pct_change": -4.96,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -342,14 +1019,221 @@
       }
     },
     {
-      "symbol": "HAPPSTMNDS",
+      "symbol": "TIMETECHNO",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.03,
-      "close": 322.35,
-      "prev_close": 335.9,
-      "delivery_percent": 40.13,
-      "raw_pct_change": -4.03,
+      "pct_change": -4.97,
+      "close": 165.48,
+      "prev_close": 174.13,
+      "delivery_percent": 41.48,
+      "raw_pct_change": -4.97,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TATACHEM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -4.98,
+      "close": 605.9,
+      "prev_close": 637.65,
+      "delivery_percent": 31.04,
+      "raw_pct_change": -4.98,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "KRN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.0,
+      "close": 1054.6,
+      "prev_close": 1110.1,
+      "delivery_percent": 49.11,
+      "raw_pct_change": -5.0,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "JAYNECOIND",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.02,
+      "close": 93.06,
+      "prev_close": 97.98,
+      "delivery_percent": 35.32,
+      "raw_pct_change": -5.02,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "FIVESTAR",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.02,
+      "close": 476.35,
+      "prev_close": 501.55,
+      "delivery_percent": 65.53,
+      "raw_pct_change": -5.02,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "RBI imposes \u20b96.20 lakh penalty on Five-Star Business Finance",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLU12MGlBeVB1Z2syeFRySFBfS2tfSzlIUW1ZSDVlY0tNV294eW8xeEdScFoyVFVuYjhKcU16alJRbDJfbXhJYzByQ0ZJRUh0aDRqRzdhUGVFcUdsOFpoZGdtWVdlZDZCazBwVTVHVHdNTE8zY3JJc0F5N09tcWxva0E2OW8xU1ZEYzNYdjdRampOTHlJY25SSjRIVEFDUHBuNjhsSUZJajUtcnY3ZjkzM2c5d28zNmc?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "YATHARTH",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.04,
+      "close": 922.1,
+      "prev_close": 971.0,
+      "delivery_percent": 43.82,
+      "raw_pct_change": -5.04,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "OSWALPUMPS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.05,
+      "close": 234.3,
+      "prev_close": 246.75,
+      "delivery_percent": 43.8,
+      "raw_pct_change": -5.05,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TRITURBINE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.12,
+      "close": 459.9,
+      "prev_close": 484.7,
+      "delivery_percent": 50.92,
+      "raw_pct_change": -5.12,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Triveni FY26 Revenue Rises 9%; Order Book Grows 8%",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPanZCUk9WSGlhX3M4aE5MWTdNeU1GMk5UVXZKTDAtQzF5akRNdkZCZi1pbDkyR1hRUUJyd2RqU0R1VGNFVjlBT0NWQjBBOUdTRnh3aWVWTVRBSzZPbGZXaUE2RWZnWHNEQW1qVmtYTDB3aXppSE1CTnlkWkp6WW8tVldFOFBIbTVQMGdoOUtyb2xEMzhtWHBabnhnaVRERUI0NXJkaEFaUlFuNmdRY3EzeDY5TTVSeWVNdHVZWTJwWGNiYUpWbHFxODBuZG5BcE5jenBrNTNJYk02Z1RUdDJLdGQwS0hMTm5qSnpzMG1wNjhQSmFnb0ZPaS13?oc=5",
+            "source": "Scanx"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Triveni Turbines releases Q1 FY27 concall transcript with margin guidance",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMk5mNl9BWkxOaDJPNlBPVk83WVJHRnhBcHVxalVIYVpTSW8wS2FzTXdVZ2dJckthWE1Sb1JuSUtVYUdDRjZjbnJIY2pkV0hIZGZhTmVyd1ZkU2M4SklZRzNKcVFXV1dVTTh1b2oteW5RLUQzcURWTkJLS1dHTHRENjNRUFM2UzNHTXlzSXQtYVI1Q0xudTFCb2ExS2N0RmY1YXljYlhlYmtCdVJxN2doNTdLRWljX3BwQ0ZYMHd6UURETzhFV1p3MER0UVk4SEY3?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "HCC",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.19,
+      "close": 18.07,
+      "prev_close": 19.06,
+      "delivery_percent": 41.84,
+      "raw_pct_change": -5.19,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "POLYMED",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.2,
+      "close": 1470.1,
+      "prev_close": 1550.7,
+      "delivery_percent": 68.57,
+      "raw_pct_change": -5.2,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SKIPPER",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.2,
+      "close": 493.75,
+      "prev_close": 520.85,
+      "delivery_percent": 43.21,
+      "raw_pct_change": -5.2,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Will T20I skipper Shreyas Iyer find his groove against New Zealand amid a mixed bag run?",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOOVBwcHBlR3dJR2dHbkM2YklSdHdSQjdFZkE4eDRTRUxHN25YZTFhSTdLeGpqRUFIVlc5ME4yQ1ZVSUFFbnR4M3VTY3J2a3QybjgxWWZHTXNSbzc3UEozNm9RWkR5al9qSmk4ZVJYWXpSWUhxLWlnQjVSR25lc1luU0FHWGE0RElBOGliZzcwUVRKeW1RdmVFUklDbWw5WXc1R3lPeHlEZ3NzZGhqTWNZcERYZk5rTXR0QmpVZ2JvTmx1YXRrT1BWS3RxRUlIQy1mbnd3Z3BIT2lUNjdNaDdKWE8tUEV1RWF3LXVXV0Y3Q2ZySENWZHpDVm1vaUdMOG_SAfgBQVVfeXFMTmFOM1kzWlVHS1NlRFNmTTNzc2ZjbkpzTy1HNjM5azViSjdlN3lId2ZKS2Uwb1dTN3dVM05KT2g0NjJYZFpVUGJpb01jcmRISDNIV0tDTWs3RDVBdmE1YTQ0Yk02STd1b2tHQU9Cb0gtYVVuTm9sRkhWeFhnWHRSYUdsa3lzLUtDVWNzbUFNc1FKYXN3a0FzM25PV0FpaHl0ZzNjbXhBaFRpWDJRd2MyUFRXaW5rSWZUZ0tBaUhTSnJxSGI2b0ZJZUZKRWxHQzZwc3NXZEFRa044NXMyZDlNU0hpMlZhcDR2dTZzaEVBWl8xMnV4UWhfdTY?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "IDEA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.21,
+      "close": 11.64,
+      "prev_close": 12.28,
+      "delivery_percent": 35.59,
+      "raw_pct_change": -5.21,
       "corporate_action": null,
       "why": {
         "headline": "Results (Mint)",
@@ -358,46 +1242,67 @@
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Happiest Minds Technologies Q3 Results",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcy10YjFwcDRPVHh6R2FNVzhBOWl2TjlUeUNUYnVpdUo5RVpkQXE5TnN3T1BuN0JNYWt6cVdzX2hEV1BmY0tmYVJjdjJhT3ZZQ1lDbGRlZWczdE1yM3VTMm0tOVFrWkdyWWI0cXBEdEdQY1l3dEZzeWs5WW5SZ3o2QVFvdnpyalN3MmxaMUtnOVpLd0w0bzJR?oc=5",
+            "detail": "Vodafone Idea shares: Up 20% in 6 months! Will Q2 results 2026 fuel this rally? Experts' views, target price, stop-loss",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbndIYTg2MFlKa1RNcjIzNjFNSWktQXc3VmhsTUltXzJ3RjdiZmNuNEM1ZDJkRk9ya1I3MmhIMFZnNklnVkFIcG5TSDFiMzQySDhJeUJ0dnhOZTB0bFJza3Q0T09RSGp5Y2huUTJFMUVaa0pNUnQwYnp4WUgzOEdGOTFCYlJ1S3pkc3hRLUVXNkhsT0E1NFlyUjdHZ2NXci1PeGNYTTk0TVdHRnRoblo3akd5Ql93aTJDZE13QVJLSF92bFowbTdQUXFKLUoxdDlmSl9jS3M4WWtVTVh3Nm9zTzcwTUIyS2oyQ2N5b3UwZlRUZl8zRVlqNGR2Nks0X2hyZzZEeG44S1ZZZ3FsU1HSAZMCQVVfeXFMUGllLXJhVkFSMGhVTkVEV3F6VkptRVNRRWttRzMzOHgyY05sTklPSlBsX1RDWko1MDVPc3U5OVBBQ1Z4bWJuRloxTkFWNVJsWHRPQ0NDSy00U0JtT1Bic0FoTGJMb2lud3ZKODRCbFJnMWJOMUJRMjEySzlfTnU5djk1YlJzOUViTmlhOHJHS09hNldwRVJMRnFCUWt3Umd3X3FrOU80cmk5d1o2S1FDamd1MVJBdHBZbXg5ZFI0OXNqWjVQSWppZlBsYzNlbzI0clY0cjdPNGl3NXFwYVJQWGdqcXFCSndabnZSS0UtTmlVOUZjbWV4T2xITzJnVXZDaE9QMDI4WFJJRUt2eDQ0V21oN1k?oc=5",
             "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "fundraise or deal",
+            "detail": "Jio Platforms IPO effect: Bharti Airtel, Vodafone Idea shares trade on a mixed note; RIL stock gains",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUW9hT3B5dHExaG5sVG9hSTZQd3lDY1NaSTJWZFdHbUZFZGdkUHQ2RmFHQzFXanVMNzk5RjZVRmc3ODRGYkxaUV9DV0pGZUdpUDRpbTVUMTgxVGtDN1BqOUJCUmplS2NXaVBvQXZTQlcyVlhPUllySExZX3JQd0lQWS1pRHdsamNzMzVDY0M5UFFJSElyQ2E2SXRRU2tGSks2ZXpKUUZuX3BJcXNEXzc3d2h4al9sNHhGVFZuX1FneTFlTGhkbDNUYlVaV0ltazUzWWYyYjF5d0FNMkNvMWw4akpQY1lfZHVHNVA4VHlHUTBHV1ctRGNjRtIB_gFBVV95cUxNYUg2RHpGOFhkZGpUR2RiR0NfTG81a04wZ0VrT05rYlV5VHhWbDZVdnI4eUZWOFhsUlhiNm84bnhCWjFlSDRtdHBsLTd5Zk5mZjdndDhLdFp2X1hZWGhpQVF2OGZGRHZoT2cxbnBpRUl0MVF5elJNTVY3emFuV3MtMTB1Y1laOWlILV9kYTNoQ3JtczlZbVgtTi00eFctQmpqWUJUNW5Ecm52dzM1MGJxbGw1dDRJVXQyaXRJLW9SZzJQSXN6VnVIeDJUUnFjVUNBTXRaZUg3eDQ0SEZPWnRDSzctRGpQY1kwNE5XUGF2X3BGNHZmU2dZQ2FTSEs3UQ?oc=5",
+            "source": "Business Today"
           }
         ]
       }
     },
     {
-      "symbol": "INOXWIND",
+      "symbol": "SRF",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.05,
-      "close": 64.89,
-      "prev_close": 67.63,
-      "delivery_percent": 40.61,
-      "raw_pct_change": -4.05,
+      "pct_change": -5.22,
+      "close": 2305.0,
+      "prev_close": 2432.0,
+      "delivery_percent": 35.13,
+      "raw_pct_change": -5.22,
       "corporate_action": null,
       "why": {
-        "headline": "Regulatory Or Legal disclosed to the exchange",
+        "headline": "Results disclosed to the exchange",
         "confidence": "high",
         "evidence": [
           {
             "tier": "filing",
-            "kind": "regulatory or legal",
-            "detail": "Inox Wind Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-            "url": "https://nsearchives.nseindia.com/corporate/INOXWIND_16102026182525_74_5_.pdf",
-            "source": "16 Oct 18:25"
+            "kind": "results",
+            "detail": "SRF Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+            "url": "https://nsearchives.nseindia.com/corporate/ekta_maheshwari_21102026145316_ResultsSep26.pdf",
+            "source": "21 Oct 14:54"
+          },
+          {
+            "tier": "filing",
+            "kind": "capacity or plant",
+            "detail": "SRF Limited has informed the Exchange about Capacity addition",
+            "url": "https://nsearchives.nseindia.com/corporate/ekta_maheshwari_21102026145942_SEIntimationCapexSRFAltech.pdf",
+            "source": "21 Oct 15:01"
+          },
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "SRF Limited has informed the Exchange regarding a press release dated October 21, 2026, titled \"Press release\".",
+            "url": "https://nsearchives.nseindia.com/corporate/ekta_maheshwari_21102026151307_PressReleaseF.pdf",
+            "source": "21 Oct 15:14"
           }
         ]
       }
     },
     {
-      "symbol": "HOMEFIRST",
+      "symbol": "BLACKBUCK",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.06,
-      "close": 1055.2,
-      "prev_close": 1099.8,
-      "delivery_percent": 74.69,
-      "raw_pct_change": -4.06,
+      "pct_change": -5.24,
+      "close": 553.7,
+      "prev_close": 584.3,
+      "delivery_percent": 47.03,
+      "raw_pct_change": -5.24,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -406,14 +1311,14 @@
       }
     },
     {
-      "symbol": "IMFA",
+      "symbol": "ELECTCAST",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.07,
-      "close": 1131.8,
-      "prev_close": 1179.8,
-      "delivery_percent": 55.22,
-      "raw_pct_change": -4.07,
+      "pct_change": -5.25,
+      "close": 70.69,
+      "prev_close": 74.61,
+      "delivery_percent": 53.74,
+      "raw_pct_change": -5.25,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -422,14 +1327,14 @@
       }
     },
     {
-      "symbol": "ELECON",
+      "symbol": "TI",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.09,
-      "close": 460.7,
-      "prev_close": 480.35,
-      "delivery_percent": 30.8,
-      "raw_pct_change": -4.09,
+      "pct_change": -5.25,
+      "close": 515.7,
+      "prev_close": 544.3,
+      "delivery_percent": 50.3,
+      "raw_pct_change": -5.25,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -438,14 +1343,14 @@
       }
     },
     {
-      "symbol": "PRAJIND",
+      "symbol": "SYNGENE",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.13,
-      "close": 275.3,
-      "prev_close": 287.15,
-      "delivery_percent": 50.35,
-      "raw_pct_change": -4.13,
+      "pct_change": -5.3,
+      "close": 376.45,
+      "prev_close": 397.5,
+      "delivery_percent": 54.04,
+      "raw_pct_change": -5.3,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -454,14 +1359,14 @@
       }
     },
     {
-      "symbol": "APTUS",
+      "symbol": "KITEX",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.16,
-      "close": 213.25,
-      "prev_close": 222.5,
-      "delivery_percent": 57.42,
-      "raw_pct_change": -4.16,
+      "pct_change": -5.31,
+      "close": 115.28,
+      "prev_close": 121.75,
+      "delivery_percent": 38.14,
+      "raw_pct_change": -5.31,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -470,60 +1375,143 @@
       }
     },
     {
-      "symbol": "AXISBANK",
+      "symbol": "MEESHO",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.19,
-      "close": 1236.0,
-      "prev_close": 1290.0,
-      "delivery_percent": 44.09,
-      "raw_pct_change": -4.19,
+      "pct_change": -5.43,
+      "close": 217.12,
+      "prev_close": 229.59,
+      "delivery_percent": 51.64,
+      "raw_pct_change": -5.43,
       "corporate_action": null,
       "why": {
-        "headline": "Results, reported by Reuters",
-        "confidence": "high",
+        "headline": "Broker Action (Mint)",
+        "confidence": "medium",
         "evidence": [
           {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Axis Bank Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/AXISBANK1_17102026125236_AxisBank_Q2FY27_results.pdf",
-            "source": "17 Oct 12:52"
-          },
-          {
-            "tier": "filing",
-            "kind": "management change",
-            "detail": "Axis Bank Limited has informed the Exchange regarding Appointment of Mr Rahul Shukla as Other of the company w.e.f. October 19, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/AXISBANK1_17102026142522_SEIntimation_SMPSigned.pdf",
-            "source": "17 Oct 14:25"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Axis Bank Limited has informed the Exchange about Link of Recording",
-            "url": "https://nsearchives.nseindia.com/corporate/AXISBANK1_17102026230706_EarningsCallRecordingSigned.pdf",
-            "source": "17 Oct 23:07"
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Top stocks to buy: Experts bet on SBI, Bank of Baroda, Meesho, CG Power, and 2 others - Target price, stop-loss",
+            "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPZlVlZGRsSVZiSm90U2NtYTVFSDdVbmUzMlpZT3hBR2MyazZNbWwzUFhndElPd205aDNMNXMzTThFMzl5UW95UFQ3V3EwVUFKd29OeTFEU0xRMVk2UkhYakhqSFhoSkFjenN4N1p4elFuNUdpbHlPOEdUMzZ3dzJzRlBXWEk2amo1NmFvSXZlTGpkMDRoWWRCeC1wQ1o5LVA3N0xkNEtVd2ZCUFM0TjlxZXpBeHh4WDRPbFBIeWhoY0VEclNaTTg3bFpJVnhRV0NnS28tMlJsdThNT2dvLTYyVk9GMkh3X1pDbWJzNldDR2JQTmNRd0xPc2JtS29Oa3V1NVHSAYcCQVVfeXFMUHpKUmkyOVJhME5rc3hrVjBQNW81eW5JUENES0pZcTZhWWR6SzI1QURiQ2llYUVJaHppeTdFOWgxQ3JOMEozM3N2TWVnMUNMcHNyUFRHdDlEVmVhUTZXRFBRUzRPWlBYanhsT0lMYTIwM1RWWjVaYzdvMlVHVzlONVg0ZW1pNGVYcG9wcFNkMUxfbGFPamlTTFBjRkl2S2lsQV9Wd1hEaU1vbmx4YnlOMl9vUkZDcWZpbDdLeFlCb1licWNzOWQ2cDFMV2J2SUhjNGh6VXdJYUFMYURtWnJFaWxPS2JDampuLTVUVmlKUmVVWHNva0NwOE1iTzVpZGlhRDBzenphMDA?oc=5",
+            "source": "Mint"
           },
           {
             "tier": "news",
             "kind": "results",
-            "detail": "India's Axis Bank quarterly profit rises 37.6%, but misses estimates on higher costs",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRWlKeXYxOVAxQU1rRzNoVldQdEFOYkF0YlpINXNvb3hwdkhjcmNTZmoyUVlsclZjellwalhIelQtMnhSc1U2TGJzOWNrZDB4NFl6T29fQzY0UnBnS0steEcyUnByMnpLUjhfQXBCQ1YwZUxyTFNXZm14TVNoVkR5RkN4Ym1QSDYxZ2xxelA2YTNyWWdlT29oUjBEay02T0YxeGNVRGZoQktjTURxTWFramYwVmZyR2lCQUNVcTFB?oc=5",
-            "source": "Reuters"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "India's Axis Bank slides after quarterly profit falls short of expectations",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEJxaHB5V2h4YkZOanhtZy15VGRUQ2s0VFN4UXBHdy1OV3ZFeUtpSjlTdnIyaWhtaHI5OVRRWXdiSTZvaV94Y0paeFRSLVh5WkRnVDdsR1ExUEdvZnlVb2tabGxrbWFfdmVhbEh1ZVlrLXFWemJkWmdJczFfa3lhMTZjWkR1SWowOVNZQUpsUENlVDdJUUtTRGZ1QTBnQ3hFVU1uNTZ5aGFZODJ6Ym8wSDJzOFRzblFObm1r?oc=5",
-            "source": "Reuters"
-          },
-          {
-            "tier": "news",
-            "kind": "management change",
-            "detail": "Axis Bank appoints former HDFC Bank veteran Rahul Shukla to head Commercial, Bharat Banking",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNV0Z0cmFIQnBETXQ0bF9jREdsUm04ZGFlYnRqSXc2MEItWEduNUhYWmJsaHhRQ20wS0d3Y3V5NVAxSXJJbllqZm5Pb3A3UTRzWVEzR05uV0g3eEw4c3hNZld5bC0tdnZxVkw3d1VnZWlFck1kRmQ3djFWZF9sTVFEVV83NW5jekJqSjF4NmZvVmtvRzhBLVFOSDFjanZTTGZYVGo4eVFtUzZCb2ppbUZBNzJkek9kVml6YlJpUUJfWW9xRTBIVnEyTDhyQS1MSVhNZUpaNFBoZktKdFFWTGh0ZE9MWjJBcHBkOWR1d01jTEp3QlRiMm1EQXFjYmhyaHQ0dEgxR2s1ZljSAY4CQVVfeXFMUGUwbXpLSXYxRVpPSFM2c0xKX0dtSDBFdXp1Q0tiQ3dtQ3pHMDR0SjIzRFl0MHV3MTdLUTkxc0tyUGZoZGItWnRjWmxyVnk3WkMwMEZyd2JxbnM1QUlKVF9VN1hKTVJISWhDZ09sZmIyeDFxcl9yWUhYeFdvY0p0OHZxTVhLdjdfdnFyemZMa05iOWhYclA3ZWxHOTkxQmFXWTB3MkxTN0hIT0ZsUWQwOXdFWjFOMXhMeEdpc2dDbUl1UnJzQ204TmVkelpTOFNmVFVWQ18xRVN5V3ZXWkwxWS1uQXNrU01LQmdsSDBqSGZLc2ExSGVqTHNxZUhHTV9Yd1d2T0pjWVBXdlc1SkdR?oc=5",
+            "detail": "Meesho - MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
+            "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdmlMV3VIZHFFXzhRY3ZVZWZiRFdTcS0xOWVra01NSW1TU1phcm1uUWNjU3VDZndFTWNKSGI1ZXNSZDVZUEt4bFNkd0NxdW9VM1VoVURXVlhacnYxLTQwWEprSlR1bHFLN0E1ZV9lMXpmaWdWeUw1LURKSUFtOXpSaDNVMDZkRDZQdjJFRktaSkNyNGJ3ajhucEZhZkJDaGFtclJXNWF4MWp2WDlqTDZrMjhyRjVVbnJaN1lPSDZNZVI4S0x1Z0wtVlBMTkpwNGR5VjdKVmFpOTBJaEt4S3JET04wM3RXMW5LaXBBRUp6blREY0NaUWlFNS12c1VZSVU?oc=5",
             "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Meesho - DIIs increase stake in 8 midcap stocks in Q2FY27",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkZVTjhrTmdRQUJ3TkhsY3RDOTVHeTE0OENDMU1jUjZXblcxOUxqLU9qNENmcDAtbmoyMHAyc1pfLWFSZ2E4NjlfU3NNcDB3cFVKNnRja1NDYi02UUkxUW9ULWp1UTViZlc3ZkVxWS1aQ3BKYmprU0JrUW0ybWVOa1J6Tmlib2t3MUlNSmR5VGk0Ql84T0FvQldINUgyNW1HZ1dkcFpJSDJrZWJPcmNkbjkyRjUzbGthTk5kcHBVNmhrMWJfcXc?oc=5",
+            "source": "Economic Times"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "AZAD",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.46,
+      "close": 2538.8,
+      "prev_close": 2685.3,
+      "delivery_percent": 39.51,
+      "raw_pct_change": -5.46,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "IXIGO",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.47,
+      "close": 148.48,
+      "prev_close": 157.08,
+      "delivery_percent": 15.07,
+      "raw_pct_change": -5.47,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "SIEMENS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.59,
+      "close": 3420.6,
+      "prev_close": 3623.0,
+      "delivery_percent": 48.06,
+      "raw_pct_change": -5.59,
+      "corporate_action": null,
+      "why": {
+        "headline": "Order Win (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Siemens revenue rises 14.6% in Q6 FY26 amid strong order growth",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEsyLWdTZDl6Z3FFa1J5aHh6MzNMZUJyYXJRV0RJU25xUlpvb1BTUEQ0d1FSaE9kc2hqTFk5VEhXQURkNlhxMEpMNHBzWEIwQmgzQzdHV2F2VWdzX0tNeXJLVWl5enJjWW5iQzc1aHZIaEVhR1RLZFJrNlQ5dGhaa0MxRVNlZmZabTBJaGktUEtod2hpUzBJR29iTy0zdw?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "EMMVEE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.61,
+      "close": 254.95,
+      "prev_close": 270.1,
+      "delivery_percent": 52.76,
+      "raw_pct_change": -5.61,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Emmvee Photovoltaic Q2FY27 results: Net profit up 60.6% YoY to \u20b9382 crore",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVd0MFZxYlJaclhDUVJBLV9rYVRZM2E1bFA2dWY4OE1zNVNObUgwV2pVNG93WlhkdGJyd0l0UjRxVUpEMzhkUFNhTHd4RVVSZFlyTS1fQ0piTzVRQ3NJYXlZdURncTlmNlpnbGxOa2tFalZfT2hTWjNzakFSeGc0WWhVRHZOSHpQa0dwdjBOc3cxWU9zcmc5LWNZaUxraWw3N2hrUFBtbS1aenlvLWpCcVFIbw?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "MANAPPURAM",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.62,
+      "close": 301.6,
+      "prev_close": 319.55,
+      "delivery_percent": 44.03,
+      "raw_pct_change": -5.62,
+      "corporate_action": null,
+      "why": {
+        "headline": "Regulatory Or Legal (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "F&O ban list 22 October 2026: Stocks in ban and MWPL watchlist, Manappuram Finance at 96.29%",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUN6OWRDeGl5MVV3NUl4TFMyeURRb1VETjdfSWF3VVhydnM4YWlIMmc3aDd2N2RLQmd5amhjeVpPM05hY1lYZHl2OHR0dDQxUXRDQlYtT1pXRU9mQThWOWpJZlZJQkNib0JXbzhRMDJzNXhUdGdiV01rSWdPWEJNckU0cTd0Uk41aXZNcFFia0ZYMjEzWEZxUDBtOUYwdUJOOVNuQ0dYYkFhR0hFQUVzVnRRdDVtcFBOd0g0bEh3NENqOTdSbXc?oc=5",
+            "source": "Scanx"
           }
         ]
       }
@@ -532,49 +1520,35 @@
       "symbol": "HERITGFOOD",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.26,
-      "close": 388.15,
-      "prev_close": 405.4,
-      "delivery_percent": 42.46,
-      "raw_pct_change": -4.26,
+      "pct_change": -5.63,
+      "close": 366.3,
+      "prev_close": 388.15,
+      "delivery_percent": 44.5,
+      "raw_pct_change": -5.63,
       "corporate_action": null,
       "why": {
-        "headline": "M&A, reported by Businessworld",
-        "confidence": "high",
+        "headline": "Results (Businessworld)",
+        "confidence": "medium",
         "evidence": [
-          {
-            "tier": "filing",
-            "kind": "M&A",
-            "detail": "Heritage Foods Limited has informed the Exchange regarding 'Update on Acquisition of additional 5.60% equity share capital of M/s. Heritage Novandie Foods Limited '.",
-            "url": "https://nsearchives.nseindia.com/corporate/HERITGFOOD_16102026173257_Update_HNFL_Acquisition.pdf",
-            "source": "16 Oct 17:33"
-          },
           {
             "tier": "news",
             "kind": "results",
             "detail": "Heritage Foods Q2 Revenue Rises 19%, Profit Falls 39% On Higher Milk Costs",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWhYMnlNYnhRZ0tPcER5UGNYOV9YU0loaFhmNHJzVk1lUGRzdmlGNlNZYkZHLUZLSHRNNW9tc1RZNk1mT0Q4RmxQNE0xSjFfay1CdlhBR3g4bEZxT0drN3ByV3hwYm5nWi1SbUZNM0c1SXNqWXVKQmVzOE9USmJQbmswSnRWdnoyYnNqTnhQWlRJUVRvaTZXWmZDZW9YdmE2QlUyak9ob29WVlBsUXhqbDlTNnlXZw?oc=5",
             "source": "Businessworld"
-          },
-          {
-            "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Heritage Foods acquires additional 5.60% stake in Heritage Novandie Foods, becomes sole owner",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWElqZnliUEVTbFlrSTc5X0xhTUhFTU1sR0ZiVlhkc0pXV3U2Nk96U3pqWDlwX3VWcEI0UW5jQlZQdTJXSnJWZk5lTFQ1Znd1WkJnNWJaeXNKbjFjZjFNZzFFWGpicVkwRGJiUG5RdVdJbm9KNzFqb2g1ZTB0M3hJN3NYUDh5djhtcUZLY3NIWWJYRnRNbWtmdFNNdDRVQ2ktWmZEcFVGNEQ1T0RaTm5WTnFfVFJjNjI3emVNYUdWOVlrMldKTFhB?oc=5",
-            "source": "Business Upturn"
           }
         ]
       }
     },
     {
-      "symbol": "WEBELSOLAR",
+      "symbol": "CAMPUS",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.26,
-      "close": 65.33,
-      "prev_close": 68.24,
-      "delivery_percent": 57.8,
-      "raw_pct_change": -4.26,
+      "pct_change": -5.64,
+      "close": 188.2,
+      "prev_close": 199.44,
+      "delivery_percent": 50.02,
+      "raw_pct_change": -5.64,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -583,54 +1557,110 @@
       }
     },
     {
-      "symbol": "RPOWER",
+      "symbol": "SCI",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.28,
-      "close": 17.89,
-      "prev_close": 18.69,
-      "delivery_percent": 44.44,
-      "raw_pct_change": -4.28,
+      "pct_change": -5.66,
+      "close": 260.2,
+      "prev_close": 275.8,
+      "delivery_percent": 44.38,
+      "raw_pct_change": -5.66,
       "corporate_action": null,
       "why": {
-        "headline": "Fundraise Or Deal (Mint)",
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TVSSCS",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.68,
+      "close": 114.33,
+      "prev_close": 121.22,
+      "delivery_percent": 55.99,
+      "raw_pct_change": -5.68,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "TECHNOE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.78,
+      "close": 885.7,
+      "prev_close": 940.0,
+      "delivery_percent": 56.4,
+      "raw_pct_change": -5.78,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "RAIN",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.81,
+      "close": 211.07,
+      "prev_close": 224.09,
+      "delivery_percent": 47.03,
+      "raw_pct_change": -5.81,
+      "corporate_action": null,
+      "why": {
+        "headline": "M&A Or Stake (Mint)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "Reliance-backed Jio Platforms IPO: \u20b91 lakh crore gains for Meta, Google in \u20b930,213 cr issue by Mukesh Ambani firm?",
-            "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZFVZZEotOUhiOUQ0b0NfTXhncW1pTFAtYVlIR2hVZjF2Z0sxd1BxaVRmZEthMWRoa0dTVUt6TGhSakprc0tkd09DTVVhZFU0MWFVNkRDUElld0YzOUpMaTVxbEFudDFhZUpSTUlDSlhHLXlzVnpCTUpKX2dnWmZzNUc2dzJHbzA5YXdjbTFQSGtzQ2MtQVJDc3Z5Sm1DZWQ0Snl3M0h5VUFkenBTak4wQ2ljZjhINGpxeE5GMkRUTWtjempndUQ5bjRjRUhEcUNnRTFJU0N0R0Zabk44N191SVh4X0lwSUw2RHJ0ZFZ4STVNQ1ZEWjNISW05eXBuSncxRGVoQU9DWUZaNzdlS0dkOWJR0gGXAkFVX3lxTE8zdzNhY3NWVTdmMVduS0JzUHJwTG9UTVlIdl9pTzJWTlZyYmRvSUEySnJhYlc0Um9RQk5MUXVzYlhRZHFVSnkxNU11UHBrTFJLQ2ZJUHRGYkVzNGdQUDFiZnVQY3VlX2hVZmFpQW82MjdkUmR3SmhHb3lxZ2RCbkg1bUx6QVQ4Qi1xa0lXMC1nQ1VSQ29vVUIwejV6d3M3Q09jNXNtVWp5T1BKcGptODJmTHFsZHFMVGxMb2hHOHhrZ0NPMmlobUxvcVpqNV81Z0FDWUVVREdMSWpBT1pMak5GYklNNFZrV2hRUmk3U0xuM2pYUUw5OWNCcHFaTEkzcmhNbGR5T1pBOXZjU2tPSDdZeGhxczh5VQ?oc=5",
+            "kind": "M&A or stake",
+            "detail": "Ace investor Dolly Khanna Portfolio: Rain Industries makes a comeback, CPCL stake trimmed - Big changes and top holdings",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQSzBFT3pLUXM0Z1pGaDJqdS1iR0RQckRrNUpXekNZbENUcC1heFpDRWphdHdVcjh0ajN6TjEtUEMxMUZfb2l5WWdsQWp1bzc1U3VxYlhYN2tpc1h3bXNGN0IyNjcwYUp1cm1nM25lTnZzV2luUlIzTXgzNW10ZmQzRGdPMk5DODZKNEZreGFid09kWXJ0NGJaUUNwVlFOM2RTcmRaSVZNdlZHYUp3MnB5WTEtTVRqZE81ZzNIUDdfb1JyVEZISFRNck1CTWpWRFJXZEdfTGdkYjRkN3BpdVdjVTJVQWhpSXI5dGVOQjZXT2hCQ3E1bzEzb2phekJFV3AwOWY0R0o4RXh5bFlaamhydUhyYUvSAZoCQVVfeXFMTUpkcFBEWEN2WXdnS3NkYlRvOXgxRTJ4dkFUMlJVNlU0ek5MQ05EMkVZdzc5R3BFQ0hEQmY5cV9LN1NrSWN3ejZNcmVWRXJTaXhmU25MRk10OEJIRlZKdWtDVFUwMmcwN2xSQlVxYnFuenlUUGg2dGt1WkxNaXRmR0o5MVlVamFncGRJaHg2bnRjRG52YkxEUXRSNXFlSzVyY3hQUjBsa3ZhazkyMzZXbXBOeHU1V2tkRkZwN2VrYVVUMnBWMkdWSDIxdk1XSFhnaFNta1daa0UyV3daYkJEb0dTY09kbGVqV3drbm9TZzZYSnJRbWt0d19rVWFOQy13VlZ3UTRjcEdpTi1lamN4S2J0MktTc3RJM3V3?oc=5",
             "source": "Mint"
           }
         ]
       }
     },
     {
-      "symbol": "JWL",
+      "symbol": "TEJASNET",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.32,
-      "close": 196.73,
-      "prev_close": 205.62,
-      "delivery_percent": 43.92,
-      "raw_pct_change": -4.32,
+      "pct_change": -5.85,
+      "close": 426.75,
+      "prev_close": 453.25,
+      "delivery_percent": 27.76,
+      "raw_pct_change": -5.85,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Tejas Networks Q2FY27 Results: Loss narrows 32% YoY to \u20b9208 crore",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGVMSG8zcXBZdXB6MjRkYnBSSVBDZEZsWHJFOVpleFQ0VmZrMFJVRngteFhzblhBVDV5dlZHSGM0VXhaY09SOVRiQlNGQXVUcmd4Nzk4WmVyR2ZaQWFwc2Z3dk1IWVQ2eXl2QUZjaEktbHVfSDhvQ0FCLUtVZ3dGOHp1ZFV1bHRUeXBkTllwRXZudUNLNHV4Sm85N0FyT0hqaG5SWWJfLXVZcFU0WXQ4WE9uZE8?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
       "symbol": "LXCHEM",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.4,
-      "close": 171.14,
-      "prev_close": 179.02,
-      "delivery_percent": 55.59,
-      "raw_pct_change": -4.4,
+      "pct_change": -5.92,
+      "close": 161.0,
+      "prev_close": 171.14,
+      "delivery_percent": 45.44,
+      "raw_pct_change": -5.92,
       "corporate_action": null,
       "why": {
         "headline": "Results (Scanx)",
@@ -647,368 +1677,146 @@
       }
     },
     {
-      "symbol": "KRBL",
+      "symbol": "ABB",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.51,
-      "close": 376.45,
-      "prev_close": 394.25,
-      "delivery_percent": 43.77,
-      "raw_pct_change": -4.51,
+      "pct_change": -5.94,
+      "close": 6559.5,
+      "prev_close": 6974.0,
+      "delivery_percent": 28.63,
+      "raw_pct_change": -5.94,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "TEJASNET",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.53,
-      "close": 453.25,
-      "prev_close": 474.75,
-      "delivery_percent": 22.18,
-      "raw_pct_change": -4.53,
-      "corporate_action": null,
-      "why": {
-        "headline": "Results, reported by Investing.com",
-        "confidence": "high",
+        "headline": "Management Change (Economic Times)",
+        "confidence": "medium",
         "evidence": [
           {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Tejas Networks Limited has submitted to the Exchange, the unaudited financial results for the quarter and six months ended September 30, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/TEJASNET_16102026182254_Outcome.pdf",
-            "source": "16 Oct 18:24"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Tejas Networks Limited has informed the Exchange about Link of Recording of earnings call for the Q2 FY 27",
-            "url": "https://nsearchives.nseindia.com/corporate/TEJASNET_17102026135358_Earnings_Call_Audio_Recording_link_Letter.pdf",
-            "source": "17 Oct 13:54"
-          },
-          {
-            "tier": "filing",
-            "kind": "other disclosure",
-            "detail": "Tejas Networks Limited has informed the Exchange regarding a press release dated October 16, 2026, titled \"Press Release on financials for Q2 FY 2027\".",
-            "url": "https://nsearchives.nseindia.com/corporate/TEJASNET_16102026185522_Press_Release_-_Financials.pdf",
-            "source": "16 Oct 18:55"
+            "tier": "news",
+            "kind": "management change",
+            "detail": "ABB India appoints Suneel Kumar as CFO",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjMtcTVic3hVNXVMMnotc1l6NnZ5Q3NwS0RTRDVlUDJ5cGp5M2xuOWFISnlLelRyM1ZrQnFMX3ByRnBsbXJnN1QyQWxxWVUzYlVjNDhtRTlPYzV4cEs2Sjg4R0FWNS1PYlN5ZHFUQWFTb3RoY1ZQLUNRc1cxRDEzWGZPQmZWZm1yRDFHX2hxOFNZTElNZTJmT1I1RnJGejA3LVdiTjV0dU3SAa4BQVVfeXFMUEhJa3pINkJrb2NNd09uWHZiRmtNSVBQZTM0aEFSR0NjVWFVZVc2WlJ4ZlExOUJmV2d5OENaTU1QTUtsTzhrYjkyMUFFVXNpcE96WXoxclpPd2E3NTh0enRlNkxOS1hablZXRklfRnVEM0l4TF9iNU9YTVFUc1pxNlVUREdWQlFLQkNIRnRubURjM0FpUUluNm1zdENHcTl0a2psZzRYdFJlZUtqQmdB?oc=5",
+            "source": "Economic Times"
           },
           {
             "tier": "news",
             "kind": "order win",
-            "detail": "Tejas Networks Q2FY27 slides: losses narrow, order book surges 54%",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQczBvMzR1RkEtVjNCb0xEOFVseUQ5aFNJNnZIQmpaVU4xSDFFRVJ5OXlMakVwNEhnV2dNVHdRSThRLXg1eTFmVlc1b1laMmtkMFBCYlFMOUlTZDVsQ3VYTVdJRkJsLWRhV1JiU1llRE9wSV9IdW40RnpURkoxcWxoY1JVci1xTUdiWE1rQzNrYlc0cXM0WWFMV255SmpjaTItT0MtTFRXN0pUcVg3Q1hRT3B1aUpfVXJ0OXItTA?oc=5",
-            "source": "Investing.com"
+            "detail": "ABB India brokerage view: Citi Sell with \u20b96,075 target, parent order read-through explained",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkhxeC1vMlducWJMcFZuVmhvcGRfUzVzblZPT3pEUVJ5OXhHQjRvN2NuN2pLTkxJQV9WYl9kczZvbmU3ZTBZU1VwTGpsWWE2R19TUEppN3hWM0dWVDZKTFhXcTBDU3Q3WUdSZ2w4QjRYNDE0UXZCdFBkXzdPb1F2YlRoMXdObmdHQjVYNTc3TGllRDcxYlZHdXhrUC1ObDdYWFh6eGtPVnpXYXBQVy16eDZmbEh1T2RPeTYwQVZVNTNPbWdaMGFqYURBOXZmU1pHb0hCai1IV0Rla2x0RHc?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "ELECON",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.96,
+      "close": 433.25,
+      "prev_close": 460.7,
+      "delivery_percent": 47.65,
+      "raw_pct_change": -5.96,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "THELEELA",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -5.98,
+      "close": 585.5,
+      "prev_close": 622.75,
+      "delivery_percent": 42.66,
+      "raw_pct_change": -5.98,
+      "corporate_action": null,
+      "why": {
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
+      }
+    },
+    {
+      "symbol": "AXISCADES",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.01,
+      "close": 1970.7,
+      "prev_close": 2096.7,
+      "delivery_percent": 57.24,
+      "raw_pct_change": -6.01,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "AXISCADES targets \u20b91,377 crore revenue in FY27, eyes \u20b99,000 cr by FY30",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTYxLTlOdUZyRlFySFA0cGRnQmZaUm9TNjgtOGdFNE5HTmNCZm5UcWJLUmpYSlQwbmpsVDh2OU5DcS03Y3FCMzRqYmdIX0c0QUlmXzRLbFhXWXpzR29DWlRiSERSMVBJcFdoLS01dV9ZTnZCcmhfYXBVQkVZbVBFRVJRdVd5LXlNQk5mZnhSbHYtZUZVY0FVMFpSXy1mMmhtZy16RFVZLURCVkFVQnBMOTZoQmctazZKY01CUmZZLUhxQVhkSVdNSURGaFA?oc=5",
+            "source": "Scanx"
           },
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Tejas Networks Q2 results: Net loss narrows to Rs 207 crore, revenue rises marginally",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGdWNFFkOWN4RDBmenZVb3NScGxJbVVZX3FDZW52aERHbDFiME83ZTB4TllOenJxRFBiRXBKQldmejVQRWRXd1JYMmllNmxQcjUwdTNyZnNPekVMN05HWnVpLXFoZFF2WERhWHhOUXpVcy1CQnhNV1JxcUF2bEVFUEVTT1h5WmZ4NVdiT2ViMmtnQzlOS2tOSkl4VGJuRVJndk5oaEgxN19MYW1EZDJRQXpmemlwZFdCV0VSdjRxMlVRbzdpWUdCVU9sMjlZc1Zubi1wVUFFWjhmeEJVWHZBUndiNEI?oc=5",
-            "source": "Business Upturn"
+            "detail": "AXISCADES FY26 revenue rises 12.4% to \u20b91,159 crore",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWk9vT3JOcFd3N2ZRY1lOSzVSWHN3RXNZbnNmeXh4VTlQY0FxdGtRQXBiSkFSRFFGV0lxYWc5bkF1NFR6ay1lbDZrZENLbGxpNzhpTlY3R09MY21pQjdUei1pZDVkNEY3d003WFFXdUFhM043UXN3dGNjTXM1TGdnNXdZMkI5YzgySFdMY05ON09aS2tRMGpwV3VXZVRiZzJfUmRxdEYwOERhMUhaajRsM1MyWWdVOWNUNThjS3l6RXRsVEpDQzFzWA?oc=5",
+            "source": "Scanx"
           },
           {
             "tier": "news",
-            "kind": "results",
-            "detail": "Top Q2 results today, October 16: DLF, PNB, LTIMindtree, Federal Bank, Tejas Networks among companies to announce earnings",
-            "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVzdkTXF1MkFZNzZnX2d6akxCbHhqcVdCLWlGUjlJeWhyOUhVczEzcEcyRm9LLU9kRUhCakZkM05HRDVlZ2lWM1k4QS11QWNPamNyNm5QN2QxTm1ZVEgyRGFvSWxsbVFKZThkaS1yTDdxLVRSelVSSzIwLURkd3J5STdDazFkS19zdEM4Z2ZqM0QxQ3FjcDFfM21UczY1WGs5VC1uZDcyZnQxU3N1UEhNdVNoWkttTlVvSmR5Smp6dUdSNS1TRmtGNkNVWWFRREtlZXNzMTcxNUt5WXpuUVJKT3AzLU5SdTUtWHV0RXA4SGtPM3AzOF9WNjI0eTZXMGFqa0dMMzgzZS1menFHT2s2Tw?oc=5",
-            "source": "Business Upturn"
+            "kind": "operations",
+            "detail": "AXISCADES seeks slump sale approval for engineering services",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNODBtWTQtQzlfZ1lNMjFPb3lqek5MRnFuRzQ1cVhHY1BVNVVXVTVydkZrc1BBSm9pakZhUUktTXVGWVRkZE50eVljY0xBODBCZ1I2eEg4RDZ1eFA0aUVqTWhscmdLekxrMy03QW44eDVfMDhwc3ZNa3Q0WTZGbUFSaGJBTUd5WFNWdTdtcjE0cGFRemY4VW5fVUtDblRhYXYzREN3Q2ppTy1OX1dkaWRSd2FTU2pvUFd3NUZEa1hqaHcwYklMSVE?oc=5",
+            "source": "Scanx"
           }
         ]
       }
     },
     {
-      "symbol": "EUREKAFORB",
+      "symbol": "ABDL",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -4.53,
-      "close": 331.6,
-      "prev_close": 347.35,
-      "delivery_percent": 65.38,
-      "raw_pct_change": -4.53,
+      "pct_change": -6.1,
+      "close": 694.8,
+      "prev_close": 739.95,
+      "delivery_percent": 40.48,
+      "raw_pct_change": -6.1,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "STYL",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.71,
-      "close": 313.45,
-      "prev_close": 328.95,
-      "delivery_percent": 56.94,
-      "raw_pct_change": -4.71,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "AARTIPHARM",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.73,
-      "close": 832.35,
-      "prev_close": 873.65,
-      "delivery_percent": 59.6,
-      "raw_pct_change": -4.73,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "AARTIIND",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.77,
-      "close": 479.0,
-      "prev_close": 503.0,
-      "delivery_percent": 40.04,
-      "raw_pct_change": -4.77,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "JSLL",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.78,
-      "close": 369.75,
-      "prev_close": 388.3,
-      "delivery_percent": 41.18,
-      "raw_pct_change": -4.78,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "WESTLIFE",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.84,
-      "close": 551.1,
-      "prev_close": 579.15,
-      "delivery_percent": 39.71,
-      "raw_pct_change": -4.84,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "ELGIEQUIP",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.87,
-      "close": 544.35,
-      "prev_close": 572.2,
-      "delivery_percent": 51.49,
-      "raw_pct_change": -4.87,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "DBREALTY",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.91,
-      "close": 82.84,
-      "prev_close": 87.12,
-      "delivery_percent": 48.09,
-      "raw_pct_change": -4.91,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "WELENT",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.92,
-      "close": 691.3,
-      "prev_close": 727.05,
-      "delivery_percent": 55.28,
-      "raw_pct_change": -4.92,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "CUPID",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.92,
-      "close": 336.3,
-      "prev_close": 353.7,
-      "delivery_percent": 35.62,
-      "raw_pct_change": -4.92,
-      "corporate_action": null,
-      "why": {
-        "headline": "M&A Or Stake (Business Today)",
+        "headline": "Operations (Business Upturn)",
         "confidence": "medium",
         "evidence": [
           {
             "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Cupid promoter Aditya Halwasiya buys stake in PC Jeweller; stock jumps",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdlRNMWh1QXViU1VzcTF1Nkd0NVlFTW9sM1FPejJxZlpQTE0xbTBpbnhGN1R4M2pJUExGNi14UFZOZUpHbkl6R2cxdWNRZy1RaFViMWx6YTBIYUhIeHJlcnptalo2bWdTRFBPalBwaHB3RWYxU2pCdVh0SllCWXlMaVpLODdVUHZxTFJPUk0xeHlNdHV3XzJxaEZnS0FnbGw1bkhjSl9LZVZZbFRvRGlXdm96Z3BwTVFuczBEWjVJbUNfOG0yZG1NaGNYTGF2ai1yMDVyLVVPRm5JTDRVNFdJS1M0eFHSAeQBQVVfeXFMUHZUTTFodUF1YlNVc3ExdTZHdDVZRU1vbDNRT3oycWZaUExNMW0waW54RjdUeDNqSVBMRjYteFBWTmVKR25JekdnMXVjUWctUWhVYjFsemEwSGFISHhyZXJ6bWpaNm1nU0RQT2pQcGhwd0VmMVNqQnVYdEpZQll5TGlaSzg3VVB2cUxST1JNMXh5TXR1d18ycWhGZ0tBZ2xsNW5IY0pfS2VWWWxUb0RpV3ZvemdwcE1RbnMwRFo1SW1DXzhtMmRtTWhjWExhdmotcjA1ci1VT0ZuSUw0VTRXSUtTNHhR?oc=5",
-            "source": "Business Today"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "EDELWEISS",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.95,
-      "close": 128.16,
-      "prev_close": 134.84,
-      "delivery_percent": 50.18,
-      "raw_pct_change": -4.95,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "FIEMIND",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.98,
-      "close": 1823.6,
-      "prev_close": 1919.1,
-      "delivery_percent": 46.72,
-      "raw_pct_change": -4.98,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "GAEL",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -4.99,
-      "close": 165.45,
-      "prev_close": 174.14,
-      "delivery_percent": 55.11,
-      "raw_pct_change": -4.99,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "OPTIEMUS",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -5.07,
-      "close": 748.7,
-      "prev_close": 788.65,
-      "delivery_percent": 43.15,
-      "raw_pct_change": -5.07,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "ENTERO",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -5.12,
-      "close": 1503.9,
-      "prev_close": 1585.0,
-      "delivery_percent": 57.45,
-      "raw_pct_change": -5.12,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "SJVN",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -5.14,
-      "close": 51.11,
-      "prev_close": 53.88,
-      "delivery_percent": 47.6,
-      "raw_pct_change": -5.14,
-      "corporate_action": null,
-      "why": {
-        "headline": "Capital Action (Mint)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "capital action",
-            "detail": "Energy stocks dividend leaderboard: Power Grid, NTPC, SJVN, NHPC or IREDA - Which power stock beats the rest on yield?",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQemdSd0drdUNxMlRTYmpVNVNTYWVJeXRXb2MtTHVDWkVQbnFlR3lwTWljb0NJenBVRm1ma2NoUncxXzFHY081YWJVWHRHUmJUcURTRmJTckVBOU9Bel9ick1xRnhRSG1URldCOEM5YU1WaDBzWTE1UktuTDVxQWZrNGRiTXFkTGdPOXFnYVF6SGNQSC0wOXRyTEpXelF3ZWR6MzMyb3VadERCcUpabFBKeTdWeWh5YVk3OU9Vbld1bmRPX2psclJFcXh1bUh6RHhjd0lyN0Z5WTdnS19kX0tfSE03T1Zsc0NVSk44c3pLUVluNU1vSmpYUHNvWTZVQThlOURjbFltNzc5Ykt6UlHSAZMCQVVfeXFMTVdwbElIVTR1dGhwa1ltSFZsenNwelZpSlowTnBtVnA2czFIY0dwekFMYXN6cmRseVBiN0VaSkZOclZtXzFOVkhFMkVhaGZqWDB1SzlVOXV5c2JaOUJ0Q3V5M2l6TzFGR0taakk1N3FKd21LVjZuZkVKV3MwUzY5THhiQkxjeHBWb05mQmUtRFNsbGY0VnJRaEY0MHJqR3FTM3V2NVp5SzdYcExBbllHakMxVTRrWl90S1RSRXc1RG15WGMwdmpHWWNHTWpVQXRyTlBPZEdMTzBTdjUyQzlkTGZsRDYyQVBNUFZxZjdTU3lydGRBNS1ZTlgzUHlXWGZ0cTVzNDZaRDhhQlNwLWo1dFp5aTg?oc=5",
-            "source": "Mint"
+            "kind": "operations",
+            "detail": "Allied Blenders and Distillers commences operations at Moradabad facility with \u20b970 crore capacity",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZFotbDhlTlBLM2J6N29pZTFNaEtVVkRzaXFwcWdGWU5FUUhQMF94QkQ1TURjXzRIN2tINm1jMEFGTlljdUlONnVoRGotNVJaQ1ByYU5KcDVCc3E0aW9XV0ZwMTRYMDJIOFpsUWY3YkFPN3VQTEFJMC1VV1NBN3l4Smp5M0p0LUtMcUhXS3FaWG5HS0JXeEo3UVotd0ZIOWhDQnh3TEZvWHc5N2NFVklVRG9RQkhYUEdDdG5TMk4yeGRMWndTUHk2c0ppdTNTX0xP?oc=5",
+            "source": "Business Upturn"
           },
           {
             "tier": "news",
-            "kind": "management change",
-            "detail": "SJVN appoints Shri Raman Gharsangi as nominee director",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUl0ajJZS21nU2lReTQyN0JUSm80YWUwZFlsbVc3bnI2aFlSNkkybW8tU0J1cVFyblZwU2p3aFNvTEo3UWJEU1dMN3lNZ1I5eFAwQjhkNnl6czNYNGJSWHloUjZ5S1pXaFE2bGNBczVFSHFpMVhLLXFXdmNYVTFYY1BialJCQjBCLXlzWU5IakRLTVhDcFRyQW5oRQ?oc=5",
+            "kind": "operations",
+            "detail": "Allied Blenders and Distillers starts operations at Telangana malt distillery with 4.4 million BL capacity",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRFQ4alhIVEV5cUhKY2t2aHRZTXlvRi0zcEowMGtWTjdkVUJUTms3NVpSWXM5VW94RFlRU2JOek9sME5oUHZPN0lsa0s1WVdEVTQtcFlNWEJ6N21ma1RBMXNESm42SlNpYlFhT0Z5cl93QnE5TlRtUjYzalNacERiUFNXVlh4cXZYUm5GSEtMdm9RZ3liQ085aHluU3lBMGJvYTZIblhNb0JnMEw0T2Z0eko0bHRLZ0FOQXVabVNNWVRsTTkzRm5BYjU2OFM1QWpJT1RRZ3ZPYy1YaE0?oc=5",
             "source": "Business Upturn"
           }
         ]
       }
     },
     {
-      "symbol": "ANURAS",
+      "symbol": "DYNAMATECH",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -5.64,
-      "close": 1109.7,
-      "prev_close": 1176.0,
-      "delivery_percent": 50.36,
-      "raw_pct_change": -5.64,
+      "pct_change": -6.12,
+      "close": 12787.0,
+      "prev_close": 13621.0,
+      "delivery_percent": 36.46,
+      "raw_pct_change": -6.12,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -1017,86 +1825,54 @@
       }
     },
     {
-      "symbol": "CCAVENUE",
+      "symbol": "JYOTICNC",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -5.97,
-      "close": 130.05,
-      "prev_close": 138.3,
-      "delivery_percent": 50.43,
-      "raw_pct_change": -5.97,
+      "pct_change": -6.24,
+      "close": 914.9,
+      "prev_close": 975.8,
+      "delivery_percent": 58.28,
+      "raw_pct_change": -6.24,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
         "confidence": "none",
         "evidence": []
-      }
-    },
-    {
-      "symbol": "MANORAMA",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -5.99,
-      "close": 1796.8,
-      "prev_close": 1911.2,
-      "delivery_percent": 56.16,
-      "raw_pct_change": -5.99,
-      "corporate_action": null,
-      "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
-      }
-    },
-    {
-      "symbol": "SAMMAANCAP",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -6.02,
-      "close": 125.8,
-      "prev_close": 133.86,
-      "delivery_percent": 56.55,
-      "raw_pct_change": -6.02,
-      "corporate_action": null,
-      "why": {
-        "headline": "Agreement disclosed to the exchange",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
-            "kind": "agreement",
-            "detail": "Sammaan Capital Limited has informed the Exchange regarding 'Pursuant to Regulation 57 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby certify that our Company has made timely payment of interest amount in respect of the Secure",
-            "url": "https://nsearchives.nseindia.com/corporate/IHFL_16102026185200_SCL_Retail_Intimation_57_16102026_WH8.pdf",
-            "source": "16 Oct 18:52"
-          }
-        ]
       }
     },
     {
       "symbol": "FINCABLES",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -6.23,
-      "close": 1282.5,
-      "prev_close": 1367.7,
-      "delivery_percent": 42.49,
-      "raw_pct_change": -6.23,
+      "pct_change": -6.25,
+      "close": 1202.4,
+      "prev_close": 1282.5,
+      "delivery_percent": 51.91,
+      "raw_pct_change": -6.25,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (Economic Times)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Finolex Cables - MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
+            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWUliRXhZLWowejh2SEE0N2ZVd3duX2FuMm9TSGpIYTQ4RExWbUl3UHV3Q0ZFODJkbFE1ejNLRnliQU9jMGEyR1ZXYWthdmtKZjJmazYxal9hTnBmSURXcEpkYjVpdk5MZXlwQkU1bUdNVkJKMXJvS3Y1cUo0bW10bEZSY0RuZFlUNXYyTFNKWnVrYXdlYjBVMEZsZWthbkRsNlF2YlFqeWV2anZfRXhGSFhPWm1oTi1NWFp0ZTUyZlNCbmhJaE5RczlxN1U5bGhGVkdxS0M5MnhqQ1BBV2ZGM0FSeXpHUHBwZC1mNEd1OFJCZVV5RjNWbGlZS2RVRmIyeHpTU0l5bjk5QQ?oc=5",
+            "source": "Economic Times"
+          }
+        ]
       }
     },
     {
-      "symbol": "UTLSOLAR",
+      "symbol": "KNRCON",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -6.42,
-      "close": 369.55,
-      "prev_close": 394.9,
-      "delivery_percent": 53.62,
-      "raw_pct_change": -6.42,
+      "pct_change": -6.4,
+      "close": 104.37,
+      "prev_close": 111.51,
+      "delivery_percent": 53.08,
+      "raw_pct_change": -6.4,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -1105,14 +1881,14 @@
       }
     },
     {
-      "symbol": "SHILPAMED",
+      "symbol": "TDPOWERSYS",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -6.55,
-      "close": 876.2,
-      "prev_close": 937.6,
-      "delivery_percent": 48.28,
-      "raw_pct_change": -6.55,
+      "pct_change": -6.47,
+      "close": 689.35,
+      "prev_close": 737.0,
+      "delivery_percent": 56.04,
+      "raw_pct_change": -6.47,
       "corporate_action": null,
       "why": {
         "headline": "No disclosed reason",
@@ -1121,61 +1897,147 @@
       }
     },
     {
-      "symbol": "DEEPAKFERT",
+      "symbol": "JPPOWER",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -6.58,
-      "close": 1255.7,
-      "prev_close": 1344.1,
-      "delivery_percent": 33.43,
-      "raw_pct_change": -6.58,
+      "pct_change": -6.51,
+      "close": 13.94,
+      "prev_close": 14.91,
+      "delivery_percent": 34.41,
+      "raw_pct_change": -6.51,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (NDTV Profit)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Jaiprakash Power Q2 Results: Net Profit Slips 81% To Rs 33 Crore On One-Time Loss, Revenue Up 5% YoY",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU1c4b1pfb3RWZ1d5Nm0xdVMwWXBFN1pXVHQ5MDBEMEtLX0lQRE11MzU0XzVDUFhYdHNTRnlqZ2Q5WTdzT3M5emZXM1Q0S1VHODlGWFlZNXVQeGQ4UVFOQmVGRy1MbEphcHYtU3BFMjNMSVZnaVZjU2JuaC1ldU55WmRWOGNhQ2ZaejJLLUZXUUN0NmFhMFNoZDNkeTFTLU5ITnlhRWJWOE1sVUdVQ21sV29WSk5TMGh5bldlMWtKYkJHS0xjWlJCRHBrTkdxQWEtdjE5ZDlSWdIB3wFBVV95cUxQNTJlMWxJZWVsa2l0QzA3SzVud3JKRlYzNWQ3UGNQUUlNYmtzdF9pamxfYlA3dW9sOUhjOVEwUC1hVEdZMmFReVZvLVlvRnlNakNPNG5NZDBjbmo1NzB0V05oX3BFU0hyT0FZOHNTWE9oenpaTkZ0V2ZtTUYtREM2Yzh6cUR5X09wSnR0TEg3MkVXWXFGLU5ncGRsYUpnSGpyb2o0S3UzTlhoNkp5Mi1UbTBMZ0ZzNng2ci1CSEhkQVlBWTVYZ2tPZVdEenBKZmoyT3VLREtEUmNlU2VucnlV?oc=5",
+            "source": "NDTV Profit"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Jaiprakash Power Ventures announces new financial results and leadership appointments",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjd6czRjcVBfenRXUl9SWGhYTHhQdEtqYUE1ZXV0RkdQNEtYclRtUC1SbjQ1U1EwTW9UVXBKT1ZQajNBa1FhWVk3aDN0OFhLT3ZJcWJFSzVpVkNEODk2NjByZ0JoQTB3elRqUlFwS3hKU2tXUWxNTW5hcFA3d2pNa0t3RWctTWJBX2VBeDlGSVdKbjlDQmoxMFVUN0lwNHF6YjkzU0NKMUtTUEJGMjJ5anQ2OEU2dEJMR0xOcVZwRQ?oc=5",
+            "source": "Business Upturn"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Jaiprakash Power Ventures announces key managerial appointments and financial results",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZE5fcl8taFgtNnVLY1pWckhGVlZ4MEpOMS0yUVRab2ZXZExlem1TemxBRlNOZEE3bUpUMEdTY0gzRURrajlrdUtyQmRTOUp0LTdUNW81M0tJRkVGX2kwZXpDV1FsZkhXdk0yeTNTbFdWbUlLa05CdVdadEp3UDdaaFpvODBpc2piT0hQRl9xZEcwblhoelFXR1RzbFh1UHo0WWZCbmUwZEZoczFSUGxveVNtRnUtZWtiT3JQZVNrLUxudWNi?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
       }
     },
     {
-      "symbol": "RENUKA",
+      "symbol": "APOLLO",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -6.59,
-      "close": 20.69,
-      "prev_close": 22.15,
-      "delivery_percent": 46.02,
-      "raw_pct_change": -6.59,
+      "pct_change": -6.62,
+      "close": 395.75,
+      "prev_close": 423.8,
+      "delivery_percent": 29.78,
+      "raw_pct_change": -6.62,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Order Win (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Apollo Micro Systems and subsidiary win orders worth \u20b9189.57 crore",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejR0ZjVRWTN5am0yMTFVZEJDa28zcENqYS1fc2Q0dThjZTFDbV9XYXJteDloVnVSdjBZOHZaOW1DQVhjRDlsck1sdE5yR2xsUXJwT0hNbmY1LS1WcFI5QkhGbFBMRHZmZ3hTMVViVjRwdmVjTVRHWVFxNmtrQWx6a3FCRUJsQTMyU0JSUlE2eWM2dTY2VXZkQzQ4M3FLVk9DSlhHNnNGbGJaOGotY0FucVl4djRBLWZldnl5NWFhMzR4X2t3Rm9JMDlYd2FjVU1a?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
-      "symbol": "AURIONPRO",
+      "symbol": "CREDITACC",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -7.29,
-      "close": 589.85,
-      "prev_close": 636.2,
-      "delivery_percent": 52.46,
-      "raw_pct_change": -7.29,
+      "pct_change": -6.86,
+      "close": 1142.4,
+      "prev_close": 1226.5,
+      "delivery_percent": 54.42,
+      "raw_pct_change": -6.86,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Esop/Esos/Esps disclosed to the exchange",
+        "confidence": "high",
+        "evidence": [
+          {
+            "tier": "filing",
+            "kind": "other disclosure",
+            "detail": "CREDITACCESS GRAMEEN LIMITED has informed the Exchange regarding Allotment of 14575 Shares.",
+            "url": "https://nsearchives.nseindia.com/corporate/CREDITACC_21102026104528_CAGL_SE_ESOPAllotment_20102026.pdf",
+            "source": "21 Oct 10:45"
+          }
+        ]
       }
     },
     {
-      "symbol": "IFBIND",
+      "symbol": "GALLANTT",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -6.88,
+      "close": 583.1,
+      "prev_close": 626.2,
+      "delivery_percent": 8.03,
+      "raw_pct_change": -6.88,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Gallantt Ispat Q2: Profit falls 32% to \u20b960.5 crore despite 13% revenue growth",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWI2Z2JhMmNGYnVLMUc1UHhuLVpfQlUxMGFkMzZvdE9lWEdxZ252Xzg5TW5tRTEySHBaX05ISFlTTUlNeVlnNjFpUmkzcndiRkZnYndDRHdFbHhyMTNleklKZ1lLUlhnLTJxVGpTQTBHbjNGZDd2bVNudzIzMWExclVyNm5jZ0ltb2xQaXJrMmFtTmZZc1hlRVNMcU1uMHI2eU1NUTQtcG5BNXRsOW13SE92aVpZQ0RUWEdWc9IBwgFBVV95cUxPbjJIcHEyT1AxU3AzMjRRaTl6ZVdzWWNtUVFvM082Q0tTTFBSM1NQcThtWWdOblNBc0ppcHRrM2t2c3JMLUFlX1I0SkZneVRQbHBSVXMwc09rX29GZjJrYUQ4R3JvTEZxOTdaWE5pTXBtcHIyaDVUdGZ1WEx4eGdwY0pmc2VLY0kzcVY4aXpUNzlmNGJlc1dfbW1jRmpJVmQteFM4MC1nYmVWWTR6VTc4QkZVd19GODVXUXpCNXJaRmRXdw?oc=5",
+            "source": "CNBC TV18"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "RKFORGE",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -7.19,
+      "close": 635.75,
+      "prev_close": 685.0,
+      "delivery_percent": 51.85,
+      "raw_pct_change": -7.19,
+      "corporate_action": null,
+      "why": {
+        "headline": "Management Change (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "management change",
+            "detail": "Ramkrishna Forgings Re-appoints Naresh Jalan as Managing Director for Three-Year Term",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNG1MSHFHNFBEVDRMendVd2FwYWNBSVVISHhnM3lkMVB6MmtTSnRSM2lvcEpxNEtQamV1QWo2SFdkQ1pUZEVNOXJWcThtd3ZTUkNCQWR3ZzllenNlS1hKMVBVa2RsT3VJZlBBVTFTOWlMV1ZHX1RzRmZ5Nzl6QVJUTnZUVExqMlRqVVNqNVFwVkh2eElvWWxwWFJxQ0VBOEJxMTFEZzZicW13akIyS1pWcmJFMjQtaVA5eE5qYkxydXU0OFRoUmJqNmxLM0htcU9Nb0o3SQ?oc=5",
+            "source": "Scanx"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "EMIL",
       "series": "EQ",
       "direction": "DOWN",
       "pct_change": -7.92,
-      "close": 1108.4,
-      "prev_close": 1203.8,
-      "delivery_percent": 48.9,
+      "close": 162.49,
+      "prev_close": 176.47,
+      "delivery_percent": 46.97,
       "raw_pct_change": -7.92,
       "corporate_action": null,
       "why": {
@@ -1185,47 +2047,119 @@
       }
     },
     {
-      "symbol": "HSCL",
+      "symbol": "JINDALSAW",
       "series": "EQ",
       "direction": "DOWN",
-      "pct_change": -8.3,
-      "close": 605.85,
-      "prev_close": 660.7,
-      "delivery_percent": 35.31,
-      "raw_pct_change": -8.3,
+      "pct_change": -8.53,
+      "close": 270.4,
+      "prev_close": 295.6,
+      "delivery_percent": 38.51,
+      "raw_pct_change": -8.53,
       "corporate_action": null,
       "why": {
-        "headline": "Results, reported by CNBC TV18",
-        "confidence": "high",
+        "headline": "Results (NDTV Profit)",
+        "confidence": "medium",
         "evidence": [
           {
-            "tier": "filing",
+            "tier": "news",
             "kind": "results",
-            "detail": "Himadri Speciality Chemical Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-            "url": "https://nsearchives.nseindia.com/corporate/HSCL_16102026181850_OutcomeofBM16102026_Result30092026.pdf",
-            "source": "16 Oct 18:19"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Himadri Speciality Chemical Limited has informed the Exchange about Outcome of Board Meeting held on 16 October 2026",
-            "url": "https://nsearchives.nseindia.com/corporate/HSCL_16102026190149_OutcomeofBM16102026_Result30092026.pdf",
-            "source": "16 Oct 19:02"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Himadri Speciality Chemical Limited has informed the Exchange about Schedule of meet",
-            "url": "https://nsearchives.nseindia.com/corporate/HSCL_16102026195743_StockEx_Concall22102026_HSCL.pdf",
-            "source": "16 Oct 19:58"
+            "detail": "Jindal Saw Q2 Review: Geopolitical Disruptions Dent Earnings; Here's Why Systematix Remains Positive",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZS1KX3psY0pNamYxdHpQaUExNVhhUFdXOUllb2xCZ195dERKU2pyZjhDSWxyR1FNNkR3YUp0QmRXel9ySDUxcWlzdXhmV0pxMHJUWGl6TVhvUUZVWE1aV0w5d1hIWXdpQ2ZDQ2xVSFJBSGhjeW9MTU8yMEttQ0hIeXNTNkVhQWVWRGY3Y28wR2JNX2ZlWFk1SnNDVUpwQ20wTlA0bnk4T0NqSGdrbWQtVXRHd2U3MnhZX01wa2lCWmV6WFd1QnpfbW4xdkQyNUtMc2J6WU9BOTg?oc=5",
+            "source": "NDTV Profit"
           },
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Himadri Speciality Chemical Q2 Results: Profit climbs 29%, but margin takes a hit",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVk84d1h0azFOZy14RFJETHlKZHZ2VUNjYm44NmdXcVlRZmFvLVNZQ0ZwczgyOEZRcXVvdzRNN3BCXzVJSnZRTG8tVVZPUXBBWlRYMVBTZVE2MmRUZHkyQ1Npd3dUMEZtNjFVTmZhZFAyaVB6WUUxWHV5VzZpMktPRHNoaWZJb2dQWEhna2Job3ZYUVQ5OGRDTE9FU3RWMmpsZGU5UmlUejEycm41Y1pPeFdUcDE2WUQ4SDZPd2xyRU15NFcxS3JrRkQ2NNIB0AFBVV95cUxNQnRFdzZJSFV0QVhjQmpZYXV2czJnb1d1aS1hSlg2MHdjSnluU3dZQ21sYXdUQWxUaW9TbURVN29sZVROQ2NDeUVRZkgtYWVHMTU2bTZRNW9YYTExV3k1emo0OEJZWGVvMUJHVmU4eUVSOFJOdmFRM3JmOG85N0JXblJvQmc0RkhBV3gwelBObnNESndfNV9uTWZuXzVqZ01zUEczcU94WTktV3VuQTJSaVYyWjVLNm5ON011NVVscWNNTmdIekVPZ0wzYjIwNTU2?oc=5",
+            "detail": "Jindal Saw Q2 FY27 slides: margins compress amid geopolitical strain By Investing.com",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXVhWGt5NzI5cURNN0doMmtVNmNQMXdlQk5CaGUzc2ZSMnlXM3NYNmN5aVdYT2p3dFoyd1ptTHdjR0c4ZmZJaEtBc2pHLWRkd0Y5bjhWZHhWY3c1THdxVUNYVTduZ0h3cmJQV0Z4TEpjbHNqbDg0M0hNclF6YWZuekR4eTF0eTJqMWhwdUdHR3lZNTVvZVNyZkRSSm9yLU51N0hoNVJYNzZ0a1BpRHpZMVVxTEhRVE02X1JvU3lHME1vQkhTZFA0?oc=5",
+            "source": "Investing.com"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Jindal Saw shares fall over 4% after Q2 profit plunges 69% and margin contracts",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRml0cVhoN2xqOTdJTm1wZWY5UDRhQU9JRjJBTWV0bmV5d0ZGaWNIeTRkcWozQ01EUjRabVFSNV9SSFVFLUEzdEotVUFSVWxaX19KNG1wdk9kNDdzc0daMUFieHk3X29NQVVieFlUOV9vNnZpQzNpcU9hOFlpVEY4NDBkRGN0aXRBeWdLMUx1Zkkzb3d6bUtNY3gxeUV5VnVJeEFzZ09uSkRxbWhDeV82Wl90WlN0dVgzcHBZZnA5OEE0dEs4?oc=5",
+            "source": "Business Upturn"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "SMLMAH",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -10.0,
+      "close": 5501.0,
+      "prev_close": 6112.0,
+      "delivery_percent": 53.93,
+      "raw_pct_change": -10.0,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "SML Mahindra Q2 results: Profit falls 43% to \u20b912 crore despite 21% revenue growth",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPekwtZkhpVXJHSTkyQ3ljYWR2T3lVQmQ3bzRNaEE3c0ptaFJXUEhZT2lMRF9FbG1zNUFkYnJPX3lrdWY0NmtrUWRsb1VIYmhaeE0yeFZDcm9OSzE3a3V2di03U19vNjJGRC1uZE5CQnZ2T0tuYjdpenl2NFNRaHZJNUhLSEY5TXJsYVFtZEFHSnVTTE10TklKMzNyYVMtTWdYWGdhQjU3UWZISUY3cUJPcnA4UENPZE9Dak5UVU5VdlJlSmphN2s1cDVzbldYQdIB0wFBVV95cUxQT3FEYXlDbWlRS0dzdHBpQ0tkUmRTYUQ5OG9VYWJiQmZ5aDFrMVR4UVVHdlZOY1pXS2FoLWNXV3VTdXAtT0VpZk1YTHhOaVpTWU03MkstUVFPcFhZbF9UUUtyV05zZkdPa3VMYnZNUE9XUzdKUURQSFBNWXkyVDJ4Nk02RlExYnJOS1dKS0hOZGFVRkNKaEpaWnpQZ3U1dUpoOU5BNnp4TTN1Q3VBZmZ4eHN1ZVBnSk9FdXMxWVpLWmJvT0RJeEswbk90VXVVNEp4Ym1j?oc=5",
+            "source": "CNBC TV18"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "WAAREERTL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -10.04,
+      "close": 743.25,
+      "prev_close": 826.2,
+      "delivery_percent": 17.19,
+      "raw_pct_change": -10.04,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Waaree Renewable Q2 results: Profit falls 30% to \u20b982 crore despite 37% revenue growth",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS20wSlpGaERLb0x0dC1Jc0o1SWFHYi00X25MOGl0U3Z6U3pDRkZDVjNSZTJHSmRCSVpTTU56N0gzYjhiWmZhWkNfVXRPRDQzTFVOeTE1M29ycVlGcHprMmJhdkpUNnpWWW0wbmFBbm5KNzhWUnBnYkp4ZmJiRXlBenNvdWxfWl9yekV5VldmSEswdnNDWlhrcVJlLVFzWGxlMzZnN01qQ1FGTnFLTG5sWVMtVGJFemNWY3JNT2xSUDJPTTRXTl9USVV1ZzRfT0JXZ29V0gHYAUFVX3lxTE9TTG5NSV9wNzZQT3Y1ZFRvZjlOTEJzUS1xcFVwRTlUS1dHSi01SmJ3QkdSOTB5bWQxMEdmSGhxMW9hb1JxQnVDTFE4VWRNWEszTUdUMU9YU0lKcjhXYW9wc2VaZjhUUU01Nm44MEViSjlHMXlpOTBfWElRMVByVXpTWTJhV2NlbU5obGh0LTM1NjJUWEVoZjRHX3dRYk4wdDNmQ0hJbWtuV0lPc01TczZzWTB2LVpzeEZBQXpNNEl3QzVZZDZKbFlMVjZ3Qkk3MmdmMUNNMXc0Xw?oc=5",
             "source": "CNBC TV18"
           },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Waaree Renewable Technologies Q2 Results: Net profit falls 29% to Rs 81 crore",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOU3dHT0h2ZnFHdkdxdHpmbWZOd2VPSkh3Rmc1dGc3VkRaZFJqUER4RHVIa0FROTgyOTNJWjRCSThmU2JSdi12RDQ1dGpOLVlTbEY0N0Z1RjM1YXYyVzhhU0hNTjZ2MkNwOHMtZWJ6bDFWY0s0UldBSmNycWZ1bVV1VXV2Ym03YzRhTHREeXFoeW4yblE1S25JY1JYZDZhb2JBMjJUSTVUTkY4UUx6a1hsaERaUmdaLXNZZVdUeHFIcGJzNzBBMk9fT1ZTZ09UMzN6cUtxVy1hOENSS1lvQmZGY0VwcnhuZGxjaU5uYnpkVkVOLU0y0gHuAUFVX3lxTE9ESU9BLUJJRmdNZ244Nkl3TzZ5OEdpQ2lqRk5CM2VGemNSYzN6UkhfWGNBa2U3VVFudjVsc0xOSkg5QUN2SGF0U3hfc2hOQnNYS1p0LVVRWHVpNk5NZkRMeWNtTVhWVU9scUpHOEtKVXRnZXdiczk4dVJyX0hHUVVzZTdGeWVJRTFTNDBSanZUS1IwR3dMdDJuN3RRcDdURDd6RjE2NnV5RThCZlgxUEdLU3VxZzRCa1pQdVduQkp2MElvVHVxazcwbUFGTEpSTGxQZi1YRmRQeW13Ty1zMFJTczBIWjhWTFNFVXpBSUE?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Waaree Renewable Technologies Q2 net profit falls over 29% to \u20b981 crore",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNc0VoR2pVaEhlMVcxZnhueUQxS1BJT2h0VHNTRXp1b08yZjJveTUtRmVtdDB6c3h1UWY5OUN4Y0tudmRYT1ZPcTMwajR5WnlTNmZBbm0yR0ttbGlwbkE4YzF5b3ZUdGNTWXVKQk5UU3NNeGlXSVVoWkhnWmYxQzFCTWRqQXNHeElFTjdPYUgtNXNGMG9EUXVuZC1qRmI3NmxTaFdvM09SclpTOEpVdUw1VFQ4cHQzU0s4bDFJT0gzLUg2NXBSTXlCU2RZb253aE0tWjRvYzJaRjZmRTFiZ28zbmI1UGxNZy01X2Fz0gHrAUFVX3lxTE1zRWhHalVoSGUxVzFmeG55RDFLUElPaHRUc1NFenVvTzJmMm95NS1GZW10MHpzeHVRZjk5Q3hjS252ZFhPVk9xMzBqNHlaeVM2ZkFubTJHS21saXBuQThjMXlvdlR0Y1NZdUpCTlRTc014aVdJVWhaSGdaZjFDMUJNZGpBc0d4SUVON09hSC01c0Ywb0RRdW5kLWpGYjc2bFNoV28zT1JyWlM4SlV1TDVUVDhwdDNTSzhsMUlPSDMtSDY1cFJNeUJTZFlvbndoTS1aNG9jMlpGNmZFMWJnbzNuYjVQbE1nLTVfYXM?oc=5",
+            "source": "Business Standard"
+          }
+        ]
+      }
+    },
+    {
+      "symbol": "HSCL",
+      "series": "EQ",
+      "direction": "DOWN",
+      "pct_change": -10.99,
+      "close": 539.25,
+      "prev_close": 605.85,
+      "delivery_percent": 33.83,
+      "raw_pct_change": -10.99,
+      "corporate_action": null,
+      "why": {
+        "headline": "Results (Hindu BusinessLine)",
+        "confidence": "medium",
+        "evidence": [
           {
             "tier": "news",
             "kind": "results",
@@ -1239,117 +2173,6 @@
             "detail": "Himadri's H1FY27 profit rises 29% to \u20b9460 crore on speciality growth",
             "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOGpiYmQzMzF2ajBxWFZBeDhpYkdTYkZWczdldUNjVDFwM0NFUndZeUNDNGM3V2VTRTY4Wk1ZblJ6OWxhVkpaT0c3UVRPRUFzUFBEcFJicDRIMzdMYUpEZ2luSWZVdDk3Si1rQjB0U2gxM2tZSXBPSGFmWkk1bEE3anRVVzRVR3VKcGtyM0daSUg1Ui03VFVnYTdIWjdCZU41QUwtY3c3cndLMVlLemlWcDR0ZXNOakoySURjZC1TYy1vMlZ1MVhzZHk3d1Nsa2NLVkgyelpLSEtVY1YxZVRmdVh30gHnAUFVX3lxTE1xTzJUVUFpNS1ieDJCTzMxLWVya25TUmsta3BESHVTVkwzREdaZW9UV2hoMnp5MVRDZDFxYkZCb0JUSnA0Y2hIajZBQUJRQlFJaVBJd2ZhdFRINzJuNDdISE5FV28tM2QyRVl6SE04aENISEFYOXRRMjRlSWZTR1N2aXNjZkU3d2dmekE0cmIzNHU0Tld0aU80X0wxMVJLT0V0dUdZWUs2Zi1qSzN4VzdDMTNFX25venZFdlhzcE9GbGJxdGEwWmVDTHZ5NGpaYmI3QlZKT2NTTmtjei02X0NZWTJaeG91cw?oc=5",
             "source": "Business Standard"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "URBANCO",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -9.89,
-      "close": 142.48,
-      "prev_close": 158.12,
-      "delivery_percent": 21.64,
-      "raw_pct_change": -9.89,
-      "corporate_action": null,
-      "why": {
-        "headline": "Results, reported by Moneycontrol",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Urban Company Limited has submitted to the Exchange, Approval for Financial Results (Standalone and Consolidated) of the Company for the Quarter and half year ended September 30, 2026 and fund raising",
-            "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026160108_Urban_Company_BM_Outcome_16102026.pdf",
-            "source": "16 Oct 16:03"
-          },
-          {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Urban Company Limited has informed the Exchange regarding a Media release dated October 16, 2026, titled \"Media release on the financial results (standalone and consolidated) of the Company for the quarter and half year ended September 30, 2026\".",
-            "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026161112_Urban_Company_Q2_FY27_results_Media_release.pdf",
-            "source": "16 Oct 16:11"
-          },
-          {
-            "tier": "filing",
-            "kind": "results",
-            "detail": "Urban Company Limited has informed the Exchange regarding Outcome of Board Meeting held on October 16, 2026 - Approval for Financial Results (Standalone and Consolidated) of the Company for the Quarter and half year ended September 30, 2026 and fund raising",
-            "url": "https://nsearchives.nseindia.com/corporate/URBANCO_16102026161537_Urban_Company_BM_Outcome_16102026.pdf",
-            "source": "16 Oct 16:16"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Urban Company Q2 results: Loss widens to Rs 183 crore, revenue up 41% YoY",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTdZS3otWC1uR0FITXRLbGVTa2R1MjZadF9wVlE1aVNiRHNlUkRRZXdmMG1pUnN3YzBRcm1NQVJoWkVLNTU3VWRTS3hqNUpXNWxJbDBsR0NXWEo1a3VVVWJuQWtKTlpkZE54VVc4NXk2TENrcHJLUkYzc1gxZlJWTTljcXFtX1Vxc2VmZmIxTXU2X2c0czUwQm82SlJlS3FrR2FRNk0yMGNrTHFkOUdmeVVmVkxMT2otbF9wVlZJSzlPTFZTd25pZU5XcUJ2TzVEcnfSAdcBQVVfeXFMUFcwVEN4dlZNbnNENlkxNkNEaExsUDNNczZ3aEJJUU5kLUtPMWFfcVBxelhtNXVKcXpaX3lEMkhBM0JQSnE4eEtIUm9LTmNycDBQaHhFREJ0ellQTlNQeERRcWQ2N3ctTFZUMjVOYjJwMWJ2SWNRYzNHUEZ3LW9CUGMtRzVFVU5kV1haYUpWd3ZaRXJHVXlEWVhtVFpCdmtzOHdXMHlkX0cyWmhtSDBXU1lhUmtxSFRNd3BRRjdwSlpDcGpPME9ad2hRNXhzcXR6aTRRZEVwV0E?oc=5",
-            "source": "Moneycontrol"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Urban Company net loss widens in Q2, revenue up 41.4%",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbWIyMm1yNmNGRHNyR0pkYVFpV180dlQ4VGVKT0tZc1BMM2ZHSFpLU2xlRWZ5QmswZmRjYi1ZNUJyYkVPaUV6ZlplVnBQa19KRVprZXpGRHg3cU1haVVVN1JZemVzR0V5NnJKRG1hdC1PRnk1b01RdnZWV1dDUEEtTWZrNEE5MXhyWS03YUdVdm5xV0pvNDhxZWtyRHpkeDlxaWo2cUUxOWZEZEZqWWZxeFlLcmZWbDRQ0gG_AUFVX3lxTE15NEVUQ2R6bkwzeGZnMGZCakhUa2oxVWFPN28tY3pIclhuUnYtMzhpNlktU2JEWnIyVmpEaFlpeGxpWmdQcDgxeE05eTlVRjE3RVNMVVR0elNXRGY2YXBPU0tmOXptbE54SmJMRDQwSy03ZzVNQ294ZkxBbF9sNVRaTjJmcV9qa3JzcF9yUkhjUDUycnJ2XzZINWgyck1SWmswSnVVOXNaeUJ1S05laUJoNTNxdlZCUEt3SlhUZ253?oc=5",
-            "source": "Hindu BusinessLine"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Urban Company shares fall 10% as Q2 net loss widens despite revenue growth",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN2wya1FpazhyVXRVRzhyU3g1MnlOY0t6N05nRG01bFdBX0FxSVVnWHU3Y1BlR2tlVUFhUjlPVWJuVXN5M1QyN2tzRF9GYlhHS3dmRm9PNml0OHJxQi1sbFdvN3NSTjc4Wk0wODhwcktmV1RxTTZUWTZvQmFNT2dodHV4cmM0cVZveFhmNlNqbVZaRzk2c0pXZmg1OWtVdGpWZl82d2FZZmxkYllxcjF2Q1I3VGhUQldEbjJibDFxcUZDNWFKMi1sSG5qZlNaTmpJckg3anVEWdIB3AFBVV95cUxOOTVKQkhQYmJYLTNmVkpONUpHUlJBNWR2eDJiMjcxb1dEdXZZNk1jSVlXdEpuZDJod3FDN3VEdXozU0lVRzBod2NOQU5SSF9hX2gxVTAway15NTlKTnJVMU9yb25GSkQ3OU1ZemxVNXhaMWxrLWlWLXRRa0pwUjNxUDRoclFUTnhSanZKUW9SdG85WVUxTWM1ZXoxZDhkbnFzLUlBV1JETk9BRWw5d3ZEazFoeXVXbS1EangxOGZEbHlVVFR6LWFpeHExeUVQdnlJVF9SYTEta2syc0ZI?oc=5",
-            "source": "Business Standard"
-          }
-        ]
-      }
-    },
-    {
-      "symbol": "JSFB",
-      "series": "EQ",
-      "direction": "DOWN",
-      "pct_change": -12.76,
-      "close": 428.0,
-      "prev_close": 490.6,
-      "delivery_percent": 25.27,
-      "raw_pct_change": -12.76,
-      "corporate_action": null,
-      "why": {
-        "headline": "M&A, reported by Moneycontrol",
-        "confidence": "high",
-        "evidence": [
-          {
-            "tier": "filing",
-            "kind": "M&A",
-            "detail": "The Exchange has sought clarification from Jana Small Finance Bank Limited with respect to recent news item captioned Federal Bank not in active acquisition talks, but open to deals: ED Harsh Dugar ET Now Exclusive. The response from the Company is awaited.",
-            "url": "-",
-            "source": "19 Oct 13:16"
-          },
-          {
-            "tier": "filing",
-            "kind": "M&A",
-            "detail": "The Exchange has sought clarification from Jana Small Finance Bank Limited with respect to recent news item captioned Federal Bank not in active acquisition talks, but open to deals: ED Harsh Dugar ET Now Exclusive. The response from the Company is attached.",
-            "url": "https://nsearchives.nseindia.com/corporate/vinay_raikar_janabank_com_19102026151431_Clarification3rd.pdf",
-            "source": "19 Oct 15:15"
-          },
-          {
-            "tier": "filing",
-            "kind": "investor meeting",
-            "detail": "Jana Small Finance Bank Limited has informed the Exchange about Schedule of meet",
-            "url": "https://nsearchives.nseindia.com/corporate/sanath_rao_janabank_com_16102026164510_IC.pdf",
-            "source": "16 Oct 16:47"
-          },
-          {
-            "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Jana SFB shares fall 13% to hit 6-month low as Federal Bank says no plan to buy stake",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdkRZdG15QllmVWNPTHhLWjdJUDV4XzB3SV9FdXAzYWlXN3ZOQ0t2SUhLQi1HN0FlWXdjeWh0d1ZxRWx2elBXb2JvYnpwcGUtb0tzbmVYQnpWQzJyNWpTbV9xWlllVE91bW1nS3dSYW1IZ0RDdGd3WGNxei1jOHc3bU50SnBBTDhXTy1IX3NPbE5YcnVfN1JkOFhqekxkRkEydlRlV29nSnFjc2Q5RTNOdXFucmZHc1l5SmZCMDN2enktUUd6bTdpSkVqc1ZKbVMzR19SMjNzek9JRFBOYloyWmxoMNIB6AFBVV95cUxPQThrVjJsSHR1d18tNGc5SzE5MEx1REhVWmo0cGxPb19jTnFFUXo0TlpiSkFQdlF2c2RKY19STXU0VHdmN0lGYUt6TkdkeHo2NjdSejMwQy1UOXFEbnhUMUdrYmRDNGxBeWRkTHR0U1hCVTdpeXpCUXlncElRNXd4Q1ZOa2hDWGRkYm1TRGxnWlZ3cU9uYWE5ZERHSnZ0M2NoWWRoZDZGMzdxVWNwVGdfS1BzVlh3Vm1IMEN1cE1fZkJxekNLS1ZYOVFIZXBhVklzXzNEZkx1bjV4LWxlOTRZVXcwZGFRcFJ5?oc=5",
-            "source": "Moneycontrol"
-          },
-          {
-            "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Federal Bank Shares Jump 4% After Acquisition Comments, Jana SFB Falls Nearly 10%",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWWcyR2c4X1V2MlIwUHVkSUd5dTRkX19ELTNFUTE4eEFLeFlwbTVfbTY1Z1hUdGJwZlFBcThSZEI1a2Y1a3d2a3lVaWNyZ0hRWXdIcW9lSmRmSXlYR045YlJQNGFHalpSVGNkVzV3eGNEdFhSWklzTDNSSUNGUFItTEtYVENWd1JEYjc1VDkwOS1VZTZHYlBRd01jekxCMDk3T1F4a3RYcklmUmNYdjlzUEFVU09ieEZBQktSaGdkMFEtSmJRWG92VXBjSllUZXNLakJPUk1PVy1keVJrWFlIZnNZSdIB6wFBVV95cUxOd3Y5NWJHYXIxQnpHSnh1bTZPNTVOWEpMM1FpeU5YLWd0aDJNUnB4aUItUG16UjdtVUpuZ01DZmIxS3NJdlhtQXVGOUdfZTFjd29GMHFfWFJuRWtBcVVnaFJYcHUyZVg4THZ0Z1BJbUxqLUcwRTJRdGtPN0ZRUTh5VFZkNUlmTEJ0UXNDamM5bmMzdUh2djNjal9Pa042YV9NTjBLMWNSWlFMTDJkQmZYSkFmREFWUU9uRnc0WFdNbG9VUXFFZ1dRWXRaZGZaMVJiVTIyaFZYSUNmWldJYXJTM2ktVHREQlh3OFVN?oc=5",
-            "source": "NDTV Profit"
           }
         ]
       }
