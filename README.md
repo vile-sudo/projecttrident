@@ -5,8 +5,8 @@
 Closing moves of 4% or more on the NSE, and the delivery behind them,
 from NSE's daily security-wise bhavcopy. Rebuilt every weekday morning.
 
-Latest session: **2026-11-02**, 146 flagged of
-742 scanned. 37 session(s) available.
+Latest session: **2026-11-03**, 50 flagged of
+742 scanned. 38 session(s) available.
 
 `latest.json` holds the newest session and `days.json` lists every session; each is
 also rendered as `<date>.html`.
