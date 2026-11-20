@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-11-19",
   "threshold_percent": 4.0,
-  "generated_at": "2026-11-19T17:10:39+05:30",
+  "generated_at": "2026-11-20T14:37:05+05:30",
   "stats": {
     "scanned": 742,
     "flagged": 46,
@@ -45,9 +45,16 @@
       "raw_pct_change": 9.03,
       "corporate_action": null,
       "why": {
-        "headline": "Explainer (Business Today)",
+        "headline": "M&A Or Stake (CNBC TV18)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Voltas signs JV agreement with Atomberg for room AC compressors, to acquire 50% stake",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNklvMklHMnVjbWpBTmNabnpsblBJT1hkTnVpV0l0VXdCU2VPTVQzVUdCcVpKTUlpWWtwajRwbkczd2dFQ2gycGlMQmUwdG51OG54Rm5Va19wVUl6MndtQUFnUHhhQlhuaW1QemlXVFFFc2F0dFplVWVsRGZzX3hMeXRfYVdJdXpNT1RrR0xaMGlldlNIb0MtSEswN2Y0Ymg2ZlR4elVqdVlNQnhwQ3hKbWkxYWg3aTlQRmtNYzRaanlMZi1tRHlR0gHMAUFVX3lxTE4xX200NzFxa3JMSGVpaUxaQUE4SlNHRHdNS1M4OXA5d3Q3MkpWdHVvNnR5MHBJajdZX2lkekhmTERDYWZHTS05QUdHTVJ1XzVBN3MzelFXQUJyVEREdkMzQjJVMjJfSnBNMGRCcm5PSmlrOHFWbWlVZnhaMnJZV2prOUdlaV9kSHA1MjBvSktYdXdYTHpnQmZDLWFQR21ONnVOVXZaaUtVSVBsMURrbDNvV3JtRklWSVJ1c3IzU2g3N0o1SmVhdVFtcDF1QQ?oc=5",
+            "source": "CNBC TV18"
+          },
           {
             "tier": "news",
             "kind": "explainer",
@@ -152,8 +159,15 @@
           {
             "tier": "news",
             "kind": "order win",
+            "detail": "Maruti 800, once every middle-class family's dream car, becomes first Indian vehicle to win FIVA heritage",
+            "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU0tmYVp4Rk1NOW91RF90QlZSbVdWaVlFVEhBejJ0TGpaa1BjSUF1eW1NQ2habVRfa3hNWUdMOEo1bkRsanhoYmM0eFNhU1NyeFk2Z19IOXFxS1dyMk01Tzh0SW42SS1XN3hETmRHN3RNNkNDZkZTYjlja2IteUYzTi14WVBZTHVCZFlHVHU0NkFUd1VkMk5KOUNXZzBNRmtKaDZoVlVmWnNWeUJvWmNVUXBTQ2hvT28zb1otejFkdGNtTjExLVdGb2Mzak04NTNjSmNaanY4bkZjaFR2Y3VDQWFEQ2R2clNqM1F0dWRxQWo4MFRFcm82WEF3aFdTZHp1OUpGU3hXY2ctODJxUk1qbDRQbGHSAZoCQVVfeXFMTkZzSXRQNUhPdUR3Y3M0S0FXczdONzU3ZVlTYjRGWXFlbmdWMVhLaV9iMnJud1dwclRhWHhtZkg2NHBDMnVuTFNqOWhJSHpMS3hmUm16cEVhQ0ZpaFBVd2t3NUpoX1JiNUVuWEUxLThmNlZkOF9ueHVDSG5oT2RzS2lGeEcwbzlXb0pQWTRLQk83aTU0WXQyaWFWOHdDWFRUdDVWQlk2c3Z6a1h3LVJMVFZoNmN3NWRoNmJiZHVrbGFZaDlOUHZxSzc2Rm1yN2pGdE5yOHA1X1cyZFN1WHVQTXJSbVA2V2VRTTREaEpVMzN2NVpVUlVJRk0yZFF6OVJPUVNLenk5dkFDRnZDSGFKODRleGtwU0cyalZB?oc=5",
+            "source": "Economic Times"
+          },
+          {
+            "tier": "news",
+            "kind": "order win",
             "detail": "NID students bag two runner-up spots at Maruti Suzuki design contest",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb19kdHJDU0RvTFJDV2xHUUxQQWxQLTJFR005bXg4bEw2WDkxY1JJbk9uSDZKa2czMVhCYXNlbzZ1d2xJMjlEeUtXV0lzSGUzZFozeW1vOGsyUXhNcmlLR2d6QjljLXpOekNqSUYxSFQ1SGVBejJNVVI2M3huX0h6cTVoYWtmOEhyUWNRUWs5bDg3UWlYOVRpeGs1YW5xSFdCb2JuZVlVUEhTMUNVakVOYW1mcjZQeVFmbzZsZ0FveV8tNlR0cEgzdTk3NU55UExJV3ozVTlneDA1cGJyNUHSAeMBQVVfeXFMTzhQX2JodmY1NVUxdDJDLVY4OTVIcWFYSy1TVzd2aTBJUkswa0Q0NGNOb2pTd2ZNM2dRV0pnUUg0X3k5TWE4cldrdG5oTW96OXUwUnR3WkhZemR5REI5UVB3YnpfQVBnTmhyVTNsRkhJWGtpSC04RF8zd0tsdDRoZVd2aENNS29uMmxGeHJ5Q1pib0kxTkZmN0JFdHp5Zm1TX0tYRUtqSWJWcXEtWE4xWFRwRFlpUjgtSThfTlg3Vm9Ic1czcGpxTzc4NngwYzc2X0M4YmRfdUQ1TnRuWTRsdFA0TzA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOFBfYmh2ZjU1VTF0MkMtVjg5NUhxYVhLLVNXN3ZpMElSSzBrRDQ0Y05valN3Zk0zZ1FXSmdRSDRfeTlNYThyV2t0bmhNb3o5dTBSdHdaSFl6ZHlEQjlRUHdiel9BUGdOaHJVM2xGSElYa2lILThEXzN3S2x0NGhlV3ZoQ01Lb24ybEZ4cnlDWmJvSTFORmY3QkV0enlmbVNfS1hFS2pJYlZxcS1YTjFYVHBEWWlSOC1JOF9OWDdWb0hzVzNwanFPNzg2eDBjNzZfQzhiZF91RDVOdG5ZNGx0UDRPMNIB4wFBVV95cUxPOFBfYmh2ZjU1VTF0MkMtVjg5NUhxYVhLLVNXN3ZpMElSSzBrRDQ0Y05valN3Zk0zZ1FXSmdRSDRfeTlNYThyV2t0bmhNb3o5dTBSdHdaSFl6ZHlEQjlRUHdiel9BUGdOaHJVM2xGSElYa2lILThEXzN3S2x0NGhlV3ZoQ01Lb24ybEZ4cnlDWmJvSTFORmY3QkV0enlmbVNfS1hFS2pJYlZxcS1YTjFYVHBEWWlSOC1JOF9OWDdWb0hzVzNwanFPNzg2eDBjNzZfQzhiZF91RDVOdG5ZNGx0UDRPMA?oc=5",
             "source": "Times of India"
           }
         ]
@@ -215,9 +229,17 @@
       "raw_pct_change": 7.24,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (Financial Express)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Why Nuvama picks PG Electroplast, Syrma, Amber as top EMS bets over Dixon, Kaynes post Q2",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXRBbHJSNy1rMk5yLXdBVUlGZFBPR1BKemRhRTU4MGFYQng2LWhidmlhQmRRdEtMb3pUb25uVkNJTlZwZ1VFSWJTNGJOcXVwd1g0bkptanRiYmo4U19xVl9Wa0YzUFNtejdhWFFJQS1DMVc1Q1JKVnNBWW9TWEwtQUFfUVQ3MFFtY0lGVnhKWHJleGxUV3hfUFlzSm9sNmtlMnF2SG1iTnRGY1dZbXBTRkQtU2R6c2lJUDBiRVBTN05sLXJsQ0toZjRzLWMwTWhk0gHXAUFVX3lxTE1OV2xtMzBmaURnZXpHZjJTVjJqSUI4RHFQc19JYUxLUDhvd3VueFg4d25kc1ltNXdIYUtUT2tCSU16R05iaGxkcGgyVzFQTFl3NDd0am5JYktUREtWUUJCeF9ualhpMmtDLTdrOW5EOVMteHdsd05fVmZDSjJHeTFrS0lNQUVWVjN3TVl4ZVpMS1Q5NUJYcEY2cnpEbzA1WC1oMFNYVTdRbTFfdTYyOXdvZHVQZWNTVEtweEJyUmttbzlUT3JCUFdTbUZSa0VPZUlEemttNXZB?oc=5",
+            "source": "Financial Express"
+          }
+        ]
       }
     },
     {
@@ -231,9 +253,16 @@
       "raw_pct_change": 7.16,
       "corporate_action": null,
       "why": {
-        "headline": "Results (Business Standard)",
+        "headline": "Results (CNBC TV18)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Tata Technologies expects services growth to continue despite seasonal Q3 softness",
+            "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQSXpWZVJVRk12YUVaRWZpMUh5VmtxTDgtV1hyOTlMTFlUYzE2QmVUTWxEeURsWnBjelNicjMwdzdLQjFfNENEZmMwZFFEMWdFN3g3OF9yTTlmTTB0ajdMS3otNEFFLVF1WWtUNVM1WWJBeUJuYWQyaXZIQ1U2YWdkUnNRSkQyU1EtWGlaT0lCODlVMEZsTHVYS1NFa3Z1c1g2VnUzN3BfNkJSY3dSbGpWempDd1Q1ZmZ1T3RzZVBYa1lnMExsWjJ3YlZyN2ctTnZ0a2pPM0pUbmdhbkY4Z2NPME9FVlBpNDF1VVhaOTlVR19RN29qTGtQZ29JYzhFS0x3U05EUmV2ZWpoQWw5WlFlQ29vNFU0cGF2LWpmbEJoN3c0dUo3Z21KVVZ1a0ZSTjBDWTc5Q2swZENCNmZWdnYxVzAxeTc2b2diNmEzXzdDUFk0MHMzOHNZME5mdFJmVnZWU2RVQ09USFFiQ24zLVNFa1RraVJfVUEzWkJDc2VaQzg4WDNxTHfSAYYDQVVfeXFMUEl6VmVSVUZNdmFFWkVmaTFIeVZrcUw4LVdYcjk5TExZVGMxNkJlVE1sRHlEbFpwY3pTYnIzMHc3S0IxXzRDRGZjMGRRRDFnRTd4Nzhfck05Zk0wdGo3TEt6LTRBRS1RdVlrVDVTNVliQXlCbmFkMml2SENVNmFnZFJzUUpEMlNRLVhpWk9JQjg5VTBGbEx1WEtTRWt2dXNYNlZ1MzdwXzZCUmN3UmxqVnpqQ3dUNWZmdU90c2VQWGtZZzBMbFoyd2JWcjdnLU52dGtqTzNKVG5nYW5GOGdjTzBPRVZQaTQxdVVYWjk5VUdfUTdvakxrUGdvSWM4RUtMd1NORFJldmVqaEFsOVpRZUNvbzRVNHBhdi1qZmxCaDd3NHVKN2dtSlVWdWtGUk4wQ1k3OUNrMGRDQjZmVnZ2MVcwMXk3Nm9nYjZhM183Q1BZNDBzMzhzWTBOZnRSZlZ2VlNkVUNPVEhRYkNuMy1TRWtUa2lSX1VBM1pCQ3NlWkM4OFgzcUx3?oc=5",
+            "source": "CNBC TV18"
+          },
           {
             "tier": "news",
             "kind": "results",
@@ -244,16 +273,9 @@
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Tata Group stock jumps 10% after setting a $1.3 billion revenue target for FY30; details here",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWi1lR25Wd3ktZmRmbU1xYVlfSnpjRUJHUjRQNDhJT0JGM080R0M3WUpndnVtU1h5dk41TTVMcG5vYWo1UTQ3czUyOV9iMjBRM3Q1Mm8wTFZ0Yl9QRzZKc3hIdFNaRjZiaEQ4ZmRnUzJXeFNNWTN4aFpXeTEydzFDYkkzeW55N2E5QnZsR1R6Nl9xME85cGRVTUJvOXV0VDBnZ1dQWFJKYlZya0VRazkwV05wWHltRy0wUm16OFBGNE1oOGxVZ1hkTXY1M0syMEnSAdQBQVVfeXFMTUM2NWI3SFJoUTNJTFFWT0RyS1ZOMkZwYXR2M29qbnQ5MFFlcnJkQlhJRHNCYlhnV2V3VFQtaDJxRDlYamZ4Vy1MLWdxeEhocVd6OXZ5eGVIYnhUa2VaNVlmYjZHM2duU0otQ3FnYk94a2JzMjVMSE1DWmgyOXYxY0FucEtBSTUyU2docDc2VGhoY0xreGxrYTFRZXhsQUhEaFViZVZEY25XLUQ4TGxZVklnX25lQXprRGtnU2E3STRlWU5STUtKbGZkTzhnWTFIemNrTTg?oc=5",
-            "source": "CNBC TV18"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Tata Tech jumps over 9% as FY30 roadmap targets $1.3 billion revenue",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeUktbDJONmctSTdfN3lMczRlZVM1WEsxQ2tvdS1ZdExJUkp5elZFeW1vRDNYQjVHWHp5VDE4ME90aUNyWXRwVmRRb0N2ck1ucVRHMkdvYmNwYU9uQnpTVnA4YkdDRkFrRWVmVnd4V3E2OWhlVVVKaU1vdGIwWHMzZXNLOE9LeE5RYkJ6NUE3bldJcUJtaDh5S2dtMTJ6Mm81WlN2Zm1ONUhoc044Q3ZnWkVybk9jblFGUW5GVEZFTkhidmktSjltYlhhbTVHLXBQNWNN0gHTAUFVX3lxTE95SS1sMk42Zy1JN183eUxzNGVlUzVYSzFDa291LVl0TElSSnl6VkV5bW9EM1hCNUdYenlUMTgwT3RpQ3JZdHBWZFFvQ3ZyTW5xVEcyR29iY3BhT25CelNWcDhiR0NGQWtFZWZWd3hXcTY5aGVVVUppTW90YjBYczNlc0s4T0t4TlFiQno1QTduV0lxQm1oOHlLZ20xMnoybzVaU3ZmbU41SGhzTjhDdmdaRXJuT2NuUUZRbkZURkVOSGJ2aS1KOW1iWGFtNUctcFA1Y00?oc=5",
-            "source": "Business Standard"
+            "detail": "Tata Tech shares jump 10% as company targets $1.3 billion revenue by FY30, bets on aerospace, industrial machinery",
+            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObTMxN0haVnMybXhKQmJYbHVMM1NaYlY4R2FPd21aYUpSS0lSRFhfVWlVNWpMa2gtZ2R3MEJQeGpjRVV5cExwQjR3S1g2THR1X3lhVGlmb1l1QmtwTDRzVUUxdzZ1SVpoWms0ZG1LbkMyUFdhMFpoOUd6WVAtdjJpRXF5TGF2S1NoRFJobTFWdUFJUngweEM5Mi15UWQ4SENRenBZMXZWLVZQQjVWaG55ZnJyNU9vNG9oNlREdGV4OXd3RVc0S2hSUWNWRGZzMzdzaEk1Yy1OQ3Ewcm1sWkNuUUNMZTlwenNCbE40YnYwOFlqUVpzcjBaUmpQQ201dDVDbXpfQkZQeFMzSU9B0gGSAkFVX3lxTE1oand6QXdnRVlBcXlCcUNlc01MdGNydnlLMFFyM2hYTjktZmN2MUY3bFluY1hHYlJBVnRhUGFFYjhVd25kaEF5RnFNbjF6aXBnLUVjaTVYREVyX29od083cm9oS1VjTE5FalJQOFN6a2E5NEhCLTBaNzBOaFlhNlVNamo1TVc3Q0hEalJ3OVJMUzhuMWVuOEhMSG56b3NGM1J5Y205TUZiV2JFTWV3bXhPUm45ekg1alVfZGVuVkUyRkpHN214TTFtY25lQU5hWnJ0LXFxX212Wjg1OHQzWXRjMzc1eG05SF8tckxOMVJ0UkxsVFVzMkdyRlItYS1rMEJZV1lXVjdwYmFwMWFrZEszUFE?oc=5",
+            "source": "Mint"
           }
         ]
       }
@@ -269,7 +291,7 @@
       "raw_pct_change": 6.31,
       "corporate_action": null,
       "why": {
-        "headline": "Results, reported by Economic Times",
+        "headline": "Broker Action, reported by Moneycontrol",
         "confidence": "high",
         "evidence": [
           {
@@ -278,6 +300,13 @@
             "detail": "Physicswallah Limited has informed the Exchange regarding a press release titlted \"Physicswallah FY30 Ambition\".",
             "url": "https://nsearchives.nseindia.in/corporate/NEAPSPW_18112026163010_press_release_intimation.pdf",
             "source": "18 Nov 16:31"
+          },
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Physicswallah shares rise 8% as company guides for 25% CAGR by FY30; brokerages say 'Buy \u2013 check target...",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSWJNQmp2YnVXMGs2LVl5NjJ2anMycHBURUNTWWYyRjFzNnlxbUdCV2lROXZDeFZGYzNjUUgwNHdQX1VjU1NJaURzbDJwc3l4amFmdzZqaWdDaUdhYnpHRmJUUzBiQkZWSGw0VHBhVlNhclpwQmxzRmRFLXU1WkIyWHRMWWxlQ1pwdFhCQnN4dzVPaHpRdkZNdFIwQVFEVEJtSkF2TS15MEFLZGRLb25aV3pXVG1nMzNZbm8zYmpxdmpyb0VBY05kTTlyZmx0VW9jM3F6azVwb2NiMjktY3VDXzhOeElVMEhldzE2Wkp4TVlTYXUyTTlHUG5TTFc2d9IBgwJBVV95cUxNaDM0N0U5ZW1RdUIyQ29hNFBYN3hud25KYTl3bjkxdWZXVUYxaDRQS3lmNlZGdW5rclJTbDNwckZBcmpnTXlzZG9odm01cktUZ2tLaDY4eU9za2RfUy1KQWlRREttVUVYMGg2dkwtLU96WU44S1AyVXFvY0hpV0EyVWt3ZHdlenp6eHJrVFlsd0VVNG1JX1hiUkhzelFLMmxyMjJtRUxrclp4Wndwd0JqOFlLUmVXOHBvbjJlSWs1VlZRNW1saDZ6bXUtNTRHUVlTbDFJdF9aSWFpeWxUVzZrSVpWNmM4c0NNREQ3QzlQSVhNUXNPNmJXcE9vbjBNLXczcFhV?oc=5",
+            "source": "Moneycontrol"
           },
           {
             "tier": "news",
@@ -291,13 +320,6 @@
             "kind": "results",
             "detail": "Physicswallah targets \u20b910,000 cr revenue, 20% operating margin by FY30",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT2dNM0t3YWVXV3NVWGM1dzlXeXRMTmNaMVpNMEZjS2ZmSk1oSmtucFUzakRVXzhsZkV3QUhOT09zM0VuRTRlMnU3UUEzN1RqRzk4dHRHN1JnYzVPa1YyTmJiVldScjR5MlZlOTNGMGJObVlsN0pSbE0yWm5Sb0dLejV4QWtDdzJLTG9UYklPaHlrOGk0dC1pVWJjOGJtOVV1LXVfX3BsZUpXZ0FNN0lsaTlJVVh1MGNtS2hPWWFBV29oZXdJQWtxc2ZhU2diNmlVZVHSAdcBQVVfeXFMT015M1AwV1ZrdE1ONU5FY3NINy1iWkNJVG1GT2UwWWlPMzZkaEpqNGtCYkYxVGhGZ0ctSk0xbG5jT2lUT1ZTcmhvNVpOQkxEN25JaXp0N0FhQ2M5aU5qTzJoOFVIcHRxM2FIQU1WZnRxQmdLWE03VEkyNFRaMmgtZEZ5cWdZTXlGUk44eTBIaGttc3VfU1JhcmNGNzNIZmVVcGZiVXp1cDdYTFh6Z2M4WVNIQTFMcm0ycTd2QkNEM1czV2NLSi1rcE1QOWxTUHBxTkRRSUFHT2s?oc=5",
-            "source": "Business Standard"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "PhysicsWallah targets nearly threefold revenue growth to \u20b910,000 cr by FY30",
-            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjZsQWJrM3hZVmpUd0ZDTTFCYVp1YVpJM29lSlFibm1wYXc5TkhjMzJNcGxfZ045aUJwTmdZcV9UUE1CcmNEcDVseElObE5vWVF2MDlpcndmclc1RXFWaExwa0haUEY4MVBQNGoydWt6bHZBTnQ4WFhBNkpwM25sSVlRTGhUZFB1c2hqS3JCVlNiNlJUSDc4dFpEOE1aWUlQQ0RHUlh6bm5zbm1XU2IzNmxVTVdabWVneUMtcVNmSmtRdmVfbGltc0xVVUg4QzYtcDFDbHVTRzlJWVnSAeABQVVfeXFMUDdWT0NXN2xqWUFqU1gzU2otQkhPSFY1ZFBZVzJNZHZmYVFJTGI4WGpzZHpqVHpvbXJzT0RSUG9UOWRLQWRHMWJxVWJTel9yRzdodllGYVQyUmExODBKV1BwQnIxc0VUVlpHZG90R0tDM1JuS2o1YW1wT3hZOW1Zd3dHOENIWFF5LWlub3FOb0NBWUhlbHg0WVVCMzc4X0N6RmV6NTgycFVOV3BVd013WmtsTmxfdWNXdVFfLTJZY1FIeEpFQllsWE1yNUFLdk1qanN0RERqNUswRXpsX3J3ek4?oc=5",
             "source": "Business Standard"
           }
         ]
@@ -465,17 +487,9 @@
       "raw_pct_change": 5.41,
       "corporate_action": null,
       "why": {
-        "headline": "Results (Investing.com)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Ashapura Minechem Ltd (BOM:527001) (Q2 2027) Earnings Call Highlights: Port Expansion and ... By GuruFocus",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZktxdEFNMjNvdU84a1ozVDNLeks3TldCSms5T3E5cjY3VVBuYUEzSFNzX3A1dlJNVHloSkM5NWxEdVJWZ2JOaGx0X0JWdGswV0NFRVlObWZCVXFqQ3RoZng1d2J1eW9fXzhEenYwaHd5NWFIUTZhX3NXSUs4S3h5R3ZncENhRTBfNVMwSmhucDZlVTBWSWJqaFhMYmJQSVFROUpJeXVCRzhkWUxnUGljV1N6SjYwbXhWb2lTbXdPSVdEc0d1eVFiLWFVMnRUVlpL?oc=5",
-            "source": "Investing.com"
-          }
-        ]
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
       }
     },
     {
@@ -689,9 +703,16 @@
       "raw_pct_change": 4.66,
       "corporate_action": null,
       "why": {
-        "headline": "Results (Business Standard)",
+        "headline": "Broker Action (Business Standard)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "broker action",
+            "detail": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZno3empRUVBld01TRW1NbTN0STNpaTgycDB4aDlQYUd3RDFxTnFvSFF1ZGlPZk5NYmNUNm90clhoUll4WDJfYkp0OUl1R0pfTmJZay03NkFKREZWa2xSMzZiYUNPTTFPRlhkazMtbmhPeHJvTE5tNmZNNElYR3dMYzh3d2VuYzYtNjg3X2dRTzRzWTJUdFVBczZ2VDhleWhtN3NrRDdWTHg2YUVyRmUwNU90T2VrNmN6Mks4R1FxUXp5RkFUaFdGRlc3c1c5SUpXRS1F0gHYAUFVX3lxTE1FMW5NUHlMM0JpSURXMUQ0S3ZubVF2VldtbkhYcmJSZ0hXamlJUGZ5RXZkZ19fNnV2WDY3Y1RKcFVLY1hMM1ZKS2JKZTJGMHJyb290N2tGcjZ1NzJwdG5HNmwyZHlqVnBrUkFWVEVCVkc1YzI1WldsNHBRWjhVY0RtUTRhRlNza2VUSmVSM29HVmhPRUdIeVJSNEx5ZnVWQVBEcXNzdFhXbHBxay01QjBaSDRjb24yZmRJNnlwWVZhOUhtMDdneXBJS0ZxUlFIaDRuVkhNbDg0bw?oc=5",
+            "source": "Business Standard"
+          },
           {
             "tier": "news",
             "kind": "results",
@@ -702,15 +723,8 @@
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Eicher Motors shares in focus as Q2 profit rises 15% YoY. Why CLSA hiked target but cut earnings estimates",
-            "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPeXJGaEsxdWNXd1YwaGF0VV92cEo2YkRiM24yc1E0eHlscU9XamxqU1NLTFVEVHA5Um9ZMVpnWnNJekdZN25ZQ1pJZUw1bjlIV3RuTzZ3dTBVSkJRbTI3WV9NZ3NwYWRZVjA5Vy03OG50azlVbnBWQXhzQmk3VDFGX3RlZFFrTXM1UWNWOHlGQ3RjcERjVmU1ZnpYaDRVTERrd2N1WUxsV0RnRUFOVXlSMnJaVTBpdFp5SWxLZjh4dDNXZmxxVHBSTll3V2s0OU9ILUQ1VFZCVEU5VUF2NXU5TGg0TmFycGtBeXRWUHhFRnBWTFYwU2ctdHh1S0dwQlBES0JPLUxVRk1SLVB3bF9BU0tJbzR5UdIBjwJBVV95cUxOTWU4VlpLckNDSWxsYWtYNUpuVTNHbWVXck4zbE4yQ2l1RnZvblhqaENuVHFtQ3NhT1Q0djJOVWpWM3ZfSTBTR2s4ZEh2VlFuejJNbzVoa0w0S2dRYjktNXhHT2p2X1Z4dkhGUFIzWnNDWXNiamd2Q2dPaUF2N2ZVcTFEVV9VaS03NHJXQU1yczRoRmVnTFpzVEl2ajZjUmZVeWU4Q3ZWV25MdG5mUmd3UlZEbWJSZTR0T1ZfbG9yaEhzWmxxUllyVW5CRFZ1S0pkOElJaGp5YjVUZXkzdkhOZlZPakpvdndQM0JaS2xjZGZERHIwQ3Y0N3V5R1pFQWEyakdsZVdTYWViN1g5VFdR?oc=5",
-            "source": "Economic Times"
-          },
-          {
-            "tier": "news",
-            "kind": "broker action",
-            "detail": "Eicher Motors jumps 3%, stock top gainer in Nifty Auto; brokerages upbeat",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZno3empRUVBld01TRW1NbTN0STNpaTgycDB4aDlQYUd3RDFxTnFvSFF1ZGlPZk5NYmNUNm90clhoUll4WDJfYkp0OUl1R0pfTmJZay03NkFKREZWa2xSMzZiYUNPTTFPRlhkazMtbmhPeHJvTE5tNmZNNElYR3dMYzh3d2VuYzYtNjg3X2dRTzRzWTJUdFVBczZ2VDhleWhtN3NrRDdWTHg2YUVyRmUwNU90T2VrNmN6Mks4R1FxUXp5RkFUaFdGRlc3c1c5SUpXRS1F0gHYAUFVX3lxTE1FMW5NUHlMM0JpSURXMUQ0S3ZubVF2VldtbkhYcmJSZ0hXamlJUGZ5RXZkZ19fNnV2WDY3Y1RKcFVLY1hMM1ZKS2JKZTJGMHJyb290N2tGcjZ1NzJwdG5HNmwyZHlqVnBrUkFWVEVCVkc1YzI1WldsNHBRWjhVY0RtUTRhRlNza2VUSmVSM29HVmhPRUdIeVJSNEx5ZnVWQVBEcXNzdFhXbHBxay01QjBaSDRjb24yZmRJNnlwWVZhOUhtMDdneXBJS0ZxUlFIaDRuVkhNbDg0bw?oc=5",
+            "detail": "Eicher Motors margins under pressure despite strong Royal Enfield demand",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWmhKZzVyT29uMWtUV3NVTHVldHdzQjJxQTRtellxcmdVdnNPTlByejdnTktLVDc5dk5aSkNnVmxkZkdudTI1Y19EbnVQN0h3R0VEZ2VxWFJsSVh3VzBUX2daNWcwb3NwblFyWVJ6c1hwZzR3US1HbmJoblhDc1o0MFg5bVdLTE5hU051QmdXbmJzc25CZVA0UE01REV0c2xLdjZWcGRfaEJua3RMVDdXa1lhZTFtZ0RSSzVzSGFIS0x5S2RLZ0RSR3M3Z2xtbFMtZENyTzV30gHbAUFVX3lxTE9nal9vZ1UzNmR1ODJ3dEtvTEZlQVBZamJ5cTA3aFQ4bU82UFIwWVRMN2VpXzVSenJiV3gtbVJLZWxpVWt3NzIyaGVNeEhqN2tOWENING16Y0htVTItUkNfRERiYlh2bHA1TTdlY19VczQ4ZWtfUW51WjBiSjBFVmlMX1dXbldDRW1iN2Fsa2wtdnI1cnlRRHl4MF9ZQV9WYWFZcGFjLUhwNXhXYnJ1bklLaUQxd0NRQ0toa19xV0hIQTY3T01YOEwzOFpYY25wUllKeFZrUDJ1aEZVSQ?oc=5",
             "source": "Business Standard"
           }
         ]
@@ -762,7 +776,7 @@
             "tier": "news",
             "kind": "M&A or stake",
             "detail": "Nifty 500: LT Foods surges 9% on US acquisition; Payment aggregators fall on UPI MDR uncertainty",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa19vQS1nUlowMHBPNk9aREUxajloWmxuOGFRZ2R6ZHNtNDhEeThmVGRPTTFpQWJyRTNib2lWeHByLURzSDNmSnRtUTlkTE02SjZydXZuSE9TQWVlX2VRQjRaYkFUSDhqTzBRUVpmOXFmc1Z0bXV1MVRwd1RobzJlX3NvUzZuNm5vaUZJTk1adDJGZGtQdHczYW1mZWNwOURCNy1yRFJ2SXdZb3I1MWtyN2JEaXR5UWNjY1loTFhVeHBodXZodUphN180YlNneFQ0Vkcwa3ZQbzlxcW1OUGZLWDJ3TGfSAeoBQVVfeXFMTjhoNzJMcElsZ202MTlMcEVwcFhSUDdwZWp4bjBqYWtlSDRKMEt5SkFNM3R4TUVBalgxRndnbm90Q3BPdEs4a1R6TVVsYzgtY2x3aVFOaEhPT0dIckZPcG14cERMd1l6U055RmFYNHJoRmJ2cWhwR2F2aEdyVHJzSzBjSTkxcm1oVWJMazFKZTM1UjBUd3RHWWFvNFZ2eHRnX3NLWWllTjJrcGxoZng2NERVTlBFSWxzeVM0T0VTclR1a2VrUGtSeENVZExwRzBGWWZoQkFSMFBDQ0dyQzRMSWhYTWpfei1DTjhR?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPa19vQS1nUlowMHBPNk9aREUxajloWmxuOGFRZ2R6ZHNtNDhEeThmVGRPTTFpQWJyRTNib2lWeHByLURzSDNmSnRtUTlkTE02SjZydXZuSE9TQWVlX2VRQjRaYkFUSDhqTzBRUVpmOXFmc1Z0bXV1MVRwd1RobzJlX3NvUzZuNm5vaUZJTk1adDJGZGtQdHczYW1mZWNwOURCNy1yRFJ2SXdZb3I1MWtyN2JEaXR5UWNjY1loTFhVeHBodXZodUphN180YlNneFQ0Vkcwa3ZQbzlxcW1OUGZLWDJ3TGc?oc=5",
             "source": "CNBC TV18"
           }
         ]
@@ -908,16 +922,16 @@
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Tata Motors PV shares plunge 7%, top Nifty loser as weak JLR margins, guidance cut weigh on outlook",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRzQ2MkNKV0M1eU5BX1Uza2NuZUlIZXNVODdJaHZuTFNtOGtFWEU1c0NjR0RXV0NTU0V1OGFyNmN0dERQdmxDdGdqa1hNWHptbm5jMm9pSHBUSGFISEpnY1FPWDZBdjBrNzZvUmlnZ2hqM3Vpd3pyYVZUTVhBLS1tX2gtOEVZVnAxNWxSZlZEaEVvbHd6bG1zQ3VYU21mS1poZnJsNW1tRVJKcGlEc2h0TlVKWlRYZFcwYk85UGROUk1EdGpDTExocUgzbE1OX1BjRy16V1RLZERxVkJmVHlXd1VqSXJKVW9aUERCTVZfUGlRTzTSAfgBQVVfeXFMTkxYcTZMQzVPbGJqTGUzV2VwMlk0TFB1bWszaUZ3Vl9ZZzV3c3dqaXVqNHE2YndHVWNVR0g4UlM1U3JqUFB2cTBfSElhNTlfOXVqQkE5Z3owWWJKTURQbmdzZjFNMWp6Y09MSEVjNkJMYjZOMkFQZzl0MUlKZE1kZW5SYkxfUWJzODBiQ2psejdwSzZCbTJBZDVJd2lCNXE1aXk5RE9wWW9OQ2l0QXg5M19lbDNmWENIYW50NWllNUZpQmR4eDRoVjYyNy1ydUNyU0dnMENJMW5YY0VaQ1lERTl6TkdaNmlkS2QyWlF3VFRkVVZONnRsdF8?oc=5",
-            "source": "Moneycontrol"
+            "detail": "SELL | Autos | Tata Motors Passenger Vehicles - UltraTech, ABB India, Grasim, Amber, Eicher, OIL, Vi & Tata Motors PV: Which stocks to Buy, Hold or Sell After Q2 FY27 results",
+            "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPTTN1ODhidF9tZENmcHBHdHo1dTJWZE9laTNEMkE0Z0R2Z21pNm5yVFRldUFKcWZvaXdlVERISlc4bXEyMkRtMkxrc0k4Y1c1OXpwQ3dZcWhSWDFsY19hUXhMSExocUNxdDZLejFCeDR1NUtELUJsaHBWc1d2Mkt4eXh3dVJiTG9RX0VtS09xQ2h4NFpRMVhydUJlRGZ4bWJqQUhPdlJlaEtNNWxRaEstZVBlRHVzZi14bzZpQ1J0bDFlVUJvV2FhQnZlU0lDaDF1My1qZ09NT0Y2bkViZ1RkSXJWcHJQdmdsTVd3VDNJZ3NMUDJrblZxb3ZCeXRKbmZtRGVKTFM5WDRCRE1vZUp4ZURqcDg1OUJkVEZGei1JVF94N21scXdkeWQyWFlSS3l6dWItNHJsajJ1X2pKcWdVOWVhTUVFS1BpeHliby1hXzZULU0?oc=5",
+            "source": "Economic Times"
           },
           {
             "tier": "news",
             "kind": "results",
-            "detail": "Tata Motors PV: Q2 pain may extend on geopolitical, cost headwinds",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeUtDLVFLVUZBcDd3OVVNSmxIcGxmYVNkSEVVYWtxU3UyTkVrR01CakpJZXZGZEVCXzVLUUZmZVFsZGdWSGI5TE9KeW1TczhvS1pydFlqWXRYZy1kVGFONHk5cjl5OXItSEdYWXVRYW1yUEsyVDdocXFMR0RQTTZtQi1FOUhBTG03NzgzTlo5eHhHZGl5V2FNM0tsOEU2MGhMQmstOEtkTW12OEVROE81U2dSbEV2Mk5WaE95blFqY2NzMkplU3BQNlNoSmxGaldGUEHSAdcBQVVfeXFMTTFJT0N5M2pUaFlzTDZrYjNnQ3ZYT28tMTN2NVFDN3JEY2d4RGVwY09ReDVaZ1NXMmt2NEl5ZXBXc1R4eFczM3lwR2JCT3FZc2o3eTNybTJPX2VNeXRpVlNqRUN4dzJFYXloTkpfOUNHU3c4anVUSllfRUZLUFRab0ZkMmZWRzZId01NMWZIRXZkYVJ1N2tMcTNhOXdSZ3dJWWlTWk5pX1lzMk54dkZUQXNYT1ltS09YM2xpQUhGZGNTSTlBLUlhNGR6OF9SclB6TUQ2R0Y1Vk0?oc=5",
-            "source": "Business Standard"
+            "detail": "Tata Motors PV shares plunge 7%, top Nifty loser as weak JLR margins, guidance cut weigh on outlook",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRzQ2MkNKV0M1eU5BX1Uza2NuZUlIZXNVODdJaHZuTFNtOGtFWEU1c0NjR0RXV0NTU0V1OGFyNmN0dERQdmxDdGdqa1hNWHptbm5jMm9pSHBUSGFISEpnY1FPWDZBdjBrNzZvUmlnZ2hqM3Vpd3pyYVZUTVhBLS1tX2gtOEVZVnAxNWxSZlZEaEVvbHd6bG1zQ3VYU21mS1poZnJsNW1tRVJKcGlEc2h0TlVKWlRYZFcwYk85UGROUk1EdGpDTExocUgzbE1OX1BjRy16V1RLZERxVkJmVHlXd1VqSXJKVW9aUERCTVZfUGlRTzTSAfgBQVVfeXFMTkxYcTZMQzVPbGJqTGUzV2VwMlk0TFB1bWszaUZ3Vl9ZZzV3c3dqaXVqNHE2YndHVWNVR0g4UlM1U3JqUFB2cTBfSElhNTlfOXVqQkE5Z3owWWJKTURQbmdzZjFNMWp6Y09MSEVjNkJMYjZOMkFQZzl0MUlKZE1kZW5SYkxfUWJzODBiQ2psejdwSzZCbTJBZDVJd2lCNXE1aXk5RE9wWW9OQ2l0QXg5M19lbDNmWENIYW50NWllNUZpQmR4eDRoVjYyNy1ydUNyU0dnMENJMW5YY0VaQ1lERTl6TkdaNmlkS2QyWlF3VFRkVVZONnRsdF8?oc=5",
+            "source": "Moneycontrol"
           }
         ]
       }
@@ -933,7 +947,7 @@
       "raw_pct_change": 4.19,
       "corporate_action": null,
       "why": {
-        "headline": "Investor Meeting disclosed to the exchange",
+        "headline": "Investor Meeting, reported by Scanx",
         "confidence": "high",
         "evidence": [
           {
@@ -942,6 +956,13 @@
             "detail": "Religare Enterprises Limited has informed the Exchange about Transcript",
             "url": "https://nsearchives.nseindia.in/corporate/RELIGARE_18112026173152_RELUPDATE112026.pdf",
             "source": "18 Nov 17:33"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Religare Enterprises Q2FY27 Results: Net loss \u20b9499.8 million vs profit last year",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHlYajRUbWFxNWpiSklHYUZwYlZRY2RmSks3WXhmS3U3RWRER0dFSDNxNUxXLUhTdDFLekJGQXNWeXRkOFBBOFJpNTZNcmVjNnNDb1NSRFdtOHhmdk81UmdxRGR6ajhlUEl1bTdMMkstbXVNbHNSRXNCb2tCWjdTblFrUS02MnRsc2NlbWZMaUFrc3hEc0xPZ2JRekpKdzR3dnNFT2dn?oc=5",
+            "source": "Scanx"
           }
         ]
       }
@@ -988,7 +1009,7 @@
       "raw_pct_change": 4.15,
       "corporate_action": null,
       "why": {
-        "headline": "Order Win, reported by Economic Times",
+        "headline": "Operations, reported by The Hindu",
         "confidence": "high",
         "evidence": [
           {
@@ -1000,17 +1021,17 @@
           },
           {
             "tier": "news",
-            "kind": "order win",
-            "detail": "Bombay HC refuses to order immediate document disclosure in BR Shetty's USD 15-billion suit against Bank of ..",
-            "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQngxVGFHM0Uxei1MZ3VrN2hxYm51dTZUc0RqVjhaLVA3OWpULVFBWWRxZzN2cWsyYTlqcUVNNVdrYmdmckhRODRXaXBBVTMwZWZXTFlmeUlPdWF1dHJzTElITVBpdnRrWFlsdHhlUlFpSjc0MF9MMEVkYXM5U3pCU0xRTFNCOHJxZFNvUWl4d2dzZFBldlA5VUZZTDJqdDNFemswbHNlX3BVbGJpN3cyS2pMWGRWMDRlYW5HdlRhNHFPVjF4aDBEQ1ZSdGdabnEyaHlRdmZvME5ucGZISEhvUW04S1UwMW92Um54aUZSendSVDdzYmdCYm9oMGpZdEpKV2s4R9IBigJBVV95cUxPTFdiWmdYZkh1SFIySjZpUHJ0R2s0a2d6OGFsRVcxdndYLVdRQ1R6dUc5T29sOHpmcjVieEhkX2NlS21WRnR0aHVkcFkzcnNHWWU4dnY0eW00YmRRSEZickdCZkpJSnQxdVVzQS1qemt5MHI2R0R6Q09JZWY1dDRxdkgtNDB0a3F6c09ZSEVnSkZRM0xZMGZTeDRWZjNvaTJTdFFmQXRZMVQwZkdXa0pYODBjUkk2cmJJQk9fY2YwMXh2dlc3S1VwNk9UVWhLV05MX0lheWFmOFJMSXN6WW1KeUFLVFFRclp6eTQ2MHF2XzJhSVlaT1BQa3JJNlFHWFVCaHZ0dWVxdUx3UQ?oc=5",
-            "source": "Economic Times"
+            "kind": "operations",
+            "detail": "Bank of Baroda launches \u20b95-crore financing scheme for EV infrastructure",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0JHc1R3V0U3al9KRUVjZ1d3ME5TT05Xc1dqRENveTRLeWpKN092VEQ5Y2J5OGl6RUt1alY5TmRlcS1ubGZPbXgxLVdmVERRVFlmLUVSend6M2JqbFRxSEc4VXdzX1VJYkxPMXlBcEZxYW5kYlJKNzBsN3hKMjAycl9vRFpVZGoyUk5PdElvdExvM2VRX1JCSU51bkNobFVVSTR1R0F1ZTBhbVJTZC1PSVJsaVpQV0tCbEtyZ0YzYVFWTjUwN2FjTWttZUNLd9IB1AFBVV95cUxNSVBRVk50SzJVT3dieFp3YWlpTVBvVmYxUDRpQ3k1X1NDMTJ3NVVuQ3RkcWhJbEJmUDhTTGtyRHZuMU9QcTQ2SXlZMHljZWtTMVZCQzlFekRhWGJQbnhacUVBV1lYd0RlU0Zna1ZnaFBZX0VWUXB6Z0l6MDkwRkRqNUZjX0JVb212SjBJdGVPRDNFbEZiYTE4NHpWdG44Q2VBM3B0NUV4MXJsOHpqUWgya3RtOHBONHo2c2lVQ2t5X2x2cHFOM0RYN3QyVG4tYzVETUQybg?oc=5",
+            "source": "The Hindu"
           },
           {
             "tier": "news",
             "kind": "regulatory or legal",
-            "detail": "Bombay High Court declines immediate document disclosure in BR Shetty's $15-billion suit against Bank of...",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbXhmQ1MzRWdnT0R6NG04SW9TcldVR1I4eWpOMFBOazlod0oybVBCN0tjTmhYeFVfUFd4MEdWQ0RJSFRLaDZqUFdTakN4YmlOMlVqYkd6OEQzRnNvU3o4bVpVenZwWGQ4ZnhZd1lhRnhjT0ZlTTVlR3R3SjRTUUF4SUV4bFdPeTBwdHUxeV8wOVhCeDVlZm1FSElHUF9aZW1BRlZPNlo0TUdic21zU1U5U0xDRFRrMjlwZnY3ai1xMmlySFlEcXZXck0wRi1kbnFMYTF0SDR1OUhyVGpGdEpRbVVxeHlNWTczU1lQUUl6allnSGFFcTN2dHE2WmotYkpKVzN1N2JfNFfSAYgCQVVfeXFMT214ZkNTM0VnZ09EejRtOElvU3JXVUdSOHlqTjBQTms5aHdKMm1QQjdLY05oWHhVX1BXeDBHVkNESUhUS2g2alBXU2pDeGJpTjJVamJHejhEM0Zzb1N6OG1aVXp2cFhkOGZ4WXdZYUZ4Y09GZU01ZUd0d0o0U1FBeElFeGxXT3kwcHR1MXlfMDlYQng1ZWZtRUhJR1BfWmVtQUZWTzZaNE1HYnNtc1NVOVNMQ0RUazI5cGZ2N2otcTJpckhZRHF2V3JNMEYtZG5xTGExdEg0dTlIclRqRnRKUW1VcXh5TVk3M1NZUFFJempZZ0hhRXEzdnRxNlpqLWJKSlczdTdiXzRX?oc=5",
-            "source": "Moneycontrol"
+            "detail": "Bombay High Court orders Bank of Baroda to preserve documents in Dr Shetty's lawsuit - India Today",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORDJQdUFNaUgyalVhX3hYbXg4Qi00bjRXQzYxdHBoVW1CcjRLTER0WE5sNXpSREllckEyX2Jmb0c2aUo1cTM5cEo0RmkzRUFXa1ZDM0k2WEtYVHgySU82TTlrcnR1TmQ5SFB6bUM2ajF4NnRZU19mVy1PWkgzbFV5ZlViUTdyMjVEMEVOS3dpeFlVLUlxck5DV010WmlXRUstU2JZU2RrUVU1b2RYV3d5akJmVm9wbW1jZHhXb05taWRWbnZ3RWN3alQtbTNpLVVTZV9FeXFvVnlWdHhMbVHSAeMBQVVfeXFMUENlMEJnY0ZFYldDTFZ4bVNFb2ZTanlTYnhPY2E0bmVheTNXTm5mX0NKTkZ4bnk2WUpUOTl3dE8zS2ZLYnhkSXY3Z3RIRU1QelNlbTdTdUE5dFRQZWMwU1owRXE5cUszeHRJSG9VOE1JMExFUDd4OW5WZWpVel9pOG91ZG5xSHE1YTdabkVRZzVOallIdTV0ZjdLdHdSQVZPaU1YeGNmMW9LSHRCVnRhZGd5QWQzUjdIS3JZYjN1b2FzR3ZVZHJfWk84Uk9ra3lUTk9sTlV4M2FOdG1xOExLUEJCaHM?oc=5",
+            "source": "India Today"
           }
         ]
       }
@@ -1106,7 +1127,7 @@
       "raw_pct_change": -5.56,
       "corporate_action": null,
       "why": {
-        "headline": "Fundraise Or Deal, reported by Reuters",
+        "headline": "Management Change, reported by Moneycontrol",
         "confidence": "high",
         "evidence": [
           {
@@ -1132,13 +1153,6 @@
           },
           {
             "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "Fairfax likely buyer in IIFL Capital's $165 million block deal, CNBC-TV18 reports",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenQydlhPTTJlSnBQMlZMNkhLT2htd3VqUVF5V2tkaU9HNlFXNkFDcmZ1ekRfMms1amdOMi1ocE1NRkhjdlV6bXZsVmVyUVBNWW1FTFRwUXB5dUJCTjRraXlZdzRRVHlVZzRvQkRZNDZYOTRwbkRqdUVnZmJzVi1iYUdNcXlTLXhkeTBzMVFibndQZ1lLeFU3c3RqMUREQnhLZnBxNjNqWlZRdVI0NFdFdTdXMmt2RUVaNUlleWFsREc?oc=5",
-            "source": "Reuters"
-          },
-          {
-            "tier": "news",
             "kind": "management change",
             "detail": "IIFL Capital\u2019s investment banking head Nipun Goel steps down",
             "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa3lzQXRySU1ES0ZTTEg3R1J3czhlcFFjRnBldndQY0VwbUZCRGkyejlYZG9PMVhLSEtuWGpfbUkwVzZIZ0RYYzZZWmFZc2JmdmhfeXBDcWVDTDdaZWxHRS1yTDAyWGxUZ3lRbWFlbFpxZmxaaTZKSmxwTTJSVHVrbzhZaXV3ZzY4RHdBRkcwT0o4a3JSR29oVzFraDVtZnNzY19XOEhPUXhnRzRHRmViYXNUNlNZZC1JbzJ2LTJuZEVOMzF5THpVTkRxNWpiVEV0b2fSAdcBQVVfeXFMTVV1OWxUTGw4SHptdTNTbG9ETEpCV2ZBUzdJbWJqVmtDYlFiUWY3NWZPNXRzVFFCa2wxQzNxdlFRamVNSzFnb1gxaVhQa0w1djY3QzZpdEoycmRjTlVDSEdDQ0Y3ZE9JbFNoWVVXRzBDbzhOT3h1V0NwM285UEthNjFhVWNvano3Uk1pdDdyeE9KcGhLVFpEN1NTSW05WGE2S3o4UktzaFZ6MTJlYW5WUTdqTnlHS1FFWS04c1lnZnlzcWxtbzRLVkh6NFNQUnprbHQ3bmVKNW8?oc=5",
@@ -1146,10 +1160,17 @@
           },
           {
             "tier": "news",
-            "kind": "fundraise or deal",
-            "detail": "Fairfax to exit IIFL Finance via \u20b93,454-crore block deal at \u20b9611 a share",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZDlZRU1OSVFWTWFmanNNOTZ3bEljNTV6ZE5iR0FzeUVNTTNQSXhGa20yQ2x4UlNLeW5BcXdZVGpTRnVmR1NDeFQ3b2lTUXVWWFh5OC1UZC1lajhsVV9ORk16RTVFaWx2bHM2Y0xBX1g5cFQtODB5YUJmMDFRcThDZjZrREQ4ampTZmdJaF9QNjRmUjlVdktmZFgtdDlQVHpEbmhhalJOMG5ReW1jemdOUzBPcmVPY2xrcWM4UFY1bU9KWmZEcW1rQkJ3ZFJGaUhJSjNiX9IB2gFBVV95cUxOTmJCalR5a0VDSmJhbFVaV29TVU9kRC1ORWg5b1ZXd2hiUXVpd3JFSndCd0lfSUNmbWFrWGV3RHlUMzJkeGdXcm9oQndUaHZmN0JDUWJvQWNfTzVlM2Q2em9GbGpibEJpdDNPNThNZFl5QUloX2puZ1VqeVdPaVE2SVgzbndWWlpKTXY5Mm00SHJjY2JjSy14ZUdtQmMxalM2SXJtRng4Rkg3RHJXcjduN1ZCTmhRRDAyRm5ic1dQazRObmFvcGI0dThDMC0wQjZZejFWSXY3NnJDQQ?oc=5",
-            "source": "Business Standard"
+            "kind": "M&A or stake",
+            "detail": "Fairfax arm gets controlling 44% stake in IIFL Capital",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNU1WekVrc0ptUDJHczdiTHJLY3kyY2hMcVRXbzhWV0lCbDZGb00zMUkzZ3dKbnFqQlhyc3NDcTNEcGk5MVN2dGxMbVcxWVA5M1MxeTF0cWNiek1HTDFnXzkxQlZQdjVyNmUzd2o5dlpzem44d1o1SXhxWC1CNnVfSVlScGVVcDFCTWtORU1YMG84MGh0YkVlbFRfQlpFS3pHa2dPeWRWQWpRaGgxZER4MUZOcUxUMDF4VFV3Q0h2M0JpcHN1M2VaVDlScnN2Z9IBzgFBVV95cUxPNU1WekVrc0ptUDJHczdiTHJLY3kyY2hMcVRXbzhWV0lCbDZGb00zMUkzZ3dKbnFqQlhyc3NDcTNEcGk5MVN2dGxMbVcxWVA5M1MxeTF0cWNiek1HTDFnXzkxQlZQdjVyNmUzd2o5dlpzem44d1o1SXhxWC1CNnVfSVlScGVVcDFCTWtORU1YMG84MGh0YkVlbFRfQlpFS3pHa2dPeWRWQWpRaGgxZER4MUZOcUxUMDF4VFV3Q0h2M0JpcHN1M2VaVDlScnN2Zw?oc=5",
+            "source": "Hindu BusinessLine"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Fairfax raises stake in IIFL Capital Services to 52.63% with Rs 1,540-crore acquisition",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnRQRUd2Vk1nM3NHUC1Fa0dvTmF5Q05QZzduYllWQkxpTzFMNEI1RzRneTh5Yk1PSjBNeVBmTktDWmREVm9aRzl5akNaY1RQVFZveVgyY3c4N1FhREh4VEM5b1FnMTZFTU9pV0g4OUIxYzdQZzl0U2F3cDNDaWZ5cnQ5ZFo1UmFFTWYzRjROSUhqa0I1bFVUZjdfekh5UWN2ak1fdjhUbVdrOEw0OEJ6OHNCN3N5dl9pSXNDZmhnNWtnYkowWkt2Zm93bUJWendqRjZtUUp1QnBJcXVWMWttb0RBN3c2aTA3bDk00gHrAUFVX3lxTE52dFBFR3ZWTWczc0dQLUVrR29OYXlDTlBnN25iWVZCTGlPMUw0QjVHNGd5OHliTU9KME15UGZOS0NaZERWb1pHOXlqQ1pjVFBUVm95WDJjdzg3UWFESHhUQzlvUWcxNkVNT2lXSDg5QjFjN1BnOXRTYXdwM0NpZnlydDlkWjVSYUVNZjNGNE5JSGprQjVsVVRmN196SHlRY3ZqTV92OFRtV2s4TDQ4Qno4c0I3c3l2X2lJc0NmaGc1a2diSjBaS3Zmb3dtQlZ6d2pGNm1RSnVCcElxdVYxa21vREE3dzZpMDdsOTQ?oc=5",
+            "source": "Moneycontrol"
           }
         ]
       }
@@ -1219,9 +1240,17 @@
       "raw_pct_change": -8.68,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "M&A Or Stake (Sahi)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "One 97 Communications Acquires 19.1% Stake In CardUp Singapore For \u20b9162 Crore",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUljRnAwYjJiWWVPMGE3RFVIRHR3SEFraDZRVUZXNWVnTFdtOGwyZ0dOWTZZRGhhbDVqd1FhRXZGSWdrWTVpMms3OFpNNW1kV1Jsaks4Qm5XWm1ldnFOUFlfZ1FrRmJOdnU3Q2dHTldPVkVHdVFuVUhybGlacUZJTXBvV21BNF9saHZiOGFPRzNBQUdqeWRod1JkZERqWWxGYndr?oc=5",
+            "source": "Sahi"
+          }
+        ]
       }
     }
   ]
