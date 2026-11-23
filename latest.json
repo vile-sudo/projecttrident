@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-11-20",
   "threshold_percent": 4.0,
-  "generated_at": "2026-11-20T17:05:14+05:30",
+  "generated_at": "2026-11-23T15:12:17+05:30",
   "stats": {
     "scanned": 742,
     "flagged": 30,
@@ -37,9 +37,23 @@
       "raw_pct_change": 8.59,
       "corporate_action": null,
       "why": {
-        "headline": "Results (Business Today)",
+        "headline": "Regulatory Or Legal (Mint)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "regulatory or legal",
+            "detail": "IndusInd Bank fires former MD Kathpalia post internal probe, invokes clawback arrangement",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVzNJRG5ZN2VWRDVHekF4SHh4bG42ZXpmcVJwbGlCU3o4dF9tejdiLU9yNDY3cmw4MUw2ODJEa2stVFlrM3dWOUxXdHRkXzI5VmFBVjloZXFtNlk4SHRoUUtzdzlMV0gyUTB1TUNLOFREV0p5ZDFqMHVVM2EzN2Q3eTBmWkFRLXNrRjl0ZklpT3RsUm91ekZGaVRjc1FLeE9uNXNLdHp6WXZmVlFtVGl6WDAyWXpzOGNISzRTZDF2aHJwMXF6R1NxU1RGdkRTY2tkRHFycThqcnRLVlFWUzR3eXVvOGLSAeoBQVVfeXFMT0JEOWxrR2NfZ2FIajV6bDUzbEhxTmdWYjJqZ2plTVVORndGb0x4MVRnTlFOMm0xY3YxeGU0Q1k0aVliRVRPejV3MXR4X21SQU5lNjBGazhWcXN4VkdJWDRzTDlhV2hCUmtteVZhck9DcW5ZZUY5UFNyOEFsdHpTNWI1RkFXOVo1cjZrc2VOV1dTUFB6UW4xVDFSN2Qxd0h6bDBONDQwT2ZmQWdfMnFiMWsxUC1hOFdKYWdmdW9Vb3Q3dnlCcmcyY3ppZ2lRcmx3cEcwRVlFdEg0SDVEdDlLVkhsaWFnbExONjNB?oc=5",
+            "source": "Mint"
+          },
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "IndusInd Bank - Stocks to buy: HSBC lists 19 Indian stocks that saw FY27 earnings upgrades, check target prices",
+            "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeThxMUdSQjB4bk5RZjlESnktdTZpTmgwYWpta213akFXandSMnlNb09NMTdPTWU1UllpYWgtTmNJU0xma3hrOW9GYm1zb2hjY2toQ2pRLUxDSVNIdkhTVWdOdjlweXlpZFhKR2xmcC1Oc25zd2xaQWFqa0I4Q2hxMGhjM2hkT0xvZ1RWRmVEVFZ5TjRNYWpwMFhvX3FiT0E0SFgtUWh6MFB6WEZhaTJxOUpIUHFIV1RvNkRhdFZwOUdYR0xuM0lkWkt0TnhIcnoyRVFuRUNxUTdsaTRoVGkzZW9zWnZRMlVvVXpudkdZRjQyREFqSjMzaFFpbGY5NDRwOHlDQVBzMDc1ODQ?oc=5",
+            "source": "Economic Times"
+          },
           {
             "tier": "news",
             "kind": "results",
@@ -125,9 +139,17 @@
       "raw_pct_change": 6.18,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Operations (CNBC TV18)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "operations",
+            "detail": "Welspun Living plans \u20b93,200 crore investment in capacity expansion by December 2028",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzRCdm9GZ2I4YmJRU1E0dWJYVkw0N2M3SHdteUdzVW1DQlc3a2xHNFhXRTJjSUtHYjZtRy1IemFSMUR5clEwdVhPaGpubkFNUGJyZTAwQS1ERnZSc0ZrU2N6MzVENF83bnlZRkJXOERzeWlWM3psbHIyb045bERiS19PbDMtMFlISG9PWDB0dVIxSFZiUFZDSXpkdDFZdFNZOGtFRGZHQzN0aWtjZkxwZnQtdEFfNzFhWEhGTXZ0VFR1amk1MDFDU09LbHJTR1Zr0gHWAUFVX3lxTE84TmRFZTFrWEZhOUxpNWNzVFpObEJFYmhoeGtfU1FPa2hqTURoRVJ5RzF6WDREdWhjbi1XSVZUYUd2aWV2aUw1NHBwSW1fQkhtUHJrVm02Nk1hRGQ5S1FmLWdLMC1zSEo5aUEzckhEbUJlYk4xa19CZHY0eUhxU2ZVSUNtaUR4UjJNeGF5cGk5QWZlakRqXzd4SVpLdGVKS2dBejIyUFhSTXFjSElsSW9jQjQ3M0dDVTRKVzRqSDh1bF9JLWhlRUhpWTRHMUJRSnZkU0hDZmc?oc=5",
+            "source": "CNBC TV18"
+          }
+        ]
       }
     },
     {
@@ -190,13 +212,6 @@
             "detail": "BlackRock raises its stake in Axis Bank to 5%",
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXZ0MWNHNHhSanpjYUZYYXM2TW0wcDNRZEpPQmdvWnhnTFpmcmdWTDdZNkNrQzhHSzBlaGxZTml4T1VYQ0JCdWJaQjNyOU1uY1d2TUM5TDVXWGxPNUoxbXEzVUVDTFluZTBwRHJGZUkzWlRJOE1lZmYxWDNXaW5iQ3BmRi1iVmxoejRTdnlyMnJtUEpjSzU4NDJnZUpwcVNYdTVmVjgxd9IBpwFBVV95cUxPbXZ0MWNHNHhSanpjYUZYYXM2TW0wcDNRZEpPQmdvWnhnTFpmcmdWTDdZNkNrQzhHSzBlaGxZTml4T1VYQ0JCdWJaQjNyOU1uY1d2TUM5TDVXWGxPNUoxbXEzVUVDTFluZTBwRHJGZUkzWlRJOE1lZmYxWDNXaW5iQ3BmRi1iVmxoejRTdnlyMnJtUEpjSzU4NDJnZUpwcVNYdTVmVjgxdw?oc=5",
             "source": "Economic Times"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "HDFC Bank vs Axis Bank: Both shares recover after Q2 sell-off; which banking stock offers higher upside? Check targets",
-            "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPWWYwaURWZENPRXVuRy1CaFMxVmttM216ZHp2bFpCdTZ4eGZnTkV6d1RRS2xVZlYxV2hHa1ZpWDhKYUFXQmJBNlZheDJKa3JDZG1JbzJGdTFzTm9lTnRhOGJnVk8zVUFzSGlrNDdfQUNtakEtYm5aNWtNamM3ckdUNi04OUd0RGphYk1BZDhjb3JfZ284V3VaUzdNRVJjc1BXMWZEM2RGYjNxbUFjVUs3SXB1NTNnVGktTzlCaVhTSEVWZ3dGdTFUVUtCZ0M1UUVoVnd3NlZyNWlfQmFac3RTWFo5XzlhSnVldEE2Y29mSVdSZmdSdjBWZ2w5T0FsZ002Z0hBY2lXMExMRjFtLUdIdFoyRdIBmAJBVV95cUxPYkstRUJFLW1lcW9idkVIcDlIejc1QU5hOGdwaU9OQ1hqVjZnMWhYZ0ZuWkhoTS1JalBLcTEtSTZUNVE1T0N0VGtHUDlsRUZFZ3hsU005UUpaUWdPRzRUcWZKLW1INkdiQmZTR0pmZzhWaWVsUzVHNlVNQVpmbmluNzNFb0xENjItZnRGdkZHNC1UeE0xNWF2QjYwaVZMMTEzVmItUkpvTWxqTG0wV3ZyZ3o3dXR4NkMxNC1kLTI4elowcFdRMVZSbXN1WjMtT3Z5cGNrT1FUam9vR0NrNGI0TGh0TkI2YnQzWDBDdXdHdm55U2xjMm1SQWxSZzY5eld5YTRnUzZOMmdvcXlET1NCVVpDUE00Z0pN?oc=5",
-            "source": "Mint"
           }
         ]
       }
@@ -338,17 +353,9 @@
       "raw_pct_change": 4.01,
       "corporate_action": null,
       "why": {
-        "headline": "Management Change (Business Upturn)",
-        "confidence": "medium",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "management change",
-            "detail": "Cyient appoints Dhirendra Nath as Chief People Officer",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM2szYVd5NWNKUnNiUTBfSWxXZVotNjYtUEsxT1VHMm9uYjVKenRhWHh6QmxhNk5aM2ZTbUdER1lEbXFxam16Qkw0SlJYSDExR2t4SVRRVkV5bHRyWFdqYnpVeEo4NlpHamNKZUJhOGQwckxFZUl1VDhtQ1pDUzBDTzl0YXZ6M3ZQWEdsR2FYQ0tQM3VNM0E?oc=5",
-            "source": "Business Upturn"
-          }
-        ]
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
       }
     },
     {
@@ -375,8 +382,8 @@
           {
             "tier": "news",
             "kind": "fundraise or deal",
-            "detail": "Urban Company raises \u20b92,500 crore via QIP; issue subscribed over 6 times",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSWxvRk5tZ2gyOFl5dmp2bFl2T05XMWNtb0ZhWXNoX3BtdG5QaEtnNFItSHBTN1c1WDg4SDVMUGQ4R1VxTjNnRHVvQnI3MUZDOVN0SHd4YlJGdk40dUpwUE5XSDlCdmlzLTV1TUJVbDlLMEVfc2F2eFpWUHRLZExRbzJHWjdzQllGTU1JQmRqQkVNNkN1WEx0aHp4bVdYVmcxWGxvZTZuM0tnMnIxd1g4MVc3YjJvZXctUVV0MjhEWjlMUTZOUFJid1hpdktnT0d1Q0I0TtIB2gFBVV95cUxOeUZ1cHgzcFQxOGRFb2Jlb2VqQUUxUWRKTnV5YzNkeGpZSlBjZGNnd24xODA0aGdzUkp5cUxKbGd3dnBjTnRzUWxoUXVNSzRGMFN1T0NnVzVmbmtxNVB5TXdQNUlfXzJwc1JmWnFsandsc3ZyY0lJQkNTdHRjVi1HWC15R3drQ0RGVjR0VkVnTUhoQllZYlVoRE9zUVlmS1BYUEV1YTdaUnVxZGwtdnZJY19RRDRrRmFhclpOeGZOSkp2TTVUdU9SVDZDVHRDS3NkMm9MaGFpaVZDdw?oc=5",
+            "detail": "Urban Company shares slip 2% as firm launches \u20b92,500 crore QIP issue",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnZGY21fQ05kbFFiYVNMY1JDX2lTa3ZHSjRyVnlPOFNaUlNndWdMYzRSLTlqeFJEWUhmMnQ4a09QMU9pZzJ2YlF0ZVpNeEx1WUZ1bjY2YndEQWVnWFVaX002Um52cFhVTmlrUTR0VjQ1UnYtWXh4eU8yeDgtZXdqSHFHaW55dENaYXFWR2JoY3RoSnJOOG9kUERxQndPTTRrNnVwS1BZUDFvLS03cDI2RzA0eUJ3UkJyZlJGZUZaeWtnQnNMM3M0UW95dDFvd9IB0wFBVV95cUxQcnNFazBtekJWZ0tvN2E5YnA1MnVyYTg0TWtJSmJnVzdfY292WS1hUUpEVll1djE3ZHI2eEg5Z3BqUzlPOFhoRWY1OTE4VFVqSVYxWS1pN2dqTFAzcWpkdks5S24yWVhKQl85YmNsYVhNLS1Gb2Q0LVUtWEJqMlBOd2loUUQ0aWFMV2xBaW5FcEItdVJuVmtrUXRRZFhkUzN5NEUyT05xMkNjcnJTQU16YlVqUVNtWG8tems3WlFuZVpVYjJCUUYwVy1zc0kzOUt1eW1j?oc=5",
             "source": "Business Standard"
           },
           {
@@ -389,9 +396,9 @@
           {
             "tier": "news",
             "kind": "fundraise or deal",
-            "detail": "Urban Company shares slip 2% as firm launches \u20b92,500 crore QIP issue",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnZGY21fQ05kbFFiYVNMY1JDX2lTa3ZHSjRyVnlPOFNaUlNndWdMYzRSLTlqeFJEWUhmMnQ4a09QMU9pZzJ2YlF0ZVpNeEx1WUZ1bjY2YndEQWVnWFVaX002Um52cFhVTmlrUTR0VjQ1UnYtWXh4eU8yeDgtZXdqSHFHaW55dENaYXFWR2JoY3RoSnJOOG9kUERxQndPTTRrNnVwS1BZUDFvLS03cDI2RzA0eUJ3UkJyZlJGZUZaeWtnQnNMM3M0UW95dDFvd9IB0wFBVV95cUxQcnNFazBtekJWZ0tvN2E5YnA1MnVyYTg0TWtJSmJnVzdfY292WS1hUUpEVll1djE3ZHI2eEg5Z3BqUzlPOFhoRWY1OTE4VFVqSVYxWS1pN2dqTFAzcWpkdks5S24yWVhKQl85YmNsYVhNLS1Gb2Q0LVUtWEJqMlBOd2loUUQ0aWFMV2xBaW5FcEItdVJuVmtrUXRRZFhkUzN5NEUyT05xMkNjcnJTQU16YlVqUVNtWG8tems3WlFuZVpVYjJCUUYwVy1zc0kzOUt1eW1j?oc=5",
-            "source": "Business Standard"
+            "detail": "Urban Company raises \u20b92,500 crore through QIP amid strong investor demand",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSEJnalNCRjJMWmJabEs3SGpPb1pSOUNnQ2RuVXZxMTdyOHEwSDJLMmZXTzgtbndteG1iNmpxU1FWQU5DVzVLazdXMjk1dWN3RXd4TWlvRFlveHowVVZZOHdUZ0RWYk04Q3FxRGg2OG1uQWJmY2ZDMXMycG1yYk5naVZubXM0aWExSEhRYkF0YzdZdTlpelZDRlpFZWFSQTJ6eHpscTYxNUJ3SlR3NXBWc0tkdDJyWjFjbHdpMXNmS2hGX0Etd3FaQzZtZ0xuYVhiR0txbmln0gHcAUFVX3lxTE1pTjZIVzYwOGN6MktQSVBYTEJjR29iRTlia0d4djRadzdIaWFxUUE4SFN6LUVZLTlqRzItYTE2TFltTF9ZcXE4d2ZFOWp2VU43dnRsbGRHeUNBQXVGZWtQVmRIU0lFRzZtYVNjME92UXdybHFlMTY0amlBN3YzZWN0TU1pR0NUSDc0cHhJWklmWUJ4SENrYktyMVVPVGpMN0Rsb0YxQ2lFVTRCLVo4anlqUS1Zc21lR2JxbU94MVBQN2dGdVlHSlBtUjAwdUhvYWI3WS1DS2hDTDZnR3Q?oc=5",
+            "source": "Hindu BusinessLine"
           }
         ]
       }
@@ -562,17 +569,17 @@
           },
           {
             "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Blackstone to acquire 16% stake in IIFL Finance, boosting Tier 1 capital ratio",
-            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFpnWGJsRnRLVXRhSlBScFo0Q3psTDhqNWNub2FIa2owSW5wbFI0Y3BDQV84NWxmTGFpSXpVckxkZ0kzYmRBT3pHSWtlN1pSeDBxQ3pOaHQ4Q0tUSUZ0QmJNUlQ2RHU4TF9NUDhxaFAtZ3JkOHpwb2tCZXpYSk9HbHhSM0plcjlseGw4NkpRQnNjOGlITEtrcjJmcjB0V2dsb09BbDk5YWRxT2JUU09VMlpWV1FFcDJxRnVuSTZMUVloaWVSMUNoX05PUHIwYzlnQkZDUjdxbV93YmtEZi1jZS1XUmRZLUs2RHI2WXBn0gH0AUFVX3lxTE9tWE1hUi1lbWlFeFJXeWJRM3MxenFhU3RmMU5CMk1YNUxpb2VqdS1ud09SSHhrWkZfcnRwcnB2WFBnbjBDd2gxdi02dXFKdzZfcmRvSjdMaTEtdzBXTm5qZjFISU0ydFczNnNQcFZQMjRKOXN4R25GdDVsczhFUFlMY1BuMzN1a1NfRXlSMnJQcl9Nd2d4c2FoLU56V0UxckVfUF9lZi0tUU5tbTEtRlpvRndZOXptTGRLb2pUVGdCZ0V6TVViWmxscnllbUVHemZiWlFQUWg4Q0dvVVdHTlVGSjJvY0RoSHEwUXNSU2xJV3BUWVE?oc=5",
-            "source": "Hindu BusinessLine"
+            "kind": "fundraise or deal",
+            "detail": "Fairfax likely seller in $370.5 million IIFL Finance block deal, CNBC-TV18 reports",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYU83aHpyRTFEUFV3LWVXd210dU44SHZVT1hGaGpaTUt4SVg5T0FXcTJhclZoN2ZjTV9UWTBiYUZpczZlbkp2UFpodzAwTkNVaHFfUkt1bWtiekJnT1Btc0JtQjBqNTU2NEd5YlVieFJJN1ZtMTNxc0FkbzluaU1vMmxOR2dReXRzYkxET0s0SXpkMkx0X19URmlPWU1BQWV1R052OEFQeXE1Q1NyelQwMGRCeVh6NnJVbXdkZXpsTk0zZEtkV0NtaTBiVk90cXNDYlg4bkNoNDXSAd4BQVVfeXFMUEF2Zk5GNEJncGVSam5yRTRxQU8yTG1FRXN0WnpNdFY3OEJOY19qc2JYN09hQWNMTFlHcUdaLUd5SDRyU21ONWFsTU1xM01YVUpiRU0wejlQek9XTkYxQVE1em9CNVBwSjU5bXJqaVY4N3lpVDB1bm1Pd3paRzV3MG1SZUxQVDlUeGU3bTRmeUhNMkFraGVwbUxiYl9fT1BOeHUzQlhmT1FLd2JvVUNqYTYydFA4dE5zaTkzWjUwSWN3NFI1VXJQWU1nOFNja2llNmkxVHN4amM0YkRpU3hR?oc=5",
+            "source": "Economic Times"
           },
           {
             "tier": "news",
             "kind": "M&A or stake",
-            "detail": "IIFL Finance shares drop over 3 pc after Fairfax pared over 13 pc stake",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUG94TDlPTkNHeEF1T2Fkd0NnS0ZFY0ZYV2VwZHJ4bHNBbG1DUC1pOWJqWHBOTTZFY0NxQkhGZW1lczhGb1RjUTNkeGZncU5GMDBNcG9rNVF5bHRjVlNmOHhIX3d3VlpuZnZ0SnR4TkR1RkJCS0tfdjd3YzA2SzFZR2F4YkNtVXlJZVlxTFluN0V2MkFTM09PRm5pQXY4cDR2NFZoX3RqazZQeFVWRlRJMkd1WHVIeEd6a0phTmFiZHZDQlkxNC1iRWhtT1_SAdIBQVVfeXFMTmc0QlgyLXRTWmlabDVVLW1SODdJdVZBcy16MzFHSzM3WWFQMEdEUGdKVnRxdzdsWGE4WjhoV2xtNGpWYzJuU2R1YWRzYVgxdmhUTjBraUpuZnZweXpHMFphR1UtNVJDR3NueC0yZHY4RXJyNnlLcmdUTGN3Zloxd1VfRTBaRHE4cEhKRER3c2RBckJUSTdRMVhuSU0wWXhONVdtTUp1T1NrUFZ2eHBvVTJFNlpNRkFBQzNIbFVrTlFWYzg3OWFCVTE0TEE2N2ZKTDN3?oc=5",
-            "source": "Economic Times"
+            "detail": "Blackstone to acquire 16% stake in IIFL Finance, boosting Tier 1 capital ratio",
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFpnWGJsRnRLVXRhSlBScFo0Q3psTDhqNWNub2FIa2owSW5wbFI0Y3BDQV84NWxmTGFpSXpVckxkZ0kzYmRBT3pHSWtlN1pSeDBxQ3pOaHQ4Q0tUSUZ0QmJNUlQ2RHU4TF9NUDhxaFAtZ3JkOHpwb2tCZXpYSk9HbHhSM0plcjlseGw4NkpRQnNjOGlITEtrcjJmcjB0V2dsb09BbDk5YWRxT2JUU09VMlpWV1FFcDJxRnVuSTZMUVloaWVSMUNoX05PUHIwYzlnQkZDUjdxbV93YmtEZi1jZS1XUmRZLUs2RHI2WXBn0gH0AUFVX3lxTE9tWE1hUi1lbWlFeFJXeWJRM3MxenFhU3RmMU5CMk1YNUxpb2VqdS1ud09SSHhrWkZfcnRwcnB2WFBnbjBDd2gxdi02dXFKdzZfcmRvSjdMaTEtdzBXTm5qZjFISU0ydFczNnNQcFZQMjRKOXN4R25GdDVsczhFUFlMY1BuMzN1a1NfRXlSMnJQcl9Nd2d4c2FoLU56V0UxckVfUF9lZi0tUU5tbTEtRlpvRndZOXptTGRLb2pUVGdCZ0V6TVViWmxscnllbUVHemZiWlFQUWg4Q0dvVVdHTlVGSjJvY0RoSHEwUXNSU2xJV3BUWVE?oc=5",
+            "source": "Hindu BusinessLine"
           }
         ]
       }
@@ -636,9 +643,17 @@
       "raw_pct_change": -5.72,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Results (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "results",
+            "detail": "Shilpa Medicare Q2FY27 net profit rises 80% YoY to \u20b979 crore",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxvRTZOaFloOUtfMVdXOWxfVmQ5a1hxV2E0d1R0RWZNWkhCY2hYd1BTZlQzUmdhS243blhiT2tpaEY2Z3dTcXZNNFRlNzJsYUxWWVJpWldlNzVkblpEZmFheTloUVhHdVBXRTRGV0NYYUUyNUs3ZlJnVUhjWmU4VzFFTTRfOXphZDk2ZTN5aWxBdkdhRDRrWURQdTVGSU9mSjJtOFNiTjVaVUE?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
@@ -673,7 +688,7 @@
             "tier": "news",
             "kind": "M&A or stake",
             "detail": "Fairfax raises stake in IIFL Capital Services to 52.63% with Rs 1,540-crore acquisition",
-            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdnRQRUd2Vk1nM3NHUC1Fa0dvTmF5Q05QZzduYllWQkxpTzFMNEI1RzRneTh5Yk1PSjBNeVBmTktDWmREVm9aRzl5akNaY1RQVFZveVgyY3c4N1FhREh4VEM5b1FnMTZFTU9pV0g4OUIxYzdQZzl0U2F3cDNDaWZ5cnQ5ZFo1UmFFTWYzRjROSUhqa0I1bFVUZjdfekh5UWN2ak1fdjhUbVdrOEw0OEJ6OHNCN3N5dl9pSXNDZmhnNWtnYkowWkt2Zm93bUJWendqRjZtUUp1QnBJcXVWMWttb0RBN3c2aTA3bDk00gHrAUFVX3lxTE52dFBFR3ZWTWczc0dQLUVrR29OYXlDTlBnN25iWVZCTGlPMUw0QjVHNGd5OHliTU9KME15UGZOS0NaZERWb1pHOXlqQ1pjVFBUVm95WDJjdzg3UWFESHhUQzlvUWcxNkVNT2lXSDg5QjFjN1BnOXRTYXdwM0NpZnlydDlkWjVSYUVNZjNGNE5JSGprQjVsVVRmN196SHlRY3ZqTV92OFRtV2s4TDQ4Qno4c0I3c3l2X2lJc0NmaGc1a2diSjBaS3Zmb3dtQlZ6d2pGNm1RSnVCcElxdVYxa21vREE3dzZpMDdsOTQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3k0T1ZsalNCWndMSjlfVmlnc2hKZTRXNElfNkFOMXBhSE9SdTRBOXhFVW5pOHY3Vk5qT1h2Q2kyVlRYanNIazN3ejZlejNtd1ZRbTFrcHN4WGFJZTd5Wng2SVZ6NjJlUUNXTVQ0b2tvR0c5WkttVmdVVWlldExEVGc3T0tGZjRGVktBdTlTTURrOHByank4LWJWZFZ4TUZQODVULVF0ZWZfNFlyd29vQnFFeEVUT19Ibl9sOFMyUlM0eENZVS1sMUF2QzdCaGJ5ZHhzbDlJeVd2TEJOaWVrYWoyMm1ZUdIB6wFBVV95cUxOdnRQRUd2Vk1nM3NHUC1Fa0dvTmF5Q05QZzduYllWQkxpTzFMNEI1RzRneTh5Yk1PSjBNeVBmTktDWmREVm9aRzl5akNaY1RQVFZveVgyY3c4N1FhREh4VEM5b1FnMTZFTU9pV0g4OUIxYzdQZzl0U2F3cDNDaWZ5cnQ5ZFo1UmFFTWYzRjROSUhqa0I1bFVUZjdfekh5UWN2ak1fdjhUbVdrOEw0OEJ6OHNCN3N5dl9pSXNDZmhnNWtnYkowWkt2Zm93bUJWendqRjZtUUp1QnBJcXVWMWttb0RBN3c2aTA3bDk0?oc=5",
             "source": "Moneycontrol"
           }
         ]
