@@ -1,7 +1,7 @@
 {
   "trade_date": "2026-11-25",
   "threshold_percent": 4.0,
-  "generated_at": "2026-11-25T18:12:48+05:30",
+  "generated_at": "2026-11-26T15:30:39+05:30",
   "stats": {
     "scanned": 742,
     "flagged": 52,
@@ -28,7 +28,7 @@
             "tier": "news",
             "kind": "results",
             "detail": "Jupiter Wagons eyes \u20b93,000-4,000 crore annual revenue from passenger rail business in 4-5 years",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFNodTlBenZYbmRZZWtzM1MwZVQ3dHRUbE1YY1ROamdVVlJlV0ZXTGNwTWZFRGNfMENGalBIMEwxMTZ4WkdhMkg1XzlkQ3l2Tl9XVXJlUlZmcnMyVk40YXBYM2hqSzR3bHpqdE5qY3ZTU2IweFU5cnNYZTJiOWdxU1hqdVM3cVU5VEY2ODhfSXI4aFJXSF94ZGc0QjJnVGhMUTVybTQ1MzNrZF80eXh6UDZNMGlvY3pjZ0ZwNHdPeTFPSWfSAcMBQVVfeXFMUDhTaHU5QXp2WG5kWWVrczNTMGVUN3R0VGxNWGNUTmpnVVZSZVdGV0xjcE1mRURjXzBDRmpQSDBMMTE2eFpHYTJINV85ZEN5dk5fV1VyZVJWZnJzMlZONGFwWDNoaks0d2x6anROamN2U1NiMHhVOXJzWGUyYjlncVNYanVTN3FVOVRGNjg4X0lyOGhSV0hfeGRnNEIyZ1RoTFE1cm00NTMza2RfNHl4elA2TTBpb2N6Y2dGcDR3T3kxT0ln?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTFYTDJDRC1oUFMwN0MyVENxQUhWM2YtRVowdmVTSTlDeUJ6TTFMY1RGcEdTQ2hLQjZTNlFEd2U4eUM0SFNORlZoUThaWm5jWU9BazJJRFpnOEZ1Yl9WY0hEcnFicVVxalVpWkR1cW1Nd1lDcS1VZ1p5eDNRejAyYi1jcDUwVC1xcHlsbDF4LURvTThRVzhvemRrNzl1REFsNDRKbEh5SnZwS2FKbDJwY0NoZG9oaEZkMmp3MlNn0gHDAUFVX3lxTFA4U2h1OUF6dlhuZFlla3MzUzBlVDd0dFRsTVhjVE5qZ1VWUmVXRldMY3BNZkVEY18wQ0ZqUEgwTDExNnhaR2EySDVfOWRDeXZOX1dVcmVSVmZyczJWTjRhcFgzaGpLNHdsemp0TmpjdlNTYjB4VTlyc1hlMmI5Z3FTWGp1UzdxVTlURjY4OF9JcjhoUldIX3hkZzRCMmdUaExRNXJtNDUzM2tkXzR5eHpQNk0waW9jemNnRnA0d095MU9JZw?oc=5",
             "source": "CNBC TV18"
           },
           {
@@ -59,7 +59,7 @@
       "raw_pct_change": 15.62,
       "corporate_action": null,
       "why": {
-        "headline": "Explainer, reported by Business Standard",
+        "headline": "M&A Or Stake, reported by Business Standard",
         "confidence": "high",
         "evidence": [
           {
@@ -82,6 +82,20 @@
             "detail": "Thomas Cook shares rally 14%, soar 62% in a month; what's driving gains?",
             "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcFNEZHI5akRxTjlaRWtLNDl0cVFKNmNHcDc1MjJKZnJpc18xR3BOMjZTVkptNTg5amhrUDNyaGFOU0VKdURxamp5UVM0eTk3bDAzYlNaZHM5cE1tR3dYZ1NsZkVTOG1pa0lJQW9KUFVqOXRvM1BiYUF2aWE5T05lbnlQZFdDbWo0WkJPbWJ6ek9lTkpGSDZYaVc4QTNwaWxOaDFJTURtTEk0RU9zLTRsaFhOVWhfNk5tZS00WHRzMml3aHlUb2tFNGdiemM3Q0nSAdQBQVVfeXFMTzhFanVqdmxNMUNsV0hlR19tZ3JiZUNzcEhQV0lFWkxmcTVsbDdoeGhTeUZGWUh2M1VuN2hiTGUzOGo4Y3ZOSjc5cGY0allKNnhBdUU4WFRpZHZDWXNoN1VkblZSZTBiQmp5UkI2endnYmtUTU96VzN3MWkyYjZpeEhNcHZUblluLTZndmFUd3FoenRLSWF6VVJ6Q1E1M2JoMFVjcldRQWprcmFoM2VXTk0yQzFzMWdzbEVWQkRoZ21WUEFxaFZwb2RNVUtfazZIX1VENmo?oc=5",
             "source": "Business Standard"
+          },
+          {
+            "tier": "news",
+            "kind": "M&A or stake",
+            "detail": "Thomas Cook promoter buys 1.1% stake; Smallcap World Fund sells 1.1% stake in APL Apollo Tubes",
+            "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMjNQdDQ5cEFkSHVQUERJcXB2Rll1b1E2WkpIWmI1UkpkZks2eHdQeFgweTZadVlnR3RBQmZBS2FyWFplVEMtSXREU1NrVm50MGJMVm1NTmpyTTg1M0I0T3hQWEt4Q3lkSGp6bzVDMFJpa1VLZ0dGamdZaG1mR3BjUTJTY3VFN0tRUzBpTWRKMm1jX0ZEUlhCa016T3oxOW1OQzlhcGhJN1N2WVhFRmFONTM2MHZCNUdvNVdibzduUlJjZzRQeGJTOEFuSm5KQllYT3k1N055MURiRGt3WHFGWHdkQ2tnZGxZQjZKTdIB8gFBVV95cUxNUmViWHlBMnpjZTFtd3BBdFdGWG1nanhRTEkxcnFLM1ZhbUNSQzNaMENyNXROM19xRndWWHlMX2ZYMG11d01Dc1VJbnd5TU11d0ctbllRVDNVNXctLWVvRXBoamR6SnZvNDk2X0tTQ2dGRWd4TWI3ZlU3OGxCVEdCazZuUmZEYV9ZMFJFZndUS1pvdExCc1Z6RTNCNlVNSC11T3V3anVHeExkSVhkY2dPNFk1bDF1VE5PZ081OUQ4RjhjbGtVMlpFOEh0eEZVZkV3c0hTZC0yQnVVeV9ZeldUZVFYS2FyYTA1RWdRTjU0UmxNUQ?oc=5",
+            "source": "Moneycontrol"
+          },
+          {
+            "tier": "news",
+            "kind": "operations",
+            "detail": "Thomas Cook India launches Europe Summer 2027 holidays with up to \u20b935,000 savings for early birds",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYUFOUTIyUVdWLV9uN3RrQklFYUs4dVNvazJ3WXA5Z3NwVnV5RzQtMXhIWWhEcWtoUzhwVU5DVGM5em01VHJoa0VpT3QtdlAzV1pNRXV0SnA0cjJkU2JzRDFyME04QVJmd0dncE1ld3BrVXpnbUM2MjJPYmxEWDU4WkdEZ3JLd2JWd1BWOE1zQUJMR25jeEYzVE02UHRTZ0JFRlg4c1ctOVllbEE0RTZ4cHVSYk1PUzQzdEREWFdDcjU2b1ZGZzNnMDJUUkl0cWdkNGRnR0J3?oc=5",
+            "source": "Business Upturn"
           }
         ]
       }
@@ -97,17 +111,9 @@
       "raw_pct_change": 14.98,
       "corporate_action": null,
       "why": {
-        "headline": "M&A Or Stake (Scanx)",
-        "confidence": "low",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "M&A or stake",
-            "detail": "Greaves Cotton takes full control of Excel Controllinkage as acquisition completes",
-            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWc2UXBJTTBTdXpubkZNVkFac3JSRzBBMmI2MVVYeUJjRHpxRnlMMzRYYVVPbVBES2dIcUxEaGFXNlNmbEVyS21aek1ZLXYwNHVzZzRGUjVqZ1BRQkJHYWRWa1ljNXNiWDUyaUlVb1dFX0hXbFFLVEFZTml1NUxoeGJUSUREY09QbGx6XzVIdWtFekxNdUNWZXFsczFVYzZIUmFGY19YOUgtR1Fhb3NvZEZvNmtvTjEyVUE?oc=5",
-            "source": "Scanx"
-          }
-        ]
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
       }
     },
     {
@@ -422,9 +428,17 @@
       "raw_pct_change": 4.75,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Order Win (Scanx)",
+        "confidence": "low",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "NCLAT sets aside NCLT order admitting IBC plea against Vikram Solar",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUlSR1gxUE8xX19oaDV3Yml1RUttTWhFVHJoazF4bUNJTDdSSHV6TWVsZk1DYTZMamZRQWtFcmJDczhkaV8yVzFtdmpscmpBZVFRUTgxYmhCem1hTldaLTF4YzFTT0pscHE4OHVtQXY1T3JiSE1NV0RaQ0pPbXlSUEVVNGFMcXBSQjFVSGNGbTlKeUlyVGI0Z3B2MW53Zy1WMU0wYVdfWHIyaXU1ZFJSWm1n?oc=5",
+            "source": "Scanx"
+          }
+        ]
       }
     },
     {
@@ -501,15 +515,8 @@
             "tier": "news",
             "kind": "results",
             "detail": "Buy, Sell Or Hold: Nazara Technologies, Sterlite Tech, Manappuram Finance, Groww, Divi's Labs \u2014 Ask Profit",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUkYtQVV4ZEdTSmdnTlVibHNxQnFJY3k1eFpncHZ1UTU5enMzeW9CajRDcXBIeDd4NFk3RmxIc0lMbzFCa2NfLXllc2FTd1djX3JoLS1tM3ZhemYtSmNLTjJyUHR5eXo0TlNxVFdYUWk4WE1FbWMtWlY1Mjh6SzZjZ1pISU5fdE5FenNabDd6Y2xrQnZtV0htUTRXeGM0c2lqcklKc0JqWllpN1Rib2RjVFRUMGxfWXZETzN4QW5RZ2FqTE5PaGZXU2FzaGxVMU8yWXp1LXE2T3ZrSTJ5aFAwb051WdIB6wFBVV95cUxQckxZWU1iSHFEQWFVZjVMdVJsNm9lTVcwZTVhTVc2RFQyV2RVZlNNal9GamxkQy1nZFM3cDBXd3VjNDczUlQtYk5UcUxHdVBFM2VPUUVuTU9rNjJuTWtpM0RWa0VmeWpxdWxNX3ZlM1JrN1UyS0M4eWpESTVFTjYwc1MwRnduWXNrOUU1LXdYRTQ1X2RhTDQyaXZJTm01bFFRUGNnVzdfNkEyTnlkUkRXOVdRaVhHTGdVYWJfdnNpSlY3SUoxSTVDTjBLRUQ1OW92ZjZOOVJOZXBiM21KN3phbmZNMGVwaks2VE5B?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUkYtQVV4ZEdTSmdnTlVibHNxQnFJY3k1eFpncHZ1UTU5enMzeW9CajRDcXBIeDd4NFk3RmxIc0lMbzFCa2NfLXllc2FTd1djX3JoLS1tM3ZhemYtSmNLTjJyUHR5eXo0TlNxVFdYUWk4WE1FbWMtWlY1Mjh6SzZjZ1pISU5fdE5FenNabDd6Y2xrQnZtV0htUTRXeGM0c2lqcklKc0JqWllpN1Rib2RjVFRUMGxfWXZETzN4QW5RZ2FqTE5PaGZXU2FzaGxVMU8yWXp1LXE2T3ZrSTJ5aFAwb051WQ?oc=5",
             "source": "NDTV Profit"
-          },
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "Citi reiterates Buy on Divi's Laboratories with \u20b915,100 target, sees about 35% upside as earnings accelerate in 2H FY27",
-            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTGItcjNvM1AxUHktZkRZb0xMa3FKS2VhMWdkanhXdERwUzhjRW5mLVhvSUVPNkZzbE9BdThNRGlOZHAtajB5Mk9uTjVzdG56YjBPeDdycmNTQ1U0X0ZGbjFXNVhkYXhUTGZJdG5lZW5MdU40aDZDVFpwZVBhUU9LRkcxVmNLM0ctWVI0cFFzU1d0M2JwZVhSNEpyTWExSTYzMXNyb0F5Qlhnd25CQURpSXhZYWlKZGhENlhVRGg4MmZVWWZuakduUF93SFRVdVNiR1QtSzlaMWdpQmhEbk01WUNRT0lUR0FGY3hNdlJvWkxmNVlwUlRZY3JVMER2ekdSX05HYUdObC1fcWRxd0E?oc=5",
-            "source": "Business Upturn"
           }
         ]
       }
@@ -579,7 +586,7 @@
             "tier": "news",
             "kind": "order win",
             "detail": "Sterling and Wilson Renewable wins orders and L1 position worth over \u20b92,050 crore, including 600 MWh BESS in Gujarat",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObmVwdThoQXRlTXYwY0JtaEJURzJuOXpnVGlDUHVFSnZVbk01amM1bmlodlU3VlBSU09Jc0U5WXNKclFOOEJLX3liVG54VFJ2Z3pZUlMyY0FXNk1Qb3Qtbklta1ZZdTVZaHdnb0RsTkNsR28wX3NKUk5mOEtSRVFPUjJpYUN6ZVhkaER3Y2lJeENoMFROLWo0MmNkMjlqN0NpanhwZmoxQ3pMd3g1MmhyUDg0TWVBcDJrdUgxTEg4LUNSUmdrb2tSV2Z0RXA2c1lZdmw3eG5XRlNWTGlVTEJyQU1ncUF5YU5reU52UDJzUDY3ZEZubGpB?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOakpFVWdSTEJ4QUpSNUdSdS1ZMmhVR1pmMkVtQnBQaUpoVWo5STFOeng4cjdlemR3SWtsQUg5Ri1BaFl3OC1kc0d0VGh4UHRzUWFGelQ0MkQwQVJHeVp4bjMydFZqb3ZYcms1cktuUUNOVXVVSWlobmdPR2ttVlp4bS1QSnJZdkE0QUdIQUV0d3VJLU51aElWNlJLTW9LX1B5TVljSW9ZUzN1SlFHekU5akFpdnoyWUg3dGtXeHNPYlNNai1GUGRGMzM4YUw1VzlUT3VJQnQ5WlZFOHpKUTJzVkxwVy1Zb3J4ZEdweU80d3gtRFFwbjdOcGYxR2o?oc=5",
             "source": "Business Upturn"
           }
         ]
@@ -652,9 +659,16 @@
       "raw_pct_change": -4.22,
       "corporate_action": null,
       "why": {
-        "headline": "Order Win (Businessworld)",
+        "headline": "Order Win (Financial Express)",
         "confidence": "medium",
         "evidence": [
+          {
+            "tier": "news",
+            "kind": "order win",
+            "detail": "Diamond Power Infra bags Rs 488 crore Adani order for HVDC project; shares surge 2%",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOXJYaHVBWFdINDZ4VzdlQ1VFQ2ZuMXg2Y2w1WXFvcXplZmxTaFQ2RzVKZGtTOHFvT1E4NXF2akwzRXRsSlFHNGtNOWRpNlNzb014VTFZTnRMcUQyel94a2tUR0ZGYXZ0TjB5SkFjdXhLNk5Pcm9ZQ1Q4Q1lLZUFGcVdRb0VSY3BlbU5KbVR3Y09IeVV6d0ZkZHlpOE0wZ2tXS2dBU3JKUzU5c1FERUF4dm5OTTZJcFpGNDR4Sjczd0J2WW1aNkdFenZfTTdxTlZMQ3ZmM3JudTnSAd8BQVVfeXFMTzZ6TzNtUTJNYVZ2WU9qQzM0d3Qtb0hjTjNLQ3lGeEl4bldMNkMtdVpLeTk2cFFvcGhjQ0xjT1hidTJoZXBXS255UURmVGFHbmZvWmVHaEllaXhtT2RPRlNSaHB3SjdMMjUyalVLLVZMbTVVSzIyTE85UE12RzV4MVBwLXdYNmdocWlacE5FVmllcEI1TGROandubE1uUkg2dzc3Vi1jOVFPaEo1WV9Mc2gwYmRRVm5Ud0o1cFpncEFubWt0X0F6WHJYU0EzREZtck15NmRwWWhfUnp4U2tUQQ?oc=5",
+            "source": "Financial Express"
+          },
           {
             "tier": "news",
             "kind": "order win",
@@ -764,17 +778,9 @@
       "raw_pct_change": -5.27,
       "corporate_action": null,
       "why": {
-        "headline": "Results (Scanx)",
-        "confidence": "low",
-        "evidence": [
-          {
-            "tier": "news",
-            "kind": "results",
-            "detail": "MSTC Q1FY27 profit rises 31% to \u20b9582M; exits legacy trading segment",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHlkclFjQ0o0djMxMWtrYXVFNEVLWVZ1dE91blN2d2VKbHJhNXYzd1FUd0ZBcGp5T0d1NF84djd6a1dHb2RkTTJHMUp0Nk96TGlBaXpuRm40M2U5MkhSTllnQXJkSk1ZN1lUZ1N5N1pRT0R6X3NJczlxMjJNY3NJRTRJdE1rOEttbDlLRlFiRzRmQkxoTFV3dFltOEdSMzA?oc=5",
-            "source": "Scanx"
-          }
-        ]
+        "headline": "No disclosed reason",
+        "confidence": "none",
+        "evidence": []
       }
     },
     {
@@ -788,9 +794,17 @@
       "raw_pct_change": -5.31,
       "corporate_action": null,
       "why": {
-        "headline": "No disclosed reason",
-        "confidence": "none",
-        "evidence": []
+        "headline": "Sector Pricing (Moneycontrol)",
+        "confidence": "medium",
+        "evidence": [
+          {
+            "tier": "news",
+            "kind": "sector pricing",
+            "detail": "Textile stocks: Gokaldas Exports, Arvind, Kitex Garments fall as proposed US tariffs raise export...",
+            "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPaDlEN3A4dndVSk5fUi1DME9sQXdUcE1RblptVEdIUmFkSHExa2FqZ1RmSGtBSF9VMHZXaVZyYXdBUmJJTngzVUNFMkFqaVJZMVBnOWxWeWJKSk4wcTVuUmpEYWhWUHJYRzBWSFMxUXF1dVZOWks2dVhaVkdHRGlwOVQ4anU0UmtERnN2VC0tVUxKMHh6c0c0TU5aOVN1eUxQN05BaHlObENfZ0xJSEtaaElMMFZQVzhjODVxa29GLU13N2c1UEc2aG1QRTRDUjNFbGNHX1Y3bURJdHZEbWZ6MXZhRU5CWHJoalZ6LWM1Y01Mdzh1UWxsUkNkM05mQzhlRTNRY05aRHl1Y3VtZXY5MnQ5LXpXVUtzMHVQQzJkM0paNnM2R0FTS012Sm5QUEI3WnJIalVTQXJTeEXSAcACQVVfeXFMT2FLdHA1SUNUQ3JjVVUwYWV5ckh2bEowM3RaNFRER2VwRHFyUkdHdnJkN3VVYjFINWhQb080ZjVCNVFqZnlLbE51VGNVNm1wYkZ2TTVsbHk3OXBvTC1KOXd3YXNvM1pyRW5MRDNaTWxOUEZWVDBpNTdBS21vNVVtdjdhcnpnUFBiTkl4eks1WFdjUlQydWVBeDduWDQ5a1hHYmtZUDJsajZZcDBfbmJRUi16a3VMcF9uS2VkQkliVjA4ZXNlTXk2bTU0TEFiUHliR09HdjdVY21nUGJGYUxWUnZzem5LbTc5ZXpsdG9jaE92dG5XN3EzMXJWVjZabzBXbmlRVnJ4dGRHVTkwNGxMb0o0VW9aOGVtOUQxdWc2anJxUGNKenR0X196c1pReHg3YWhOY1cxSzNzcnY2VzF3WDA?oc=5",
+            "source": "Moneycontrol"
+          }
+        ]
       }
     },
     {
@@ -985,8 +999,8 @@
           {
             "tier": "news",
             "kind": "capital action",
-            "detail": "Zee Entertainment shares to trade adjusted for buyback today \u2014 All you need to know",
-            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVNNLXVpdUVaa3o0RU5iQksxcTVfbEMxQ0JIVVRZWF9ZVDk3YzRDNmRKLWJZZTQxS2F3ZHJNS2hiVEtWYTBXRHVsNDAtRWZYZ29BRGpmTk40OFdFRGJvT3FTcllvRFdFTnRPTEItSVlucTFielBPMzZDNXR0QWtMMWstV0dWM1pYaWthRzl4ZVJEY0tQQ3c2SmtQd3dMa2R4QTlicmd0N3ZKeFRVRUtsbFNBQ3ZtbmsxdGc2S2VId3FOdHNIQTZN0gHHAUFVX3lxTFBVU00tdWl1RVprejRFTmJCSzFxNV9sQzFDQkhVVFlYX1lUOTdjNEM2ZEotYlllNDFLYXdkck1LaGJUS1ZhMFdEdWw0MC1FZlhnb0FEamZOTjQ4V0VEYm9PcVNyWW9EV0VOdE9MQi1JWW5xMWJ6UE8zNkM1dHRBa0wxay1XR1YzWlhpa2FHOXhlUkRjS1BDdzZKa1B3d0xrZHhBOWJyZ3Q3dkp4VFVFS2xsU0FDdm1uazF0ZzZLZUh3cU50c0hBNk0?oc=5",
+            "detail": "Zee Entertainment shares decline 5% adjusted for buyback today \u2014 All you need to know",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUEoyMmJ0QUhqUHJrYkNCMHZ5ejVHRUxMLTdmTlA4WTRhcWE4VkdMXzVnZHlHMWI1X2JsS01OUHBBWUVTRTNpVWFSTWNnbFZ3YnZwVVZ1RExjWW90XzVDVDJwYTRvYjdfTWY1UGpTcHRMSzJMQVZ1M2JXY2xzd0hHcndTb3ZtMWlvQVFGRWctc1YxZHBnelVMdUFpamFNaFFlUXRqYTVQUHVaM29DeEloOWpsRGtFYTF2aGNIaVBKN2dCUdIBxwFBVV95cUxQVVNNLXVpdUVaa3o0RU5iQksxcTVfbEMxQ0JIVVRZWF9ZVDk3YzRDNmRKLWJZZTQxS2F3ZHJNS2hiVEtWYTBXRHVsNDAtRWZYZ29BRGpmTk40OFdFRGJvT3FTcllvRFdFTnRPTEItSVlucTFielBPMzZDNXR0QWtMMWstV0dWM1pYaWthRzl4ZVJEY0tQQ3c2SmtQd3dMa2R4QTlicmd0N3ZKeFRVRUtsbFNBQ3ZtbmsxdGc2S2VId3FOdHNIQTZN?oc=5",
             "source": "CNBC TV18"
           },
           {
@@ -1057,7 +1071,7 @@
             "tier": "news",
             "kind": "results",
             "detail": "Buy, Sell Or Hold: Nazara Technologies, Sterlite Tech, Manappuram Finance, Groww, Divi's Labs \u2014 Ask Profit",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUkYtQVV4ZEdTSmdnTlVibHNxQnFJY3k1eFpncHZ1UTU5enMzeW9CajRDcXBIeDd4NFk3RmxIc0lMbzFCa2NfLXllc2FTd1djX3JoLS1tM3ZhemYtSmNLTjJyUHR5eXo0TlNxVFdYUWk4WE1FbWMtWlY1Mjh6SzZjZ1pISU5fdE5FenNabDd6Y2xrQnZtV0htUTRXeGM0c2lqcklKc0JqWllpN1Rib2RjVFRUMGxfWXZETzN4QW5RZ2FqTE5PaGZXU2FzaGxVMU8yWXp1LXE2T3ZrSTJ5aFAwb051WdIB6wFBVV95cUxQckxZWU1iSHFEQWFVZjVMdVJsNm9lTVcwZTVhTVc2RFQyV2RVZlNNal9GamxkQy1nZFM3cDBXd3VjNDczUlQtYk5UcUxHdVBFM2VPUUVuTU9rNjJuTWtpM0RWa0VmeWpxdWxNX3ZlM1JrN1UyS0M4eWpESTVFTjYwc1MwRnduWXNrOUU1LXdYRTQ1X2RhTDQyaXZJTm01bFFRUGNnVzdfNkEyTnlkUkRXOVdRaVhHTGdVYWJfdnNpSlY3SUoxSTVDTjBLRUQ1OW92ZjZOOVJOZXBiM21KN3phbmZNMGVwaks2VE5B?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUkYtQVV4ZEdTSmdnTlVibHNxQnFJY3k1eFpncHZ1UTU5enMzeW9CajRDcXBIeDd4NFk3RmxIc0lMbzFCa2NfLXllc2FTd1djX3JoLS1tM3ZhemYtSmNLTjJyUHR5eXo0TlNxVFdYUWk4WE1FbWMtWlY1Mjh6SzZjZ1pISU5fdE5FenNabDd6Y2xrQnZtV0htUTRXeGM0c2lqcklKc0JqWllpN1Rib2RjVFRUMGxfWXZETzN4QW5RZ2FqTE5PaGZXU2FzaGxVMU8yWXp1LXE2T3ZrSTJ5aFAwb051WQ?oc=5",
             "source": "NDTV Profit"
           }
         ]
